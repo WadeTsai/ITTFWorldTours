@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ITTFWorldTours/static/css/main.9f1a5f86.chunk.css",
+    "main.js": "/ITTFWorldTours/static/js/main.b9da2e24.chunk.js",
+    "main.js.map": "/ITTFWorldTours/static/js/main.b9da2e24.chunk.js.map",
+    "runtime-main.js": "/ITTFWorldTours/static/js/runtime-main.8f05e738.js",
+    "runtime-main.js.map": "/ITTFWorldTours/static/js/runtime-main.8f05e738.js.map",
+    "static/css/2.021d97f0.chunk.css": "/ITTFWorldTours/static/css/2.021d97f0.chunk.css",
+    "static/js/2.084a99be.chunk.js": "/ITTFWorldTours/static/js/2.084a99be.chunk.js",
+    "static/js/2.084a99be.chunk.js.map": "/ITTFWorldTours/static/js/2.084a99be.chunk.js.map",
+    "index.html": "/ITTFWorldTours/index.html",
+    "precache-manifest.461a0d77e4f934a667eb3ab547662dbe.js": "/ITTFWorldTours/precache-manifest.461a0d77e4f934a667eb3ab547662dbe.js",
+    "service-worker.js": "/ITTFWorldTours/service-worker.js",
+    "static/css/2.021d97f0.chunk.css.map": "/ITTFWorldTours/static/css/2.021d97f0.chunk.css.map",
+    "static/css/main.9f1a5f86.chunk.css.map": "/ITTFWorldTours/static/css/main.9f1a5f86.chunk.css.map",
+    "static/js/2.084a99be.chunk.js.LICENSE": "/ITTFWorldTours/static/js/2.084a99be.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f05e738.js",
+    "static/css/2.021d97f0.chunk.css",
+    "static/js/2.084a99be.chunk.js",
+    "static/css/main.9f1a5f86.chunk.css",
+    "static/js/main.b9da2e24.chunk.js"
+  ]
+}
