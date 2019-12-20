@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "efeebc14ada07651213aef6d38759e04",
+    "revision": "5c48969e9b33ada90fcfbaccfa33fb20",
     "url": "/ITTFWorldTours/index.html"
   },
   {
