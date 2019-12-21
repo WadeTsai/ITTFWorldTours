@@ -120,18 +120,18 @@ export default function ITTFWorldTours() {
                   }}/>
               </TreeItem>
               <TreeItem nodeId='6' label='奧地利公開賽'>
-                <TreeItem nodeId='4' label='男單' onClick={() => {
+                <TreeItem nodeId='7' label='男單' onClick={() => {
                     setTTE('5012');
                     setGroup('MS');
                   }} />
-                <TreeItem nodeId='5' label='女單' onClick={() => {
+                <TreeItem nodeId='8' label='女單' onClick={() => {
                     setTTE('5012');
                     setGroup('WS');
                   }}/>
               </TreeItem>
             </TreeItem>
-            <TreeItem nodeId='8' label='2018'>
-              <TreeItem nodeId='9' label='待補' />
+            <TreeItem nodeId='9' label='2018'>
+              <TreeItem nodeId='10' label='待補' />
             </TreeItem>
           </TreeItem>
         </TreeView>
