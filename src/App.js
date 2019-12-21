@@ -83,7 +83,7 @@ export default function ITTFWorldTours() {
       <AppBar position='fixed' className={classes.appBar}>
         <Toolbar>
           <Typography variant='h6' noWrap>
-            點擊節點可觀看比賽影片
+            點擊節點可觀看比賽影片。若想找人討論比賽歡迎前往 <a href='https://www.facebook.com/groups/641046076724027' target='_blank'>台灣桌球論壇</a>
           </Typography>
         </Toolbar>
       </AppBar>
@@ -96,8 +96,8 @@ export default function ITTFWorldTours() {
         anchor='left'
       >
         <div className={classes.toolbar}>
-          <Typography variant='h5' noWrap className={classes.banner}>
-            ITTF World Tours
+          <Typography variant='h6' noWrap className={classes.banner}>
+          國際桌總世界巡迴賽
           </Typography>
         </div>
         <Divider />
@@ -107,20 +107,27 @@ export default function ITTFWorldTours() {
           defaultCollapseIcon={<ExpandMoreIcon />}
           defaultExpandIcon={<ChevronRightIcon />}
         >
-          <TreeItem nodeId='1' label='歷年巡迴賽'>
+          <TreeItem nodeId='1' label='歷年世界巡迴賽'>
             <TreeItem nodeId='2' label='2019'>
-              <TreeItem nodeId='3' label='Grand Finals'>
+              <TreeItem nodeId='3' label='年終總決賽'>
                 <TreeItem nodeId='4' label='男單' onClick={() => {
                     setTTE('5013');
                     setGroup('MS');
                   }} />
                 <TreeItem nodeId='5' label='女單' onClick={() => {
                     setTTE('5013');
-                    setGroup('FS');
+                    setGroup('WS');
                   }}/>
               </TreeItem>
-              <TreeItem nodeId='6' label='China Open'>
-                <TreeItem nodeId='7' label='待補' />
+              <TreeItem nodeId='6' label='奧地利公開賽'>
+                <TreeItem nodeId='4' label='男單' onClick={() => {
+                    setTTE('5012');
+                    setGroup('MS');
+                  }} />
+                <TreeItem nodeId='5' label='女單' onClick={() => {
+                    setTTE('5012');
+                    setGroup('WS');
+                  }}/>
               </TreeItem>
             </TreeItem>
             <TreeItem nodeId='8' label='2018'>

@@ -1,0 +1,34 @@
+{
+	"name": "樊振東 4:0 趙子豪",
+	"children": [{
+        "name": "樊振東 4:3 Boll",
+		"children": [{
+			"name": "樊振東 4:2 林昀儒",
+			"children": [
+				{"name": "樊振東 4:0 Jorgic"},
+				{"name": "Gauzy 3:4 林昀儒"}
+			]
+		}, {
+			"name": "Boll 4:1 Ovtcharov",
+			"children": [
+				{"name": "Boll 4:0 Pitchford"},
+				{"name": "Ovtcharov 4:3 張本智和"}
+			]
+		}
+	]}, {
+		"name": "Calderano 0:4 趙子豪",
+		"children": [{
+			"name": "Calderano 4:2 丹羽孝希",
+			"children": [
+				{"name": "Calderano 4:1 鄭榮植"},
+				{"name": "丹羽孝希 4:2 Falck"}
+			]
+		}, {
+			"name": "黃鎮廷 3: 4 趙子豪",
+			"children": [
+				{"name": "梁靖崑 3:4 黃鎮廷"},
+				{"name": "趙子豪 4:2 林高遠"}
+			]
+		}]
+	}]
+}

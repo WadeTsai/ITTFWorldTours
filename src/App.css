@@ -76,3 +76,9 @@ span {
 	stroke: purple;
 	stroke-width: 1.5px;
 }
+
+a{
+	color: white;
+	font-size: 18pt;
+	font-weight: bold;
+}
