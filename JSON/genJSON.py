@@ -7,7 +7,7 @@ from bs4 import BeautifulSoup
 import json
 
 if __name__ == '__main__':
-    event_ids = list(range(5000, 5012, 1)) + list(range(2816, 2826, 1))
+    event_ids = list(range(5000, 5014, 1)) + list(range(2816, 2826, 1))
     for event_id in event_ids:
         event_id = str(event_id)
         for group in ['MS', 'WS']:
@@ -29,6 +29,14 @@ if __name__ == '__main__':
                     WebDriverWait(driver, 10).until(
                         expected_conditions.presence_of_element_located((By.CLASS_NAME, 'next'))
                         ).click()
+                if 'World Championships' in event_title:
+                    WebDriverWait(driver, 10).until(
+                        expected_conditions.presence_of_element_located((By.CLASS_NAME, 'next'))
+                        ).click()
+                    WebDriverWait(driver, 10).until(
+                        expected_conditions.presence_of_element_located((By.CLASS_NAME, 'next'))
+                        ).click()
+
                 players = driver.find_elements_by_class_name('label')
                 scores = driver.find_elements_by_class_name('score')
                 game_list = []

@@ -20,6 +20,8 @@ import CloseIcon from '@material-ui/icons/Close';
 import Tree from 'react-tree-graph';
 import 'react-tree-graph/dist/style.css'
 import './App.css';
+import events2018 from './events2018';
+import events2019 from './events2019';
 
 const drawerWidth = 220;
 const useStyles = makeStyles(theme => ({
@@ -77,6 +79,44 @@ export default function ITTFWorldTours() {
   };
   const handleClose = () => setOpen(false);
 
+  let event2019ID = 5014;
+  const TreeItems2019 = [];
+  for (let i = 3; i < 43; i = i + 3) {
+    event2019ID = event2019ID -1;
+    const eventIDStr = event2019ID.toString();
+    TreeItems2019.push(
+      <TreeItem nodeId={i.toString()} label={events2019[eventIDStr]}>
+        <TreeItem nodeId={(i+1).toString()} label='男單' onClick={() => {
+            setTTE(eventIDStr);
+            setGroup('MS');
+          }} />
+        <TreeItem nodeId={(i+2).toString()} label='女單' onClick={() => {
+            setTTE(eventIDStr);
+            setGroup('WS');
+          }}/>
+      </TreeItem>
+    );
+  }
+
+  let event2018ID = 2826;
+  const TreeItems2018 = [];
+  for (let i = 102; i < 132; i = i + 3) {
+    event2018ID = event2018ID -1;
+    const eventIDStr = event2018ID.toString();
+    TreeItems2018.push(
+      <TreeItem nodeId={i.toString()} label={events2018[eventIDStr]}>
+        <TreeItem nodeId={(i+1).toString()} label='男單' onClick={() => {
+            setTTE(eventIDStr);
+            setGroup('MS');
+          }} />
+        <TreeItem nodeId={(i+2).toString()} label='女單' onClick={() => {
+            setTTE(eventIDStr);
+            setGroup('WS');
+          }}/>
+      </TreeItem>
+    );
+  }
+
   return (
     <div className={classes.root}>
       <CssBaseline />
@@ -109,60 +149,10 @@ export default function ITTFWorldTours() {
         >
           <TreeItem nodeId='1' label='歷年世界巡迴賽'>
             <TreeItem nodeId='2' label='2019'>
-              <TreeItem nodeId='3' label='年終總決賽'>
-                <TreeItem nodeId='4' label='男單' onClick={() => {
-                    setTTE('5013');
-                    setGroup('MS');
-                  }} />
-                <TreeItem nodeId='5' label='女單' onClick={() => {
-                    setTTE('5013');
-                    setGroup('WS');
-                  }}/>
-              </TreeItem>
-              <TreeItem nodeId='6' label='奧地利公開賽'>
-                <TreeItem nodeId='7' label='男單' onClick={() => {
-                    setTTE('5012');
-                    setGroup('MS');
-                  }} />
-                <TreeItem nodeId='8' label='女單' onClick={() => {
-                    setTTE('5012');
-                    setGroup('WS');
-                  }}/>
-              </TreeItem>
-              <TreeItem nodeId='9' label='德國公開賽'>
-                <TreeItem nodeId='10' label='男單' onClick={() => {
-                    setTTE('5011');
-                    setGroup('MS');
-                  }} />
-                <TreeItem nodeId='11' label='女單' onClick={() => {
-                    setTTE('5011');
-                    setGroup('WS');
-                  }}/>
-              </TreeItem>
-              <TreeItem nodeId='12' label='瑞典公開賽'>
-                <TreeItem nodeId='13' label='男單' onClick={() => {
-                    setTTE('5010');
-                    setGroup('MS');
-                  }} />
-                <TreeItem nodeId='14' label='女單' onClick={() => {
-                    setTTE('5010');
-                    setGroup('WS');
-                  }}/>
-              </TreeItem>
-              <TreeItem nodeId='15' label='捷克公開賽'>
-                <TreeItem nodeId='16' label='男單' onClick={() => {
-                    setTTE('5009');
-                    setGroup('MS');
-                  }} />
-                <TreeItem nodeId='17' label='女單' onClick={() => {
-                    setTTE('5009');
-                    setGroup('WS');
-                  }}/>
-              </TreeItem>
-
+              {TreeItems2019}
             </TreeItem>
             <TreeItem nodeId='101' label='2018'>
-              <TreeItem nodeId='102' label='待補' />
+              {TreeItems2018}
             </TreeItem>
           </TreeItem>
         </TreeView>
