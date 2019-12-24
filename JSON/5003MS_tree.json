@@ -1,0 +1,59 @@
+{
+    "name": "MA Long 4:0 LIN Gaoyuan",
+    "children": [
+        {
+            "name": "MA Long 4:1 HARIMOTO Tomokazu",
+            "children": [
+                {
+                    "name": "FAN Zhendong 1:4 MA Long",
+                    "children": [
+                        {
+                            "name": "FAN Zhendong 4:1 PISTEJ Lubomir"
+                        },
+                        {
+                            "name": "MA Long 4:0 NIWA Koki"
+                        }
+                    ]
+                },
+                {
+                    "name": "WONG Chun Ting 1:4 HARIMOTO Tomokazu",
+                    "children": [
+                        {
+                            "name": "GAUZY Simon 1:4 WONG Chun Ting"
+                        },
+                        {
+                            "name": "PITCHFORD Liam 0:4 HARIMOTO Tomokazu"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "LIN Gaoyuan 4:2 XU Xin",
+            "children": [
+                {
+                    "name": "LIN Gaoyuan 4:3 LIANG Jingkun",
+                    "children": [
+                        {
+                            "name": "LIN Gaoyuan 4:3 OVTCHAROV Dimitrij"
+                        },
+                        {
+                            "name": "LIANG Jingkun 4:2 CALDERANO Hugo"
+                        }
+                    ]
+                },
+                {
+                    "name": "BOLL Timo 0:4 XU Xin",
+                    "children": [
+                        {
+                            "name": "BOLL Timo 4:3 YU Ziyang"
+                        },
+                        {
+                            "name": "MIZUTANI Jun 0:4 XU Xin"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

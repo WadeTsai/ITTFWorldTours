@@ -1,0 +1,59 @@
+{
+    "name": "WANG Chuqin 4:0 LIN Gaoyuan",
+    "children": [
+        {
+            "name": "LIANG Jingkun 0:4 WANG Chuqin",
+            "children": [
+                {
+                    "name": "XU Xin 2:4 LIANG Jingkun",
+                    "children": [
+                        {
+                            "name": "XU Xin 4:1 LEE Sangsu"
+                        },
+                        {
+                            "name": "ZHOU Qihao 3:4 LIANG Jingkun"
+                        }
+                    ]
+                },
+                {
+                    "name": "ZHAO Zihao 0:4 WANG Chuqin",
+                    "children": [
+                        {
+                            "name": "ZHAO Zihao 4:2 JANG Woojin"
+                        },
+                        {
+                            "name": "WANG Chuqin 4:0 HARIMOTO Tomokazu"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "LIN Gaoyuan 4:2 FAN Zhendong",
+            "children": [
+                {
+                    "name": "LIN Gaoyuan 4:3 OVTCHAROV Dimitrij",
+                    "children": [
+                        {
+                            "name": "LIN Gaoyuan 4:1 FRANZISKA Patrick"
+                        },
+                        {
+                            "name": "WONG Chun Ting 0:4 OVTCHAROV Dimitrij"
+                        }
+                    ]
+                },
+                {
+                    "name": "GAUZY Simon 0:4 FAN Zhendong",
+                    "children": [
+                        {
+                            "name": "NIWA Koki 2:4 GAUZY Simon"
+                        },
+                        {
+                            "name": "MIZUTANI Jun 0:4 FAN Zhendong"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

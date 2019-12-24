@@ -1,0 +1,59 @@
+{
+    "name": "HARIMOTO Tomokazu 4:2 ZHAO Zihao",
+    "children": [
+        {
+            "name": "HARIMOTO Tomokazu 4:0 FREITAS Marcos",
+            "children": [
+                {
+                    "name": "HARIMOTO Tomokazu 4:1 JIN Takuya",
+                    "children": [
+                        {
+                            "name": "HARIMOTO Tomokazu 4:2 CHEN Chien-An"
+                        },
+                        {
+                            "name": "JIN Takuya 4:3 TANAKA Yuta"
+                        }
+                    ]
+                },
+                {
+                    "name": "CHUANG Chih-Yuan 3:4 FREITAS Marcos",
+                    "children": [
+                        {
+                            "name": "PITCHFORD Liam 3:4 CHUANG Chih-Yuan"
+                        },
+                        {
+                            "name": "PUCAR Tomislav 0:4 FREITAS Marcos"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "ARUNA Quadri 1:4 ZHAO Zihao",
+            "children": [
+                {
+                    "name": "MIZUTANI Jun 3:4 ARUNA Quadri",
+                    "children": [
+                        {
+                            "name": "MIZUTANI Jun 4:0 MACHI Asuka"
+                        },
+                        {
+                            "name": "ARUNA Quadri 4:3 WONG Chun Ting"
+                        }
+                    ]
+                },
+                {
+                    "name": "ZHAO Zihao 4:2 OVTCHAROV Dimitrij",
+                    "children": [
+                        {
+                            "name": "JORGIC Darko 2:4 ZHAO Zihao"
+                        },
+                        {
+                            "name": "FILUS Ruwen 0:4 OVTCHAROV Dimitrij"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

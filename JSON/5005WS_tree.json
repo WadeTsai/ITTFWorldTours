@@ -1,0 +1,59 @@
+{
+    "name": "LIU Shiwen 3:4 SUN Yingsha",
+    "children": [
+        {
+            "name": "HIRANO Miu 1:4 LIU Shiwen",
+            "children": [
+                {
+                    "name": "SATO Hitomi 0:4 HIRANO Miu",
+                    "children": [
+                        {
+                            "name": "DING Ning 2:4 SATO Hitomi"
+                        },
+                        {
+                            "name": "HIRANO Miu 4:1 NAGASAKI Miyu"
+                        }
+                    ]
+                },
+                {
+                    "name": "LIU Fei 1:4 LIU Shiwen",
+                    "children": [
+                        {
+                            "name": "LIU Fei 4:3 MORI Sakura"
+                        },
+                        {
+                            "name": "JEON Jihee 2:4 LIU Shiwen"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "SUN Yingsha 4:1 CHEN Meng",
+            "children": [
+                {
+                    "name": "WANG Manyu 0:4 SUN Yingsha",
+                    "children": [
+                        {
+                            "name": "WANG Manyu 4:0 CHEN Xingtong"
+                        },
+                        {
+                            "name": "SUN Yingsha 4:0 ISHIKAWA Kasumi"
+                        }
+                    ]
+                },
+                {
+                    "name": "GU Yuting 3:4 CHEN Meng",
+                    "children": [
+                        {
+                            "name": "GU Yuting 4:2 HE Zhuojia"
+                        },
+                        {
+                            "name": "LEE Ho Ching 0:4 CHEN Meng"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

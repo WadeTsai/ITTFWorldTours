@@ -1,0 +1,59 @@
+{
+    "name": "MATSUDAIRA Kenta 1:4 XU Xin",
+    "children": [
+        {
+            "name": "MATSUDAIRA Kenta 4:2 HARIMOTO Tomokazu",
+            "children": [
+                {
+                    "name": "ZHENG Peifeng 3:4 MATSUDAIRA Kenta",
+                    "children": [
+                        {
+                            "name": "OVTCHAROV Dimitrij 2:4 ZHENG Peifeng"
+                        },
+                        {
+                            "name": "GERASSIMENKO Kirill 2:4 MATSUDAIRA Kenta"
+                        }
+                    ]
+                },
+                {
+                    "name": "SAMSONOV Vladimir 2:4 HARIMOTO Tomokazu",
+                    "children": [
+                        {
+                            "name": "CHUANG Chih-Yuan 1:4 SAMSONOV Vladimir"
+                        },
+                        {
+                            "name": "LEBESSON Emmanuel 1:4 HARIMOTO Tomokazu"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "MA Te 0:4 XU Xin",
+            "children": [
+                {
+                    "name": "MA Te 4:0 HABESOHN Daniel",
+                    "children": [
+                        {
+                            "name": "PITCHFORD Liam 1:4 MA Te"
+                        },
+                        {
+                            "name": "MORIZONO Masataka 2:4 HABESOHN Daniel"
+                        }
+                    ]
+                },
+                {
+                    "name": "NIWA Koki 0:4 XU Xin",
+                    "children": [
+                        {
+                            "name": "NIWA Koki 4:2 FALCK Mattias"
+                        },
+                        {
+                            "name": "OSHIMA Yuya 3:4 XU Xin"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

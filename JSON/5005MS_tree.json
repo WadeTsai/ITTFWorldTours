@@ -1,0 +1,59 @@
+{
+    "name": "XU Xin 4:1 LIN Yun-Ju",
+    "children": [
+        {
+            "name": "FAN Zhendong 3:4 XU Xin",
+            "children": [
+                {
+                    "name": "FAN Zhendong 4:1 MA Long",
+                    "children": [
+                        {
+                            "name": "FAN Zhendong 4:0 YOSHIMURA Kazuhiro"
+                        },
+                        {
+                            "name": "JEOUNG Youngsik 3:4 MA Long"
+                        }
+                    ]
+                },
+                {
+                    "name": "JANG Woojin 0:4 XU Xin",
+                    "children": [
+                        {
+                            "name": "JANG Woojin 4:0 OVTCHAROV Dimitrij"
+                        },
+                        {
+                            "name": "CHUANG Chih-Yuan 0:4 XU Xin"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "SUN Wen 1:4 LIN Yun-Ju",
+            "children": [
+                {
+                    "name": "SUN Wen 4:2 LIANG Jingkun",
+                    "children": [
+                        {
+                            "name": "SUN Wen 4:1 LEE Sangsu"
+                        },
+                        {
+                            "name": "MIZUTANI Jun 2:4 LIANG Jingkun"
+                        }
+                    ]
+                },
+                {
+                    "name": "CALDERANO Hugo 0:4 LIN Yun-Ju",
+                    "children": [
+                        {
+                            "name": "CALDERANO Hugo 4:3 FILUS Ruwen"
+                        },
+                        {
+                            "name": "LIN Yun-Ju 4:2 LIN Gaoyuan"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

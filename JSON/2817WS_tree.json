@@ -1,0 +1,59 @@
+{
+    "name": "SUN Yingsha 3:4 HAMAMOTO Yui",
+    "children": [
+        {
+            "name": "ITO Mima 4:0 WU Yang",
+            "children": [
+                {
+                    "name": "WANG Manyu 4:1 HASHIMOTO Honoka",
+                    "children": [
+                        {
+                            "name": "ZHU Yuling 4:1 ANDO Minami"
+                        },
+                        {
+                            "name": "SHIBATA Saki 4:0 SUH Hyowon"
+                        }
+                    ]
+                },
+                {
+                    "name": "YANG Haeun 4:2 LEE Ho Ching",
+                    "children": [
+                        {
+                            "name": "DOO Hoi Kem 4:1 KATO Miyu"
+                        },
+                        {
+                            "name": "JEON Jihee 4:3 CHENG I-Ching"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "SOLJA Amelie 0:4 HAYATA Hina",
+            "children": [
+                {
+                    "name": "CHEN Szu-Yu 0:4 HAN Ying ",
+                    "children": [
+                        {
+                            "name": "HIRANO Miu 2:4 GU Yuting"
+                        },
+                        {
+                            "name": "CHE Xiaoxi 1:4 DING Ning"
+                        }
+                    ]
+                },
+                {
+                    "name": "POLCANOVA Sofia 0:4 CHEN Xingtong",
+                    "children": [
+                        {
+                            "name": "SATO Hitomi 4:2 LIN Ye"
+                        },
+                        {
+                            "name": "JI Eunchae 0:4 FENG Tianwei"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

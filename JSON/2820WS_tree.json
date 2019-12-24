@@ -1,0 +1,59 @@
+{
+    "name": "DING Ning 4:3 WANG Yidi",
+    "children": [
+        {
+            "name": "DING Ning 4:1 LIU Gaoyang",
+            "children": [
+                {
+                    "name": "ISHIKAWA Kasumi 2:4 DING Ning",
+                    "children": [
+                        {
+                            "name": "ISHIKAWA Kasumi 4:1 SZOCS Bernadette"
+                        },
+                        {
+                            "name": "WEN Jia 0:4 DING Ning"
+                        }
+                    ]
+                },
+                {
+                    "name": "LIU Gaoyang 4:1 HIRANO Miu",
+                    "children": [
+                        {
+                            "name": "LIU Gaoyang 4:2 LI Xiang "
+                        },
+                        {
+                            "name": "MITTELHAM Nina 0:4 HIRANO Miu"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "SATO Hitomi 2:4 WANG Yidi",
+            "children": [
+                {
+                    "name": "SATO Hitomi 4:0 POTA Georgina",
+                    "children": [
+                        {
+                            "name": "SATO Hitomi 4:0 HASHIMOTO Honoka"
+                        },
+                        {
+                            "name": "POTA Georgina 4:2 SHIBATA Saki"
+                        }
+                    ]
+                },
+                {
+                    "name": "LIU Xi 3:4 WANG Yidi",
+                    "children": [
+                        {
+                            "name": "LIU Xi 4:1 HAN Ying "
+                        },
+                        {
+                            "name": "DIAZ Adriana 1:4 WANG Yidi"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

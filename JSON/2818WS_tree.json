@@ -1,0 +1,59 @@
+{
+    "name": "ITO Mima 4:2 WANG Manyu",
+    "children": [
+        {
+            "name": "CHEN Xingtong 3:4 ITO Mima",
+            "children": [
+                {
+                    "name": "ISHIKAWA Kasumi 2:4 CHEN Xingtong",
+                    "children": [
+                        {
+                            "name": "ISHIKAWA Kasumi 4:1 SZOCS Bernadette"
+                        },
+                        {
+                            "name": "KATO Miyu 1:4 CHEN Xingtong"
+                        }
+                    ]
+                },
+                {
+                    "name": "CHENG I-Ching 2:4 ITO Mima",
+                    "children": [
+                        {
+                            "name": "CHENG I-Ching 4:1 SATO Hitomi"
+                        },
+                        {
+                            "name": "SUH Hyowon 0:4 ITO Mima"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "LIU Shiwen 2:4 WANG Manyu",
+            "children": [
+                {
+                    "name": "HIRANO Miu 0:4 LIU Shiwen",
+                    "children": [
+                        {
+                            "name": "HIRANO Miu 4:1 ANDO Minami"
+                        },
+                        {
+                            "name": "CHEN Szu-Yu 1:4 LIU Shiwen"
+                        }
+                    ]
+                },
+                {
+                    "name": "MU Zi 0:4 WANG Manyu",
+                    "children": [
+                        {
+                            "name": "MU Zi 4:2 HAYATA Hina"
+                        },
+                        {
+                            "name": "LEE Ho Ching 1:4 WANG Manyu"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

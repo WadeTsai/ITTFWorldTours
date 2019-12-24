@@ -1,0 +1,59 @@
+{
+    "name": "FAN Zhendong 1:4 MA Long",
+    "children": [
+        {
+            "name": "FAN Zhendong 4:2 LIN Gaoyuan",
+            "children": [
+                {
+                    "name": "FAN Zhendong 4:1 NIWA Koki",
+                    "children": [
+                        {
+                            "name": "FAN Zhendong 4:0 LEBESSON Emmanuel"
+                        },
+                        {
+                            "name": "PITCHFORD Liam 3:4 NIWA Koki"
+                        }
+                    ]
+                },
+                {
+                    "name": "MIZUTANI Jun 3:4 LIN Gaoyuan",
+                    "children": [
+                        {
+                            "name": "WONG Chun Ting 3:4 MIZUTANI Jun"
+                        },
+                        {
+                            "name": "HARIMOTO Tomokazu 1:4 LIN Gaoyuan"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "LIM Jonghoon 1:4 MA Long",
+            "children": [
+                {
+                    "name": "LIM Jonghoon 4:0 LEE Sangsu",
+                    "children": [
+                        {
+                            "name": "LIM Jonghoon 4:1 CHUANG Chih-Yuan"
+                        },
+                        {
+                            "name": "JANG Woojin 1:4 LEE Sangsu"
+                        }
+                    ]
+                },
+                {
+                    "name": "MA Long 4:3 LIANG Jingkun",
+                    "children": [
+                        {
+                            "name": "MA Long 4:1 WANG Chuqin"
+                        },
+                        {
+                            "name": "LIANG Jingkun 4:3 BOLL Timo"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "name": "LEBESSON Emmanuel 4:3 WANG Tai-Wei",
+    "children": [
+        {
+            "name": "MIZUTANI Jun 4:2 AKKUZU Can",
+            "children": [
+                {
+                    "name": "CALDERANO Hugo 4:2 YOSHIMURA Kazuhiro",
+                    "children": [
+                        {
+                            "name": "FAN Zhendong 4:0 MONTEIRO Joao"
+                        },
+                        {
+                            "name": "ALAMIAN Nima 3:4 ARUNA Quadri"
+                        }
+                    ]
+                },
+                {
+                    "name": "PLETEA Cristian 1:4 GNANASEKARAN Sathiyan",
+                    "children": [
+                        {
+                            "name": "LIN Yun-Ju 3:4 GIONIS Panagiotis"
+                        },
+                        {
+                            "name": "KOU Lei 1:4 LIANG Jingkun"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "OLAH Benedek 1:4 JEOUNG Youngsik",
+            "children": [
+                {
+                    "name": "SAMSONOV Vladimir 4:0 NUYTINCK Cedric",
+                    "children": [
+                        {
+                            "name": "OVTCHAROV Dimitrij 4:2 KOZUL Deni"
+                        },
+                        {
+                            "name": "PUCAR Tomislav 4:1 ACHANTA Sharath Kamal"
+                        }
+                    ]
+                },
+                {
+                    "name": "JHA Kanak 1:4 MA Long",
+                    "children": [
+                        {
+                            "name": "KARLSSON Kristian 1:4 DYJAS Jakub"
+                        },
+                        {
+                            "name": "DRINKHALL Paul 0:4 NIWA Koki"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

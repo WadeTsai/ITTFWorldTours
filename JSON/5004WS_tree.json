@@ -1,0 +1,59 @@
+{
+    "name": "WANG Yidi 4:0 ITO Mima",
+    "children": [
+        {
+            "name": "WANG Yidi 4:0 CHENG I-Ching",
+            "children": [
+                {
+                    "name": "WANG Yidi 4:2 SHIBATA Saki",
+                    "children": [
+                        {
+                            "name": "ISHIKAWA Kasumi 1:4 WANG Yidi"
+                        },
+                        {
+                            "name": "SATO Hitomi 1:4 SHIBATA Saki"
+                        }
+                    ]
+                },
+                {
+                    "name": "SUH Hyowon 1:4 CHENG I-Ching",
+                    "children": [
+                        {
+                            "name": "SUH Hyowon 4:1 SZOCS Bernadette"
+                        },
+                        {
+                            "name": "HE Zhuojia 3:4 CHENG I-Ching"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "HIRANO Miu 2:4 ITO Mima",
+            "children": [
+                {
+                    "name": "HIRANO Miu 4:1 FENG Tianwei",
+                    "children": [
+                        {
+                            "name": "HIRANO Miu 4:0 FENG Yalan"
+                        },
+                        {
+                            "name": "SHAN Xiaona  2:4 FENG Tianwei"
+                        }
+                    ]
+                },
+                {
+                    "name": "POLCANOVA Sofia 1:4 ITO Mima",
+                    "children": [
+                        {
+                            "name": "DOO Hoi Kem 1:4 POLCANOVA Sofia"
+                        },
+                        {
+                            "name": "SUN Mingyang 0:4 ITO Mima"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

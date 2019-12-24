@@ -1,0 +1,59 @@
+{
+    "name": "CHO Seungmin 1:4 YOSHIMURA Kazuhiro",
+    "children": [
+        {
+            "name": "ZHOU Qihao 2:4 CHO Seungmin",
+            "children": [
+                {
+                    "name": "PERSSON Jon 1:4 ZHOU Qihao",
+                    "children": [
+                        {
+                            "name": "WONG Chun Ting 2:4 PERSSON Jon"
+                        },
+                        {
+                            "name": "FRANZISKA Patrick 1:4 ZHOU Qihao"
+                        }
+                    ]
+                },
+                {
+                    "name": "YOSHIMURA Maharu 3:4 CHO Seungmin",
+                    "children": [
+                        {
+                            "name": "ASSAR Omar 0:4 YOSHIMURA Maharu"
+                        },
+                        {
+                            "name": "CHO Seungmin 4:1 JANG Woojin"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "LIM Jonghoon 3:4 YOSHIMURA Kazuhiro",
+            "children": [
+                {
+                    "name": "FREITAS Marcos 2:4 LIM Jonghoon",
+                    "children": [
+                        {
+                            "name": "FREITAS Marcos 4:2 ARUNA Quadri"
+                        },
+                        {
+                            "name": "LIM Jonghoon 4:3 KIM Donghyun"
+                        }
+                    ]
+                },
+                {
+                    "name": "YOSHIMURA Kazuhiro 4:0 LEE Sangsu",
+                    "children": [
+                        {
+                            "name": "FILUS Ruwen 1:4 YOSHIMURA Kazuhiro"
+                        },
+                        {
+                            "name": "UEDA Jin 1:4 LEE Sangsu"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

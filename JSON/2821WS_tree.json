@@ -1,0 +1,59 @@
+{
+    "name": "ISHIKAWA Kasumi 4:2 WEN Jia",
+    "children": [
+        {
+            "name": "ISHIKAWA Kasumi 4:1 SHIBATA Saki",
+            "children": [
+                {
+                    "name": "ISHIKAWA Kasumi 4:2 DIAZ Adriana",
+                    "children": [
+                        {
+                            "name": "ISHIKAWA Kasumi 4:2 HASHIMOTO Honoka"
+                        },
+                        {
+                            "name": "EKHOLM Matilda 3:4 DIAZ Adriana"
+                        }
+                    ]
+                },
+                {
+                    "name": "SHIBATA Saki 4:3 HIRANO Miu",
+                    "children": [
+                        {
+                            "name": "SHIBATA Saki 4:0 SZOCS Bernadette"
+                        },
+                        {
+                            "name": "NAGASAKI Miyu 0:4 HIRANO Miu"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "WU Yang 1:4 WEN Jia",
+            "children": [
+                {
+                    "name": "WINTER Sabine 1:4 WU Yang",
+                    "children": [
+                        {
+                            "name": "WINTER Sabine 4:0 LI Qian"
+                        },
+                        {
+                            "name": "SUN Mingyang 0:4 WU Yang"
+                        }
+                    ]
+                },
+                {
+                    "name": "WEN Jia 4:3 ITO Mima",
+                    "children": [
+                        {
+                            "name": "WEN Jia 4:0 YU Fu "
+                        },
+                        {
+                            "name": "LIU Gaoyang 1:4 ITO Mima"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

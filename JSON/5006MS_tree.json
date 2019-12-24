@@ -1,0 +1,59 @@
+{
+    "name": "MA Long 1:4 XU Xin",
+    "children": [
+        {
+            "name": "JEOUNG Youngsik 1:4 MA Long",
+            "children": [
+                {
+                    "name": "FAN Zhendong 2:4 JEOUNG Youngsik",
+                    "children": [
+                        {
+                            "name": "FAN Zhendong 4:0 ROBLES Alvaro"
+                        },
+                        {
+                            "name": "JEOUNG Youngsik 4:0 JANG Woojin"
+                        }
+                    ]
+                },
+                {
+                    "name": "KARLSSON Kristian 2:4 MA Long",
+                    "children": [
+                        {
+                            "name": "FALCK Mattias 2:4 KARLSSON Kristian"
+                        },
+                        {
+                            "name": "LIM Jonghoon 3:4 MA Long"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "WANG Chuqin 2:4 XU Xin",
+            "children": [
+                {
+                    "name": "HARIMOTO Tomokazu 2:4 WANG Chuqin",
+                    "children": [
+                        {
+                            "name": "HARIMOTO Tomokazu 4:2 WONG Chun Ting"
+                        },
+                        {
+                            "name": "WANG Chuqin 4:1 FREITAS Marcos"
+                        }
+                    ]
+                },
+                {
+                    "name": "LIANG Jingkun 2:4 XU Xin",
+                    "children": [
+                        {
+                            "name": "LIANG Jingkun 4:2 CHO Seungmin"
+                        },
+                        {
+                            "name": "ARUNA Quadri 1:4 XU Xin"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "name": "DING Ning 1:4 CHEN Meng",
+    "children": [
+        {
+            "name": "DING Ning 4:3 SUN Yingsha",
+            "children": [
+                {
+                    "name": "DING Ning 4:0 JEON Jihee",
+                    "children": [
+                        {
+                            "name": "DING Ning 4:1 FENG Tianwei"
+                        },
+                        {
+                            "name": "JEON Jihee 4:1 CHENG I-Ching"
+                        }
+                    ]
+                },
+                {
+                    "name": "ISHIKAWA Kasumi 3:4 SUN Yingsha",
+                    "children": [
+                        {
+                            "name": "ISHIKAWA Kasumi 4:1 SHIBATA Saki"
+                        },
+                        {
+                            "name": "SUN Yingsha 4:2 LIU Shiwen"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "WANG Manyu 3:4 CHEN Meng",
+            "children": [
+                {
+                    "name": "WANG Manyu 4:0 ITO Mima",
+                    "children": [
+                        {
+                            "name": "WANG Manyu 4:2 NAGASAKI Miyu"
+                        },
+                        {
+                            "name": "SATO Hitomi 0:4 ITO Mima"
+                        }
+                    ]
+                },
+                {
+                    "name": "ZHU Yuling 0:4 CHEN Meng",
+                    "children": [
+                        {
+                            "name": "ZHU Yuling 4:0 DOO Hoi Kem"
+                        },
+                        {
+                            "name": "HIRANO Miu 2:4 CHEN Meng"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

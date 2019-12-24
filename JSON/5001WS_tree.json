@@ -1,0 +1,59 @@
+{
+    "name": "ZHU Yuling 2:4 CHEN Meng",
+    "children": [
+        {
+            "name": "ZHU Yuling 4:3 LIU Shiwen",
+            "children": [
+                {
+                    "name": "ZHU Yuling 4:0 CHEN Xingtong",
+                    "children": [
+                        {
+                            "name": "ZHU Yuling 4:0 CHEN Szu-Yu"
+                        },
+                        {
+                            "name": "LI Jie 0:4 CHEN Xingtong"
+                        }
+                    ]
+                },
+                {
+                    "name": "SUN Yingsha 0:4 LIU Shiwen",
+                    "children": [
+                        {
+                            "name": "LIU Gaoyang 2:4 SUN Yingsha"
+                        },
+                        {
+                            "name": "SAMARA Elizabeta 0:4 LIU Shiwen"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "WANG Manyu 1:4 CHEN Meng",
+            "children": [
+                {
+                    "name": "WANG Manyu 4:1 YU Fu ",
+                    "children": [
+                        {
+                            "name": "WANG Manyu 4:1 SUN Mingyang"
+                        },
+                        {
+                            "name": "YU Fu  4:3 SOLJA Petrissa"
+                        }
+                    ]
+                },
+                {
+                    "name": "SZOCS Bernadette 2:4 CHEN Meng",
+                    "children": [
+                        {
+                            "name": "SHAN Xiaona  0:4 SZOCS Bernadette"
+                        },
+                        {
+                            "name": "BATRA Manika 0:4 CHEN Meng"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

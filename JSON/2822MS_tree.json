@@ -1,0 +1,59 @@
+{
+    "name": "LIANG Jingkun 4:3 XU Xin",
+    "children": [
+        {
+            "name": "FAN Zhendong 2:4 LIANG Jingkun",
+            "children": [
+                {
+                    "name": "FAN Zhendong 4:1 NIWA Koki",
+                    "children": [
+                        {
+                            "name": "FAN Zhendong 4:1 UEDA Jin"
+                        },
+                        {
+                            "name": "NIWA Koki 4:0 YOSHIMURA Kazuhiro"
+                        }
+                    ]
+                },
+                {
+                    "name": "CALDERANO Hugo 0:4 LIANG Jingkun",
+                    "children": [
+                        {
+                            "name": "JANG Woojin 3:4 CALDERANO Hugo"
+                        },
+                        {
+                            "name": "LIANG Jingkun 4:2 LIN Yun-Ju"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "PITCHFORD Liam 0:4 XU Xin",
+            "children": [
+                {
+                    "name": "BOLL Timo 2:4 PITCHFORD Liam",
+                    "children": [
+                        {
+                            "name": "BOLL Timo 4:2 ZHENG Peifeng"
+                        },
+                        {
+                            "name": "PITCHFORD Liam 4:1 KANAMITSU Koyo"
+                        }
+                    ]
+                },
+                {
+                    "name": "HARIMOTO Tomokazu 2:4 XU Xin",
+                    "children": [
+                        {
+                            "name": "HARIMOTO Tomokazu 4:1 MIZUTANI Jun"
+                        },
+                        {
+                            "name": "GNANASEKARAN Sathiyan 1:4 XU Xin"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "name": "ZHANG Jike 3:4 HARIMOTO Tomokazu",
+    "children": [
+        {
+            "name": "BOLL Timo 0:4 ZHANG Jike",
+            "children": [
+                {
+                    "name": "BOLL Timo 4:1 MATSUDAIRA Kenta",
+                    "children": [
+                        {
+                            "name": "BOLL Timo 4:0 KARLSSON Mattias"
+                        },
+                        {
+                            "name": "DUDA Benedikt 1:4 MATSUDAIRA Kenta"
+                        }
+                    ]
+                },
+                {
+                    "name": "UEDA Jin 3:4 ZHANG Jike",
+                    "children": [
+                        {
+                            "name": "YOSHIMURA Kazuhiro 3:4 UEDA Jin"
+                        },
+                        {
+                            "name": "ZHANG Jike 4:3 LIANG Jingkun"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "LEE Sangsu 2:4 HARIMOTO Tomokazu",
+            "children": [
+                {
+                    "name": "LEE Sangsu 4:3 CHUANG Chih-Yuan",
+                    "children": [
+                        {
+                            "name": "LEE Sangsu 4:3 LIAO Cheng-Ting"
+                        },
+                        {
+                            "name": "CHUANG Chih-Yuan 4:2 GAUZY Simon"
+                        }
+                    ]
+                },
+                {
+                    "name": "HARIMOTO Tomokazu 4:2 MA Long",
+                    "children": [
+                        {
+                            "name": "HARIMOTO Tomokazu 4:0 ZHOU Yu"
+                        },
+                        {
+                            "name": "YOSHIMURA Maharu 0:4 MA Long"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

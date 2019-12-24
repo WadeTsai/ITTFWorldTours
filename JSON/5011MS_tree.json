@@ -1,0 +1,59 @@
+{
+    "name": "XU Xin 1:4 FAN Zhendong",
+    "children": [
+        {
+            "name": "XU Xin 4:1 JEOUNG Youngsik",
+            "children": [
+                {
+                    "name": "XU Xin 4:2 YAN An",
+                    "children": [
+                        {
+                            "name": "XU Xin 4:2 LEE Sangsu"
+                        },
+                        {
+                            "name": "YAN An 4:3 CALDERANO Hugo"
+                        }
+                    ]
+                },
+                {
+                    "name": "JEOUNG Youngsik 4:2 FRANZISKA Patrick",
+                    "children": [
+                        {
+                            "name": "JEOUNG Youngsik 4:3 NIWA Koki"
+                        },
+                        {
+                            "name": "FRANZISKA Patrick 4:1 LIN Gaoyuan"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "LIANG Jingkun 3:4 FAN Zhendong",
+            "children": [
+                {
+                    "name": "HARIMOTO Tomokazu 2:4 LIANG Jingkun",
+                    "children": [
+                        {
+                            "name": "HARIMOTO Tomokazu 4:1 SAMSONOV Vladimir"
+                        },
+                        {
+                            "name": "YU Ziyang 1:4 LIANG Jingkun"
+                        }
+                    ]
+                },
+                {
+                    "name": "BOLL Timo 1:4 FAN Zhendong",
+                    "children": [
+                        {
+                            "name": "BOLL Timo 4:3 MIZUTANI Jun"
+                        },
+                        {
+                            "name": "WANG Chuqin 2:4 FAN Zhendong"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

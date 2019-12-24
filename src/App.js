@@ -129,9 +129,40 @@ export default function ITTFWorldTours() {
                     setGroup('WS');
                   }}/>
               </TreeItem>
+              <TreeItem nodeId='9' label='德國公開賽'>
+                <TreeItem nodeId='10' label='男單' onClick={() => {
+                    setTTE('5011');
+                    setGroup('MS');
+                  }} />
+                <TreeItem nodeId='11' label='女單' onClick={() => {
+                    setTTE('5011');
+                    setGroup('WS');
+                  }}/>
+              </TreeItem>
+              <TreeItem nodeId='12' label='瑞典公開賽'>
+                <TreeItem nodeId='13' label='男單' onClick={() => {
+                    setTTE('5010');
+                    setGroup('MS');
+                  }} />
+                <TreeItem nodeId='14' label='女單' onClick={() => {
+                    setTTE('5010');
+                    setGroup('WS');
+                  }}/>
+              </TreeItem>
+              <TreeItem nodeId='15' label='捷克公開賽'>
+                <TreeItem nodeId='16' label='男單' onClick={() => {
+                    setTTE('5009');
+                    setGroup('MS');
+                  }} />
+                <TreeItem nodeId='17' label='女單' onClick={() => {
+                    setTTE('5009');
+                    setGroup('WS');
+                  }}/>
+              </TreeItem>
+
             </TreeItem>
-            <TreeItem nodeId='9' label='2018'>
-              <TreeItem nodeId='10' label='待補' />
+            <TreeItem nodeId='101' label='2018'>
+              <TreeItem nodeId='102' label='待補' />
             </TreeItem>
           </TreeItem>
         </TreeView>

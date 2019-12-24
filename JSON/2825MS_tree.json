@@ -1,0 +1,59 @@
+{
+    "name": "LIN Gaoyuan 1:4 Tomokazu HARIMOTO",
+    "children": [
+        {
+            "name": "LIN Gaoyuan 4:0 Jun MIZUTANI",
+            "children": [
+                {
+                    "name": "XU Xin 2:4 LIN Gaoyuan",
+                    "children": [
+                        {
+                            "name": "XU Xin 4:1 WONG Chun Ting"
+                        },
+                        {
+                            "name": "LEE Sangsu 2:4 LIN Gaoyuan"
+                        }
+                    ]
+                },
+                {
+                    "name": "Jun MIZUTANI 4:2 LIANG Jingkun",
+                    "children": [
+                        {
+                            "name": "Jun MIZUTANI 4:0 LIU Dingshuo"
+                        },
+                        {
+                            "name": "Timo BOLL 0:4 LIANG Jingkun"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Tomokazu HARIMOTO 4:0 Hugo CALDERANO",
+            "children": [
+                {
+                    "name": "Tomokazu HARIMOTO 4:1 JANG Woojin",
+                    "children": [
+                        {
+                            "name": "Tomokazu HARIMOTO 4:1 Patrick FRANZISKA"
+                        },
+                        {
+                            "name": "LIM Jonghoon 0:4 JANG Woojin"
+                        }
+                    ]
+                },
+                {
+                    "name": "Hugo CALDERANO 4:2 FAN Zhendong",
+                    "children": [
+                        {
+                            "name": "Hugo CALDERANO 4:3 Yuya OSHIMA"
+                        },
+                        {
+                            "name": "Koki NIWA 0:4 FAN Zhendong"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

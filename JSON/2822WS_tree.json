@@ -1,0 +1,59 @@
+{
+    "name": "CHEN Meng 4:0 WANG Manyu",
+    "children": [
+        {
+            "name": "ZHU Yuling 3:4 CHEN Meng",
+            "children": [
+                {
+                    "name": "ZHU Yuling 4:1 DOO Hoi Kem",
+                    "children": [
+                        {
+                            "name": "ZHU Yuling 4:3 HASHIMOTO Honoka"
+                        },
+                        {
+                            "name": "DOO Hoi Kem 4:2 ITO Mima"
+                        }
+                    ]
+                },
+                {
+                    "name": "CHEN Meng 4:0 LIU Shiwen",
+                    "children": [
+                        {
+                            "name": "CHEN Meng 4:3 CHEN Xingtong"
+                        },
+                        {
+                            "name": "SZOCS Bernadette 0:4 LIU Shiwen"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "HE Zhuojia 1:4 WANG Manyu",
+            "children": [
+                {
+                    "name": "HE Zhuojia 4:0 CHENG I-Ching",
+                    "children": [
+                        {
+                            "name": "HE Zhuojia 4:3 SUH Hyowon"
+                        },
+                        {
+                            "name": "FENG Tianwei 3:4 CHENG I-Ching"
+                        }
+                    ]
+                },
+                {
+                    "name": "WANG Manyu 4:3 DING Ning",
+                    "children": [
+                        {
+                            "name": "WANG Manyu 4:1 HIRANO Miu"
+                        },
+                        {
+                            "name": "SUN Yingsha 0:4 DING Ning"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "name": "ZHENG Peifeng 4:2 FREITAS Marcos",
+    "children": [
+        {
+            "name": "PITCHFORD Liam 1:4 ZHENG Peifeng",
+            "children": [
+                {
+                    "name": "OVTCHAROV Dimitrij 1:4 PITCHFORD Liam",
+                    "children": [
+                        {
+                            "name": "OVTCHAROV Dimitrij 4:1 PARK Ganghyeon"
+                        },
+                        {
+                            "name": "ZHANG Yudong 3:4 PITCHFORD Liam"
+                        }
+                    ]
+                },
+                {
+                    "name": "STEGER Bastian 2:4 ZHENG Peifeng",
+                    "children": [
+                        {
+                            "name": "WALTHER Ricardo 3:4 STEGER Bastian"
+                        },
+                        {
+                            "name": "ZHENG Peifeng 4:3 OIKAWA Mizuki"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "FREITAS Marcos 4:3 HARIMOTO Tomokazu",
+            "children": [
+                {
+                    "name": "FREITAS Marcos 4:1 HABESOHN Daniel",
+                    "children": [
+                        {
+                            "name": "FREITAS Marcos 4:0 YOSHIMURA Maharu"
+                        },
+                        {
+                            "name": "GERASSIMENKO Kirill 1:4 HABESOHN Daniel"
+                        }
+                    ]
+                },
+                {
+                    "name": "FRANZISKA Patrick 2:4 HARIMOTO Tomokazu",
+                    "children": [
+                        {
+                            "name": "GROTH Jonathan 2:4 FRANZISKA Patrick"
+                        },
+                        {
+                            "name": "SAMSONOV Vladimir 3:4 HARIMOTO Tomokazu"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

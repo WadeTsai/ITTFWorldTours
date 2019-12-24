@@ -1,0 +1,59 @@
+{
+    "name": "EERLAND Britt 4:1 NOSKOVA Yana",
+    "children": [
+        {
+            "name": "KIM Song I 4:0 VERMAAS Kim",
+            "children": [
+                {
+                    "name": "CHENG I-Ching 4:1 MITTELHAM Nina",
+                    "children": [
+                        {
+                            "name": "DING Ning 4:1 DE NUTTE Sarah"
+                        },
+                        {
+                            "name": "MUKHERJEE Sutirtha 2:4 DIAZ Adriana"
+                        }
+                    ]
+                },
+                {
+                    "name": "PERGEL Szandra 1:4 KATO Miyu",
+                    "children": [
+                        {
+                            "name": "SOLJA Petrissa 0:4 CHENG Hsien-Tzu"
+                        },
+                        {
+                            "name": "TAKAHASHI Bruna 1:4 SUH Hyowon"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "SURJAN Sabina 2:4 LIU Hsing-Yin",
+            "children": [
+                {
+                    "name": "CHEN Szu-Yu 4:1 BATRA Manika",
+                    "children": [
+                        {
+                            "name": "SZOCS Bernadette 4:3 KIM Nam Hae"
+                        },
+                        {
+                            "name": "LUPULESKU Izabela 1:4 SOO Wai Yam Minnie"
+                        }
+                    ]
+                },
+                {
+                    "name": "NG Wing Nam 1:4 POLCANOVA Sofia",
+                    "children": [
+                        {
+                            "name": "ZHANG Mo 4:3 MESHREF Dina"
+                        },
+                        {
+                            "name": "PESOTSKA Margaryta 2:4 HIRANO Miu"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "name": "FAN Zhendong 4:1 XU Xin",
+    "children": [
+        {
+            "name": "FAN Zhendong 4:0 FALCK Mattias",
+            "children": [
+                {
+                    "name": "FAN Zhendong 4:1 LIANG Jingkun",
+                    "children": [
+                        {
+                            "name": "FAN Zhendong 4:0 ZHOU Yu"
+                        },
+                        {
+                            "name": "LIANG Jingkun 4:0 LUNDQVIST Jens"
+                        }
+                    ]
+                },
+                {
+                    "name": "KARLSSON Kristian 2:4 FALCK Mattias",
+                    "children": [
+                        {
+                            "name": "NIWA Koki 2:4 KARLSSON Kristian"
+                        },
+                        {
+                            "name": "FALCK Mattias 4:2 LIN Gaoyuan"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "ZHOU Qihao 0:4 XU Xin",
+            "children": [
+                {
+                    "name": "OVTCHAROV Dimitrij 1:4 ZHOU Qihao",
+                    "children": [
+                        {
+                            "name": "OVTCHAROV Dimitrij 4:1 LIN Yun-Ju"
+                        },
+                        {
+                            "name": "ZHOU Qihao 4:0 DUDA Benedikt"
+                        }
+                    ]
+                },
+                {
+                    "name": "JANG Woojin 1:4 XU Xin",
+                    "children": [
+                        {
+                            "name": "JANG Woojin 4:3 LIM Jonghoon"
+                        },
+                        {
+                            "name": "MIZUTANI Jun 2:4 XU Xin"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

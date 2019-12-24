@@ -1,0 +1,59 @@
+{
+    "name": "MA Long 4:2 LIN Gaoyuan",
+    "children": [
+        {
+            "name": "XU Xin 2:4 MA Long",
+            "children": [
+                {
+                    "name": "XU Xin 4:1 FRANZISKA Patrick",
+                    "children": [
+                        {
+                            "name": "XU Xin 4:2 OSHIMA Yuya"
+                        },
+                        {
+                            "name": "FRANZISKA Patrick 4:3 NIWA Koki"
+                        }
+                    ]
+                },
+                {
+                    "name": "MIZUTANI Jun 0:4 MA Long",
+                    "children": [
+                        {
+                            "name": "SIRUCEK Pavel 0:4 MIZUTANI Jun"
+                        },
+                        {
+                            "name": "MA Long 4:0 BOLL Timo"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "FALCK Mattias 3:4 LIN Gaoyuan",
+            "children": [
+                {
+                    "name": "HARIMOTO Tomokazu 3:4 FALCK Mattias",
+                    "children": [
+                        {
+                            "name": "HARIMOTO Tomokazu 4:0 LIANG Jingkun"
+                        },
+                        {
+                            "name": "FALCK Mattias 4:2 NUYTINCK Cedric"
+                        }
+                    ]
+                },
+                {
+                    "name": "LIN Yun-Ju 2:4 LIN Gaoyuan",
+                    "children": [
+                        {
+                            "name": "LIN Yun-Ju 4:2 OVTCHAROV Dimitrij"
+                        },
+                        {
+                            "name": "JANG Woojin 1:4 LIN Gaoyuan"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

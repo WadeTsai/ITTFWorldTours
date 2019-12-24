@@ -1,0 +1,59 @@
+{
+    "name": "ZHU Yuling 0:4 ITO Mima",
+    "children": [
+        {
+            "name": "ZHU Yuling 4:2 CHEN Meng",
+            "children": [
+                {
+                    "name": "ZHU Yuling 4:1 KATO Miyu",
+                    "children": [
+                        {
+                            "name": "ZHU Yuling 4:0 LIU Gaoyang"
+                        },
+                        {
+                            "name": "YANG Xiaoxin  0:4 KATO Miyu"
+                        }
+                    ]
+                },
+                {
+                    "name": "WANG Manyu 2:4 CHEN Meng",
+                    "children": [
+                        {
+                            "name": "WANG Manyu 4:3 SATO Hitomi"
+                        },
+                        {
+                            "name": "SUH Hyowon 0:4 CHEN Meng"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "DING Ning 2:4 ITO Mima",
+            "children": [
+                {
+                    "name": "ISHIKAWA Kasumi 2:4 DING Ning",
+                    "children": [
+                        {
+                            "name": "ISHIKAWA Kasumi 4:0 LEE Ho Ching"
+                        },
+                        {
+                            "name": "CHEN Xingtong 2:4 DING Ning"
+                        }
+                    ]
+                },
+                {
+                    "name": "ITO Mima 4:3 LIU Shiwen",
+                    "children": [
+                        {
+                            "name": "ITO Mima 4:3 FENG Tianwei"
+                        },
+                        {
+                            "name": "SOLJA Petrissa 0:4 LIU Shiwen"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

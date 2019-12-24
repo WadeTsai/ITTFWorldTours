@@ -1,0 +1,59 @@
+{
+    "name": "ITO Mima 1:4 SUN Yingsha",
+    "children": [
+        {
+            "name": "FENG Tianwei 0:4 ITO Mima",
+            "children": [
+                {
+                    "name": "FENG Tianwei 4:3 SHAN Xiaona ",
+                    "children": [
+                        {
+                            "name": "CHEN Meng 0:4 FENG Tianwei"
+                        },
+                        {
+                            "name": "SATO Hitomi 0:4 SHAN Xiaona "
+                        }
+                    ]
+                },
+                {
+                    "name": "YANG Xiaoxin  1:4 ITO Mima",
+                    "children": [
+                        {
+                            "name": "ISHIKAWA Kasumi 1:4 YANG Xiaoxin "
+                        },
+                        {
+                            "name": "QIAN Tianyi 2:4 ITO Mima"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "SUN Yingsha 4:0 WANG Yidi",
+            "children": [
+                {
+                    "name": "SUN Yingsha 4:2 CHEN Xingtong",
+                    "children": [
+                        {
+                            "name": "SUN Yingsha 4:0 VOROBEVA Olga"
+                        },
+                        {
+                            "name": "CHEN Xingtong 4:1 KATO Miyu"
+                        }
+                    ]
+                },
+                {
+                    "name": "WANG Yidi 4:3 WANG Manyu",
+                    "children": [
+                        {
+                            "name": "WANG Yidi 4:0 ZHANG Rui"
+                        },
+                        {
+                            "name": "JEON Jihee 1:4 WANG Manyu"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

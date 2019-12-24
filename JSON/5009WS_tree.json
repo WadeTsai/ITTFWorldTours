@@ -1,0 +1,59 @@
+{
+    "name": "HIRANO Miu 3:4 CHEN Xingtong",
+    "children": [
+        {
+            "name": "ISHIKAWA Kasumi 1:4 HIRANO Miu",
+            "children": [
+                {
+                    "name": "ISHIKAWA Kasumi 4:1 HE Zhuojia",
+                    "children": [
+                        {
+                            "name": "ISHIKAWA Kasumi 4:2 LIU Xi"
+                        },
+                        {
+                            "name": "HASHIMOTO Honoka 1:4 HE Zhuojia"
+                        }
+                    ]
+                },
+                {
+                    "name": "LIU Weishan 3:4 HIRANO Miu",
+                    "children": [
+                        {
+                            "name": "FENG Tianwei 0:4 LIU Weishan"
+                        },
+                        {
+                            "name": "MATELOVA Hana 0:4 HIRANO Miu"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "FENG Yalan 1:4 CHEN Xingtong",
+            "children": [
+                {
+                    "name": "JEON Jihee 2:4 FENG Yalan",
+                    "children": [
+                        {
+                            "name": "SUH Hyowon 0:4 JEON Jihee"
+                        },
+                        {
+                            "name": "FENG Yalan 4:1 SATO Hitomi"
+                        }
+                    ]
+                },
+                {
+                    "name": "POLCANOVA Sofia 0:4 CHEN Xingtong",
+                    "children": [
+                        {
+                            "name": "SHIBATA Saki 3:4 POLCANOVA Sofia"
+                        },
+                        {
+                            "name": "CHEN Xingtong 4:2 ITO Mima"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

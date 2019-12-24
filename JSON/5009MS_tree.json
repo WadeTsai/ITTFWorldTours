@@ -1,0 +1,59 @@
+{
+    "name": "LIN Yun-Ju 4:1 OVTCHAROV Dimitrij",
+    "children": [
+        {
+            "name": "LIN Yun-Ju 4:3 BOLL Timo",
+            "children": [
+                {
+                    "name": "HIRANO Yuki 0:4 LIN Yun-Ju",
+                    "children": [
+                        {
+                            "name": "PLETEA Cristian 3:4 HIRANO Yuki"
+                        },
+                        {
+                            "name": "LIN Yun-Ju 4:2 FREITAS Marcos"
+                        }
+                    ]
+                },
+                {
+                    "name": "LEE Sangsu 3:4 BOLL Timo",
+                    "children": [
+                        {
+                            "name": "LEE Sangsu 4:2 GAUZY Simon"
+                        },
+                        {
+                            "name": "UDA Yukiya 0:4 BOLL Timo"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "OVTCHAROV Dimitrij 4:2 CALDERANO Hugo",
+            "children": [
+                {
+                    "name": "OVTCHAROV Dimitrij 4:0 FRANZISKA Patrick",
+                    "children": [
+                        {
+                            "name": "OVTCHAROV Dimitrij 4:1 SAMSONOV Vladimir"
+                        },
+                        {
+                            "name": "FRANZISKA Patrick 4:3 MIZUTANI Jun"
+                        }
+                    ]
+                },
+                {
+                    "name": "SHIBAEV Alexander 1:4 CALDERANO Hugo",
+                    "children": [
+                        {
+                            "name": "SHIBAEV Alexander 4:0 MA Te"
+                        },
+                        {
+                            "name": "GNANASEKARAN Sathiyan 0:4 CALDERANO Hugo"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

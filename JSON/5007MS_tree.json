@@ -1,0 +1,59 @@
+{
+    "name": "XU Xin 4:0 WANG Chuqin",
+    "children": [
+        {
+            "name": "FRANZISKA Patrick 3:4 XU Xin",
+            "children": [
+                {
+                    "name": "FRANZISKA Patrick 4:3 FALCK Mattias",
+                    "children": [
+                        {
+                            "name": "FAN Zhendong 2:4 FRANZISKA Patrick"
+                        },
+                        {
+                            "name": "JANG Woojin 3:4 FALCK Mattias"
+                        }
+                    ]
+                },
+                {
+                    "name": "CALDERANO Hugo 2:4 XU Xin",
+                    "children": [
+                        {
+                            "name": "CALDERANO Hugo 4:2 FREITAS Marcos"
+                        },
+                        {
+                            "name": "LIN Yun-Ju 0:4 XU Xin"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "WANG Chuqin 4:2 MA Long",
+            "children": [
+                {
+                    "name": "WANG Chuqin 4:1 LIANG Jingkun",
+                    "children": [
+                        {
+                            "name": "WANG Chuqin 4:0 PITCHFORD Liam"
+                        },
+                        {
+                            "name": "GROTH Jonathan 1:4 LIANG Jingkun"
+                        }
+                    ]
+                },
+                {
+                    "name": "MA Long 4:0 LIN Gaoyuan",
+                    "children": [
+                        {
+                            "name": "MA Long 4:0 OVTCHAROV Dimitrij"
+                        },
+                        {
+                            "name": "LEE Sangsu 3:4 LIN Gaoyuan"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

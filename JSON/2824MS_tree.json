@@ -1,0 +1,59 @@
+{
+    "name": "LIU Dingshuo 1:4 XU Xin",
+    "children": [
+        {
+            "name": "LIU Dingshuo 4:0 OSHIMA Yuya",
+            "children": [
+                {
+                    "name": "YU Ziyang 3:4 LIU Dingshuo",
+                    "children": [
+                        {
+                            "name": "YU Ziyang 4:2 YOSHIMURA Maharu"
+                        },
+                        {
+                            "name": "LIN Yun-Ju 2:4 LIU Dingshuo"
+                        }
+                    ]
+                },
+                {
+                    "name": "OSHIMA Yuya 4:2 JEOUNG Youngsik",
+                    "children": [
+                        {
+                            "name": "OSHIMA Yuya 4:0 ARUNA Quadri"
+                        },
+                        {
+                            "name": "LIM Jonghoon 0:4 JEOUNG Youngsik"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "HARIMOTO Tomokazu 2:4 XU Xin",
+            "children": [
+                {
+                    "name": "ZHOU Yu 2:4 HARIMOTO Tomokazu",
+                    "children": [
+                        {
+                            "name": "ZHOU Yu 4:0 GNANASEKARAN Sathiyan"
+                        },
+                        {
+                            "name": "HIRANO Yuki 1:4 HARIMOTO Tomokazu"
+                        }
+                    ]
+                },
+                {
+                    "name": "FRANZISKA Patrick 0:4 XU Xin",
+                    "children": [
+                        {
+                            "name": "ACHANTA Sharath Kamal 3:4 FRANZISKA Patrick"
+                        },
+                        {
+                            "name": "UEDA Jin 2:4 XU Xin"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "name": "LIN Gaoyuan 4:2 HARIMOTO Tomokazu",
+    "children": [
+        {
+            "name": "LIN Gaoyuan 4:1 LIANG Jingkun",
+            "children": [
+                {
+                    "name": "LIN Gaoyuan 4:2 WANG Chuqin",
+                    "children": [
+                        {
+                            "name": "LIN Gaoyuan 4:0 MA Te"
+                        },
+                        {
+                            "name": "WANG Chuqin 4:1 GAUZY Simon"
+                        }
+                    ]
+                },
+                {
+                    "name": "FALCK Mattias 0:4 LIANG Jingkun",
+                    "children": [
+                        {
+                            "name": "FALCK Mattias 4:3 WONG Chun Ting"
+                        },
+                        {
+                            "name": "DUDA Benedikt 1:4 LIANG Jingkun"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "ZHOU Yu 1:4 HARIMOTO Tomokazu",
+            "children": [
+                {
+                    "name": "BOLL Timo 3:4 ZHOU Yu",
+                    "children": [
+                        {
+                            "name": "BOLL Timo 4:3 YOSHIMURA Maharu"
+                        },
+                        {
+                            "name": "ZHOU Yu 4:0 JANG Woojin"
+                        }
+                    ]
+                },
+                {
+                    "name": "MIZUTANI Jun 1:4 HARIMOTO Tomokazu",
+                    "children": [
+                        {
+                            "name": "NIWA Koki 2:4 MIZUTANI Jun"
+                        },
+                        {
+                            "name": "ARUNA Quadri 0:4 HARIMOTO Tomokazu"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

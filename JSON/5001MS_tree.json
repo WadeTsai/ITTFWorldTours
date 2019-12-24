@@ -1,0 +1,59 @@
+{
+    "name": "WANG Chuqin 0:4 LIN Gaoyuan",
+    "children": [
+        {
+            "name": "FAN Zhendong 3:4 WANG Chuqin",
+            "children": [
+                {
+                    "name": "FAN Zhendong 4:1 SHIBAEV Alexander",
+                    "children": [
+                        {
+                            "name": "FAN Zhendong 4:2 CHUANG Chih-Yuan"
+                        },
+                        {
+                            "name": "SHIBAEV Alexander 4:2 WONG Chun Ting"
+                        }
+                    ]
+                },
+                {
+                    "name": "WANG Chuqin 4:2 CALDERANO Hugo",
+                    "children": [
+                        {
+                            "name": "WANG Chuqin 4:2 GAUZY Simon"
+                        },
+                        {
+                            "name": "KARLSSON Kristian 1:4 CALDERANO Hugo"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "LIN Gaoyuan 4:0 XU Xin",
+            "children": [
+                {
+                    "name": "LIN Gaoyuan 4:2 SAMSONOV Vladimir",
+                    "children": [
+                        {
+                            "name": "LIN Gaoyuan 4:2 FANG Bo"
+                        },
+                        {
+                            "name": "SAMSONOV Vladimir 4:0 FRANZISKA Patrick"
+                        }
+                    ]
+                },
+                {
+                    "name": "LIM Jonghoon 0:4 XU Xin",
+                    "children": [
+                        {
+                            "name": "PITCHFORD Liam 3:4 LIM Jonghoon"
+                        },
+                        {
+                            "name": "LIANG Jingkun 3:4 XU Xin"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

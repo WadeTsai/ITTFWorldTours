@@ -1,0 +1,59 @@
+{
+    "name": "DING Ning 3:4 LIU Shiwen",
+    "children": [
+        {
+            "name": "ISHIKAWA Kasumi 0:4 DING Ning",
+            "children": [
+                {
+                    "name": "ISHIKAWA Kasumi 4:1 SATO Hitomi",
+                    "children": [
+                        {
+                            "name": "ISHIKAWA Kasumi 4:1 SHIBATA Saki"
+                        },
+                        {
+                            "name": "JEON Jihee 2:4 SATO Hitomi"
+                        }
+                    ]
+                },
+                {
+                    "name": "DING Ning 4:0 HIRANO Miu",
+                    "children": [
+                        {
+                            "name": "DING Ning 4:0 SUH Hyowon"
+                        },
+                        {
+                            "name": "YU Mengyu 1:4 HIRANO Miu"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "HE Zhuojia 2:4 LIU Shiwen",
+            "children": [
+                {
+                    "name": "ITO Mima 2:4 HE Zhuojia",
+                    "children": [
+                        {
+                            "name": "ITO Mima 4:3 ZENG Jian "
+                        },
+                        {
+                            "name": "HE Zhuojia 4:0 FENG Tianwei"
+                        }
+                    ]
+                },
+                {
+                    "name": "YANG Haeun 0:4 LIU Shiwen",
+                    "children": [
+                        {
+                            "name": "SAWETTABUT Suthasini 2:4 YANG Haeun"
+                        },
+                        {
+                            "name": "GU Yuting 2:4 LIU Shiwen"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

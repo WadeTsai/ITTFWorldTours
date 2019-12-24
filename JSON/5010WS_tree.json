@@ -1,0 +1,59 @@
+{
+    "name": "CHEN Meng 4:3 ITO Mima",
+    "children": [
+        {
+            "name": "CHEN Meng 4:0 LIU Fei",
+            "children": [
+                {
+                    "name": "CHEN Meng 4:2 LIU Shiwen",
+                    "children": [
+                        {
+                            "name": "CHEN Meng 4:1 WANG Yidi"
+                        },
+                        {
+                            "name": "CHEN Xingtong 1:4 LIU Shiwen"
+                        }
+                    ]
+                },
+                {
+                    "name": "LIU Fei 4:1 QIAN Tianyi",
+                    "children": [
+                        {
+                            "name": "LIU Fei 4:2 GU Yuting"
+                        },
+                        {
+                            "name": "QIAN Tianyi 4:0 NAGASAKI Miyu"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "ITO Mima 4:2 SUN Yingsha",
+            "children": [
+                {
+                    "name": "WANG Manyu 1:4 ITO Mima",
+                    "children": [
+                        {
+                            "name": "WANG Manyu 4:0 YANG Xiaoxin "
+                        },
+                        {
+                            "name": "HIRANO Miu 3:4 ITO Mima"
+                        }
+                    ]
+                },
+                {
+                    "name": "SUN Yingsha 4:0 DING Ning",
+                    "children": [
+                        {
+                            "name": "SUN Yingsha 4:2 HASHIMOTO Honoka"
+                        },
+                        {
+                            "name": "CHENG I-Ching 0:4 DING Ning"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

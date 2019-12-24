@@ -1,0 +1,59 @@
+{
+    "name": "HE Zhuojia 1:4 CHEN Xingtong",
+    "children": [
+        {
+            "name": "HE Zhuojia 4:2 WU Yang",
+            "children": [
+                {
+                    "name": "ISHIKAWA Kasumi 0:4 HE Zhuojia",
+                    "children": [
+                        {
+                            "name": "ISHIKAWA Kasumi 4:1 SZOCS Bernadette"
+                        },
+                        {
+                            "name": "MU Zi 2:4 HE Zhuojia"
+                        }
+                    ]
+                },
+                {
+                    "name": "SATO Hitomi 0:4 WU Yang",
+                    "children": [
+                        {
+                            "name": "SATO Hitomi 4:1 ANDO Minami"
+                        },
+                        {
+                            "name": "WU Yang 4:1 SUH Hyowon"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "CHEN Xingtong 4:3 ITO Mima",
+            "children": [
+                {
+                    "name": "CHEN Xingtong 4:0 JEON Jihee",
+                    "children": [
+                        {
+                            "name": "HIRANO Miu 0:4 CHEN Xingtong"
+                        },
+                        {
+                            "name": "HAYATA Hina 2:4 JEON Jihee"
+                        }
+                    ]
+                },
+                {
+                    "name": "YU Mengyu 1:4 ITO Mima",
+                    "children": [
+                        {
+                            "name": "YU Mengyu 4:2 KATO Miyu"
+                        },
+                        {
+                            "name": "FAN Siqi 0:4 ITO Mima"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
