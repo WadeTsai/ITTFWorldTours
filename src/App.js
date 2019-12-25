@@ -50,7 +50,7 @@ const useStyles = makeStyles(theme => ({
     padding: theme.spacing(3),
   },
   card: {
-    maxWidth: 1000,
+    maxWidth: 1050,
   },
   closeButton: {
     position: 'absolute',
@@ -171,7 +171,7 @@ export default function ITTFWorldTours() {
             }}
             textProps={{x: -25, y: 25}}
             height={640}
-            width={900}/>
+            width={1000}/>
         </Card>
       </main>
 
