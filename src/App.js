@@ -143,7 +143,7 @@ export default function ITTFWorldTours() {
         <Divider />
         <TreeView
           className={classes.root}
-          defaultExpanded={['1', '2', '3']}
+          defaultExpanded={['1', '2', '3', '101']}
           defaultCollapseIcon={<ExpandMoreIcon />}
           defaultExpandIcon={<ChevronRightIcon />}
         >
