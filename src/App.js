@@ -165,7 +165,7 @@ export default function ITTFWorldTours() {
             className='node'
             data={data}
             nodeRadius={15}
-            margins={{ top: 30, bottom: 10, left: 20, right: 120 }}
+            margins={{ top: 30, bottom: 10, left: 20, right: 250 }}
             gProps={{
                 onClick: handleClick
             }}
