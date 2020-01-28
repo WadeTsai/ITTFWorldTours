@@ -1,0 +1,59 @@
+{
+    "name": "HE Zhuojia 4:1 CHEN Yi",
+    "children": [
+        {
+            "name": "HE Zhuojia 4:1 ZHANG Qiang",
+            "children": [
+                {
+                    "name": "HE Zhuojia 4:0 FAN Siqi",
+                    "children": [
+                        {
+                            "name": "HE Zhuojia 4:0 BAJOR Natalia"
+                        },
+                        {
+                            "name": "CHOI Hyojoo 0:4 FAN Siqi"
+                        }
+                    ]
+                },
+                {
+                    "name": "ZHANG Qiang 4:2 HAYATA Hina",
+                    "children": [
+                        {
+                            "name": "ZHANG Qiang 4:0 ODO Satsuki"
+                        },
+                        {
+                            "name": "MORET Rachel 0:4 HAYATA Hina"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "YANG Haeun 1:4 CHEN Yi",
+            "children": [
+                {
+                    "name": "YANG Haeun 4:3 HASHIMOTO Honoka",
+                    "children": [
+                        {
+                            "name": "VIVARELLI Debora 2:4 YANG Haeun"
+                        },
+                        {
+                            "name": "SHIN Yubin 2:4 HASHIMOTO Honoka"
+                        }
+                    ]
+                },
+                {
+                    "name": "CHEN Yi 4:1 CIOBANU Irina",
+                    "children": [
+                        {
+                            "name": "CHEN Yi 4:1 YANG Xiaoxin "
+                        },
+                        {
+                            "name": "CIOBANU Irina 4:1 LEE Zion"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

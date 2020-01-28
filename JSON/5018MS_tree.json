@@ -1,0 +1,59 @@
+{
+    "name": "DYJAS Jakub 2:4 WEI Shihao ",
+    "children": [
+        {
+            "name": "HABESOHN Daniel 1:4 DYJAS Jakub",
+            "children": [
+                {
+                    "name": "HABESOHN Daniel 4:1 BADOWSKI Marek",
+                    "children": [
+                        {
+                            "name": "HABESOHN Daniel 4:3 LIND Anders"
+                        },
+                        {
+                            "name": "BADOWSKI Marek 4:1 PUCAR Tomislav"
+                        }
+                    ]
+                },
+                {
+                    "name": "DYJAS Jakub 4:3 YOSHIDA Masaki",
+                    "children": [
+                        {
+                            "name": "LANDRIEU Andrea 3:4 DYJAS Jakub"
+                        },
+                        {
+                            "name": "OUAICHE Stephane 0:4 YOSHIDA Masaki"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "JIN Takuya 1:4 WEI Shihao ",
+            "children": [
+                {
+                    "name": "JIN Takuya 4:1 JOUTI Eric",
+                    "children": [
+                        {
+                            "name": "JIN Takuya 4:3 FILUS Ruwen"
+                        },
+                        {
+                            "name": "JOUTI Eric 4:0 KONECNY Tomas"
+                        }
+                    ]
+                },
+                {
+                    "name": "PISTEJ Lubomir 3:4 WEI Shihao ",
+                    "children": [
+                        {
+                            "name": "PISTEJ Lubomir 4:1 SIDORENKO Vladimir"
+                        },
+                        {
+                            "name": "SZOCS Hunor 0:4 WEI Shihao "
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

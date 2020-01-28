@@ -1,0 +1,59 @@
+{
+    "name": "DRINKHALL Paul 4:2 SALIFOU Abdel-Kader",
+    "children": [
+        {
+            "name": "DRINKHALL Paul 4:3 LANDRIEU Andrea",
+            "children": [
+                {
+                    "name": "DRINKHALL Paul 4:1 TAHARA Shogo",
+                    "children": [
+                        {
+                            "name": "FEGERL Stefan 3:4 DRINKHALL Paul"
+                        },
+                        {
+                            "name": "DESAI Harmeet 3:4 TAHARA Shogo"
+                        }
+                    ]
+                },
+                {
+                    "name": "LANDRIEU Andrea 4:1 KOJIC Frane",
+                    "children": [
+                        {
+                            "name": "MATSUYAMA Yuki 3:4 LANDRIEU Andrea"
+                        },
+                        {
+                            "name": "KOJIC Frane 4:2 AGUIRRE Marcelo"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "AFANADOR Brian 2:4 SALIFOU Abdel-Kader",
+            "children": [
+                {
+                    "name": "AFANADOR Brian 4:1 TANAKA Yuta",
+                    "children": [
+                        {
+                            "name": "SZUDI Adam 3:4 AFANADOR Brian"
+                        },
+                        {
+                            "name": "BUROV Viacheslav 2:4 TANAKA Yuta"
+                        }
+                    ]
+                },
+                {
+                    "name": "SALIFOU Abdel-Kader 4:0 KATSMAN Lev",
+                    "children": [
+                        {
+                            "name": "SALIFOU Abdel-Kader 4:2 CARVALHO Diogo"
+                        },
+                        {
+                            "name": "KATSMAN Lev 4:1 PUCAR Tomislav"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

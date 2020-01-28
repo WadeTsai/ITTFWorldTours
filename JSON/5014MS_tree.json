@@ -1,0 +1,59 @@
+{
+    "name": "LIN Gaoyuan 1:4 LIANG Jingkun",
+    "children": [
+        {
+            "name": "LIN Gaoyuan 4:2 SAMSONOV Vladimir",
+            "children": [
+                {
+                    "name": "LIN Gaoyuan 4:1 SIRUCEK Pavel",
+                    "children": [
+                        {
+                            "name": "LIN Gaoyuan 4:1 MOREGARD Truls"
+                        },
+                        {
+                            "name": "SIRUCEK Pavel 4:2 ARUNA Quadri"
+                        }
+                    ]
+                },
+                {
+                    "name": "XU Yingbin 1:4 SAMSONOV Vladimir",
+                    "children": [
+                        {
+                            "name": "HABESOHN Daniel 1:4 XU Yingbin"
+                        },
+                        {
+                            "name": "KOZUL Deni 0:4 SAMSONOV Vladimir"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "LIANG Jingkun 4:3 LIU Yebo",
+            "children": [
+                {
+                    "name": "LIANG Jingkun 4:0 NIU Guankai",
+                    "children": [
+                        {
+                            "name": "LIANG Jingkun 4:1 WANG Chuqin"
+                        },
+                        {
+                            "name": "QIU Dang 1:4 NIU Guankai"
+                        }
+                    ]
+                },
+                {
+                    "name": "UDA Yukiya 3:4 LIU Yebo",
+                    "children": [
+                        {
+                            "name": "ASSAR Omar 2:4 UDA Yukiya"
+                        },
+                        {
+                            "name": "SZOCS Hunor 3:4 LIU Yebo"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

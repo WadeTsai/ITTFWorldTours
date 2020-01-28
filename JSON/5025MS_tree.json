@@ -1,0 +1,59 @@
+{
+    "name": "BADOWSKI Marek 1:4 XU Yingbin",
+    "children": [
+        {
+            "name": "PARK Chan-Hyeok 2:4 BADOWSKI Marek",
+            "children": [
+                {
+                    "name": "GIONIS Panagiotis 2:4 PARK Chan-Hyeok",
+                    "children": [
+                        {
+                            "name": "GIONIS Panagiotis 4:0 CHEN Shuainan "
+                        },
+                        {
+                            "name": "PARK Chan-Hyeok 4:0 CIFUENTES Horacio"
+                        }
+                    ]
+                },
+                {
+                    "name": "JARVIS Tom 1:4 BADOWSKI Marek",
+                    "children": [
+                        {
+                            "name": "DYJAS Jakub 2:4 JARVIS Tom"
+                        },
+                        {
+                            "name": "BADOWSKI Marek 4:0 KULCZYCKI Samuel"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "XU Haidong 3:4 XU Yingbin",
+            "children": [
+                {
+                    "name": "XU Haidong 4:0 MONTEIRO Thiago",
+                    "children": [
+                        {
+                            "name": "SHINOZUKA Hiroto 3:4 XU Haidong"
+                        },
+                        {
+                            "name": "SONE Kakeru 0:4 MONTEIRO Thiago"
+                        }
+                    ]
+                },
+                {
+                    "name": "XIANG Peng 0:4 XU Yingbin",
+                    "children": [
+                        {
+                            "name": "PLETEA Cristian 2:4 XIANG Peng"
+                        },
+                        {
+                            "name": "YOKOTANI Jo 0:4 XU Yingbin"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

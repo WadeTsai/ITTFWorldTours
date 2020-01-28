@@ -1,0 +1,59 @@
+{
+    "name": "AKKUZU Can 2:4 XIANG Peng",
+    "children": [
+        {
+            "name": "AKKUZU Can 4:2 ZHOU Kai",
+            "children": [
+                {
+                    "name": "ZHAO Zhaoyan 3:4 AKKUZU Can",
+                    "children": [
+                        {
+                            "name": "YUAN Licen 2:4 ZHAO Zhaoyan"
+                        },
+                        {
+                            "name": "MAJOROS Bence 0:4 AKKUZU Can"
+                        }
+                    ]
+                },
+                {
+                    "name": "ZHOU Kai 4:3 XU Haidong",
+                    "children": [
+                        {
+                            "name": "XUE Fei 3:4 ZHOU Kai"
+                        },
+                        {
+                            "name": "XU Haidong 4:3 YOSHIMURA Maharu"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "XIANG Peng 4:2 JORGIC Darko",
+            "children": [
+                {
+                    "name": "THAKKAR Manav Vikash 2:4 XIANG Peng",
+                    "children": [
+                        {
+                            "name": "ROBINOT Alexandre 1:4 THAKKAR Manav Vikash"
+                        },
+                        {
+                            "name": "XIANG Peng 4:3 LIU Yebo"
+                        }
+                    ]
+                },
+                {
+                    "name": "JORGIC Darko 4:2 WANG Eugene ",
+                    "children": [
+                        {
+                            "name": "JORGIC Darko 4:0 ROLLAND Jules"
+                        },
+                        {
+                            "name": "WANG Eugene  4:3 CAO Wei"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

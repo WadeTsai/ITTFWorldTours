@@ -1,0 +1,59 @@
+{
+    "name": "KALLBERG Anton 4:1 KARLSSON Kristian",
+    "children": [
+        {
+            "name": "CHUANG Chih-Yuan 3:4 KALLBERG Anton",
+            "children": [
+                {
+                    "name": "CHUANG Chih-Yuan 4:1 TOGAMI Shunsuke",
+                    "children": [
+                        {
+                            "name": "CHUANG Chih-Yuan 4:3 WEI Shihao "
+                        },
+                        {
+                            "name": "TOGAMI Shunsuke 4:1 MORIZONO Masataka"
+                        }
+                    ]
+                },
+                {
+                    "name": "DEVOS Robin 3:4 KALLBERG Anton",
+                    "children": [
+                        {
+                            "name": "DEVOS Robin 4:3 LAMBIET Florent"
+                        },
+                        {
+                            "name": "KALLBERG Anton 4:3 JHA Kanak"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "PUCAR Tomislav 1:4 KARLSSON Kristian",
+            "children": [
+                {
+                    "name": "PUCAR Tomislav 4:0 SKACHKOV Kirill",
+                    "children": [
+                        {
+                            "name": "JIN Takuya 1:4 PUCAR Tomislav"
+                        },
+                        {
+                            "name": "SKACHKOV Kirill 4:2 JORGIC Darko"
+                        }
+                    ]
+                },
+                {
+                    "name": "DUDA Benedikt 0:4 KARLSSON Kristian",
+                    "children": [
+                        {
+                            "name": "DUDA Benedikt 4:1 UDA Yukiya"
+                        },
+                        {
+                            "name": "AKKUZU Can 1:4 KARLSSON Kristian"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "name": "FAN Siqi 2:4 HAYATA Hina",
+    "children": [
+        {
+            "name": "ZHANG Qiang 2:4 FAN Siqi",
+            "children": [
+                {
+                    "name": "ZHANG Qiang 4:1 FENG Yalan",
+                    "children": [
+                        {
+                            "name": "SHIBATA Saki 0:4 ZHANG Qiang"
+                        },
+                        {
+                            "name": "FENG Yalan 4:1 MIGOT Marie"
+                        }
+                    ]
+                },
+                {
+                    "name": "YANG Xiaoxin  0:4 FAN Siqi",
+                    "children": [
+                        {
+                            "name": "NI Xia Lian 0:4 YANG Xiaoxin "
+                        },
+                        {
+                            "name": "WANG Xiaotong 2:4 FAN Siqi"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "HASHIMOTO Honoka 2:4 HAYATA Hina",
+            "children": [
+                {
+                    "name": "HASHIMOTO Honoka 4:1 KUAI Man",
+                    "children": [
+                        {
+                            "name": "HASHIMOTO Honoka 4:1 WU Yangchen"
+                        },
+                        {
+                            "name": "KUAI Man 4:1 NOSKOVA Yana"
+                        }
+                    ]
+                },
+                {
+                    "name": "ZHANG Sofia-Xuan 0:4 HAYATA Hina",
+                    "children": [
+                        {
+                            "name": "ZHANG Sofia-Xuan 4:1 KIM Haeun"
+                        },
+                        {
+                            "name": "SHI Xunyao 1:4 HAYATA Hina"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

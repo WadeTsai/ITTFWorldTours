@@ -1,0 +1,59 @@
+{
+    "name": "SATO Hitomi 4:3 SHIBATA Saki",
+    "children": [
+        {
+            "name": "SATO Hitomi 4:3 HASHIMOTO Honoka",
+            "children": [
+                {
+                    "name": "SATO Hitomi 4:0 KIMURA Mitsuho",
+                    "children": [
+                        {
+                            "name": "SATO Hitomi 4:2 YOON Hyobin"
+                        },
+                        {
+                            "name": "KIMURA Mitsuho 4:1 LEE Nakyung"
+                        }
+                    ]
+                },
+                {
+                    "name": "PARANANG Orawan 3:4 HASHIMOTO Honoka",
+                    "children": [
+                        {
+                            "name": "YU Hsiu-Ting 3:4 PARANANG Orawan"
+                        },
+                        {
+                            "name": "MORITA Ayane 0:4 HASHIMOTO Honoka"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "MORI Sakura 2:4 SHIBATA Saki",
+            "children": [
+                {
+                    "name": "SAWETTABUT Suthasini 0:4 MORI Sakura",
+                    "children": [
+                        {
+                            "name": "SAWETTABUT Suthasini 4:2 MATSUDAIRA Shiho"
+                        },
+                        {
+                            "name": "LUTZ Camille 2:4 MORI Sakura"
+                        }
+                    ]
+                },
+                {
+                    "name": "NARUMOTO Ayami 1:4 SHIBATA Saki",
+                    "children": [
+                        {
+                            "name": "SHIOMI Maki 1:4 NARUMOTO Ayami"
+                        },
+                        {
+                            "name": "HWANG Jina 0:4 SHIBATA Saki"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

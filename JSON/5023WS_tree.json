@@ -1,0 +1,59 @@
+{
+    "name": "HAYATA Hina 4:2 HASHIMOTO Honoka",
+    "children": [
+        {
+            "name": "DIAZ Adriana 1:4 HAYATA Hina",
+            "children": [
+                {
+                    "name": "DIAZ Adriana 4:2 DIAZ Melanie",
+                    "children": [
+                        {
+                            "name": "DIAZ Adriana 4:0 IWASA Agustina"
+                        },
+                        {
+                            "name": "VEGA Paulina 2:4 DIAZ Melanie"
+                        }
+                    ]
+                },
+                {
+                    "name": "RIOS Daniely 0:4 HAYATA Hina",
+                    "children": [
+                        {
+                            "name": "VIVARELLI Debora 3:4 RIOS Daniely"
+                        },
+                        {
+                            "name": "CODINA Ana 0:4 HAYATA Hina"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "BALAZOVA Barbora 0:4 HASHIMOTO Honoka",
+            "children": [
+                {
+                    "name": "BALAZOVA Barbora 4:3 TAKAHASHI Bruna",
+                    "children": [
+                        {
+                            "name": "BALAZOVA Barbora 4:2 ORTEGA Daniela"
+                        },
+                        {
+                            "name": "ARGUELLES Camila 0:4 TAKAHASHI Bruna"
+                        }
+                    ]
+                },
+                {
+                    "name": "SHIOMI Maki 0:4 HASHIMOTO Honoka",
+                    "children": [
+                        {
+                            "name": "SHIOMI Maki 4:1 KUMAHARA Caroline"
+                        },
+                        {
+                            "name": "SILVA Yadira 0:4 HASHIMOTO Honoka"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

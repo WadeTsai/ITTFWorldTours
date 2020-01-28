@@ -79,10 +79,13 @@ export default function ITTFWorldTours() {
   };
   const handleClose = () => setOpen(false);
 
-  let event2019ID = 5014;
+  let event2019ID = 5031;
   const TreeItems2019 = [];
-  for (let i = 3; i < 43; i = i + 3) {
+  for (let i = 3; i < 94; i = i + 3) {
     event2019ID = event2019ID -1;
+    if (event2019ID === 5024 | event2019ID === 5027 | event2019ID === 5029) {
+      continue;
+    }
     const eventIDStr = event2019ID.toString();
     TreeItems2019.push(
       <TreeItem nodeId={i.toString()} label={events2019[eventIDStr]}>
@@ -143,7 +146,7 @@ export default function ITTFWorldTours() {
         <Divider />
         <TreeView
           className={classes.root}
-          defaultExpanded={['1', '2', '3', '101']}
+          defaultExpanded={['1', '2', '54', '101']}
           defaultCollapseIcon={<ExpandMoreIcon />}
           defaultExpandIcon={<ChevronRightIcon />}
         >

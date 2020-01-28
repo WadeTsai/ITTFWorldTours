@@ -1,0 +1,59 @@
+{
+    "name": "HAYATA Hina 4:1 SOO Wai Yam Minnie",
+    "children": [
+        {
+            "name": "HAYATA Hina 4:0 MIKHAILOVA Polina",
+            "children": [
+                {
+                    "name": "HAYATA Hina 4:1 PERGEL Szandra",
+                    "children": [
+                        {
+                            "name": "HAYATA Hina 4:1 ABE Airi"
+                        },
+                        {
+                            "name": "ROY Krittwika 3:4 PERGEL Szandra"
+                        }
+                    ]
+                },
+                {
+                    "name": "MIKHAILOVA Polina 4:3 NG Wing Nam",
+                    "children": [
+                        {
+                            "name": "MIKHAILOVA Polina 4:0 ZHU Chengzhu"
+                        },
+                        {
+                            "name": "LOEUILLETTE Stephanie 2:4 NG Wing Nam"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "BALAZOVA Barbora 0:4 SOO Wai Yam Minnie",
+            "children": [
+                {
+                    "name": "BALAZOVA Barbora 4:0 BIKBAEVA Anna",
+                    "children": [
+                        {
+                            "name": "BALAZOVA Barbora 4:0 ZHANG Wenjing "
+                        },
+                        {
+                            "name": "MADARASZ Dora 0:4 BIKBAEVA Anna"
+                        }
+                    ]
+                },
+                {
+                    "name": "LI Xiang  2:4 SOO Wai Yam Minnie",
+                    "children": [
+                        {
+                            "name": "LI Xiang  4:0 ZARIF Audrey"
+                        },
+                        {
+                            "name": "MORI Sakura 1:4 SOO Wai Yam Minnie"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

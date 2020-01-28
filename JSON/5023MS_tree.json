@@ -1,0 +1,59 @@
+{
+    "name": "MORIZONO Masataka 4:0 GARDOS Robert",
+    "children": [
+        {
+            "name": "CIFUENTES Horacio 0:4 MORIZONO Masataka",
+            "children": [
+                {
+                    "name": "CIFUENTES Horacio 4:1 PISTEJ Lubomir",
+                    "children": [
+                        {
+                            "name": "ZHANG Kai 1:4 CIFUENTES Horacio"
+                        },
+                        {
+                            "name": "MINO Alberto 1:4 PISTEJ Lubomir"
+                        }
+                    ]
+                },
+                {
+                    "name": "MONTEIRO Thiago 1:4 MORIZONO Masataka",
+                    "children": [
+                        {
+                            "name": "MONTEIRO Thiago 4:0 MADRID Marcos"
+                        },
+                        {
+                            "name": "ALLEGRO Martin 1:4 MORIZONO Masataka"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "GARDOS Robert 4:0 ISHIY Vitor",
+            "children": [
+                {
+                    "name": "GARDOS Robert 4:2 SZOCS Hunor",
+                    "children": [
+                        {
+                            "name": "GARDOS Robert 4:2 MATSUMOTO Cazuo"
+                        },
+                        {
+                            "name": "SZOCS Hunor 4:2 STOYANOV Niagol"
+                        }
+                    ]
+                },
+                {
+                    "name": "AFANADOR Brian 1:4 ISHIY Vitor",
+                    "children": [
+                        {
+                            "name": "JOUTI Eric 1:4 AFANADOR Brian"
+                        },
+                        {
+                            "name": "ISHIY Vitor 4:0 TSUBOI Gustavo"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "name": "CHENG I-Ching 1:4 HAYATA Hina",
+    "children": [
+        {
+            "name": "CHENG I-Ching 4:2 SATO Hitomi",
+            "children": [
+                {
+                    "name": "CHENG I-Ching 4:3 HASHIMOTO Honoka",
+                    "children": [
+                        {
+                            "name": "CHENG I-Ching 4:0 LIN Ye"
+                        },
+                        {
+                            "name": "ODO Satsuki 0:4 HASHIMOTO Honoka"
+                        }
+                    ]
+                },
+                {
+                    "name": "SAWETTABUT Suthasini 2:4 SATO Hitomi",
+                    "children": [
+                        {
+                            "name": "SAWETTABUT Suthasini 4:1 MESHREF Dina"
+                        },
+                        {
+                            "name": "TRIGOLOS Daria 2:4 SATO Hitomi"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "HAYATA Hina 4:1 HIRANO Miu",
+            "children": [
+                {
+                    "name": "HAYATA Hina 4:0 SZOCS Bernadette",
+                    "children": [
+                        {
+                            "name": "SHIBATA Saki 1:4 HAYATA Hina"
+                        },
+                        {
+                            "name": "MORI Sakura 1:4 SZOCS Bernadette"
+                        }
+                    ]
+                },
+                {
+                    "name": "PAVLOVICH Viktoria 0:4 HIRANO Miu",
+                    "children": [
+                        {
+                            "name": "PAVLOVICH Viktoria 4:3 CHENG Hsien-Tzu"
+                        },
+                        {
+                            "name": "SHIOMI Maki 1:4 HIRANO Miu"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

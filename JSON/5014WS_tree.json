@@ -1,0 +1,59 @@
+{
+    "name": "HAYATA Hina 4:3 HASHIMOTO Honoka",
+    "children": [
+        {
+            "name": "HAYATA Hina 4:1 HU Limei",
+            "children": [
+                {
+                    "name": "HAYATA Hina 4:0 POTA Georgina",
+                    "children": [
+                        {
+                            "name": "LIU Shiwen 2:4 HAYATA Hina"
+                        },
+                        {
+                            "name": "HUANG Hsin 0:4 POTA Georgina"
+                        }
+                    ]
+                },
+                {
+                    "name": "HU Limei 4:3 SHIBATA Saki",
+                    "children": [
+                        {
+                            "name": "HU Limei 4:2 KUAI Man"
+                        },
+                        {
+                            "name": "SU Pei-Ling 1:4 SHIBATA Saki"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "LI Jiayuan 1:4 HASHIMOTO Honoka",
+            "children": [
+                {
+                    "name": "LI Jiayuan 4:2 KATO Miyu",
+                    "children": [
+                        {
+                            "name": "SAMARA Elizabeta 1:4 LI Jiayuan"
+                        },
+                        {
+                            "name": "SOO Wai Yam Minnie 3:4 KATO Miyu"
+                        }
+                    ]
+                },
+                {
+                    "name": "HASHIMOTO Honoka 4:3 FAN Siqi",
+                    "children": [
+                        {
+                            "name": "HASHIMOTO Honoka 4:3 BAJOR Natalia"
+                        },
+                        {
+                            "name": "FAN Siqi 4:1 SATO Hitomi"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

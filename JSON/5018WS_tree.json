@@ -1,0 +1,59 @@
+{
+    "name": "PESOTSKA Margaryta 3:4 POTA Georgina",
+    "children": [
+        {
+            "name": "PESOTSKA Margaryta 4:0 ODO Satsuki",
+            "children": [
+                {
+                    "name": "ZHANG Lily 2:4 PESOTSKA Margaryta",
+                    "children": [
+                        {
+                            "name": "DIAZ Adriana 2:4 ZHANG Lily"
+                        },
+                        {
+                            "name": "HAMAMOTO Yui  2:4 PESOTSKA Margaryta"
+                        }
+                    ]
+                },
+                {
+                    "name": "ODO Satsuki 4:3 NAGASAKI Miyu",
+                    "children": [
+                        {
+                            "name": "SHIN Yubin 1:4 ODO Satsuki"
+                        },
+                        {
+                            "name": "SHAO Jieni  3:4 NAGASAKI Miyu"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "SOO Wai Yam Minnie 3:4 POTA Georgina",
+            "children": [
+                {
+                    "name": "SOO Wai Yam Minnie 4:0 MADARASZ Dora",
+                    "children": [
+                        {
+                            "name": "SOO Wai Yam Minnie 4:3 VOROBEVA Olga"
+                        },
+                        {
+                            "name": "MADARASZ Dora 4:1 SOMA Yumeno"
+                        }
+                    ]
+                },
+                {
+                    "name": "TAKAHASHI Bruna 3:4 POTA Georgina",
+                    "children": [
+                        {
+                            "name": "BAJOR Natalia 1:4 TAKAHASHI Bruna"
+                        },
+                        {
+                            "name": "KOLISH Anastasia 1:4 POTA Georgina"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

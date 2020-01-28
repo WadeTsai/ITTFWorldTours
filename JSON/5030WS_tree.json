@@ -1,0 +1,59 @@
+{
+    "name": "ISHIKAWA Kasumi 4:2 HIRANO Miu",
+    "children": [
+        {
+            "name": "ISHIKAWA Kasumi 4:1 KATO Miyu",
+            "children": [
+                {
+                    "name": "ISHIKAWA Kasumi 4:0 WANG Xiaotong",
+                    "children": [
+                        {
+                            "name": "ISHIKAWA Kasumi 4:0 ZHANG Qiang"
+                        },
+                        {
+                            "name": "WANG Xiaotong 4:3 GUO Yuhan"
+                        }
+                    ]
+                },
+                {
+                    "name": "LI Jiayi 2:4 KATO Miyu",
+                    "children": [
+                        {
+                            "name": "BATRA Manika 3:4 LI Jiayi"
+                        },
+                        {
+                            "name": "LENG Yutong 1:4 KATO Miyu"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "SATO Hitomi 2:4 HIRANO Miu",
+            "children": [
+                {
+                    "name": "SATO Hitomi 4:2 MITTELHAM Nina",
+                    "children": [
+                        {
+                            "name": "SATO Hitomi 4:3 MIKHAILOVA Polina"
+                        },
+                        {
+                            "name": "MITTELHAM Nina 4:3 YANG Xiaoxin "
+                        }
+                    ]
+                },
+                {
+                    "name": "HASHIMOTO Honoka 3:4 HIRANO Miu",
+                    "children": [
+                        {
+                            "name": "HASHIMOTO Honoka 4:0 NOSKOVA Yana"
+                        },
+                        {
+                            "name": "PESOTSKA Margaryta 1:4 HIRANO Miu"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

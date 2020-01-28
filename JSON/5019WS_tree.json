@@ -1,0 +1,59 @@
+{
+    "name": "KIHARA Miyuu 4:3 KATO Miyu",
+    "children": [
+        {
+            "name": "NAGASAKI Miyu 2:4 KIHARA Miyuu",
+            "children": [
+                {
+                    "name": "OJIO Haruna 1:4 NAGASAKI Miyu",
+                    "children": [
+                        {
+                            "name": "OJIO Haruna 4:1 WU Yue"
+                        },
+                        {
+                            "name": "SOLJA Amelie 0:4 NAGASAKI Miyu"
+                        }
+                    ]
+                },
+                {
+                    "name": "DIAZ Adriana 0:4 KIHARA Miyuu",
+                    "children": [
+                        {
+                            "name": "DIAZ Adriana 4:0 SHIOMI Maki"
+                        },
+                        {
+                            "name": "KIHARA Miyuu 4:0 SU Pei-Ling"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "ODO Satsuki 2:4 KATO Miyu",
+            "children": [
+                {
+                    "name": "ODO Satsuki 4:1 SHIN Yubin",
+                    "children": [
+                        {
+                            "name": "SAMARA Elizabeta 2:4 ODO Satsuki"
+                        },
+                        {
+                            "name": "SHIN Yubin 4:2 BILENKO Tetyana"
+                        }
+                    ]
+                },
+                {
+                    "name": "KATO Miyu 4:1 SHIBATA Saki",
+                    "children": [
+                        {
+                            "name": "KATO Miyu 4:2 SUN Jiayi "
+                        },
+                        {
+                            "name": "KOMWONG Nanthana 2:4 SHIBATA Saki"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

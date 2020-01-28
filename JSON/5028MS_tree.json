@@ -1,0 +1,59 @@
+{
+    "name": "DESAI Harmeet 4:2 ANTHONY Amalraj",
+    "children": [
+        {
+            "name": "LAM Siu Hang 2:4 DESAI Harmeet",
+            "children": [
+                {
+                    "name": "LAMBIET Florent 1:4 LAM Siu Hang",
+                    "children": [
+                        {
+                            "name": "LAMBIET Florent 4:3 HODAEI Amir Hossein"
+                        },
+                        {
+                            "name": "YOKOTANI Jo 1:4 LAM Siu Hang"
+                        }
+                    ]
+                },
+                {
+                    "name": "KIZUKURI Yuto 2:4 DESAI Harmeet",
+                    "children": [
+                        {
+                            "name": "MATSUYAMA Yuki 2:4 KIZUKURI Yuto"
+                        },
+                        {
+                            "name": "NG Pak Nam 0:4 DESAI Harmeet"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "DIAW Ibrahima 0:4 ANTHONY Amalraj",
+            "children": [
+                {
+                    "name": "ALLEGRO Martin 3:4 DIAW Ibrahima",
+                    "children": [
+                        {
+                            "name": "ALLEGRO Martin 4:3 HACHARD Antoine"
+                        },
+                        {
+                            "name": "TANVIRIYAVECHAKUL Padasak 2:4 DIAW Ibrahima"
+                        }
+                    ]
+                },
+                {
+                    "name": "ANTHONY Amalraj 4:0 MONTEIRO Joao",
+                    "children": [
+                        {
+                            "name": "ANTHONY Amalraj 4:0 BROSSIER Benjamin"
+                        },
+                        {
+                            "name": "TAKAMI Masaki 0:4 MONTEIRO Joao"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

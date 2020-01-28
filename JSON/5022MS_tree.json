@@ -1,0 +1,59 @@
+{
+    "name": "ARUNA Quadri 4:2 GARDOS Robert",
+    "children": [
+        {
+            "name": "ARUNA Quadri 4:1 GHOSH Soumyajit",
+            "children": [
+                {
+                    "name": "ARUNA Quadri 4:0 MONTEIRO Thiago",
+                    "children": [
+                        {
+                            "name": "ARUNA Quadri 4:0 EL-BEIALI Mohamed"
+                        },
+                        {
+                            "name": "DIAW Ibrahima 3:4 MONTEIRO Thiago"
+                        }
+                    ]
+                },
+                {
+                    "name": "GHOSH Soumyajit 4:0 ROBINOT Alexandre",
+                    "children": [
+                        {
+                            "name": "STEGER Bastian 0:4 GHOSH Soumyajit"
+                        },
+                        {
+                            "name": "ROBINOT Alexandre 4:2 TOKIC Bojan"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "GARDOS Robert 4:2 NUYTINCK Cedric",
+            "children": [
+                {
+                    "name": "GARDOS Robert 4:3 SIPOS Rares",
+                    "children": [
+                        {
+                            "name": "GARDOS Robert 4:0 ASSAR Khalid"
+                        },
+                        {
+                            "name": "MENGEL Steffen 1:4 SIPOS Rares"
+                        }
+                    ]
+                },
+                {
+                    "name": "SALEH Ahmed 3:4 NUYTINCK Cedric",
+                    "children": [
+                        {
+                            "name": "WISUTMAYTHANGKOON Supanut 0:4 SALEH Ahmed"
+                        },
+                        {
+                            "name": "ORT Kilian 1:4 NUYTINCK Cedric"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

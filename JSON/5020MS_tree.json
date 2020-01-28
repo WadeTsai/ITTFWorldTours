@@ -1,0 +1,59 @@
+{
+    "name": "SEO Hyundeok 2:4 FILUS Ruwen",
+    "children": [
+        {
+            "name": "SEO Hyundeok 4:3 TANAKA Yuta",
+            "children": [
+                {
+                    "name": "CHO Jaejun 0:4 SEO Hyundeok",
+                    "children": [
+                        {
+                            "name": "PARK Gyeongtae 1:4 CHO Jaejun"
+                        },
+                        {
+                            "name": "DIAW Ibrahima 1:4 SEO Hyundeok"
+                        }
+                    ]
+                },
+                {
+                    "name": "WANG Tai-Wei 2:4 TANAKA Yuta",
+                    "children": [
+                        {
+                            "name": "WANG Tai-Wei 4:3 ORT Kilian"
+                        },
+                        {
+                            "name": "TANAKA Yuta 4:3 OIKAWA Mizuki"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "FILUS Ruwen 4:3 LANDRIEU Andrea",
+            "children": [
+                {
+                    "name": "FILUS Ruwen 4:0 YEH Chih-Wei",
+                    "children": [
+                        {
+                            "name": "FILUS Ruwen 4:3 SALIFOU Abdel-Kader"
+                        },
+                        {
+                            "name": "YEH Chih-Wei 4:1 OH Minseo"
+                        }
+                    ]
+                },
+                {
+                    "name": "LANDRIEU Andrea 4:0 MATSUDAIRA Kenta",
+                    "children": [
+                        {
+                            "name": "HUANG Yan-Cheng 1:4 LANDRIEU Andrea"
+                        },
+                        {
+                            "name": "BAEK Hogyun 1:4 MATSUDAIRA Kenta"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

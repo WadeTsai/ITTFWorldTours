@@ -1,0 +1,59 @@
+{
+    "name": "KATO Miyu 4:2 DIACONU Adina",
+    "children": [
+        {
+            "name": "KATO Miyu 4:1 HUANG Yu-Wen",
+            "children": [
+                {
+                    "name": "KATO Miyu 4:1 LI Yu-Jhun",
+                    "children": [
+                        {
+                            "name": "KATO Miyu 4:0 MORET Rachel"
+                        },
+                        {
+                            "name": "SUN Jiayi  2:4 LI Yu-Jhun"
+                        }
+                    ]
+                },
+                {
+                    "name": "HUANG Yu-Wen 4:1 NI Xia Lian",
+                    "children": [
+                        {
+                            "name": "HUANG Yu-Wen 4:2 SHAO Jieni "
+                        },
+                        {
+                            "name": "TAKAHASHI Bruna 0:4 NI Xia Lian"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "LI Xiang  3:4 DIACONU Adina",
+            "children": [
+                {
+                    "name": "LI Xiang  4:3 BALAZOVA Barbora",
+                    "children": [
+                        {
+                            "name": "YUAN Jia Nan  2:4 LI Xiang "
+                        },
+                        {
+                            "name": "MISCHEK Karoline 2:4 BALAZOVA Barbora"
+                        }
+                    ]
+                },
+                {
+                    "name": "DIACONU Adina 4:1 LIU Xin (1997) ",
+                    "children": [
+                        {
+                            "name": "DIACONU Adina 4:1 VOROBEVA Olga"
+                        },
+                        {
+                            "name": "LIU Xin (1997)  4:2 DIAZ Adriana"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

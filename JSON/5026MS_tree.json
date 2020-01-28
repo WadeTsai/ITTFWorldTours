@@ -1,0 +1,59 @@
+{
+    "name": "LEBESSON Emmanuel 4:0 UDA Yukiya",
+    "children": [
+        {
+            "name": "LEBESSON Emmanuel 4:3 XU Yingbin",
+            "children": [
+                {
+                    "name": "LEBESSON Emmanuel 4:0 JARVIS Tom",
+                    "children": [
+                        {
+                            "name": "LEBESSON Emmanuel 4:0 MENG Fanbo"
+                        },
+                        {
+                            "name": "BADOWSKI Marek 1:4 JARVIS Tom"
+                        }
+                    ]
+                },
+                {
+                    "name": "YUAN Licen 0:4 XU Yingbin",
+                    "children": [
+                        {
+                            "name": "CHAPLYGIN Maxim 3:4 YUAN Licen"
+                        },
+                        {
+                            "name": "SAI Linwei 3:4 XU Yingbin"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "UDA Yukiya 4:1 FLORE Tristan",
+            "children": [
+                {
+                    "name": "KALLBERG Anton 1:4 UDA Yukiya",
+                    "children": [
+                        {
+                            "name": "ISMAILOV Sadi 3:4 KALLBERG Anton"
+                        },
+                        {
+                            "name": "PLATONOV Pavel 0:4 UDA Yukiya"
+                        }
+                    ]
+                },
+                {
+                    "name": "QIU Dang 2:4 FLORE Tristan",
+                    "children": [
+                        {
+                            "name": "QIU Dang 4:3 XUE Fei"
+                        },
+                        {
+                            "name": "FLORE Tristan 4:1 TOKIC Bojan"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

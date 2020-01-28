@@ -1,0 +1,59 @@
+{
+    "name": "QIU Dang 2:4 ZHAI Yujia ",
+    "children": [
+        {
+            "name": "MENGEL Steffen 3:4 QIU Dang",
+            "children": [
+                {
+                    "name": "MENGEL Steffen 4:1 ISHIY Vitor",
+                    "children": [
+                        {
+                            "name": "FILUS Ruwen 3:4 MENGEL Steffen"
+                        },
+                        {
+                            "name": "ISHIY Vitor 4:1 DEVOS Robin"
+                        }
+                    ]
+                },
+                {
+                    "name": "CANTERO Jesus 1:4 QIU Dang",
+                    "children": [
+                        {
+                            "name": "WEBER Lionel 1:4 CANTERO Jesus"
+                        },
+                        {
+                            "name": "QIU Dang 4:2 TSUBOI Yuma"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "SIPOS Rares 0:4 ZHAI Yujia ",
+            "children": [
+                {
+                    "name": "SIPOS Rares 4:1 TREGLER Tomas",
+                    "children": [
+                        {
+                            "name": "SIPOS Rares 4:3 FUJIMURA Tomoya"
+                        },
+                        {
+                            "name": "ORT Kilian 2:4 TREGLER Tomas"
+                        }
+                    ]
+                },
+                {
+                    "name": "GERELL Par 3:4 ZHAI Yujia ",
+                    "children": [
+                        {
+                            "name": "GERELL Par 4:1 KLEIN Dennis"
+                        },
+                        {
+                            "name": "CIFUENTES Horacio 3:4 ZHAI Yujia "
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

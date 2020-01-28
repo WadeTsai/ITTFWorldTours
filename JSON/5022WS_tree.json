@@ -1,0 +1,59 @@
+{
+    "name": "NOSKOVA Yana 3:4 MIKHAILOVA Polina",
+    "children": [
+        {
+            "name": "VIVARELLI Debora 2:4 NOSKOVA Yana",
+            "children": [
+                {
+                    "name": "BALAZOVA Barbora 1:4 VIVARELLI Debora",
+                    "children": [
+                        {
+                            "name": "BALAZOVA Barbora 3:2 OSHONAIKE Olufunke"
+                        },
+                        {
+                            "name": "ABDEL-AZIZ Farah 1:4 VIVARELLI Debora"
+                        }
+                    ]
+                },
+                {
+                    "name": "SAHASRABUDHE Pooja 3:4 NOSKOVA Yana",
+                    "children": [
+                        {
+                            "name": "ALHODABY Marwa 1:4 SAHASRABUDHE Pooja"
+                        },
+                        {
+                            "name": "EL-ERAKY Reem 2:4 NOSKOVA Yana"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "AKULA Sreeja 1:4 MIKHAILOVA Polina",
+            "children": [
+                {
+                    "name": "AKULA Sreeja 4:0 JAZBEC Ida",
+                    "children": [
+                        {
+                            "name": "MESHREF Dina 0:4 AKULA Sreeja"
+                        },
+                        {
+                            "name": "JAZBEC Ida 4:3 LUNG Lisa"
+                        }
+                    ]
+                },
+                {
+                    "name": "WAN Yuan 0:4 MIKHAILOVA Polina",
+                    "children": [
+                        {
+                            "name": "DE NUTTE Sarah 2:4 WAN Yuan"
+                        },
+                        {
+                            "name": "HANFFOU Sarah 1:4 MIKHAILOVA Polina"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
