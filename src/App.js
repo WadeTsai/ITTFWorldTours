@@ -20,8 +20,7 @@ import CloseIcon from '@material-ui/icons/Close';
 import Tree from 'react-tree-graph';
 import 'react-tree-graph/dist/style.css'
 import './App.css';
-import events2018 from './events2018';
-import events2019 from './events2019';
+import events from './events';
 
 const drawerWidth = 220;
 const useStyles = makeStyles(theme => ({
@@ -66,7 +65,7 @@ const useStyles = makeStyles(theme => ({
 export default function ITTFWorldTours() {
   const classes = useStyles();
   const [videoID, setVideoID] = useState('u6AWxplF-OE');
-  const [TTE, setTTE] = useState('5013');
+  const [TTE, setTTE] = useState('5139');
   const [group, setGroup] = useState('MS')
   const [open, setOpen] = useState(false);
   const [gameResult, setGameResult] = useState('馬龍 1:4 樊振東');
@@ -78,17 +77,37 @@ export default function ITTFWorldTours() {
     setOpen(true);
   };
   const handleClose = () => setOpen(false);
+  const groupName = {'MS': '男子單打', 'WS': '女子單打'};
+
+  let event2020ID = 5140;
+  const TreeItems2020 = [];
+  for (let i = 3; i < 4; i = i + 3) {
+    event2020ID = event2020ID -1;
+    const eventIDStr = event2020ID.toString();
+    TreeItems2020.push(
+      <TreeItem nodeId={i.toString()} label={events[eventIDStr]}>
+        <TreeItem nodeId={(i+1).toString()} label='男單' onClick={() => {
+            setTTE(eventIDStr);
+            setGroup('MS');
+          }} />
+        <TreeItem nodeId={(i+2).toString()} label='女單' onClick={() => {
+            setTTE(eventIDStr);
+            setGroup('WS');
+          }}/>
+      </TreeItem>
+    );
+  }
 
   let event2019ID = 5031;
   const TreeItems2019 = [];
-  for (let i = 3; i < 94; i = i + 3) {
+  for (let i = 103; i < 197; i = i + 3) {
     event2019ID = event2019ID -1;
     if (event2019ID === 5024 | event2019ID === 5027 | event2019ID === 5029) {
       continue;
     }
     const eventIDStr = event2019ID.toString();
     TreeItems2019.push(
-      <TreeItem nodeId={i.toString()} label={events2019[eventIDStr]}>
+      <TreeItem nodeId={i.toString()} label={events[eventIDStr]}>
         <TreeItem nodeId={(i+1).toString()} label='男單' onClick={() => {
             setTTE(eventIDStr);
             setGroup('MS');
@@ -103,11 +122,11 @@ export default function ITTFWorldTours() {
 
   let event2018ID = 2826;
   const TreeItems2018 = [];
-  for (let i = 102; i < 132; i = i + 3) {
+  for (let i = 202; i < 232; i = i + 3) {
     event2018ID = event2018ID -1;
     const eventIDStr = event2018ID.toString();
     TreeItems2018.push(
-      <TreeItem nodeId={i.toString()} label={events2018[eventIDStr]}>
+      <TreeItem nodeId={i.toString()} label={events[eventIDStr]}>
         <TreeItem nodeId={(i+1).toString()} label='男單' onClick={() => {
             setTTE(eventIDStr);
             setGroup('MS');
@@ -126,7 +145,7 @@ export default function ITTFWorldTours() {
       <AppBar position='fixed' className={classes.appBar}>
         <Toolbar>
           <Typography variant='h6' noWrap>
-            點擊節點可觀看比賽影片。若想找人討論比賽歡迎前往 <a href='https://www.facebook.com/groups/641046076724027' target='_blank'>台灣桌球論壇</a>
+            點擊節點可觀看比賽影片。若想找人討論比賽歡迎前往 <a href='https://www.facebook.com/groups/641046076724027' target='_blank' rel='noopener noreferrer'>台灣桌球論壇</a>
           </Typography>
         </Toolbar>
       </AppBar>
@@ -146,15 +165,18 @@ export default function ITTFWorldTours() {
         <Divider />
         <TreeView
           className={classes.root}
-          defaultExpanded={['1', '2', '54', '101']}
+          defaultExpanded={['1', '2', '3', '101','201']}
           defaultCollapseIcon={<ExpandMoreIcon />}
           defaultExpandIcon={<ChevronRightIcon />}
         >
           <TreeItem nodeId='1' label='歷年世界巡迴賽'>
-            <TreeItem nodeId='2' label='2019'>
+            <TreeItem nodeId='2' label='2020'>
+              {TreeItems2020}
+            </TreeItem>
+            <TreeItem nodeId='101' label='2019'>
               {TreeItems2019}
             </TreeItem>
-            <TreeItem nodeId='101' label='2018'>
+            <TreeItem nodeId='201' label='2018'>
               {TreeItems2018}
             </TreeItem>
           </TreeItem>
@@ -163,6 +185,10 @@ export default function ITTFWorldTours() {
 
       <main className={classes.content}>
         <div className={classes.toolbar} />
+        <Typography variant='h6' noWrap>
+          {TTE > 4999 ? (TTE > 5100 ? 2020 : 2019) : 2018} / {events[TTE.toString()]} / {groupName[group]}
+        </Typography>
+
         <Card className={classes.card}>
           <Tree
             className='node'

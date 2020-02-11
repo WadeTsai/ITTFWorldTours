@@ -1,0 +1,59 @@
+{
+    "name": "XU Xin 4:0 MA Long",
+    "children": [
+        {
+            "name": "XU Xin 4:0 LIN Gaoyuan",
+            "children": [
+                {
+                    "name": "XU Xin 4:0 ZHAO Zihao",
+                    "children": [
+                        {
+                            "name": "XU Xin 4:1 OIKAWA Mizuki"
+                        },
+                        {
+                            "name": "ZHAO Zihao 4:3 DUDA Benedikt"
+                        }
+                    ]
+                },
+                {
+                    "name": "MIZUTANI Jun 3:4 LIN Gaoyuan",
+                    "children": [
+                        {
+                            "name": "LIN Yun-Ju 3:4 MIZUTANI Jun"
+                        },
+                        {
+                            "name": "NIWA Koki 3:4 LIN Gaoyuan"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "MA Long 4:2 OVTCHAROV Dimitrij",
+            "children": [
+                {
+                    "name": "MA Long 4:0 CHO Seungmin",
+                    "children": [
+                        {
+                            "name": "MA Long 4:1 XU Chenhao"
+                        },
+                        {
+                            "name": "GAUZY Simon 1:4 CHO Seungmin"
+                        }
+                    ]
+                },
+                {
+                    "name": "OVTCHAROV Dimitrij 4:3 FAN Zhendong",
+                    "children": [
+                        {
+                            "name": "CHUANG Chih-Yuan 3:4 OVTCHAROV Dimitrij"
+                        },
+                        {
+                            "name": "BOLL Timo 2:4 FAN Zhendong"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
