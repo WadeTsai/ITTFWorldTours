@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "aefda82ebe7a40a39e00d453e7d8af20",
+    "revision": "3c56a9662edf4686a51249ee785936aa",
     "url": "/ITTFWorldTours/index.html"
   },
   {
-    "revision": "84087d822b4cc6df8a4c",
+    "revision": "017c06c7fbde8b9a29e8",
     "url": "/ITTFWorldTours/static/css/2.021d97f0.chunk.css"
   },
   {
-    "revision": "4f52210cf15c5136f3f1",
+    "revision": "2cadfcc1b6581fd7b5ad",
     "url": "/ITTFWorldTours/static/css/main.1ab6cb56.chunk.css"
   },
   {
-    "revision": "84087d822b4cc6df8a4c",
-    "url": "/ITTFWorldTours/static/js/2.993acb87.chunk.js"
+    "revision": "017c06c7fbde8b9a29e8",
+    "url": "/ITTFWorldTours/static/js/2.1efc7f7f.chunk.js"
   },
   {
     "revision": "4201076bee892946faa480b75f4c1fd4",
-    "url": "/ITTFWorldTours/static/js/2.993acb87.chunk.js.LICENSE"
+    "url": "/ITTFWorldTours/static/js/2.1efc7f7f.chunk.js.LICENSE"
   },
   {
-    "revision": "4f52210cf15c5136f3f1",
-    "url": "/ITTFWorldTours/static/js/main.ae1a0378.chunk.js"
+    "revision": "2cadfcc1b6581fd7b5ad",
+    "url": "/ITTFWorldTours/static/js/main.08a7da03.chunk.js"
   },
   {
     "revision": "36c9c4dc6eeb7043c96a",

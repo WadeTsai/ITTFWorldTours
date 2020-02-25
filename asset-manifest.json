@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/ITTFWorldTours/static/css/main.1ab6cb56.chunk.css",
-    "main.js": "/ITTFWorldTours/static/js/main.ae1a0378.chunk.js",
-    "main.js.map": "/ITTFWorldTours/static/js/main.ae1a0378.chunk.js.map",
+    "main.js": "/ITTFWorldTours/static/js/main.08a7da03.chunk.js",
+    "main.js.map": "/ITTFWorldTours/static/js/main.08a7da03.chunk.js.map",
     "runtime-main.js": "/ITTFWorldTours/static/js/runtime-main.8f05e738.js",
     "runtime-main.js.map": "/ITTFWorldTours/static/js/runtime-main.8f05e738.js.map",
     "static/css/2.021d97f0.chunk.css": "/ITTFWorldTours/static/css/2.021d97f0.chunk.css",
-    "static/js/2.993acb87.chunk.js": "/ITTFWorldTours/static/js/2.993acb87.chunk.js",
-    "static/js/2.993acb87.chunk.js.map": "/ITTFWorldTours/static/js/2.993acb87.chunk.js.map",
+    "static/js/2.1efc7f7f.chunk.js": "/ITTFWorldTours/static/js/2.1efc7f7f.chunk.js",
+    "static/js/2.1efc7f7f.chunk.js.map": "/ITTFWorldTours/static/js/2.1efc7f7f.chunk.js.map",
     "index.html": "/ITTFWorldTours/index.html",
-    "precache-manifest.d0a7b9cee9fe89d81ac20f692ff30322.js": "/ITTFWorldTours/precache-manifest.d0a7b9cee9fe89d81ac20f692ff30322.js",
+    "precache-manifest.28268ea879b58e1c988df1b58babef55.js": "/ITTFWorldTours/precache-manifest.28268ea879b58e1c988df1b58babef55.js",
     "service-worker.js": "/ITTFWorldTours/service-worker.js",
     "static/css/2.021d97f0.chunk.css.map": "/ITTFWorldTours/static/css/2.021d97f0.chunk.css.map",
     "static/css/main.1ab6cb56.chunk.css.map": "/ITTFWorldTours/static/css/main.1ab6cb56.chunk.css.map",
-    "static/js/2.993acb87.chunk.js.LICENSE": "/ITTFWorldTours/static/js/2.993acb87.chunk.js.LICENSE"
+    "static/js/2.1efc7f7f.chunk.js.LICENSE": "/ITTFWorldTours/static/js/2.1efc7f7f.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.8f05e738.js",
     "static/css/2.021d97f0.chunk.css",
-    "static/js/2.993acb87.chunk.js",
+    "static/js/2.1efc7f7f.chunk.js",
     "static/css/main.1ab6cb56.chunk.css",
-    "static/js/main.ae1a0378.chunk.js"
+    "static/js/main.08a7da03.chunk.js"
   ]
 }
