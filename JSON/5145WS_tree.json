@@ -1,0 +1,59 @@
+{
+    "name": "ITO Mima 4:3 CHENG I-Ching",
+    "children": [
+        {
+            "name": "ITO Mima 4:1 HAN Ying",
+            "children": [
+                {
+                    "name": "ITO Mima 4:2 SATO Hitomi",
+                    "children": [
+                        {
+                            "name": "ITO Mima 4:0 PESOTSKA Margaryta"
+                        },
+                        {
+                            "name": "KATO Miyu 3:4 SATO Hitomi"
+                        }
+                    ]
+                },
+                {
+                    "name": "HAN Ying 4:3 HIRANO Miu",
+                    "children": [
+                        {
+                            "name": "HASHIMOTO Honoka 3:4 HAN Ying"
+                        },
+                        {
+                            "name": "BATRA Manika 0:4 HIRANO Miu"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "CHENG I-Ching 4:3 ISHIKAWA Kasumi",
+            "children": [
+                {
+                    "name": "CHENG I-Ching 4:0 DOO Hoi Kem",
+                    "children": [
+                        {
+                            "name": "CHENG I-Ching 4:0 SHAN Xiaona "
+                        },
+                        {
+                            "name": "SOO Wai Yam Minnie 3:4 DOO Hoi Kem"
+                        }
+                    ]
+                },
+                {
+                    "name": "MITTELHAM Nina 0:4 ISHIKAWA Kasumi",
+                    "children": [
+                        {
+                            "name": "MITTELHAM Nina 4:2 EERLAND Britt"
+                        },
+                        {
+                            "name": "DIAZ Adriana 1:4 ISHIKAWA Kasumi"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

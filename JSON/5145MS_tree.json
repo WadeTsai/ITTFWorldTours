@@ -1,0 +1,59 @@
+{
+    "name": "HARIMOTO Tomokazu 4:1 UDA Yukiya",
+    "children": [
+        {
+            "name": "HARIMOTO Tomokazu 4:0 OVTCHAROV Dimitrij",
+            "children": [
+                {
+                    "name": "HARIMOTO Tomokazu 4:2 DUDA Benedikt",
+                    "children": [
+                        {
+                            "name": "HARIMOTO Tomokazu 4:0 GNANASEKARAN Sathiyan"
+                        },
+                        {
+                            "name": "GIONIS Panagiotis 1:4 DUDA Benedikt"
+                        }
+                    ]
+                },
+                {
+                    "name": "SIRUCEK Pavel 2:4 OVTCHAROV Dimitrij",
+                    "children": [
+                        {
+                            "name": "SIRUCEK Pavel 4:0 TOGAMI Shunsuke"
+                        },
+                        {
+                            "name": "DYJAS Jakub 3:4 OVTCHAROV Dimitrij"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "UDA Yukiya 4:2 PITCHFORD Liam",
+            "children": [
+                {
+                    "name": "UDA Yukiya 4:2 GARDOS Robert",
+                    "children": [
+                        {
+                            "name": "JIN Takuya 1:4 UDA Yukiya"
+                        },
+                        {
+                            "name": "CASSIN Alexandre 3:4 GARDOS Robert"
+                        }
+                    ]
+                },
+                {
+                    "name": "PITCHFORD Liam 4:0 KARLSSON Kristian",
+                    "children": [
+                        {
+                            "name": "QIU Dang 0:4 PITCHFORD Liam"
+                        },
+                        {
+                            "name": "KARLSSON Kristian 4:3 CALDERANO Hugo"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

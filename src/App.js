@@ -65,7 +65,7 @@ const useStyles = makeStyles(theme => ({
 export default function ITTFWorldTours() {
   const classes = useStyles();
   const [videoID, setVideoID] = useState('u6AWxplF-OE');
-  const [TTE, setTTE] = useState('5139');
+  const [TTE, setTTE] = useState('5145'); // latest event ID
   const [group, setGroup] = useState('MS')
   const [open, setOpen] = useState(false);
   const [gameResult, setGameResult] = useState('馬龍 1:4 樊振東');
@@ -79,10 +79,10 @@ export default function ITTFWorldTours() {
   const handleClose = () => setOpen(false);
   const groupName = {'MS': '男子單打', 'WS': '女子單打'};
 
-  let event2020ID = 5140;
+  let event2020IDs = [5139, 5145]; // 2020 event IDs
   const TreeItems2020 = [];
-  for (let i = 3; i < 4; i = i + 3) {
-    event2020ID = event2020ID -1;
+  for (let i = 3; i < 7; i = i + 3) {
+    const event2020ID = event2020IDs.pop();
     const eventIDStr = event2020ID.toString();
     TreeItems2020.push(
       <TreeItem nodeId={i.toString()} label={events[eventIDStr]}>
@@ -228,7 +228,6 @@ export default function ITTFWorldTours() {
               allow='autoplay; encrypted-media'
               allowFullScreen
             />
-
         </DialogContent>
         <DialogActions>
         </DialogActions>
