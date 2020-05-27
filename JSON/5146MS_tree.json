@@ -1,0 +1,59 @@
+{
+    "name": "FAN Zhendong 4:2 PITCHFORD Liam",
+    "children": [
+        {
+            "name": "FAN Zhendong 4:2 WANG Chuqin",
+            "children": [
+                {
+                    "name": "FAN Zhendong 4:1 PERSSON Jon",
+                    "children": [
+                        {
+                            "name": "FAN Zhendong 4:0 XU Chenhao"
+                        },
+                        {
+                            "name": "PERSSON Jon 4:1 FALCK Mattias"
+                        }
+                    ]
+                },
+                {
+                    "name": "LIANG Jingkun 2:4 WANG Chuqin",
+                    "children": [
+                        {
+                            "name": "LIANG Jingkun 4:3 MIZUTANI Jun"
+                        },
+                        {
+                            "name": "WANG Chuqin 4:3 MA Long"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "PITCHFORD Liam 4:2 XU Xin",
+            "children": [
+                {
+                    "name": "PITCHFORD Liam 4:0 CHUANG Chih-Yuan",
+                    "children": [
+                        {
+                            "name": "SAMSONOV Vladimir 2:4 PITCHFORD Liam"
+                        },
+                        {
+                            "name": "UDA Yukiya 3:4 CHUANG Chih-Yuan"
+                        }
+                    ]
+                },
+                {
+                    "name": "GAUZY Simon 3:4 XU Xin",
+                    "children": [
+                        {
+                            "name": "CALDERANO Hugo 1:4 GAUZY Simon"
+                        },
+                        {
+                            "name": "NIWA Koki 0:4 XU Xin"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

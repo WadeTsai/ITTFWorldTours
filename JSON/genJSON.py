@@ -9,7 +9,7 @@ import json
 if __name__ == '__main__':
     # event_ids = list(range(5000, 5031, 1)) + list(range(2816, 2826, 1))
     # event_ids.remove(5024, 5027, 5029)
-    event_ids = [5145]
+    event_ids = [5146]
     for event_id in event_ids:
         event_id = str(event_id)
         for group in ['MS', 'WS']:
