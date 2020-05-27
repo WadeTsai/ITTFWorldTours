@@ -1,29 +1,16 @@
-import React, {useState} from 'react';
+import React, { useState } from 'react';
 import { makeStyles } from '@material-ui/core/styles';
-import Drawer from '@material-ui/core/Drawer';
-import CssBaseline from '@material-ui/core/CssBaseline';
-import AppBar from '@material-ui/core/AppBar';
-import Toolbar from '@material-ui/core/Toolbar';
-import Typography from '@material-ui/core/Typography';
-import Divider from '@material-ui/core/Divider';
-import TreeView from '@material-ui/lab/TreeView';
-import ExpandMoreIcon from '@material-ui/icons/ExpandMore';
-import ChevronRightIcon from '@material-ui/icons/ChevronRight';
-import TreeItem from '@material-ui/lab/TreeItem';
-import Card from '@material-ui/core/Card';
-import Dialog from '@material-ui/core/Dialog';
-import DialogTitle from '@material-ui/core/DialogTitle';
-import DialogActions from '@material-ui/core/DialogActions';
-import DialogContent from '@material-ui/core/DialogContent';
-import IconButton from '@material-ui/core/IconButton';
-import CloseIcon from '@material-ui/icons/Close';
+import { Drawer, CssBaseline, AppBar, Toolbar, Typography, Divider, Card, Dialog, DialogTitle, DialogActions, DialogContent, IconButton } from '@material-ui/core';
+import { TreeView, TreeItem } from '@material-ui/lab';
+import { Close, ChevronRight, ExpandMore } from '@material-ui/icons';
+
 import Tree from 'react-tree-graph';
 import 'react-tree-graph/dist/style.css'
 import './App.css';
 import events from './events';
 
 const drawerWidth = 220;
-const useStyles = makeStyles(theme => ({
+const useStyles = makeStyles( theme => ({
   root: {
     display: 'flex',
   },
@@ -166,8 +153,8 @@ export default function ITTFWorldTours() {
         <TreeView
           className={classes.root}
           defaultExpanded={['1', '2', '3', '101','201']}
-          defaultCollapseIcon={<ExpandMoreIcon />}
-          defaultExpandIcon={<ChevronRightIcon />}
+          defaultCollapseIcon={<ExpandMore />}
+          defaultExpandIcon={<ChevronRight />}
         >
           <TreeItem nodeId='1' label='歷年世界巡迴賽'>
             <TreeItem nodeId='2' label='2020'>
@@ -215,7 +202,7 @@ export default function ITTFWorldTours() {
           <Typography className={classes.videoTitle} variant='h4'>{gameResult}</Typography>
           {open ? (
             <IconButton aria-label='close' className={classes.closeButton} onClick={handleClose}>
-              <CloseIcon />
+              <Close />
             </IconButton>
           ) : null}
         </DialogTitle>
