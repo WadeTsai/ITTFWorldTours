@@ -1,0 +1,59 @@
+{
+    "name": "CHEN Meng 4:1 WANG Manyu",
+    "children": [
+        {
+            "name": "CHEN Meng 4:0 SUN Yingsha",
+            "children": [
+                {
+                    "name": "CHEN Meng 4:2 SOLJA Petrissa",
+                    "children": [
+                        {
+                            "name": "CHEN Meng 4:2 KATO Miyu"
+                        },
+                        {
+                            "name": "SOLJA Petrissa 4:2 FENG Tianwei"
+                        }
+                    ]
+                },
+                {
+                    "name": "SUH Hyowon 2:4 SUN Yingsha",
+                    "children": [
+                        {
+                            "name": "ISHIKAWA Kasumi 1:4 SUH Hyowon"
+                        },
+                        {
+                            "name": "JEON Jihee 0:4 SUN Yingsha"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "WANG Manyu 4:0 ITO Mima",
+            "children": [
+                {
+                    "name": "WANG Manyu 4:1 CHENG I-Ching",
+                    "children": [
+                        {
+                            "name": "WANG Manyu 4:0 SATO Hitomi"
+                        },
+                        {
+                            "name": "DIAZ Adriana 1:4 CHENG I-Ching"
+                        }
+                    ]
+                },
+                {
+                    "name": "WANG Yidi 3:4 ITO Mima",
+                    "children": [
+                        {
+                            "name": "WANG Yidi 4:0 POLCANOVA Sofia"
+                        },
+                        {
+                            "name": "DOO Hoi Kem 1:4 ITO Mima"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

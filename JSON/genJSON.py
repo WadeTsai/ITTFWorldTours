@@ -5,11 +5,14 @@ from selenium.webdriver.common.by import By
 import urllib.request
 from bs4 import BeautifulSoup
 import json
+import re
+import ast
+import sys
 
 if __name__ == '__main__':
     # event_ids = list(range(5000, 5031, 1)) + list(range(2816, 2826, 1))
     # event_ids.remove(5024, 5027, 5029)
-    event_ids = [5146]
+    event_ids = [5263]
     for event_id in event_ids:
         event_id = str(event_id)
         for group in ['MS', 'WS']:
@@ -62,17 +65,23 @@ if __name__ == '__main__':
                 search = search.replace(' ', '+')
                 query = urllib.parse.quote(search)
                 request_url = 'https://www.youtube.com/results?search_query=' + query
+                print(request_url)
                 response = urllib.request.urlopen(request_url)
+                print(response.status)
                 html = response.read()
-                soup = BeautifulSoup(html, 'html.parser')
+                # print(html)
+                soup = BeautifulSoup(html, features='html.parser')
+
                 try:
-                    VID = soup.find(attrs={'class': 'yt-uix-tile-link'}).get('href')[9:]
+                    VID_index = str(soup.body).find("videoId") + 10
+                    VID = str(soup.body)[VID_index:VID_index + 11]
                 except:
                     VID = ''
                     print('Error: ' + search)
                     filename = event_id + '_' + group + '_' + player1 + '_' + player2 + '_soup.html' 
                     with open(filename, 'w', encoding='utf-8') as file:
                         file.write(str(soup))
+                    sys.exit()
                 if len(VID) > 11:
                     VID = ''
                 videos_dic.update({game : VID})

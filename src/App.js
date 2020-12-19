@@ -66,9 +66,9 @@ export default function ITTFWorldTours() {
   const handleClose = () => setOpen(false);
   const groupName = {'MS': '男子單打', 'WS': '女子單打'};
 
-  let event2020IDs = [5139, 5145, 5146]; // 2020 event IDs
+  let event2020IDs = [5139, 5145, 5146, 5184, 5263]; // 2020 event IDs
   const TreeItems2020 = [];
-  for (let i = 3; i < 11; i = i + 3) { // +3 when add a new event
+  for (let i = 3; i < event2020IDs.length * 3 + 2; i = i + 3) { // +3 when add a new event
     const event2020ID = event2020IDs.pop();
     const eventIDStr = event2020ID.toString();
     TreeItems2020.push(

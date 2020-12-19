@@ -1,0 +1,59 @@
+{
+    "name": "FAN Zhendong 4:3 MA Long",
+    "children": [
+        {
+            "name": "FAN Zhendong 4:0 JANG Woojin",
+            "children": [
+                {
+                    "name": "FAN Zhendong 4:2 LIN Yun-Ju",
+                    "children": [
+                        {
+                            "name": "FAN Zhendong 4:0 CHUANG Chih-Yuan"
+                        },
+                        {
+                            "name": "FRANZISKA Patrick 2:4 LIN Yun-Ju"
+                        }
+                    ]
+                },
+                {
+                    "name": "JANG Woojin 4:2 JEOUNG Youngsik",
+                    "children": [
+                        {
+                            "name": "NIWA Koki 3:4 JANG Woojin"
+                        },
+                        {
+                            "name": "JEOUNG Youngsik 4:2 CALDERANO Hugo"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "HARIMOTO Tomokazu 3:4 MA Long",
+            "children": [
+                {
+                    "name": "HARIMOTO Tomokazu 4:1 FALCK Mattias",
+                    "children": [
+                        {
+                            "name": "HARIMOTO Tomokazu 4:0 GARDOS Robert"
+                        },
+                        {
+                            "name": "WONG Chun Ting 3:4 FALCK Mattias"
+                        }
+                    ]
+                },
+                {
+                    "name": "OVTCHAROV Dimitrij 1:4 MA Long",
+                    "children": [
+                        {
+                            "name": "OVTCHAROV Dimitrij 4:3 PITCHFORD Liam"
+                        },
+                        {
+                            "name": "JORGIC Darko 2:4 MA Long"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
