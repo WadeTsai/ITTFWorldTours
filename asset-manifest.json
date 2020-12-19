@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ITTFWorldTours/static/css/main.1ab6cb56.chunk.css",
-    "main.js": "/ITTFWorldTours/static/js/main.6e7db2bf.chunk.js",
-    "main.js.map": "/ITTFWorldTours/static/js/main.6e7db2bf.chunk.js.map",
+    "main.js": "/ITTFWorldTours/static/js/main.1009b33b.chunk.js",
+    "main.js.map": "/ITTFWorldTours/static/js/main.1009b33b.chunk.js.map",
     "runtime-main.js": "/ITTFWorldTours/static/js/runtime-main.87a3be92.js",
     "runtime-main.js.map": "/ITTFWorldTours/static/js/runtime-main.87a3be92.js.map",
     "static/css/2.021d97f0.chunk.css": "/ITTFWorldTours/static/css/2.021d97f0.chunk.css",
     "static/js/2.36b4bd26.chunk.js": "/ITTFWorldTours/static/js/2.36b4bd26.chunk.js",
     "static/js/2.36b4bd26.chunk.js.map": "/ITTFWorldTours/static/js/2.36b4bd26.chunk.js.map",
     "index.html": "/ITTFWorldTours/index.html",
-    "precache-manifest.0d9d0964a72afb3202b094268b683cb8.js": "/ITTFWorldTours/precache-manifest.0d9d0964a72afb3202b094268b683cb8.js",
+    "precache-manifest.3fd7ed9e1b2b913f94d47c5a4c3f533f.js": "/ITTFWorldTours/precache-manifest.3fd7ed9e1b2b913f94d47c5a4c3f533f.js",
     "service-worker.js": "/ITTFWorldTours/service-worker.js",
     "static/css/2.021d97f0.chunk.css.map": "/ITTFWorldTours/static/css/2.021d97f0.chunk.css.map",
     "static/css/main.1ab6cb56.chunk.css.map": "/ITTFWorldTours/static/css/main.1ab6cb56.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.021d97f0.chunk.css",
     "static/js/2.36b4bd26.chunk.js",
     "static/css/main.1ab6cb56.chunk.css",
-    "static/js/main.6e7db2bf.chunk.js"
+    "static/js/main.1009b33b.chunk.js"
   ]
 }

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ITTFWorldTours/precache-manifest.0d9d0964a72afb3202b094268b683cb8.js"
+  "/ITTFWorldTours/precache-manifest.3fd7ed9e1b2b913f94d47c5a4c3f533f.js"
 );
 
 self.addEventListener('message', (event) => {
