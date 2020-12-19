@@ -52,7 +52,7 @@ const useStyles = makeStyles( theme => ({
 export default function ITTFWorldTours() {
   const classes = useStyles();
   const [videoID, setVideoID] = useState('u6AWxplF-OE');
-  const [TTE, setTTE] = useState('5146'); // latest event ID
+  const [TTE, setTTE] = useState('5263'); // latest event ID
   const [group, setGroup] = useState('MS')
   const [open, setOpen] = useState(false);
   const [gameResult, setGameResult] = useState('馬龍 1:4 樊振東');
@@ -86,7 +86,7 @@ export default function ITTFWorldTours() {
     );
   }
 
-  let event2019IDs = [5069, 5030, 5028, 5026, 5025, 5023, 5022, 5021, 5020, 5019, 5018, 5017, 5016, 5015, 5014, 5013, 5012, 5011, 5010, 5009, 5008, 5007, 5006, 5005, 5004, 5003, 5002, 5001, 5000].reverse();
+  let event2019IDs = [5000, 5001, 5002, 5003, 5004, 5005, 5006, 5007, 5008, 5009, 5010, 5011, 5012, 5013, 5014, 5015, 5016, 5017, 5018, 5019, 5020, 5021, 5022, 5023, 5025, 5026, 5028, 5030, 5069];
   const node_2019_number = event2019IDs.length * 3 + 102;
   const TreeItems2019 = [];
   for (let i = 103; i < node_2019_number; i = i + 3) {
@@ -107,7 +107,7 @@ export default function ITTFWorldTours() {
     );
   }
 
-  let event2018IDs = [2873, 2825, 2824, 2823, 2822, 2821, 2820, 2819, 2818, 2817, 2816].reverse();
+  let event2018IDs = [2816, 2817, 2818, 2819, 2820, 2821, 2822, 2823, 2824, 2825, 2873];
   const node_2018_number = event2018IDs.length * 3 + 201;
   const TreeItems2018 = [];
   for (let i = 202; i < node_2018_number; i = i + 3) {
