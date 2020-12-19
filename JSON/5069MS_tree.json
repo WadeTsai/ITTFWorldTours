@@ -1,0 +1,59 @@
+{
+    "name": "FAN Zhendong 4:2 HARIMOTO Tomokazu",
+    "children": [
+        {
+            "name": "FAN Zhendong 4:0 LIN Yun-Ju",
+            "children": [
+                {
+                    "name": "FAN Zhendong 4:1 BOLL Timo",
+                    "children": [
+                        {
+                            "name": "FAN Zhendong 4:0 HABESOHN Daniel"
+                        },
+                        {
+                            "name": "GNANASEKARAN Sathiyan 1:4 BOLL Timo"
+                        }
+                    ]
+                },
+                {
+                    "name": "LIN Yun-Ju 4:1 CALDERANO Hugo",
+                    "children": [
+                        {
+                            "name": "LIN Yun-Ju 4:1 KARLSSON Kristian"
+                        },
+                        {
+                            "name": "JHA Kanak 3:4 CALDERANO Hugo"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "HARIMOTO Tomokazu 4:2 MA Long",
+            "children": [
+                {
+                    "name": "HARIMOTO Tomokazu 4:3 NIWA Koki",
+                    "children": [
+                        {
+                            "name": "HARIMOTO Tomokazu 4:1 ARUNA Quadri"
+                        },
+                        {
+                            "name": "LEE Sangsu 2:4 NIWA Koki"
+                        }
+                    ]
+                },
+                {
+                    "name": "OVTCHAROV Dimitrij 1:4 MA Long",
+                    "children": [
+                        {
+                            "name": "FALCK Mattias 3:4 OVTCHAROV Dimitrij"
+                        },
+                        {
+                            "name": "GAUZY Simon 2:4 MA Long"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

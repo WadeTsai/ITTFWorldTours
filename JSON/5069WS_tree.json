@@ -1,0 +1,59 @@
+{
+    "name": "ZHU Yuling 2:4 LIU Shiwen",
+    "children": [
+        {
+            "name": "ZHU Yuling 4:2 FENG Tianwei",
+            "children": [
+                {
+                    "name": "ZHU Yuling 4:0 SOLJA Petrissa",
+                    "children": [
+                        {
+                            "name": "ZHU Yuling 4:0 ZHANG Mo"
+                        },
+                        {
+                            "name": "SOLJA Petrissa 4:2 DOO Hoi Kem"
+                        }
+                    ]
+                },
+                {
+                    "name": "FENG Tianwei 4:3 ISHIKAWA Kasumi",
+                    "children": [
+                        {
+                            "name": "FENG Tianwei 4:0 SZOCS Bernadette"
+                        },
+                        {
+                            "name": "MESHREF Dina 0:4 ISHIKAWA Kasumi"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "ZHANG Lily 0:4 LIU Shiwen",
+            "children": [
+                {
+                    "name": "ZHANG Lily 4:3 POLCANOVA Sofia",
+                    "children": [
+                        {
+                            "name": "HIRANO Miu 3:4 ZHANG Lily"
+                        },
+                        {
+                            "name": "WU Yue 1:4 POLCANOVA Sofia"
+                        }
+                    ]
+                },
+                {
+                    "name": "CHENG I-Ching 0:4 LIU Shiwen",
+                    "children": [
+                        {
+                            "name": "CHENG I-Ching 4:1 JEON Jihee"
+                        },
+                        {
+                            "name": "CHEN Szu-Yu 1:4 LIU Shiwen"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

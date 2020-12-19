@@ -12,7 +12,7 @@ import sys
 if __name__ == '__main__':
     # event_ids = list(range(5000, 5031, 1)) + list(range(2816, 2826, 1))
     # event_ids.remove(5024, 5027, 5029)
-    event_ids = [5263]
+    event_ids = [5070, 5071, 2874, 2875]
     for event_id in event_ids:
         event_id = str(event_id)
         for group in ['MS', 'WS']:
@@ -69,7 +69,6 @@ if __name__ == '__main__':
                 response = urllib.request.urlopen(request_url)
                 print(response.status)
                 html = response.read()
-                # print(html)
                 soup = BeautifulSoup(html, features='html.parser')
 
                 try:

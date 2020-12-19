@@ -66,10 +66,10 @@ export default function ITTFWorldTours() {
   const handleClose = () => setOpen(false);
   const groupName = {'MS': '男子單打', 'WS': '女子單打'};
 
-  let  event2020IDs = [5139, 5145, 5146, 5184, 5263]; // 2020 event IDs
-  const node_number = event2020IDs.length * 3 + 2;
+  let event2020IDs = [5139, 5145, 5146, 5184, 5263]; // 2020 event IDs
+  const node_2020_number = event2020IDs.length * 3 + 2;
   const TreeItems2020 = [];
-  for (let i = 3; i < node_number; i = i + 3) { // +3 when add a new event
+  for (let i = 3; i < node_2020_number; i = i + 3) { // +3 when add a new event
     const event2020ID = event2020IDs.pop();
     const eventIDStr = event2020ID.toString();
     TreeItems2020.push(
@@ -86,13 +86,12 @@ export default function ITTFWorldTours() {
     );
   }
 
-  let event2019ID = 5031;
+  let event2019IDs = [5069, 5030, 5028, 5026, 5025, 5023, 5022, 5021, 5020, 5019, 5018, 5017, 5016, 5015, 5014, 5013, 5012, 5011, 5010, 5009, 5008, 5007, 5006, 5005, 5004, 5003, 5002, 5001, 5000].reverse();
+  const node_2019_number = event2019IDs.length * 3 + 102;
   const TreeItems2019 = [];
-  for (let i = 103; i < 197; i = i + 3) {
-    event2019ID = event2019ID -1;
-    if (event2019ID === 5024 | event2019ID === 5027 | event2019ID === 5029) {
-      continue;
-    }
+  for (let i = 103; i < node_2019_number; i = i + 3) {
+    const event2019ID = event2019IDs.pop();
+    console.log(event2019ID);
     const eventIDStr = event2019ID.toString();
     TreeItems2019.push(
       <TreeItem nodeId={i.toString()} label={events[eventIDStr]}>
@@ -108,10 +107,11 @@ export default function ITTFWorldTours() {
     );
   }
 
-  let event2018ID = 2826;
+  let event2018IDs = [2873, 2825, 2824, 2823, 2822, 2821, 2820, 2819, 2818, 2817, 2816].reverse();
+  const node_2018_number = event2018IDs.length * 3 + 201;
   const TreeItems2018 = [];
-  for (let i = 202; i < 232; i = i + 3) {
-    event2018ID = event2018ID -1;
+  for (let i = 202; i < node_2018_number; i = i + 3) {
+    const event2018ID = event2018IDs.pop();
     const eventIDStr = event2018ID.toString();
     TreeItems2018.push(
       <TreeItem nodeId={i.toString()} label={events[eventIDStr]}>

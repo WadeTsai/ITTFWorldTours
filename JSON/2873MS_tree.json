@@ -1,0 +1,59 @@
+{
+    "name": "FAN Zhendong 4:1 BOLL Timo",
+    "children": [
+        {
+            "name": "FAN Zhendong 4:1 LIN Gaoyuan",
+            "children": [
+                {
+                    "name": "FAN Zhendong 4:0 SAMSONOV Vladimir",
+                    "children": [
+                        {
+                            "name": "FAN Zhendong 4:0 TSUBOI Gustavo"
+                        },
+                        {
+                            "name": "SAMSONOV Vladimir 4:1 WONG Chun Ting"
+                        }
+                    ]
+                },
+                {
+                    "name": "NIWA Koki 1:4 LIN Gaoyuan",
+                    "children": [
+                        {
+                            "name": "NIWA Koki 4:1 GROTH Jonathan"
+                        },
+                        {
+                            "name": "JHA Kanak 1:4 LIN Gaoyuan"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "OVTCHAROV Dimitrij 2:4 BOLL Timo",
+            "children": [
+                {
+                    "name": "OVTCHAROV Dimitrij 4:3 LEE Sangsu",
+                    "children": [
+                        {
+                            "name": "OVTCHAROV Dimitrij 4:3 FALCK Mattias"
+                        },
+                        {
+                            "name": "GAUZY Simon 3:4 LEE Sangsu"
+                        }
+                    ]
+                },
+                {
+                    "name": "HARIMOTO Tomokazu 1:4 BOLL Timo",
+                    "children": [
+                        {
+                            "name": "HARIMOTO Tomokazu 4:0 JEONG Sangeun"
+                        },
+                        {
+                            "name": "LEBESSON Emmanuel 1:4 BOLL Timo"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

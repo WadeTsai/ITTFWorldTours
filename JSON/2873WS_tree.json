@@ -1,0 +1,59 @@
+{
+    "name": "ZHU Yuling 0:4 DING Ning",
+    "children": [
+        {
+            "name": "ZHU Yuling 4:1 CHENG I-Ching",
+            "children": [
+                {
+                    "name": "ZHU Yuling 4:0 POLCANOVA Sofia",
+                    "children": [
+                        {
+                            "name": "ZHU Yuling 4:0 EKHOLM Matilda"
+                        },
+                        {
+                            "name": "SAMARA Elizabeta 0:4 POLCANOVA Sofia"
+                        }
+                    ]
+                },
+                {
+                    "name": "DOO Hoi Kem 2:4 CHENG I-Ching",
+                    "children": [
+                        {
+                            "name": "DOO Hoi Kem 4:2 SZOCS Bernadette"
+                        },
+                        {
+                            "name": "POTA Georgina 0:4 CHENG I-Ching"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "DING Ning 4:0 ISHIKAWA Kasumi",
+            "children": [
+                {
+                    "name": "DING Ning 4:1 SUH Hyowon",
+                    "children": [
+                        {
+                            "name": "DING Ning 4:0 LIU Jia"
+                        },
+                        {
+                            "name": "LAY Jian Fang 3:4 SUH Hyowon"
+                        }
+                    ]
+                },
+                {
+                    "name": "HIRANO Miu 1:4 ISHIKAWA Kasumi",
+                    "children": [
+                        {
+                            "name": "HIRANO Miu 4:0 KIM Song I"
+                        },
+                        {
+                            "name": "CHEN Szu-Yu 2:4 ISHIKAWA Kasumi"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
