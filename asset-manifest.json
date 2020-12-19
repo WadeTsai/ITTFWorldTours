@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/ITTFWorldTours/static/css/main.1ab6cb56.chunk.css",
-    "main.js": "/ITTFWorldTours/static/js/main.dd2c73fe.chunk.js",
-    "main.js.map": "/ITTFWorldTours/static/js/main.dd2c73fe.chunk.js.map",
-    "runtime-main.js": "/ITTFWorldTours/static/js/runtime-main.8f05e738.js",
-    "runtime-main.js.map": "/ITTFWorldTours/static/js/runtime-main.8f05e738.js.map",
+    "main.js": "/ITTFWorldTours/static/js/main.88aaf28f.chunk.js",
+    "main.js.map": "/ITTFWorldTours/static/js/main.88aaf28f.chunk.js.map",
+    "runtime-main.js": "/ITTFWorldTours/static/js/runtime-main.87a3be92.js",
+    "runtime-main.js.map": "/ITTFWorldTours/static/js/runtime-main.87a3be92.js.map",
     "static/css/2.021d97f0.chunk.css": "/ITTFWorldTours/static/css/2.021d97f0.chunk.css",
-    "static/js/2.2dffdb5a.chunk.js": "/ITTFWorldTours/static/js/2.2dffdb5a.chunk.js",
-    "static/js/2.2dffdb5a.chunk.js.map": "/ITTFWorldTours/static/js/2.2dffdb5a.chunk.js.map",
+    "static/js/2.b0e91282.chunk.js": "/ITTFWorldTours/static/js/2.b0e91282.chunk.js",
+    "static/js/2.b0e91282.chunk.js.map": "/ITTFWorldTours/static/js/2.b0e91282.chunk.js.map",
     "index.html": "/ITTFWorldTours/index.html",
-    "precache-manifest.fca730c0c2d419a41d51ab1e41468287.js": "/ITTFWorldTours/precache-manifest.fca730c0c2d419a41d51ab1e41468287.js",
+    "precache-manifest.2f42cf8d114af45c92d319019317447a.js": "/ITTFWorldTours/precache-manifest.2f42cf8d114af45c92d319019317447a.js",
     "service-worker.js": "/ITTFWorldTours/service-worker.js",
     "static/css/2.021d97f0.chunk.css.map": "/ITTFWorldTours/static/css/2.021d97f0.chunk.css.map",
     "static/css/main.1ab6cb56.chunk.css.map": "/ITTFWorldTours/static/css/main.1ab6cb56.chunk.css.map",
-    "static/js/2.2dffdb5a.chunk.js.LICENSE": "/ITTFWorldTours/static/js/2.2dffdb5a.chunk.js.LICENSE"
+    "static/js/2.b0e91282.chunk.js.LICENSE.txt": "/ITTFWorldTours/static/js/2.b0e91282.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8f05e738.js",
+    "static/js/runtime-main.87a3be92.js",
     "static/css/2.021d97f0.chunk.css",
-    "static/js/2.2dffdb5a.chunk.js",
+    "static/js/2.b0e91282.chunk.js",
     "static/css/main.1ab6cb56.chunk.css",
-    "static/js/main.dd2c73fe.chunk.js"
+    "static/js/main.88aaf28f.chunk.js"
   ]
 }
