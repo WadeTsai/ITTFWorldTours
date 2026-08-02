@@ -1,0 +1,59 @@
+{
+    "name": "MATSUSHIMA Sora 4:2 SIDORENKO Vladimir",
+    "children": [
+        {
+            "name": "MATSUSHIMA Sora 4:1 LEBRUN Felix",
+            "children": [
+                {
+                    "name": "LIND Anders 0:4 MATSUSHIMA Sora",
+                    "children": [
+                        {
+                            "name": "WANG Chuqin 1:3 LIND Anders"
+                        },
+                        {
+                            "name": "QIU Dang 0:3 MATSUSHIMA Sora"
+                        }
+                    ]
+                },
+                {
+                    "name": "LEBRUN Felix 4:2 LEBRUN Alexis",
+                    "children": [
+                        {
+                            "name": "LEBRUN Felix 3:0 GERALDO Joao"
+                        },
+                        {
+                            "name": "LEBRUN Alexis 3:0 LIN Shidong"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "MOREGARD Truls 3:4 SIDORENKO Vladimir",
+            "children": [
+                {
+                    "name": "JANG Woojin 0:4 MOREGARD Truls",
+                    "children": [
+                        {
+                            "name": "UDA Yukiya 1:3 JANG Woojin"
+                        },
+                        {
+                            "name": "JHA Kanak 1:3 MOREGARD Truls"
+                        }
+                    ]
+                },
+                {
+                    "name": "SHINOZUKA Hiroto 1:4 SIDORENKO Vladimir",
+                    "children": [
+                        {
+                            "name": "CALDERANO Hugo 1:3 SHINOZUKA Hiroto"
+                        },
+                        {
+                            "name": "SIDORENKO Vladimir 3:0 HARIMOTO Tomokazu"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

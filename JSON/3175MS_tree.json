@@ -1,0 +1,59 @@
+{
+    "name": "CALDERANO Hugo 4:1 OIKAWA Mizuki",
+    "children": [
+        {
+            "name": "CALDERANO Hugo 3:0 SHINOZUKA Hiroto",
+            "children": [
+                {
+                    "name": "CALDERANO Hugo 3:0 LIAO Cheng-Ting",
+                    "children": [
+                        {
+                            "name": "CALDERANO Hugo 3:1 APOLONIA Tiago"
+                        },
+                        {
+                            "name": "LIAO Cheng-Ting 3:0 DESAI Harmeet"
+                        }
+                    ]
+                },
+                {
+                    "name": "SHINOZUKA Hiroto 3:1 WALTHER Ricardo",
+                    "children": [
+                        {
+                            "name": "SHINOZUKA Hiroto 3:0 CIFUENTES Horacio"
+                        },
+                        {
+                            "name": "GOMEZ Gustavo 1:3 WALTHER Ricardo"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "THAKKAR Manav 0:3 OIKAWA Mizuki",
+            "children": [
+                {
+                    "name": "THAKKAR Manav 3:0 KIM Taehyun",
+                    "children": [
+                        {
+                            "name": "THAKKAR Manav 3:2 STUMPER Kay"
+                        },
+                        {
+                            "name": "KIM Taehyun 3:2 SURAVAJJULA Snehit"
+                        }
+                    ]
+                },
+                {
+                    "name": "BERTELSMEIER Andre 1:3 OIKAWA Mizuki",
+                    "children": [
+                        {
+                            "name": "YOSHIYAMA Ryoichi 2:3 BERTELSMEIER Andre"
+                        },
+                        {
+                            "name": "OIKAWA Mizuki 3:2 OH Junsung"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

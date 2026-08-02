@@ -1,0 +1,59 @@
+{
+    "name": "OVTCHAROV Dimitrij 4:1 WALTHER Ricardo",
+    "children": [
+        {
+            "name": "OVTCHAROV Dimitrij 3:1 PORET Thibault",
+            "children": [
+                {
+                    "name": "OVTCHAROV Dimitrij 3:0 NING Xiankun",
+                    "children": [
+                        {
+                            "name": "OVTCHAROV Dimitrij 3:0 KANG Youde"
+                        },
+                        {
+                            "name": "NING Xiankun 3:0 DESAI Harmeet"
+                        }
+                    ]
+                },
+                {
+                    "name": "ACHANTA Sharath Kamal 2:3 PORET Thibault",
+                    "children": [
+                        {
+                            "name": "ACHANTA Sharath Kamal 3:0 LUO Jiecheng"
+                        },
+                        {
+                            "name": "PORET Thibault 3:2 GNANASEKARAN Sathiyan"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "WALTHER Ricardo 3:2 LIM Jonghoon",
+            "children": [
+                {
+                    "name": "WALTHER Ricardo 3:2 MENGEL Steffen",
+                    "children": [
+                        {
+                            "name": "WALTHER Ricardo 3:1 SHAH Manush Utpalbhai"
+                        },
+                        {
+                            "name": "MENGEL Steffen 3:0 LIND Anders"
+                        }
+                    ]
+                },
+                {
+                    "name": "THAKKAR Manav Vikash 2:3 LIM Jonghoon",
+                    "children": [
+                        {
+                            "name": "THAKKAR Manav Vikash 3:0 FEI Junhang"
+                        },
+                        {
+                            "name": "ADEGOKE Muizz 0:3 LIM Jonghoon"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

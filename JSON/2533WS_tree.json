@@ -1,0 +1,59 @@
+{
+    "name": "HAN Ying 3:4 KIHARA Miyuu",
+    "children": [
+        {
+            "name": "HAN Ying 4:2 KATO Miyu",
+            "children": [
+                {
+                    "name": "JOO Cheonhui 0:3 HAN Ying",
+                    "children": [
+                        {
+                            "name": "JOO Cheonhui 3:1 TAKAHASHI Bruna"
+                        },
+                        {
+                            "name": "BATRA Manika 0:3 HAN Ying"
+                        }
+                    ]
+                },
+                {
+                    "name": "JEON Jihee 1:3 KATO Miyu",
+                    "children": [
+                        {
+                            "name": "JEON Jihee 3:2 SAMARA Elizabeta"
+                        },
+                        {
+                            "name": "KATO Miyu 3:1 POLCANOVA Sofia"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "CHEN Szu-Yu 0:4 KIHARA Miyuu",
+            "children": [
+                {
+                    "name": "ZHANG Rui 1:3 CHEN Szu-Yu",
+                    "children": [
+                        {
+                            "name": "ZHANG Rui 3:1 LEE Ho Ching"
+                        },
+                        {
+                            "name": "CHEN Szu-Yu 3:0 BERGSTROM Linda"
+                        }
+                    ]
+                },
+                {
+                    "name": "YANG Xiaoxin 1:3 KIHARA Miyuu",
+                    "children": [
+                        {
+                            "name": "YANG Xiaoxin 3:0 SZOCS Bernadette"
+                        },
+                        {
+                            "name": "BALAZOVA Barbora 0:3 KIHARA Miyuu"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

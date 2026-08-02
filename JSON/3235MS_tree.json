@@ -1,0 +1,59 @@
+{
+    "name": "LEBRUN Felix 4:1 WEN Ruibo",
+    "children": [
+        {
+            "name": "MATSUSHIMA Sora 3:4 LEBRUN Felix",
+            "children": [
+                {
+                    "name": "WANG Chuqin 2:4 MATSUSHIMA Sora",
+                    "children": [
+                        {
+                            "name": "WANG Chuqin 3:0 FRANZISKA Patrick"
+                        },
+                        {
+                            "name": "LUM Nicholas 0:3 MATSUSHIMA Sora"
+                        }
+                    ]
+                },
+                {
+                    "name": "CALDERANO Hugo 3:4 LEBRUN Felix",
+                    "children": [
+                        {
+                            "name": "CALDERANO Hugo 3:1 PUCAR Tomislav"
+                        },
+                        {
+                            "name": "AN Jaehyun 0:3 LEBRUN Felix"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "HARIMOTO Tomokazu 2:4 WEN Ruibo",
+            "children": [
+                {
+                    "name": "LIN Yun-Ju 2:4 HARIMOTO Tomokazu",
+                    "children": [
+                        {
+                            "name": "LIN Yun-Ju 3:1 ZHOU Qihao"
+                        },
+                        {
+                            "name": "UDA Yukiya 0:3 HARIMOTO Tomokazu"
+                        }
+                    ]
+                },
+                {
+                    "name": "QIU Dang 2:4 WEN Ruibo",
+                    "children": [
+                        {
+                            "name": "LIANG Jingkun 2:3 QIU Dang"
+                        },
+                        {
+                            "name": "WEN Ruibo 3:1 MOREGARD Truls"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

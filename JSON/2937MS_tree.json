@@ -1,0 +1,59 @@
+{
+    "name": "MA Long 4:3 LIN Gaoyuan",
+    "children": [
+        {
+            "name": "WANG Chuqin 0:4 MA Long",
+            "children": [
+                {
+                    "name": "WANG Chuqin 4:1 JANG Woojin",
+                    "children": [
+                        {
+                            "name": "WANG Chuqin 4:2 CALDERANO Hugo"
+                        },
+                        {
+                            "name": "JANG Woojin 4:2 LIN Yun-Ju"
+                        }
+                    ]
+                },
+                {
+                    "name": "TOGAMI Shunsuke 2:4 MA Long",
+                    "children": [
+                        {
+                            "name": "TOGAMI Shunsuke 4:2 ASSAR Omar"
+                        },
+                        {
+                            "name": "LEBRUN Felix 2:4 MA Long"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "HARIMOTO Tomokazu 0:4 LIN Gaoyuan",
+            "children": [
+                {
+                    "name": "KALLBERG Anton 2:4 HARIMOTO Tomokazu",
+                    "children": [
+                        {
+                            "name": "LIANG Jingkun 3:4 KALLBERG Anton"
+                        },
+                        {
+                            "name": "FREITAS Marcos 2:4 HARIMOTO Tomokazu"
+                        }
+                    ]
+                },
+                {
+                    "name": "LIN Gaoyuan 4:2 FAN Zhendong",
+                    "children": [
+                        {
+                            "name": "JORGIC Darko 2:4 LIN Gaoyuan"
+                        },
+                        {
+                            "name": "LIN Shidong 3:4 FAN Zhendong"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

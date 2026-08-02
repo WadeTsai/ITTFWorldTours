@@ -1,0 +1,59 @@
+{
+    "name": "HARIMOTO Tomokazu 4:3 UDA Yukiya",
+    "children": [
+        {
+            "name": "HARIMOTO Tomokazu 3:2 MATSUSHIMA Sora",
+            "children": [
+                {
+                    "name": "HARIMOTO Tomokazu 3:2 OIKAWA Mizuki",
+                    "children": [
+                        {
+                            "name": "HARIMOTO Tomokazu 3:0 QUEK Izaac"
+                        },
+                        {
+                            "name": "OIKAWA Mizuki 3:2 THAKKAR Manav Vikash"
+                        }
+                    ]
+                },
+                {
+                    "name": "GROTH Jonathan 1:3 MATSUSHIMA Sora",
+                    "children": [
+                        {
+                            "name": "GROTH Jonathan 3:0 DORR Esteban"
+                        },
+                        {
+                            "name": "GNANASEKARAN Sathiyan 0:3 MATSUSHIMA Sora"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "UDA Yukiya 3:2 SHINOZUKA Hiroto",
+            "children": [
+                {
+                    "name": "UDA Yukiya 3:0 PUCAR Tomislav",
+                    "children": [
+                        {
+                            "name": "GAUZY Simon 1:3 UDA Yukiya"
+                        },
+                        {
+                            "name": "HUANG Yan-Cheng 1:3 PUCAR Tomislav"
+                        }
+                    ]
+                },
+                {
+                    "name": "YOSHIMURA Maharu 2:3 SHINOZUKA Hiroto",
+                    "children": [
+                        {
+                            "name": "YOSHIMURA Maharu 3:2 ACHANTA Sharath Kamal"
+                        },
+                        {
+                            "name": "FENG Yi-Hsin 2:3 SHINOZUKA Hiroto"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

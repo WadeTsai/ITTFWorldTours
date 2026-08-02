@@ -1,0 +1,59 @@
+{
+    "name": "MOREGARD Truls 2:4 HARIMOTO Tomokazu",
+    "children": [
+        {
+            "name": "WANG Chuqin 0:4 MOREGARD Truls",
+            "children": [
+                {
+                    "name": "WANG Chuqin 4:1 LEBRUN Alexis",
+                    "children": [
+                        {
+                            "name": "WANG Chuqin 4:3 MATSUSHIMA Sora"
+                        },
+                        {
+                            "name": "LEBRUN Alexis 4:1 QIU Dang"
+                        }
+                    ]
+                },
+                {
+                    "name": "MOREGARD Truls 4:2 LIN Yun-Ju",
+                    "children": [
+                        {
+                            "name": "MOREGARD Truls 4:1 LIND Anders"
+                        },
+                        {
+                            "name": "DUDA Benedikt 2:4 LIN Yun-Ju"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "HARIMOTO Tomokazu 4:3 LIN Shidong",
+            "children": [
+                {
+                    "name": "HARIMOTO Tomokazu 4:3 LEBRUN Felix",
+                    "children": [
+                        {
+                            "name": "HARIMOTO Tomokazu 4:2 GAUZY Simon"
+                        },
+                        {
+                            "name": "LEBRUN Felix 4:2 CALDERANO Hugo"
+                        }
+                    ]
+                },
+                {
+                    "name": "XIANG Peng 0:4 LIN Shidong",
+                    "children": [
+                        {
+                            "name": "AN Jaehyun 2:4 XIANG Peng"
+                        },
+                        {
+                            "name": "LIANG Jingkun 0:4 LIN Shidong"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "name": "JANG Woojin 0:4 LIN Yun-Ju",
+    "children": [
+        {
+            "name": "LIN Shidong 2:4 JANG Woojin",
+            "children": [
+                {
+                    "name": "LIN Shidong 4:2 LIANG Jingkun",
+                    "children": [
+                        {
+                            "name": "LIN Shidong 3:2 DUDA Benedikt"
+                        },
+                        {
+                            "name": "CHEN Yuanyu 0:3 LIANG Jingkun"
+                        }
+                    ]
+                },
+                {
+                    "name": "MOREGARD Truls 1:4 JANG Woojin",
+                    "children": [
+                        {
+                            "name": "MOREGARD Truls 3:1 THAKKAR Manav"
+                        },
+                        {
+                            "name": "TOGAMI Shunsuke 1:3 JANG Woojin"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "HARIMOTO Tomokazu 3:4 LIN Yun-Ju",
+            "children": [
+                {
+                    "name": "LEBRUN Felix 2:4 HARIMOTO Tomokazu",
+                    "children": [
+                        {
+                            "name": "LEBRUN Felix 3:0 QIU Dang"
+                        },
+                        {
+                            "name": "ZHOU Qihao 1:3 HARIMOTO Tomokazu"
+                        }
+                    ]
+                },
+                {
+                    "name": "MATSUSHIMA Sora 0:4 LIN Yun-Ju",
+                    "children": [
+                        {
+                            "name": "MATSUSHIMA Sora 3:0 UDA Yukiya"
+                        },
+                        {
+                            "name": "LIN Yun-Ju 3:0 OVTCHAROV Dimitrij"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "name": "SUN Yingsha 4:1 CHEN Xingtong",
+    "children": [
+        {
+            "name": "SUN Yingsha 4:0 YUAN Jia Nan",
+            "children": [
+                {
+                    "name": "SUN Yingsha 3:0 CHENG I-Ching",
+                    "children": [
+                        {
+                            "name": "SUN Yingsha 3:1 YANG Xiaoxin"
+                        },
+                        {
+                            "name": "MATELOVA Hana 0:3 CHENG I-Ching"
+                        }
+                    ]
+                },
+                {
+                    "name": "YUAN Jia Nan 3:1 ISHIKAWA Kasumi",
+                    "children": [
+                        {
+                            "name": "YUAN Jia Nan 3:1 CHEN Szu-Yu"
+                        },
+                        {
+                            "name": "MESHREF Dina 0:3 ISHIKAWA Kasumi"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "CHEN Xingtong 4:1 ITO Mima",
+            "children": [
+                {
+                    "name": "CHEN Xingtong 3:0 WANG Yidi",
+                    "children": [
+                        {
+                            "name": "JEON Jihee 0:3 CHEN Xingtong"
+                        },
+                        {
+                            "name": "SHAN Xiaona 1:3 WANG Yidi"
+                        }
+                    ]
+                },
+                {
+                    "name": "ITO Mima 3:2 SZOCS Bernadette",
+                    "children": [
+                        {
+                            "name": "ITO Mima 3:1 KIHARA Miyuu"
+                        },
+                        {
+                            "name": "SZOCS Bernadette 3:2 CHEN Meng"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

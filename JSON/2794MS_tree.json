@@ -1,0 +1,59 @@
+{
+    "name": "TOGAMI Shunsuke 3:4 LIANG Jingkun",
+    "children": [
+        {
+            "name": "TOGAMI Shunsuke 3:1 LIN Shidong",
+            "children": [
+                {
+                    "name": "TOGAMI Shunsuke 3:1 CHO Daeseong",
+                    "children": [
+                        {
+                            "name": "XU Yingbin 1:3 TOGAMI Shunsuke"
+                        },
+                        {
+                            "name": "CHO Daeseong 3:0 MATSUSHIMA Sora"
+                        }
+                    ]
+                },
+                {
+                    "name": "LIN Shidong 3:1 KAO Cheng-Jui",
+                    "children": [
+                        {
+                            "name": "LIN Shidong 3:0 GERALDO Joao"
+                        },
+                        {
+                            "name": "WANG Yang 1:3 KAO Cheng-Jui"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "LIN Gaoyuan 1:3 LIANG Jingkun",
+            "children": [
+                {
+                    "name": "OH Junsung 1:3 LIN Gaoyuan",
+                    "children": [
+                        {
+                            "name": "OH Junsung 3:0 WOO Hyeonggyu"
+                        },
+                        {
+                            "name": "YOSHIMURA Maharu 1:3 LIN Gaoyuan"
+                        }
+                    ]
+                },
+                {
+                    "name": "XIANG Peng 2:3 LIANG Jingkun",
+                    "children": [
+                        {
+                            "name": "XIANG Peng 3:2 CHEN Yuanyu"
+                        },
+                        {
+                            "name": "WONG Chun Ting 0:3 LIANG Jingkun"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

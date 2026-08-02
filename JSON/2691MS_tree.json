@@ -1,0 +1,59 @@
+{
+    "name": "KALLBERG Anton 4:1 FRANZISKA Patrick",
+    "children": [
+        {
+            "name": "FALCK Mattias 1:3 KALLBERG Anton",
+            "children": [
+                {
+                    "name": "FALCK Mattias 3:1 APOLONIA Tiago",
+                    "children": [
+                        {
+                            "name": "CALDERANO Hugo 0:3 FALCK Mattias"
+                        },
+                        {
+                            "name": "APOLONIA Tiago 3:2 GAUZY Simon"
+                        }
+                    ]
+                },
+                {
+                    "name": "LIANG Yanning 2:3 KALLBERG Anton",
+                    "children": [
+                        {
+                            "name": "DESAI Harmeet 0:3 LIANG Yanning"
+                        },
+                        {
+                            "name": "ZHOU Qihao 1:3 KALLBERG Anton"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "FRANZISKA Patrick 3:1 SUN Wen",
+            "children": [
+                {
+                    "name": "FRANZISKA Patrick 3:2 OIKAWA Mizuki",
+                    "children": [
+                        {
+                            "name": "FRANZISKA Patrick 3:1 HUANG Yan-Cheng"
+                        },
+                        {
+                            "name": "OIKAWA Mizuki 3:2 AN Jaehyun"
+                        }
+                    ]
+                },
+                {
+                    "name": "AKKUZU Can 0:3 SUN Wen",
+                    "children": [
+                        {
+                            "name": "AKKUZU Can 3:2 LIU Dingshuo"
+                        },
+                        {
+                            "name": "SUN Wen 3:2 LIN Yun-Ju"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

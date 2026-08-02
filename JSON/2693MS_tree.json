@@ -1,0 +1,59 @@
+{
+    "name": "OVTCHAROV Dimitrij 1:4 ZHOU Qihao",
+    "children": [
+        {
+            "name": "DESAI Harmeet 0:3 OVTCHAROV Dimitrij",
+            "children": [
+                {
+                    "name": "DESAI Harmeet 3:1 XIANG Peng",
+                    "children": [
+                        {
+                            "name": "JANG Woojin 0:3 DESAI Harmeet"
+                        },
+                        {
+                            "name": "THAKKAR Manav Vikash 2:3 XIANG Peng"
+                        }
+                    ]
+                },
+                {
+                    "name": "OVTCHAROV Dimitrij 3:0 CHUANG Chih-Yuan",
+                    "children": [
+                        {
+                            "name": "OVTCHAROV Dimitrij 3:1 LIANG Yanning"
+                        },
+                        {
+                            "name": "NUYTINCK Cedric 0:3 CHUANG Chih-Yuan"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "ZHOU Qihao 3:1 GROTH Jonathan",
+            "children": [
+                {
+                    "name": "ZHOU Qihao 3:1 FRANZISKA Patrick",
+                    "children": [
+                        {
+                            "name": "DUDA Benedikt 1:3 ZHOU Qihao"
+                        },
+                        {
+                            "name": "KAO Cheng-Jui 2:3 FRANZISKA Patrick"
+                        }
+                    ]
+                },
+                {
+                    "name": "GROTH Jonathan 3:2 SUN Wen",
+                    "children": [
+                        {
+                            "name": "YUAN Licen 2:3 GROTH Jonathan"
+                        },
+                        {
+                            "name": "OH Junsung 1:3 SUN Wen"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

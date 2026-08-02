@@ -1,0 +1,59 @@
+{
+    "name": "LEBRUN Felix 4:0 LIND Anders",
+    "children": [
+        {
+            "name": "LEBRUN Felix 3:1 SHINOZUKA Hiroto",
+            "children": [
+                {
+                    "name": "LEBRUN Felix 3:0 OVTCHAROV Dimitrij",
+                    "children": [
+                        {
+                            "name": "LEBRUN Felix 3:0 MENGEL Steffen"
+                        },
+                        {
+                            "name": "DORR Esteban 2:3 OVTCHAROV Dimitrij"
+                        }
+                    ]
+                },
+                {
+                    "name": "REDZIMSKI Milosz 2:3 SHINOZUKA Hiroto",
+                    "children": [
+                        {
+                            "name": "REDZIMSKI Milosz 3:0 PORET Thibault"
+                        },
+                        {
+                            "name": "DESAI Harmeet 1:3 SHINOZUKA Hiroto"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "KARLSSON Kristian 1:3 LIND Anders",
+            "children": [
+                {
+                    "name": "KARLSSON Kristian 3:0 MATSUSHIMA Sora",
+                    "children": [
+                        {
+                            "name": "ABDELAZIZ Youssef 0:3 KARLSSON Kristian"
+                        },
+                        {
+                            "name": "BOURRASSAUD Florian 0:3 MATSUSHIMA Sora"
+                        }
+                    ]
+                },
+                {
+                    "name": "LIND Anders 3:2 FALCK Mattias",
+                    "children": [
+                        {
+                            "name": "LIND Anders 3:0 SHAMS Navid"
+                        },
+                        {
+                            "name": "FALCK Mattias 3:2 JORGIC Darko"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

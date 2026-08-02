@@ -1,0 +1,59 @@
+{
+    "name": "SUN Yingsha 2:4 CHEN Xingtong",
+    "children": [
+        {
+            "name": "SUN Yingsha 4:1 SHI Xunyao",
+            "children": [
+                {
+                    "name": "SUN Yingsha 4:0 ODO Satsuki",
+                    "children": [
+                        {
+                            "name": "SUN Yingsha 3:1 HASHIMOTO Honoka"
+                        },
+                        {
+                            "name": "ZHANG Lily 0:3 ODO Satsuki"
+                        }
+                    ]
+                },
+                {
+                    "name": "KUAI Man 0:4 SHI Xunyao",
+                    "children": [
+                        {
+                            "name": "KUAI Man 3:0 SZOCS Bernadette"
+                        },
+                        {
+                            "name": "SHI Xunyao 3:2 ITO Mima"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "CHEN Xingtong 4:1 WANG Yidi",
+            "children": [
+                {
+                    "name": "HAYATA Hina 2:4 CHEN Xingtong",
+                    "children": [
+                        {
+                            "name": "HARIMOTO Miwa 2:3 HAYATA Hina"
+                        },
+                        {
+                            "name": "ZHANG Mo 0:3 CHEN Xingtong"
+                        }
+                    ]
+                },
+                {
+                    "name": "WANG Yidi 4:2 CHEN Yi",
+                    "children": [
+                        {
+                            "name": "WANG Yidi 3:0 LIU Yangzi"
+                        },
+                        {
+                            "name": "CHEN Yi 3:2 WANG Manyu"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

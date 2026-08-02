@@ -1,0 +1,59 @@
+{
+    "name": "GACINA Andrej 4:2 LIM Jonghoon",
+    "children": [
+        {
+            "name": "KARLSSON Kristian 0:4 GACINA Andrej",
+            "children": [
+                {
+                    "name": "CALDERANO Hugo 1:3 KARLSSON Kristian",
+                    "children": [
+                        {
+                            "name": "CALDERANO Hugo 3:2 QIU Dang"
+                        },
+                        {
+                            "name": "KARLSSON Kristian 3:1 GNANASEKARAN Sathiyan"
+                        }
+                    ]
+                },
+                {
+                    "name": "XUE Fei 1:3 GACINA Andrej",
+                    "children": [
+                        {
+                            "name": "XUE Fei 3:0 JHA Kanak"
+                        },
+                        {
+                            "name": "WONG Chun Ting 1:3 GACINA Andrej"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "ARUNA Quadri 2:4 LIM Jonghoon",
+            "children": [
+                {
+                    "name": "ARUNA Quadri 3:0 ZHOU Qihao",
+                    "children": [
+                        {
+                            "name": "ARUNA Quadri 3:0 ZHAO Zihao"
+                        },
+                        {
+                            "name": "ZHOU Qihao 3:1 FRANZISKA Patrick"
+                        }
+                    ]
+                },
+                {
+                    "name": "LIM Jonghoon 3:1 LIN Yun-Ju",
+                    "children": [
+                        {
+                            "name": "PITCHFORD Liam 2:3 LIM Jonghoon"
+                        },
+                        {
+                            "name": "KALLBERG Anton 1:3 LIN Yun-Ju"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

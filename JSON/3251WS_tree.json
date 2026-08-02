@@ -1,0 +1,59 @@
+{
+    "name": "SHI Xunyao 4:0 HE Zhuojia",
+    "children": [
+        {
+            "name": "SHI Xunyao 3:0 ZONG Geman",
+            "children": [
+                {
+                    "name": "SHI Xunyao 3:0 ZENG Jian",
+                    "children": [
+                        {
+                            "name": "SHI Xunyao 3:2 BATRA Manika"
+                        },
+                        {
+                            "name": "MITTELHAM Nina 0:3 ZENG Jian"
+                        }
+                    ]
+                },
+                {
+                    "name": "QIN Yuxuan 2:3 ZONG Geman",
+                    "children": [
+                        {
+                            "name": "QIN Yuxuan 3:1 SHAN Xiaona"
+                        },
+                        {
+                            "name": "ABRAAMIAN Elizabet 0:3 ZONG Geman"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "HE Zhuojia 3:1 DOO Hoi Kem",
+            "children": [
+                {
+                    "name": "HURSEY Anna 2:3 HE Zhuojia",
+                    "children": [
+                        {
+                            "name": "HURSEY Anna 3:2 WANG Xiaotong"
+                        },
+                        {
+                            "name": "YEH Yi-Tian 0:3 HE Zhuojia"
+                        }
+                    ]
+                },
+                {
+                    "name": "DOO Hoi Kem 3:2 CHENG I-Ching",
+                    "children": [
+                        {
+                            "name": "DOO Hoi Kem 3:0 ALTINKAYA Sibel"
+                        },
+                        {
+                            "name": "YANG Yiyun 0:3 CHENG I-Ching"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

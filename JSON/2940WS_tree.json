@@ -1,0 +1,59 @@
+{
+    "name": "HARIMOTO Miwa 2:4 ODO Satsuki",
+    "children": [
+        {
+            "name": "QIAN Tianyi 2:4 HARIMOTO Miwa",
+            "children": [
+                {
+                    "name": "QIAN Tianyi 3:0 BATRA Manika",
+                    "children": [
+                        {
+                            "name": "WANG Yidi 0:3 QIAN Tianyi"
+                        },
+                        {
+                            "name": "BATRA Manika 3:1 SZOCS Bernadette"
+                        }
+                    ]
+                },
+                {
+                    "name": "HARIMOTO Miwa 3:0 SHIN Yubin",
+                    "children": [
+                        {
+                            "name": "HARIMOTO Miwa 3:0 DIAZ Adriana"
+                        },
+                        {
+                            "name": "DOO Hoi Kem 2:3 SHIN Yubin"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "ODO Satsuki 4:3 CHENG I-Ching",
+            "children": [
+                {
+                    "name": "ODO Satsuki 3:1 ITO Mima",
+                    "children": [
+                        {
+                            "name": "HIRANO Miu 0:3 ODO Satsuki"
+                        },
+                        {
+                            "name": "PAVADE Prithika 0:3 ITO Mima"
+                        }
+                    ]
+                },
+                {
+                    "name": "CHENG I-Ching 3:1 GODA Hana",
+                    "children": [
+                        {
+                            "name": "CHENG I-Ching 3:1 YUAN Jia Nan"
+                        },
+                        {
+                            "name": "GODA Hana 3:1 CHEN Xingtong"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

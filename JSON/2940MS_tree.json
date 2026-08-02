@@ -1,0 +1,59 @@
+{
+    "name": "LEBRUN Felix 4:1 HARIMOTO Tomokazu",
+    "children": [
+        {
+            "name": "LIN Shidong 0:4 LEBRUN Felix",
+            "children": [
+                {
+                    "name": "LIN Shidong 3:1 LIN Yun-Ju",
+                    "children": [
+                        {
+                            "name": "LIN Shidong 3:1 OH Junsung"
+                        },
+                        {
+                            "name": "GROTH Jonathan 0:3 LIN Yun-Ju"
+                        }
+                    ]
+                },
+                {
+                    "name": "LEBRUN Felix 3:1 LEBRUN Alexis",
+                    "children": [
+                        {
+                            "name": "LEBRUN Felix 3:1 XIANG Peng"
+                        },
+                        {
+                            "name": "LEBRUN Alexis 3:1 MOREGARD Truls"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "HARIMOTO Tomokazu 4:2 DUDA Benedikt",
+            "children": [
+                {
+                    "name": "HARIMOTO Tomokazu 3:0 FRANZISKA Patrick",
+                    "children": [
+                        {
+                            "name": "HARIMOTO Tomokazu 3:2 KALLBERG Anton"
+                        },
+                        {
+                            "name": "FRANZISKA Patrick 3:2 CALDERANO Hugo"
+                        }
+                    ]
+                },
+                {
+                    "name": "DUDA Benedikt 3:0 LIANG Jingkun",
+                    "children": [
+                        {
+                            "name": "DUDA Benedikt 3:0 ARUNA Quadri"
+                        },
+                        {
+                            "name": "TOGAMI Shunsuke 1:3 LIANG Jingkun"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

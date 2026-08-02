@@ -1,0 +1,59 @@
+{
+    "name": "QIU Dang 1:4 MATSUSHIMA Sora",
+    "children": [
+        {
+            "name": "LEE Sang Su 1:4 QIU Dang",
+            "children": [
+                {
+                    "name": "GAUZY Simon 2:4 LEE Sang Su",
+                    "children": [
+                        {
+                            "name": "CALDERANO Hugo 1:3 GAUZY Simon"
+                        },
+                        {
+                            "name": "LEE Sang Su 3:1 LIN Yun-Ju"
+                        }
+                    ]
+                },
+                {
+                    "name": "KALLBERG Anton 1:4 QIU Dang",
+                    "children": [
+                        {
+                            "name": "KALLBERG Anton 3:1 LEBRUN Alexis"
+                        },
+                        {
+                            "name": "FRANZISKA Patrick 1:3 QIU Dang"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "LIND Anders 2:4 MATSUSHIMA Sora",
+            "children": [
+                {
+                    "name": "LIND Anders 4:2 LEBRUN Felix",
+                    "children": [
+                        {
+                            "name": "TOGAMI Shunsuke 2:3 LIND Anders"
+                        },
+                        {
+                            "name": "THAKKAR Manav 0:3 LEBRUN Felix"
+                        }
+                    ]
+                },
+                {
+                    "name": "MATSUSHIMA Sora 4:0 OVTCHAROV Dimitrij",
+                    "children": [
+                        {
+                            "name": "JHA Kanak 0:3 MATSUSHIMA Sora"
+                        },
+                        {
+                            "name": "OVTCHAROV Dimitrij 3:1 HARIMOTO Tomokazu"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

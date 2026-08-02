@@ -1,0 +1,59 @@
+{
+    "name": "CALDERANO Hugo 4:0 ZHMUDENKO Yaroslav",
+    "children": [
+        {
+            "name": "CALDERANO Hugo 3:1 KALLBERG Anton",
+            "children": [
+                {
+                    "name": "CALDERANO Hugo 3:2 LIN Shidong",
+                    "children": [
+                        {
+                            "name": "CALDERANO Hugo 3:0 SURAVAJJULA Snehit"
+                        },
+                        {
+                            "name": "JARVIS Tom 1:3 LIN Shidong"
+                        }
+                    ]
+                },
+                {
+                    "name": "FRANZISKA Patrick 1:3 KALLBERG Anton",
+                    "children": [
+                        {
+                            "name": "FRANZISKA Patrick 3:0 HUANG Yan-Cheng"
+                        },
+                        {
+                            "name": "PISTEJ Lubomir 0:3 KALLBERG Anton"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "ZHMUDENKO Yaroslav 3:1 GAUZY Simon",
+            "children": [
+                {
+                    "name": "ZHMUDENKO Yaroslav 3:0 ARUNA Quadri",
+                    "children": [
+                        {
+                            "name": "ROLLAND Jules 2:3 ZHMUDENKO Yaroslav"
+                        },
+                        {
+                            "name": "LEBRUN Felix 2:3 ARUNA Quadri"
+                        }
+                    ]
+                },
+                {
+                    "name": "GAUZY Simon 3:2 QIU Dang",
+                    "children": [
+                        {
+                            "name": "GAUZY Simon 3:1 XU Yingbin"
+                        },
+                        {
+                            "name": "THAKKAR Manav Vikash 1:3 QIU Dang"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

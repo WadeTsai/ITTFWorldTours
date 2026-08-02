@@ -1,0 +1,59 @@
+{
+    "name": "QIU Dang 2:4 YUAN Licen",
+    "children": [
+        {
+            "name": "QIU Dang 4:2 LEBRUN Alexis",
+            "children": [
+                {
+                    "name": "CALDERANO Hugo 2:3 QIU Dang",
+                    "children": [
+                        {
+                            "name": "CALDERANO Hugo 3:0 KALLBERG Anton"
+                        },
+                        {
+                            "name": "QIU Dang 3:2 GAUZY Simon"
+                        }
+                    ]
+                },
+                {
+                    "name": "AN Jaehyun 0:3 LEBRUN Alexis",
+                    "children": [
+                        {
+                            "name": "JORGIC Darko 0:3 AN Jaehyun"
+                        },
+                        {
+                            "name": "LEBRUN Alexis 3:0 JIN Takuya"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "ACHANTA Sharath Kamal 3:4 YUAN Licen",
+            "children": [
+                {
+                    "name": "PUCAR Tomislav 0:3 ACHANTA Sharath Kamal",
+                    "children": [
+                        {
+                            "name": "WONG Chun Ting 1:3 PUCAR Tomislav"
+                        },
+                        {
+                            "name": "ACHANTA Sharath Kamal 3:1 LIM Jonghoon"
+                        }
+                    ]
+                },
+                {
+                    "name": "ZHAO Zihao 1:3 YUAN Licen",
+                    "children": [
+                        {
+                            "name": "ZHAO Zihao 3:0 GROTH Jonathan"
+                        },
+                        {
+                            "name": "YUAN Licen 3:1 LIN Yun-Ju"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

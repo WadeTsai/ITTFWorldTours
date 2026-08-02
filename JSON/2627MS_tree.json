@@ -1,0 +1,59 @@
+{
+    "name": "HARIMOTO Tomokazu 2:4 WANG Chuqin",
+    "children": [
+        {
+            "name": "OVTCHAROV Dimitrij 0:4 HARIMOTO Tomokazu",
+            "children": [
+                {
+                    "name": "FAN Zhendong 2:3 OVTCHAROV Dimitrij",
+                    "children": [
+                        {
+                            "name": "FAN Zhendong 0:0 BYE"
+                        },
+                        {
+                            "name": "CHUANG Chih-Yuan 2:3 OVTCHAROV Dimitrij"
+                        }
+                    ]
+                },
+                {
+                    "name": "HARIMOTO Tomokazu 3:0 BOLL Timo",
+                    "children": [
+                        {
+                            "name": "HARIMOTO Tomokazu 3:0 FRANZISKA Patrick"
+                        },
+                        {
+                            "name": "LIN Gaoyuan 2:3 BOLL Timo"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "WANG Chuqin 4:3 MA Long",
+            "children": [
+                {
+                    "name": "WANG Chuqin 3:0 MOREGARD Truls",
+                    "children": [
+                        {
+                            "name": "WANG Chuqin 3:1 QIU Dang"
+                        },
+                        {
+                            "name": "CALDERANO Hugo 1:3 MOREGARD Truls"
+                        }
+                    ]
+                },
+                {
+                    "name": "LIN Yun-Ju 2:3 MA Long",
+                    "children": [
+                        {
+                            "name": "LIN Yun-Ju 3:1 ARUNA Quadri"
+                        },
+                        {
+                            "name": "JORGIC Darko 1:3 MA Long"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

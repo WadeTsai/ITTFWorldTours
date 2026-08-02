@@ -1,0 +1,59 @@
+{
+    "name": "LIN Yun-Ju 3:4 FILUS Ruwen",
+    "children": [
+        {
+            "name": "LIN Yun-Ju 4:1 LIANG Yanning",
+            "children": [
+                {
+                    "name": "LIN Yun-Ju 3:2 FALCK Mattias",
+                    "children": [
+                        {
+                            "name": "LIN Yun-Ju 3:0 MENG Fanbo"
+                        },
+                        {
+                            "name": "AN Jaehyun 2:3 FALCK Mattias"
+                        }
+                    ]
+                },
+                {
+                    "name": "LIANG Yanning 3:2 JANG Woojin",
+                    "children": [
+                        {
+                            "name": "GACINA Andrej 0:3 LIANG Yanning"
+                        },
+                        {
+                            "name": "APOLONIA Tiago 0:3 JANG Woojin"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "FILUS Ruwen 4:3 SHINOZUKA Hiroto",
+            "children": [
+                {
+                    "name": "FILUS Ruwen 3:1 KALLBERG Anton",
+                    "children": [
+                        {
+                            "name": "FILUS Ruwen 3:1 SAI Linwei"
+                        },
+                        {
+                            "name": "JHA Kanak 2:3 KALLBERG Anton"
+                        }
+                    ]
+                },
+                {
+                    "name": "SHINOZUKA Hiroto 3:1 CHEN Yuanyu",
+                    "children": [
+                        {
+                            "name": "SHINOZUKA Hiroto 3:1 WANG Yang"
+                        },
+                        {
+                            "name": "NIWA Koki 1:3 CHEN Yuanyu"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

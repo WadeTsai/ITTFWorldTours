@@ -1,0 +1,59 @@
+{
+    "name": "JOO Cheonhui 1:4 KIHARA Miyuu",
+    "children": [
+        {
+            "name": "JOO Cheonhui 3:1 KIM Nayeong",
+            "children": [
+                {
+                    "name": "LEE Eunhye 0:3 JOO Cheonhui",
+                    "children": [
+                        {
+                            "name": "HAYATA Hina 0:3 LEE Eunhye"
+                        },
+                        {
+                            "name": "YUAN Jia Nan 2:3 JOO Cheonhui"
+                        }
+                    ]
+                },
+                {
+                    "name": "ZENG Jian 1:3 KIM Nayeong",
+                    "children": [
+                        {
+                            "name": "ABRAAMIAN Elizabet 1:3 ZENG Jian"
+                        },
+                        {
+                            "name": "KIM Nayeong 3:0 PARK Gahyeon"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "KIHARA Miyuu 3:0 ODO Satsuki",
+            "children": [
+                {
+                    "name": "KIHARA Miyuu 3:2 YOKOI Sakura",
+                    "children": [
+                        {
+                            "name": "KIHARA Miyuu 3:1 DE NUTTE Sarah"
+                        },
+                        {
+                            "name": "YOKOI Sakura 3:0 NAGASAKI Miyu"
+                        }
+                    ]
+                },
+                {
+                    "name": "SATO Hitomi 2:3 ODO Satsuki",
+                    "children": [
+                        {
+                            "name": "HURSEY Anna 0:3 SATO Hitomi"
+                        },
+                        {
+                            "name": "HIRANO Miu 2:3 ODO Satsuki"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

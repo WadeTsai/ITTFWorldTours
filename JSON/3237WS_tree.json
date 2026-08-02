@@ -1,0 +1,59 @@
+{
+    "name": "ODO Satsuki 4:1 SATO Hitomi",
+    "children": [
+        {
+            "name": "ODO Satsuki 3:0 HASHIMOTO Honoka",
+            "children": [
+                {
+                    "name": "ODO Satsuki 3:2 YOKOI Sakura",
+                    "children": [
+                        {
+                            "name": "ODO Satsuki 3:1 SU Tsz Tung"
+                        },
+                        {
+                            "name": "YANG Huize 2:3 YOKOI Sakura"
+                        }
+                    ]
+                },
+                {
+                    "name": "HASHIMOTO Honoka 3:0 HIRANO Miu",
+                    "children": [
+                        {
+                            "name": "HASHIMOTO Honoka 3:0 YAO Ruixuan"
+                        },
+                        {
+                            "name": "HIRANO Miu 3:0 BATRA Manika"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "SATO Hitomi 3:0 SHI Xunyao",
+            "children": [
+                {
+                    "name": "SATO Hitomi 3:0 ZHU Ziyu",
+                    "children": [
+                        {
+                            "name": "SATO Hitomi 3:0 HAN Feier"
+                        },
+                        {
+                            "name": "SHIBATA Saki 1:3 ZHU Ziyu"
+                        }
+                    ]
+                },
+                {
+                    "name": "QIN Yuxuan 1:3 SHI Xunyao",
+                    "children": [
+                        {
+                            "name": "LI Jie 2:3 QIN Yuxuan"
+                        },
+                        {
+                            "name": "ZONG Geman 1:3 SHI Xunyao"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

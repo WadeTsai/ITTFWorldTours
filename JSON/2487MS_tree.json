@@ -1,0 +1,59 @@
+{
+    "name": "ORT Kilian 3:4 MOREGARD Truls",
+    "children": [
+        {
+            "name": "ORT Kilian 4:3 POLANSKY Tomas",
+            "children": [
+                {
+                    "name": "PITCHFORD Liam 0:3 ORT Kilian",
+                    "children": [
+                        {
+                            "name": "PITCHFORD Liam 3:1 KHANIN Aleksandr"
+                        },
+                        {
+                            "name": "ORT Kilian 3:1 OLAH Benedek"
+                        }
+                    ]
+                },
+                {
+                    "name": "POLANSKY Tomas 3:2 SKACHKOV Kirill",
+                    "children": [
+                        {
+                            "name": "POLANSKY Tomas 3:1 ECSEKI Nandor"
+                        },
+                        {
+                            "name": "THAKKAR Manav Vikash 2:3 SKACHKOV Kirill"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "QIU Dang 3:4 MOREGARD Truls",
+            "children": [
+                {
+                    "name": "QIU Dang 3:0 STOYANOV Niagol",
+                    "children": [
+                        {
+                            "name": "QIU Dang 3:1 DESAI Harmeet"
+                        },
+                        {
+                            "name": "STOYANOV Niagol 3:1 GNANASEKARAN Sathiyan"
+                        }
+                    ]
+                },
+                {
+                    "name": "MOREGARD Truls 3:2 ARUNA Quadri",
+                    "children": [
+                        {
+                            "name": "MENG Fanbo 1:3 MOREGARD Truls"
+                        },
+                        {
+                            "name": "ROBINOT Alexandre 1:3 ARUNA Quadri"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

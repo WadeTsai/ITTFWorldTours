@@ -1,0 +1,59 @@
+{
+    "name": "HARIMOTO Tomokazu 4:3 LIN Gaoyuan",
+    "children": [
+        {
+            "name": "FRANZISKA Patrick 3:4 HARIMOTO Tomokazu",
+            "children": [
+                {
+                    "name": "FRANZISKA Patrick 3:0 JORGIC Darko",
+                    "children": [
+                        {
+                            "name": "MA Long 2:3 FRANZISKA Patrick"
+                        },
+                        {
+                            "name": "GERASSIMENKO Kirill 1:3 JORGIC Darko"
+                        }
+                    ]
+                },
+                {
+                    "name": "LIM Jonghoon 1:3 HARIMOTO Tomokazu",
+                    "children": [
+                        {
+                            "name": "CALDERANO Hugo 0:3 LIM Jonghoon"
+                        },
+                        {
+                            "name": "QIU Dang 0:3 HARIMOTO Tomokazu"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "LIN Gaoyuan 4:0 CHUANG Chih-Yuan",
+            "children": [
+                {
+                    "name": "LIN Gaoyuan 3:0 UDA Yukiya",
+                    "children": [
+                        {
+                            "name": "LIN Gaoyuan 3:0 BOLL Timo"
+                        },
+                        {
+                            "name": "UDA Yukiya 3:1 FREITAS Marcos"
+                        }
+                    ]
+                },
+                {
+                    "name": "CHUANG Chih-Yuan 3:2 LIANG Jingkun",
+                    "children": [
+                        {
+                            "name": "LEBRUN Alexis 2:3 CHUANG Chih-Yuan"
+                        },
+                        {
+                            "name": "KARLSSON Kristian 0:3 LIANG Jingkun"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "name": "SUN Yingsha 4:0 CHEN Meng",
+    "children": [
+        {
+            "name": "SUN Yingsha 3:2 WANG Manyu",
+            "children": [
+                {
+                    "name": "SUN Yingsha 3:0 HARIMOTO Miwa",
+                    "children": [
+                        {
+                            "name": "SUN Yingsha 3:0 JEON Jihee"
+                        },
+                        {
+                            "name": "HARIMOTO Miwa 3:1 SHIN Yubin"
+                        }
+                    ]
+                },
+                {
+                    "name": "WANG Manyu 3:0 LIU Weishan",
+                    "children": [
+                        {
+                            "name": "WANG Manyu 3:2 CHEN Yi"
+                        },
+                        {
+                            "name": "JOO Cheonhui 0:3 LIU Weishan"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "CHEN Xingtong 2:3 CHEN Meng",
+            "children": [
+                {
+                    "name": "CHEN Xingtong 3:2 KIHARA Miyuu",
+                    "children": [
+                        {
+                            "name": "CHEN Xingtong 3:0 LIU Hsing-Yin"
+                        },
+                        {
+                            "name": "KIHARA Miyuu 3:0 WANG Yidi"
+                        }
+                    ]
+                },
+                {
+                    "name": "QIAN Tianyi 0:3 CHEN Meng",
+                    "children": [
+                        {
+                            "name": "QIAN Tianyi 3:0 DIAZ Adriana"
+                        },
+                        {
+                            "name": "HE Zhuojia 0:3 CHEN Meng"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

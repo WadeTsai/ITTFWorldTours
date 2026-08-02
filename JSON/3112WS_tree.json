@@ -1,0 +1,59 @@
+{
+    "name": "KUAI Man 2:4 WANG Manyu",
+    "children": [
+        {
+            "name": "SUN Yingsha 2:4 KUAI Man",
+            "children": [
+                {
+                    "name": "SUN Yingsha 4:0 NAGASAKI Miyu",
+                    "children": [
+                        {
+                            "name": "SUN Yingsha 4:0 WANG Yidi"
+                        },
+                        {
+                            "name": "ITO Mima 3:4 NAGASAKI Miyu"
+                        }
+                    ]
+                },
+                {
+                    "name": "KUAI Man 4:2 ODO Satsuki",
+                    "children": [
+                        {
+                            "name": "KUAI Man 4:0 HAYATA Hina"
+                        },
+                        {
+                            "name": "ODO Satsuki 4:0 HASHIMOTO Honoka"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "CHEN Yi 0:4 WANG Manyu",
+            "children": [
+                {
+                    "name": "CHEN Yi 4:1 CHEN Xingtong",
+                    "children": [
+                        {
+                            "name": "CHEN Yi 4:3 ZHU Yuling"
+                        },
+                        {
+                            "name": "SHI Xunyao 2:4 CHEN Xingtong"
+                        }
+                    ]
+                },
+                {
+                    "name": "JOO Cheonhui 1:4 WANG Manyu",
+                    "children": [
+                        {
+                            "name": "JOO Cheonhui 4:2 SHIN Yubin"
+                        },
+                        {
+                            "name": "HARIMOTO Miwa 2:4 WANG Manyu"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

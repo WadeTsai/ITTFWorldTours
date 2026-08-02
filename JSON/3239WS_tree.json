@@ -1,0 +1,59 @@
+{
+    "name": "ODO Satsuki 4:0 HASHIMOTO Honoka",
+    "children": [
+        {
+            "name": "ODO Satsuki 3:1 SATO Hitomi",
+            "children": [
+                {
+                    "name": "ODO Satsuki 3:1 GODA Hana",
+                    "children": [
+                        {
+                            "name": "ODO Satsuki 3:1 YOO Siwoo"
+                        },
+                        {
+                            "name": "PAVADE Prithika 1:3 GODA Hana"
+                        }
+                    ]
+                },
+                {
+                    "name": "JOO Cheonhui 0:3 SATO Hitomi",
+                    "children": [
+                        {
+                            "name": "JOO Cheonhui 3:1 XIAO Maria"
+                        },
+                        {
+                            "name": "KIHARA Miyuu 0:3 SATO Hitomi"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "YOKOI Sakura 0:3 HASHIMOTO Honoka",
+            "children": [
+                {
+                    "name": "YOKOI Sakura 3:2 DIAZ Adriana",
+                    "children": [
+                        {
+                            "name": "YUAN Jia Nan 1:3 YOKOI Sakura"
+                        },
+                        {
+                            "name": "YEH Yi-Tian 2:3 DIAZ Adriana"
+                        }
+                    ]
+                },
+                {
+                    "name": "AKAE Kaho 2:3 HASHIMOTO Honoka",
+                    "children": [
+                        {
+                            "name": "LUTZ Camille 0:3 AKAE Kaho"
+                        },
+                        {
+                            "name": "SASAO Asuka 1:3 HASHIMOTO Honoka"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

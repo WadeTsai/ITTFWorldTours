@@ -1,0 +1,59 @@
+{
+    "name": "KUAI Man 0:4 SHI Xunyao",
+    "children": [
+        {
+            "name": "ODO Satsuki 1:3 KUAI Man",
+            "children": [
+                {
+                    "name": "ODO Satsuki 3:0 YOKOI Sakura",
+                    "children": [
+                        {
+                            "name": "ODO Satsuki 3:1 MUKHERJEE Ayhika"
+                        },
+                        {
+                            "name": "YOKOI Sakura 3:2 AKULA Sreeja"
+                        }
+                    ]
+                },
+                {
+                    "name": "CHEN Yi 1:3 KUAI Man",
+                    "children": [
+                        {
+                            "name": "PAVADE Prithika 0:3 CHEN Yi"
+                        },
+                        {
+                            "name": "KUAI Man 3:0 SUH Hyo Won"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "SHI Xunyao 3:1 QIN Yuxuan",
+            "children": [
+                {
+                    "name": "SHI Xunyao 3:0 DOO Hoi Kem",
+                    "children": [
+                        {
+                            "name": "SHI Xunyao 3:1 YEH Yi-Tian"
+                        },
+                        {
+                            "name": "DOO Hoi Kem 3:0 TAKAHASHI Bruna"
+                        }
+                    ]
+                },
+                {
+                    "name": "QIN Yuxuan 3:1 LIU Yangzi",
+                    "children": [
+                        {
+                            "name": "BATRA Manika 1:3 QIN Yuxuan"
+                        },
+                        {
+                            "name": "LIU Yangzi 3:1 HIRANO Miu"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

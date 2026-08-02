@@ -1,0 +1,59 @@
+{
+    "name": "JANG Woojin 4:3 LIANG Yanning",
+    "children": [
+        {
+            "name": "JANG Woojin 4:2 JHA Kanak",
+            "children": [
+                {
+                    "name": "JORGIC Darko 2:3 JANG Woojin",
+                    "children": [
+                        {
+                            "name": "JORGIC Darko 3:0 YAN Sheng"
+                        },
+                        {
+                            "name": "ALAMIYAN Noshad 1:3 JANG Woojin"
+                        }
+                    ]
+                },
+                {
+                    "name": "JHA Kanak 3:2 LIU Yebo",
+                    "children": [
+                        {
+                            "name": "WALTHER Ricardo 1:3 JHA Kanak"
+                        },
+                        {
+                            "name": "LIU Yebo 3:0 LEE Sangsu"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "CHUANG Chih-Yuan 2:4 LIANG Yanning",
+            "children": [
+                {
+                    "name": "LEBRUN Alexis 1:3 CHUANG Chih-Yuan",
+                    "children": [
+                        {
+                            "name": "LEBRUN Alexis 3:0 GROTH Jonathan"
+                        },
+                        {
+                            "name": "WANG Yang 2:3 CHUANG Chih-Yuan"
+                        }
+                    ]
+                },
+                {
+                    "name": "PERSSON Jon 0:3 LIANG Yanning",
+                    "children": [
+                        {
+                            "name": "APOLONIA Tiago 2:3 PERSSON Jon"
+                        },
+                        {
+                            "name": "DUDA Benedikt 1:3 LIANG Yanning"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

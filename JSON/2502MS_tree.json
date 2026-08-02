@@ -1,0 +1,59 @@
+{
+    "name": "QIU Dang 0:4 KALLBERG Anton",
+    "children": [
+        {
+            "name": "ZELJKO Filip 0:4 QIU Dang",
+            "children": [
+                {
+                    "name": "FRANZISKA Patrick 1:3 ZELJKO Filip",
+                    "children": [
+                        {
+                            "name": "FRANZISKA Patrick 3:1 GREBNEV Maksim"
+                        },
+                        {
+                            "name": "ZELJKO Filip 3:0 ISHIY Vitor"
+                        }
+                    ]
+                },
+                {
+                    "name": "QIU Dang 3:0 GNANASEKARAN Sathiyan",
+                    "children": [
+                        {
+                            "name": "ANGLES Enzo 0:3 QIU Dang"
+                        },
+                        {
+                            "name": "DIAW Ibrahima 0:3 GNANASEKARAN Sathiyan"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "KALLBERG Anton 4:3 ARUNA Quadri",
+            "children": [
+                {
+                    "name": "IONESCU Ovidiu 0:3 KALLBERG Anton",
+                    "children": [
+                        {
+                            "name": "STUMPER Kay 0:3 IONESCU Ovidiu"
+                        },
+                        {
+                            "name": "MENG Fanbo 0:3 KALLBERG Anton"
+                        }
+                    ]
+                },
+                {
+                    "name": "DYJAS Jakub 1:3 ARUNA Quadri",
+                    "children": [
+                        {
+                            "name": "DYJAS Jakub 3:0 LEBESSON Emmanuel"
+                        },
+                        {
+                            "name": "MONTEIRO Joao 0:3 ARUNA Quadri"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

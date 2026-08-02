@@ -1,0 +1,59 @@
+{
+    "name": "LIN Shidong 1:4 WANG Chuqin",
+    "children": [
+        {
+            "name": "LIN Shidong 4:1 LIANG Jingkun",
+            "children": [
+                {
+                    "name": "LIN Shidong 3:2 LIN Yun-Ju",
+                    "children": [
+                        {
+                            "name": "LIN Shidong 3:2 AN Jaehyun"
+                        },
+                        {
+                            "name": "LIN Yun-Ju 3:0 FRANZISKA Patrick"
+                        }
+                    ]
+                },
+                {
+                    "name": "LIANG Jingkun 3:2 LEBRUN Felix",
+                    "children": [
+                        {
+                            "name": "LIANG Jingkun 3:1 LIN Gaoyuan"
+                        },
+                        {
+                            "name": "UDA Yukiya 0:3 LEBRUN Felix"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "HARIMOTO Tomokazu 1:4 WANG Chuqin",
+            "children": [
+                {
+                    "name": "SHINOZUKA Hiroto 1:3 HARIMOTO Tomokazu",
+                    "children": [
+                        {
+                            "name": "LEE Sang Su 2:3 SHINOZUKA Hiroto"
+                        },
+                        {
+                            "name": "KALLBERG Anton 0:3 HARIMOTO Tomokazu"
+                        }
+                    ]
+                },
+                {
+                    "name": "MOREGARD Truls 0:3 WANG Chuqin",
+                    "children": [
+                        {
+                            "name": "MOREGARD Truls 3:0 QIU Dang"
+                        },
+                        {
+                            "name": "LEBRUN Alexis 0:3 WANG Chuqin"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

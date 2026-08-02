@@ -1,0 +1,59 @@
+{
+    "name": "ITO Mima 4:2 HAYATA Hina",
+    "children": [
+        {
+            "name": "ITO Mima 4:1 YU Mengyu",
+            "children": [
+                {
+                    "name": "ITO Mima 3:0 YANG Haeun",
+                    "children": [
+                        {
+                            "name": "ITO Mima 3:0 MITTELHAM Nina"
+                        },
+                        {
+                            "name": "YANG Haeun 3:0 SUH Hyowon"
+                        }
+                    ]
+                },
+                {
+                    "name": "YU Mengyu 3:0 SAWETTABUT Suthasini",
+                    "children": [
+                        {
+                            "name": "HIRANO Miu 2:3 YU Mengyu"
+                        },
+                        {
+                            "name": "GAPONOVA Ganna 1:3 SAWETTABUT Suthasini"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "HAYATA Hina 4:0 KIHARA Miyuu",
+            "children": [
+                {
+                    "name": "^ Xiaona SHAN 2:3 HAYATA Hina",
+                    "children": [
+                        {
+                            "name": "PESOTSKA Margaryta 0:3 ^ Xiaona SHAN"
+                        },
+                        {
+                            "name": "HAYATA Hina 3:2 ISHIKAWA Kasumi"
+                        }
+                    ]
+                },
+                {
+                    "name": "JEON Jihee 2:3 KIHARA Miyuu",
+                    "children": [
+                        {
+                            "name": "JEON Jihee 3:1 TAILAKOVA Mariia"
+                        },
+                        {
+                            "name": "KIHARA Miyuu 3:1 SZOCS Bernadette"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

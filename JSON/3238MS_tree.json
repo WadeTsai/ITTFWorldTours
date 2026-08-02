@@ -1,0 +1,59 @@
+{
+    "name": "LIND Anders 4:1 OH Junsung",
+    "children": [
+        {
+            "name": "LIND Anders 3:2 LIM Jonghoon",
+            "children": [
+                {
+                    "name": "LIND Anders 3:1 GERALDO Joao",
+                    "children": [
+                        {
+                            "name": "LIND Anders 3:1 DANI Mudit"
+                        },
+                        {
+                            "name": "SALIFOU Abdel-Kader 0:3 GERALDO Joao"
+                        }
+                    ]
+                },
+                {
+                    "name": "THAKKAR Manav 2:3 LIM Jonghoon",
+                    "children": [
+                        {
+                            "name": "THAKKAR Manav 3:0 BHATTACHARJEE Ankur"
+                        },
+                        {
+                            "name": "LIM Jonghoon 3:0 YOSHIMURA Kazuhiro"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "OH Junsung 3:1 SHAH Manush",
+            "children": [
+                {
+                    "name": "BARDET Lilian 0:3 OH Junsung",
+                    "children": [
+                        {
+                            "name": "BARDET Lilian 3:0 ISTRATE Andrei"
+                        },
+                        {
+                            "name": "DE NODREST Leo 1:3 OH Junsung"
+                        }
+                    ]
+                },
+                {
+                    "name": "SHAH Manush 3:2 PORET Thibault",
+                    "children": [
+                        {
+                            "name": "SHAH Manush 3:1 AGUNBIADE Sultan"
+                        },
+                        {
+                            "name": "KIM Gaon 1:3 PORET Thibault"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

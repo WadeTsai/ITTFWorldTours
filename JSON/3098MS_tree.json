@@ -1,0 +1,59 @@
+{
+    "name": "WANG Chuqin 4:0 LEBRUN Felix",
+    "children": [
+        {
+            "name": "WANG Chuqin 4:3 XIANG Peng",
+            "children": [
+                {
+                    "name": "WANG Chuqin 4:1 MATSUSHIMA Sora",
+                    "children": [
+                        {
+                            "name": "WANG Chuqin 3:0 AN Jaehyun"
+                        },
+                        {
+                            "name": "MATSUSHIMA Sora 3:2 LIANG Jingkun"
+                        }
+                    ]
+                },
+                {
+                    "name": "CALDERANO Hugo 3:4 XIANG Peng",
+                    "children": [
+                        {
+                            "name": "CALDERANO Hugo 3:0 ZHOU Qihao"
+                        },
+                        {
+                            "name": "XIANG Peng 3:1 COTON Flavien"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "LEBRUN Felix 4:2 LIN Shidong",
+            "children": [
+                {
+                    "name": "LEBRUN Felix 4:2 CHEN Junsong",
+                    "children": [
+                        {
+                            "name": "LEBRUN Felix 3:0 IONESCU Eduard"
+                        },
+                        {
+                            "name": "HAMADA Kazuki 2:3 CHEN Junsong"
+                        }
+                    ]
+                },
+                {
+                    "name": "UDA Yukiya 0:4 LIN Shidong",
+                    "children": [
+                        {
+                            "name": "MOREGARD Truls 1:3 UDA Yukiya"
+                        },
+                        {
+                            "name": "KARLSSON Kristian 1:3 LIN Shidong"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

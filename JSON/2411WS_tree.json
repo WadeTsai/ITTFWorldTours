@@ -1,0 +1,59 @@
+{
+    "name": "ITO Mima 4:1 FENG Tianwei",
+    "children": [
+        {
+            "name": "ITO Mima 4:1 JEON Jihee",
+            "children": [
+                {
+                    "name": "ITO Mima 3:1 DIAZ Adriana",
+                    "children": [
+                        {
+                            "name": "ITO Mima 3:0 ODO Satsuki"
+                        },
+                        {
+                            "name": "NOSKOVA Yana 1:3 DIAZ Adriana"
+                        }
+                    ]
+                },
+                {
+                    "name": "SHIN Yubin 1:3 JEON Jihee",
+                    "children": [
+                        {
+                            "name": "HIRANO Miu 1:3 SHIN Yubin"
+                        },
+                        {
+                            "name": "TAKAHASHI Bruna 1:3 JEON Jihee"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "SAMARA Elizabeta 0:4 FENG Tianwei",
+            "children": [
+                {
+                    "name": "KIM Hayeong 2:3 SAMARA Elizabeta",
+                    "children": [
+                        {
+                            "name": "SUH Hyowon 1:3 KIM Hayeong"
+                        },
+                        {
+                            "name": "SAMARA Elizabeta 3:0 ISHIKAWA Kasumi"
+                        }
+                    ]
+                },
+                {
+                    "name": "FENG Tianwei 3:2 HAYATA Hina",
+                    "children": [
+                        {
+                            "name": "FENG Tianwei 3:2 CHEN Szu-Yu"
+                        },
+                        {
+                            "name": "HAYATA Hina 3:1 CHENG I-Ching"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

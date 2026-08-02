@@ -1,0 +1,59 @@
+{
+    "name": "QIU Dang 4:3 OVTCHAROV Dimitrij",
+    "children": [
+        {
+            "name": "KANG Dongsoo 2:4 QIU Dang",
+            "children": [
+                {
+                    "name": "KANG Dongsoo 3:2 APOLONIA Tiago",
+                    "children": [
+                        {
+                            "name": "CALDERANO Hugo 1:3 KANG Dongsoo"
+                        },
+                        {
+                            "name": "APOLONIA Tiago 3:0 LIM Jonghoon"
+                        }
+                    ]
+                },
+                {
+                    "name": "QIU Dang 3:0 YOSHIYAMA Ryoichi",
+                    "children": [
+                        {
+                            "name": "QIU Dang 3:1 STUMPER Kay"
+                        },
+                        {
+                            "name": "GROTH Jonathan 2:3 YOSHIYAMA Ryoichi"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "KALLBERG Anton 2:4 OVTCHAROV Dimitrij",
+            "children": [
+                {
+                    "name": "NIWA Koki 2:3 KALLBERG Anton",
+                    "children": [
+                        {
+                            "name": "CIFUENTES Horacio 1:3 NIWA Koki"
+                        },
+                        {
+                            "name": "FALCK Mattias 2:3 KALLBERG Anton"
+                        }
+                    ]
+                },
+                {
+                    "name": "GAUZY Simon 1:3 OVTCHAROV Dimitrij",
+                    "children": [
+                        {
+                            "name": "GAUZY Simon 3:0 ROLLAND Jules"
+                        },
+                        {
+                            "name": "CHEN Chien-An 1:3 OVTCHAROV Dimitrij"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

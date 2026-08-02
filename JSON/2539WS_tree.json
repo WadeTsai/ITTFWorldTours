@@ -1,0 +1,59 @@
+{
+    "name": "HIRANO Miu 2:4 ITO Mima",
+    "children": [
+        {
+            "name": "HIRANO Miu 4:2 SHAN Xiaona",
+            "children": [
+                {
+                    "name": "HIRANO Miu 3:1 CHEN Yi",
+                    "children": [
+                        {
+                            "name": "HAYATA Hina 2:3 HIRANO Miu"
+                        },
+                        {
+                            "name": "HAN Feier 0:3 CHEN Yi"
+                        }
+                    ]
+                },
+                {
+                    "name": "KIM Nayeong 1:3 SHAN Xiaona",
+                    "children": [
+                        {
+                            "name": "KUAI Man 2:3 KIM Nayeong"
+                        },
+                        {
+                            "name": "MESHREF Dina 1:3 SHAN Xiaona"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "HAN Ying 0:4 ITO Mima",
+            "children": [
+                {
+                    "name": "SZOCS Bernadette 0:3 HAN Ying",
+                    "children": [
+                        {
+                            "name": "SZOCS Bernadette 3:0 BAJOR Natalia"
+                        },
+                        {
+                            "name": "ZONG Geman 0:3 HAN Ying"
+                        }
+                    ]
+                },
+                {
+                    "name": "CHENG I-Ching 1:3 ITO Mima",
+                    "children": [
+                        {
+                            "name": "LEE Zion 2:3 CHENG I-Ching"
+                        },
+                        {
+                            "name": "KALLBERG Christina 0:3 ITO Mima"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

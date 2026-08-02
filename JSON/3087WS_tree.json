@@ -1,0 +1,59 @@
+{
+    "name": "WANG Yidi 4:3 CHEN Xingtong",
+    "children": [
+        {
+            "name": "WANG Yidi 4:1 ZHU Yuling",
+            "children": [
+                {
+                    "name": "WANG Yidi 4:1 SHIN Yubin",
+                    "children": [
+                        {
+                            "name": "WANG Yidi 3:2 QIAN Tianyi"
+                        },
+                        {
+                            "name": "SAMARA Elizabeta 0:3 SHIN Yubin"
+                        }
+                    ]
+                },
+                {
+                    "name": "ZHU Yuling 4:2 ODO Satsuki",
+                    "children": [
+                        {
+                            "name": "HAYATA Hina 2:3 ZHU Yuling"
+                        },
+                        {
+                            "name": "SZOCS Bernadette 0:3 ODO Satsuki"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "HARIMOTO Miwa 2:4 CHEN Xingtong",
+            "children": [
+                {
+                    "name": "KUAI Man 0:4 HARIMOTO Miwa",
+                    "children": [
+                        {
+                            "name": "KUAI Man 3:1 KIM Nayeong"
+                        },
+                        {
+                            "name": "EERLAND Britt 0:3 HARIMOTO Miwa"
+                        }
+                    ]
+                },
+                {
+                    "name": "ITO Mima 2:4 CHEN Xingtong",
+                    "children": [
+                        {
+                            "name": "ITO Mima 3:0 POLCANOVA Sofia"
+                        },
+                        {
+                            "name": "JOO Cheonhui 0:3 CHEN Xingtong"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

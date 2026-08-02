@@ -1,0 +1,59 @@
+{
+    "name": "ZHU Yuling 0:4 HASHIMOTO Honoka",
+    "children": [
+        {
+            "name": "ZHU Yuling 3:0 CHEN Yi",
+            "children": [
+                {
+                    "name": "ZHU Yuling 3:2 YOKOI Sakura",
+                    "children": [
+                        {
+                            "name": "QIAN Tianyi 1:3 ZHU Yuling"
+                        },
+                        {
+                            "name": "YANG Ha Eun 2:3 YOKOI Sakura"
+                        }
+                    ]
+                },
+                {
+                    "name": "CHEN Yi 3:2 NAGASAKI Miyu",
+                    "children": [
+                        {
+                            "name": "CHEN Yi 3:0 ZHU Ziyu"
+                        },
+                        {
+                            "name": "PARK Gahyeon 1:3 NAGASAKI Miyu"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "HASHIMOTO Honoka 3:0 QIN Yuxuan",
+            "children": [
+                {
+                    "name": "ZONG Geman 0:3 HASHIMOTO Honoka",
+                    "children": [
+                        {
+                            "name": "SHI Xunyao 2:3 ZONG Geman"
+                        },
+                        {
+                            "name": "LIU Weishan 0:3 HASHIMOTO Honoka"
+                        }
+                    ]
+                },
+                {
+                    "name": "QIN Yuxuan 3:2 KIHARA Miyuu",
+                    "children": [
+                        {
+                            "name": "FAN Shuhan 0:3 QIN Yuxuan"
+                        },
+                        {
+                            "name": "LI Jie 1:3 KIHARA Miyuu"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

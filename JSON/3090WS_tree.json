@@ -1,0 +1,59 @@
+{
+    "name": "YUAN Jia Nan 4:0 FAN Shuhan",
+    "children": [
+        {
+            "name": "YUAN Jia Nan 3:1 SHI Xunyao",
+            "children": [
+                {
+                    "name": "ODO Satsuki 2:3 YUAN Jia Nan",
+                    "children": [
+                        {
+                            "name": "ODO Satsuki 3:0 HUANG Yi-Hua"
+                        },
+                        {
+                            "name": "KALLBERG Christina 0:3 YUAN Jia Nan"
+                        }
+                    ]
+                },
+                {
+                    "name": "SHI Xunyao 3:0 NAGASAKI Miyu",
+                    "children": [
+                        {
+                            "name": "SHI Xunyao 3:1 SATO Hitomi"
+                        },
+                        {
+                            "name": "YEH Yi-Tian 0:3 NAGASAKI Miyu"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "PAVADE Prithika 1:3 FAN Shuhan",
+            "children": [
+                {
+                    "name": "KIM Nayeong 1:3 PAVADE Prithika",
+                    "children": [
+                        {
+                            "name": "KIM Nayeong 3:0 GUO Jiangshan"
+                        },
+                        {
+                            "name": "OJIO Yuna 2:3 PAVADE Prithika"
+                        }
+                    ]
+                },
+                {
+                    "name": "ZONG Geman 0:3 FAN Shuhan",
+                    "children": [
+                        {
+                            "name": "YOKOI Sakura 2:3 ZONG Geman"
+                        },
+                        {
+                            "name": "FAN Shuhan 3:2 OMODA Kotomi"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

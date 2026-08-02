@@ -1,0 +1,59 @@
+{
+    "name": "WANG Chuqin 4:3 MATSUSHIMA Sora",
+    "children": [
+        {
+            "name": "WANG Chuqin 4:1 CALDERANO Hugo",
+            "children": [
+                {
+                    "name": "WANG Chuqin 4:3 JORGIC Darko",
+                    "children": [
+                        {
+                            "name": "WANG Chuqin 4:2 LEBRUN Felix"
+                        },
+                        {
+                            "name": "JORGIC Darko 4:1 OVTCHAROV Dimitrij"
+                        }
+                    ]
+                },
+                {
+                    "name": "LEBRUN Alexis 0:4 CALDERANO Hugo",
+                    "children": [
+                        {
+                            "name": "PORET Thibault 1:4 LEBRUN Alexis"
+                        },
+                        {
+                            "name": "TOGAMI Shunsuke 3:4 CALDERANO Hugo"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "LIN Yun-Ju 3:4 MATSUSHIMA Sora",
+            "children": [
+                {
+                    "name": "HARIMOTO Tomokazu 1:4 LIN Yun-Ju",
+                    "children": [
+                        {
+                            "name": "HARIMOTO Tomokazu 4:3 QIU Dang"
+                        },
+                        {
+                            "name": "WEN Ruibo 1:4 LIN Yun-Ju"
+                        }
+                    ]
+                },
+                {
+                    "name": "MATSUSHIMA Sora 4:0 MOREGARD Truls",
+                    "children": [
+                        {
+                            "name": "JANG Woojin 1:4 MATSUSHIMA Sora"
+                        },
+                        {
+                            "name": "FRANZISKA Patrick 0:4 MOREGARD Truls"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

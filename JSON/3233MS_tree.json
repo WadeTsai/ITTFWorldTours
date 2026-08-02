@@ -1,0 +1,59 @@
+{
+    "name": "PORET Thibault 2:4 JANCARIK Lubomir",
+    "children": [
+        {
+            "name": "PORET Thibault 3:0 COTON Flavien",
+            "children": [
+                {
+                    "name": "OH Junsung 0:3 PORET Thibault",
+                    "children": [
+                        {
+                            "name": "OH Junsung 3:1 SURAVAJJULA Snehit"
+                        },
+                        {
+                            "name": "FENG Yi-Hsin 2:3 PORET Thibault"
+                        }
+                    ]
+                },
+                {
+                    "name": "COTON Flavien 3:2 RANEFUR Elias",
+                    "children": [
+                        {
+                            "name": "COTON Flavien 3:1 YOSHIMURA Kazuhiro"
+                        },
+                        {
+                            "name": "RANEFUR Elias 3:0 OYEBODE John"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "JANCARIK Lubomir 3:2 PARK Ganghyeon",
+            "children": [
+                {
+                    "name": "GNANASEKARAN Sathiyan 0:3 JANCARIK Lubomir",
+                    "children": [
+                        {
+                            "name": "IONESCU Eduard 2:3 GNANASEKARAN Sathiyan"
+                        },
+                        {
+                            "name": "SHAH Manush 1:3 JANCARIK Lubomir"
+                        }
+                    ]
+                },
+                {
+                    "name": "PARK Ganghyeon 3:2 OVTCHAROV Dimitrij",
+                    "children": [
+                        {
+                            "name": "PARK Ganghyeon 3:2 SEYFRIED Joe"
+                        },
+                        {
+                            "name": "VERDONSCHOT Wim 0:3 OVTCHAROV Dimitrij"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

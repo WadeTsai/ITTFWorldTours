@@ -1,0 +1,59 @@
+{
+    "name": "LIANG Jingkun 1:4 WANG Chuqin",
+    "children": [
+        {
+            "name": "LIANG Jingkun 4:2 LIN Yun-Ju",
+            "children": [
+                {
+                    "name": "BOLL Timo 3:4 LIANG Jingkun",
+                    "children": [
+                        {
+                            "name": "LIN Shidong 1:3 BOLL Timo"
+                        },
+                        {
+                            "name": "HARIMOTO Tomokazu 2:3 LIANG Jingkun"
+                        }
+                    ]
+                },
+                {
+                    "name": "FRANZISKA Patrick 1:4 LIN Yun-Ju",
+                    "children": [
+                        {
+                            "name": "FRANZISKA Patrick 3:2 OVTCHAROV Dimitrij"
+                        },
+                        {
+                            "name": "IONESCU Ovidiu 0:3 LIN Yun-Ju"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "LEBRUN Felix 1:4 WANG Chuqin",
+            "children": [
+                {
+                    "name": "LEBRUN Felix 4:1 ACHANTA Sharath Kamal",
+                    "children": [
+                        {
+                            "name": "LEBRUN Felix 3:0 KARLSSON Kristian"
+                        },
+                        {
+                            "name": "ACHANTA Sharath Kamal 3:0 ASSAR Omar"
+                        }
+                    ]
+                },
+                {
+                    "name": "QIU Dang 1:4 WANG Chuqin",
+                    "children": [
+                        {
+                            "name": "CHO Daeseong 2:3 QIU Dang"
+                        },
+                        {
+                            "name": "MOREGARD Truls 0:3 WANG Chuqin"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

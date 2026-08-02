@@ -1,0 +1,59 @@
+{
+    "name": "CALDERANO Hugo 1:4 WANG Chuqin",
+    "children": [
+        {
+            "name": "LIANG Jingkun 3:4 CALDERANO Hugo",
+            "children": [
+                {
+                    "name": "LIN Shidong 3:4 LIANG Jingkun",
+                    "children": [
+                        {
+                            "name": "LIN Shidong 4:0 KALLBERG Anton"
+                        },
+                        {
+                            "name": "JARVIS Tom 2:4 LIANG Jingkun"
+                        }
+                    ]
+                },
+                {
+                    "name": "AN Jaehyun 1:4 CALDERANO Hugo",
+                    "children": [
+                        {
+                            "name": "LEBRUN Felix 3:4 AN Jaehyun"
+                        },
+                        {
+                            "name": "ARUNA Quadri 0:4 CALDERANO Hugo"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "MOREGARD Truls 1:4 WANG Chuqin",
+            "children": [
+                {
+                    "name": "TOGAMI Shunsuke 2:4 MOREGARD Truls",
+                    "children": [
+                        {
+                            "name": "TOGAMI Shunsuke 4:3 JORGIC Darko"
+                        },
+                        {
+                            "name": "JANG Woojin 3:4 MOREGARD Truls"
+                        }
+                    ]
+                },
+                {
+                    "name": "LIN Yun-Ju 0:4 WANG Chuqin",
+                    "children": [
+                        {
+                            "name": "FRANZISKA Patrick 3:4 LIN Yun-Ju"
+                        },
+                        {
+                            "name": "GAUZY Simon 2:4 WANG Chuqin"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

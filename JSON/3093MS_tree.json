@@ -1,0 +1,59 @@
+{
+    "name": "CALDERANO Hugo 4:3 DUDA Benedikt",
+    "children": [
+        {
+            "name": "CALDERANO Hugo 3:0 OH Junsung",
+            "children": [
+                {
+                    "name": "CALDERANO Hugo 3:0 UDA Yukiya",
+                    "children": [
+                        {
+                            "name": "CALDERANO Hugo 3:1 CHANG Yu-An"
+                        },
+                        {
+                            "name": "KUO Guan-Hong 0:3 UDA Yukiya"
+                        }
+                    ]
+                },
+                {
+                    "name": "OH Junsung 3:2 TANAKA Yuta",
+                    "children": [
+                        {
+                            "name": "OH Junsung 3:1 DESAI Harmeet"
+                        },
+                        {
+                            "name": "ISHIY Vitor 0:3 TANAKA Yuta"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "OVTCHAROV Dimitrij 0:3 DUDA Benedikt",
+            "children": [
+                {
+                    "name": "OVTCHAROV Dimitrij 3:1 QIU Dang",
+                    "children": [
+                        {
+                            "name": "OVTCHAROV Dimitrij 3:0 BARDET Lilian"
+                        },
+                        {
+                            "name": "OIKAWA Mizuki 0:3 QIU Dang"
+                        }
+                    ]
+                },
+                {
+                    "name": "HAMADA Kazuki 0:3 DUDA Benedikt",
+                    "children": [
+                        {
+                            "name": "BAE Hwan 1:3 HAMADA Kazuki"
+                        },
+                        {
+                            "name": "SHAH Manush 1:3 DUDA Benedikt"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

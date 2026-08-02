@@ -1,0 +1,59 @@
+{
+    "name": "WEN Ruibo 2:4 DUDA Benedikt",
+    "children": [
+        {
+            "name": "JORGIC Darko 0:3 WEN Ruibo",
+            "children": [
+                {
+                    "name": "JORGIC Darko 3:1 THAKKAR Manav",
+                    "children": [
+                        {
+                            "name": "JORGIC Darko 3:2 LIM Jonghoon"
+                        },
+                        {
+                            "name": "KOZUL Deni 0:3 THAKKAR Manav"
+                        }
+                    ]
+                },
+                {
+                    "name": "WEN Ruibo 3:0 PORET Thibault",
+                    "children": [
+                        {
+                            "name": "ZENG Beixun 0:3 WEN Ruibo"
+                        },
+                        {
+                            "name": "RANEFUR Elias 1:3 PORET Thibault"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "PUCAR Tomislav 1:3 DUDA Benedikt",
+            "children": [
+                {
+                    "name": "PUCAR Tomislav 3:0 TANAKA Yuta",
+                    "children": [
+                        {
+                            "name": "PUCAR Tomislav 3:1 YOSHIMURA Kazuhiro"
+                        },
+                        {
+                            "name": "TANAKA Yuta 3:0 MATSUSHIMA Sora"
+                        }
+                    ]
+                },
+                {
+                    "name": "UDA Yukiya 1:3 DUDA Benedikt",
+                    "children": [
+                        {
+                            "name": "UDA Yukiya 3:0 LIAO Cheng-Ting"
+                        },
+                        {
+                            "name": "KARLSSON Kristian 2:3 DUDA Benedikt"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

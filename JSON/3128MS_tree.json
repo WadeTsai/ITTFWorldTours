@@ -1,0 +1,59 @@
+{
+    "name": "LIN Shidong 3:4 MOREGARD Truls",
+    "children": [
+        {
+            "name": "LIN Shidong 4:3 GAUZY Simon",
+            "children": [
+                {
+                    "name": "LIN Shidong 4:0 QIU Dang",
+                    "children": [
+                        {
+                            "name": "LIN Shidong 3:1 WALTHER Ricardo"
+                        },
+                        {
+                            "name": "QIU Dang 3:2 OVTCHAROV Dimitrij"
+                        }
+                    ]
+                },
+                {
+                    "name": "GAUZY Simon 4:3 JORGIC Darko",
+                    "children": [
+                        {
+                            "name": "RASSENFOSSE Adrien 0:3 GAUZY Simon"
+                        },
+                        {
+                            "name": "TOGAMI Shunsuke 2:3 JORGIC Darko"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "MOREGARD Truls 4:0 DUDA Benedikt",
+            "children": [
+                {
+                    "name": "MOREGARD Truls 4:2 AN Jaehyun",
+                    "children": [
+                        {
+                            "name": "MOREGARD Truls 3:0 CHO Daeseong"
+                        },
+                        {
+                            "name": "AN Jaehyun 3:2 HARIMOTO Tomokazu"
+                        }
+                    ]
+                },
+                {
+                    "name": "DUDA Benedikt 4:0 CALDERANO Hugo",
+                    "children": [
+                        {
+                            "name": "UDA Yukiya 0:3 DUDA Benedikt"
+                        },
+                        {
+                            "name": "OH Junsung 0:3 CALDERANO Hugo"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

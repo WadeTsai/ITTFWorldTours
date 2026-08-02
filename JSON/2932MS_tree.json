@@ -1,0 +1,59 @@
+{
+    "name": "WANG Chuqin 4:2 FRANZISKA Patrick",
+    "children": [
+        {
+            "name": "WANG Chuqin 4:3 LIN Shidong",
+            "children": [
+                {
+                    "name": "WANG Chuqin 4:0 GROTH Jonathan",
+                    "children": [
+                        {
+                            "name": "WANG Chuqin 3:1 YOSHIMURA Maharu"
+                        },
+                        {
+                            "name": "SHINOZUKA Hiroto 2:3 GROTH Jonathan"
+                        }
+                    ]
+                },
+                {
+                    "name": "LIN Shidong 4:1 CHO Daeseong",
+                    "children": [
+                        {
+                            "name": "ALAMIYAN Noshad 1:3 LIN Shidong"
+                        },
+                        {
+                            "name": "ARUNA Quadri 2:3 CHO Daeseong"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "JANG Woojin 3:4 FRANZISKA Patrick",
+            "children": [
+                {
+                    "name": "LEBRUN Felix 1:4 JANG Woojin",
+                    "children": [
+                        {
+                            "name": "LEBRUN Felix 3:0 HARIMOTO Tomokazu"
+                        },
+                        {
+                            "name": "JORGIC Darko 2:3 JANG Woojin"
+                        }
+                    ]
+                },
+                {
+                    "name": "QIU Dang 0:4 FRANZISKA Patrick",
+                    "children": [
+                        {
+                            "name": "CALDERANO Hugo 1:3 QIU Dang"
+                        },
+                        {
+                            "name": "FRANZISKA Patrick 3:2 FAN Zhendong"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

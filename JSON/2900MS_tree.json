@@ -1,0 +1,59 @@
+{
+    "name": "LIN Gaoyuan 0:4 HARIMOTO Tomokazu",
+    "children": [
+        {
+            "name": "LIN Gaoyuan 3:1 AN Jaehyun",
+            "children": [
+                {
+                    "name": "LIN Gaoyuan 3:1 LIAO Cheng-Ting",
+                    "children": [
+                        {
+                            "name": "LIN Gaoyuan 3:0 WONG Chun Ting"
+                        },
+                        {
+                            "name": "LIAO Cheng-Ting 3:0 DORR Esteban"
+                        }
+                    ]
+                },
+                {
+                    "name": "CHUANG Chih-Yuan 2:3 AN Jaehyun",
+                    "children": [
+                        {
+                            "name": "SHAH Manush Utpalbhai 1:3 CHUANG Chih-Yuan"
+                        },
+                        {
+                            "name": "HUANG Yan-Cheng 2:3 AN Jaehyun"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "HARIMOTO Tomokazu 3:1 LIN Yun-Ju",
+            "children": [
+                {
+                    "name": "LIM Jonghoon 2:3 HARIMOTO Tomokazu",
+                    "children": [
+                        {
+                            "name": "LIM Jonghoon 3:1 KAO Cheng-Jui"
+                        },
+                        {
+                            "name": "SHINOZUKA Hiroto 2:3 HARIMOTO Tomokazu"
+                        }
+                    ]
+                },
+                {
+                    "name": "UDA Yukiya 0:3 LIN Yun-Ju",
+                    "children": [
+                        {
+                            "name": "UDA Yukiya 3:1 MATSUSHIMA Sora"
+                        },
+                        {
+                            "name": "GNANASEKARAN Sathiyan 0:3 LIN Yun-Ju"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

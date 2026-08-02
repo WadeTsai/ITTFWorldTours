@@ -1,0 +1,59 @@
+{
+    "name": "SUN Yingsha 4:2 WANG Manyu",
+    "children": [
+        {
+            "name": "SUN Yingsha 4:1 CHEN Yi",
+            "children": [
+                {
+                    "name": "SUN Yingsha 4:1 ITO Mima",
+                    "children": [
+                        {
+                            "name": "SUN Yingsha 3:0 HAYATA Hina"
+                        },
+                        {
+                            "name": "LEE Eunhye 0:3 ITO Mima"
+                        }
+                    ]
+                },
+                {
+                    "name": "WINTER Sabine 1:4 CHEN Yi",
+                    "children": [
+                        {
+                            "name": "CHEN Xingtong 1:3 WINTER Sabine"
+                        },
+                        {
+                            "name": "CHEN Yi 3:2 TAKAHASHI Bruna"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "SHI Xunyao 0:4 WANG Manyu",
+            "children": [
+                {
+                    "name": "ODO Satsuki 0:4 SHI Xunyao",
+                    "children": [
+                        {
+                            "name": "ZHU Yuling 0:3 ODO Satsuki"
+                        },
+                        {
+                            "name": "SHI Xunyao 3:1 KUAI Man"
+                        }
+                    ]
+                },
+                {
+                    "name": "HASHIMOTO Honoka 2:4 WANG Manyu",
+                    "children": [
+                        {
+                            "name": "WANG Yidi 1:3 HASHIMOTO Honoka"
+                        },
+                        {
+                            "name": "NAGASAKI Miyu 2:3 WANG Manyu"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

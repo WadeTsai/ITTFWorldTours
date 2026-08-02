@@ -1,0 +1,59 @@
+{
+    "name": "LEBRUN Felix 0:4 CALDERANO Hugo",
+    "children": [
+        {
+            "name": "LEBRUN Felix 3:2 HARIMOTO Tomokazu",
+            "children": [
+                {
+                    "name": "LEBRUN Felix 3:2 GROTH Jonathan",
+                    "children": [
+                        {
+                            "name": "LEBRUN Felix 3:0 BOLL Timo"
+                        },
+                        {
+                            "name": "GROTH Jonathan 3:0 GACINA Andrej"
+                        }
+                    ]
+                },
+                {
+                    "name": "HARIMOTO Tomokazu 3:0 OVTCHAROV Dimitrij",
+                    "children": [
+                        {
+                            "name": "HARIMOTO Tomokazu 3:0 ASSAR Omar"
+                        },
+                        {
+                            "name": "GERASSIMENKO Kirill 2:3 OVTCHAROV Dimitrij"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "CHO Daeseong 0:3 CALDERANO Hugo",
+            "children": [
+                {
+                    "name": "MATSUSHIMA Sora 1:3 CHO Daeseong",
+                    "children": [
+                        {
+                            "name": "QIU Dang 2:3 MATSUSHIMA Sora"
+                        },
+                        {
+                            "name": "CHO Daeseong 3:1 FRANZISKA Patrick"
+                        }
+                    ]
+                },
+                {
+                    "name": "FALCK Mattias 1:3 CALDERANO Hugo",
+                    "children": [
+                        {
+                            "name": "MA Jinbao 2:3 FALCK Mattias"
+                        },
+                        {
+                            "name": "AN Jaehyun 0:3 CALDERANO Hugo"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

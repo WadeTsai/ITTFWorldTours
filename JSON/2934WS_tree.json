@@ -1,0 +1,59 @@
+{
+    "name": "HUANG Yi-Hua 1:4 MORI Sakura",
+    "children": [
+        {
+            "name": "HUANG Yi-Hua 3:1 CHENG Hsien-Tzu",
+            "children": [
+                {
+                    "name": "HUANG Yi-Hua 3:1 MALOBABIC Ivana",
+                    "children": [
+                        {
+                            "name": "KIM Nayeong 2:3 HUANG Yi-Hua"
+                        },
+                        {
+                            "name": "MALOBABIC Ivana 3:1 ZARIF Audrey"
+                        }
+                    ]
+                },
+                {
+                    "name": "CHIEN Tung-Chuan 2:3 CHENG Hsien-Tzu",
+                    "children": [
+                        {
+                            "name": "CHIEN Tung-Chuan 3:2 SCHREINER Franziska"
+                        },
+                        {
+                            "name": "CHENG Hsien-Tzu 3:1 ZHANG Mo"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "MORI Sakura 3:0 LIU Hsing-Yin",
+            "children": [
+                {
+                    "name": "MORI Sakura 3:2 LEE Eunhye",
+                    "children": [
+                        {
+                            "name": "MORI Sakura 3:2 KALLBERG Christina"
+                        },
+                        {
+                            "name": "XIAO Maria 2:3 LEE Eunhye"
+                        }
+                    ]
+                },
+                {
+                    "name": "MATELOVA Hana 2:3 LIU Hsing-Yin",
+                    "children": [
+                        {
+                            "name": "MATELOVA Hana 3:2 YU Fu"
+                        },
+                        {
+                            "name": "LIU Hsing-Yin 3:0 NAGASAKI Miyu"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "name": "WANG Yidi 3:4 CHEN Xingtong",
+    "children": [
+        {
+            "name": "WANG Yidi 3:0 HIRANO Miu",
+            "children": [
+                {
+                    "name": "WANG Yidi 3:0 FAN Shuhan",
+                    "children": [
+                        {
+                            "name": "WANG Yidi 3:0 XU Yi"
+                        },
+                        {
+                            "name": "LI Yake 1:3 FAN Shuhan"
+                        }
+                    ]
+                },
+                {
+                    "name": "SHI Xunyao 2:3 HIRANO Miu",
+                    "children": [
+                        {
+                            "name": "HARIMOTO Miwa 1:3 SHI Xunyao"
+                        },
+                        {
+                            "name": "LI Yu-Jhun 2:3 HIRANO Miu"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "KIHARA Miyuu 0:3 CHEN Xingtong",
+            "children": [
+                {
+                    "name": "KIHARA Miyuu 3:2 ITO Mima",
+                    "children": [
+                        {
+                            "name": "KIHARA Miyuu 3:1 CHEN Yi"
+                        },
+                        {
+                            "name": "NG Wing Lam 0:3 ITO Mima"
+                        }
+                    ]
+                },
+                {
+                    "name": "QIAN Tianyi 1:3 CHEN Xingtong",
+                    "children": [
+                        {
+                            "name": "QIAN Tianyi 3:2 QIN Yuxuan"
+                        },
+                        {
+                            "name": "YANG Yiyun 1:3 CHEN Xingtong"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

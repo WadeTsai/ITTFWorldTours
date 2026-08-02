@@ -1,0 +1,59 @@
+{
+    "name": "LIN Shidong 2:4 LIANG Jingkun",
+    "children": [
+        {
+            "name": "LIN Shidong 3:0 LEBRUN Felix",
+            "children": [
+                {
+                    "name": "LIN Shidong 3:1 LIN Yun-Ju",
+                    "children": [
+                        {
+                            "name": "CHO Daeseong 2:3 LIN Shidong"
+                        },
+                        {
+                            "name": "UDA Yukiya 0:3 LIN Yun-Ju"
+                        }
+                    ]
+                },
+                {
+                    "name": "LEBRUN Felix 3:2 JANG Woojin",
+                    "children": [
+                        {
+                            "name": "MOREGARD Truls 1:3 LEBRUN Felix"
+                        },
+                        {
+                            "name": "JANG Woojin 3:2 QIU Dang"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "LIANG Jingkun 3:1 HARIMOTO Tomokazu",
+            "children": [
+                {
+                    "name": "LIN Gaoyuan 1:3 LIANG Jingkun",
+                    "children": [
+                        {
+                            "name": "LIN Gaoyuan 3:2 KARLSSON Kristian"
+                        },
+                        {
+                            "name": "MAJOROS Bence 0:3 LIANG Jingkun"
+                        }
+                    ]
+                },
+                {
+                    "name": "AN Jaehyun 1:3 HARIMOTO Tomokazu",
+                    "children": [
+                        {
+                            "name": "PERSSON Jon 2:3 AN Jaehyun"
+                        },
+                        {
+                            "name": "GAUZY Simon 0:3 HARIMOTO Tomokazu"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

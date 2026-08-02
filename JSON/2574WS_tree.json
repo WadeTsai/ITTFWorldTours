@@ -1,0 +1,59 @@
+{
+    "name": "NAGASAKI Miyu 3:4 MITTELHAM Nina",
+    "children": [
+        {
+            "name": "NAGASAKI Miyu 4:2 SU Pei-Ling",
+            "children": [
+                {
+                    "name": "DIAZ Adriana 2:3 NAGASAKI Miyu",
+                    "children": [
+                        {
+                            "name": "DIAZ Adriana 3:2 SASAO Asuka"
+                        },
+                        {
+                            "name": "NAGASAKI Miyu 3:1 BALAZOVA Barbora"
+                        }
+                    ]
+                },
+                {
+                    "name": "SU Pei-Ling 3:1 ALTINKAYA Sibel",
+                    "children": [
+                        {
+                            "name": "SU Pei-Ling 3:2 WAN Yuan"
+                        },
+                        {
+                            "name": "ALTINKAYA Sibel 3:1 DE NUTTE Sarah"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "TAKAHASHI Bruna 2:4 MITTELHAM Nina",
+            "children": [
+                {
+                    "name": "ZHANG Lily 0:3 TAKAHASHI Bruna",
+                    "children": [
+                        {
+                            "name": "ZHANG Lily 3:0 XIAO Maria"
+                        },
+                        {
+                            "name": "MORI Sakura 1:3 TAKAHASHI Bruna"
+                        }
+                    ]
+                },
+                {
+                    "name": "YU Fu 0:3 MITTELHAM Nina",
+                    "children": [
+                        {
+                            "name": "YU Fu 3:0 BURGOS Brianna"
+                        },
+                        {
+                            "name": "SILVA Yadira 2:3 MITTELHAM Nina"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

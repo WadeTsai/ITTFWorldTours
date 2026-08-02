@@ -1,0 +1,59 @@
+{
+    "name": "LIANG Jingkun 4:3 WANG Chuqin",
+    "children": [
+        {
+            "name": "LIN Gaoyuan 1:4 LIANG Jingkun",
+            "children": [
+                {
+                    "name": "LIN Gaoyuan 3:1 KALLBERG Anton",
+                    "children": [
+                        {
+                            "name": "LIN Gaoyuan 3:0 TOKIC Bojan"
+                        },
+                        {
+                            "name": "KALLBERG Anton 3:2 GARDOS Robert"
+                        }
+                    ]
+                },
+                {
+                    "name": "LIANG Jingkun 3:1 GAUZY Simon",
+                    "children": [
+                        {
+                            "name": "LIANG Jingkun 3:0 ACHANTA Sharath Kamal"
+                        },
+                        {
+                            "name": "SKACHKOV Kirill 1:3 GAUZY Simon"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "WANG Chuqin 4:1 JORGIC Darko",
+            "children": [
+                {
+                    "name": "KARLSSON Kristian 1:3 WANG Chuqin",
+                    "children": [
+                        {
+                            "name": "LEBRUN Felix 0:3 KARLSSON Kristian"
+                        },
+                        {
+                            "name": "MOREGARD Truls 0:3 WANG Chuqin"
+                        }
+                    ]
+                },
+                {
+                    "name": "JORGIC Darko 3:2 ZHOU Qihao",
+                    "children": [
+                        {
+                            "name": "JORGIC Darko 3:1 GNANASEKARAN Sathiyan"
+                        },
+                        {
+                            "name": "ZHOU Qihao 3:1 KIZUKURI Yuto"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

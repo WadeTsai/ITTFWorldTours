@@ -1,0 +1,59 @@
+{
+    "name": "HARIMOTO Miwa 4:2 CHENG I-Ching",
+    "children": [
+        {
+            "name": "HARIMOTO Miwa 3:0 SU Tsz Tung",
+            "children": [
+                {
+                    "name": "HARIMOTO Miwa 3:1 SATO Hitomi",
+                    "children": [
+                        {
+                            "name": "HARIMOTO Miwa 3:0 CHITALE Diya"
+                        },
+                        {
+                            "name": "ZENG Jian 0:3 SATO Hitomi"
+                        }
+                    ]
+                },
+                {
+                    "name": "MUKHERJEE Ayhika 1:3 SU Tsz Tung",
+                    "children": [
+                        {
+                            "name": "MUKHERJEE Ayhika 3:0 SHIRAY Karina"
+                        },
+                        {
+                            "name": "GOMEZ OLIVERA Cristina 0:3 SU Tsz Tung"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "CHENG I-Ching 3:0 JOO Cheonhui",
+            "children": [
+                {
+                    "name": "YOKOI Sakura 1:3 CHENG I-Ching",
+                    "children": [
+                        {
+                            "name": "YOKOI Sakura 3:0 HUANG Yu-Chiao"
+                        },
+                        {
+                            "name": "WATANABE Laura 0:3 CHENG I-Ching"
+                        }
+                    ]
+                },
+                {
+                    "name": "JOO Cheonhui 3:1 ODO Satsuki",
+                    "children": [
+                        {
+                            "name": "NAGASAKI Miyu 2:3 JOO Cheonhui"
+                        },
+                        {
+                            "name": "ORTEGA Daniela 0:3 ODO Satsuki"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

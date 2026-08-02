@@ -1,0 +1,59 @@
+{
+    "name": "HARIMOTO Tomokazu 0:4 WANG Chuqin",
+    "children": [
+        {
+            "name": "LIN Shidong 3:4 HARIMOTO Tomokazu",
+            "children": [
+                {
+                    "name": "LIN Shidong 4:1 TANAKA Yuta",
+                    "children": [
+                        {
+                            "name": "LIN Shidong 3:1 AN Jaehyun"
+                        },
+                        {
+                            "name": "LEBRUN Alexis 2:3 TANAKA Yuta"
+                        }
+                    ]
+                },
+                {
+                    "name": "HARIMOTO Tomokazu 4:2 LIN Yun-Ju",
+                    "children": [
+                        {
+                            "name": "HARIMOTO Tomokazu 3:2 MATSUSHIMA Sora"
+                        },
+                        {
+                            "name": "XIANG Peng 0:3 LIN Yun-Ju"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "LEBRUN Felix 3:4 WANG Chuqin",
+            "children": [
+                {
+                    "name": "LEBRUN Felix 4:0 BARDET Lilian",
+                    "children": [
+                        {
+                            "name": "LEBRUN Felix 3:2 DUDA Benedikt"
+                        },
+                        {
+                            "name": "GROTH Jonathan 1:3 BARDET Lilian"
+                        }
+                    ]
+                },
+                {
+                    "name": "JORGIC Darko 2:4 WANG Chuqin",
+                    "children": [
+                        {
+                            "name": "JORGIC Darko 3:1 QIU Dang"
+                        },
+                        {
+                            "name": "LEE Sang Su 0:3 WANG Chuqin"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

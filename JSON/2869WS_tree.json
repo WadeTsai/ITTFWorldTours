@@ -1,0 +1,59 @@
+{
+    "name": "HAYATA Hina 4:0 HARIMOTO Miwa",
+    "children": [
+        {
+            "name": "HAYATA Hina 3:2 HIRANO Miu",
+            "children": [
+                {
+                    "name": "HAYATA Hina 3:0 CHENG I-Ching",
+                    "children": [
+                        {
+                            "name": "HAYATA Hina 3:1 ODO Satsuki"
+                        },
+                        {
+                            "name": "ZENG Jian 2:3 CHENG I-Ching"
+                        }
+                    ]
+                },
+                {
+                    "name": "SZOCS Bernadette 0:3 HIRANO Miu",
+                    "children": [
+                        {
+                            "name": "SZOCS Bernadette 3:0 ZHANG Lily"
+                        },
+                        {
+                            "name": "ZHU Chengzhu 0:3 HIRANO Miu"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "HARIMOTO Miwa 3:0 KIHARA Miyuu",
+            "children": [
+                {
+                    "name": "PAVADE Prithika 0:3 HARIMOTO Miwa",
+                    "children": [
+                        {
+                            "name": "ITO Mima 2:3 PAVADE Prithika"
+                        },
+                        {
+                            "name": "LEE Ho Ching 0:3 HARIMOTO Miwa"
+                        }
+                    ]
+                },
+                {
+                    "name": "JEON Jihee 1:3 KIHARA Miyuu",
+                    "children": [
+                        {
+                            "name": "JEON Jihee 3:1 SUH Hyo Won"
+                        },
+                        {
+                            "name": "CHENG Hsien-Tzu 0:3 KIHARA Miyuu"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

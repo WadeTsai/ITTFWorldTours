@@ -1,0 +1,59 @@
+{
+    "name": "SZOCS Bernadette 1:4 SHIN Yubin",
+    "children": [
+        {
+            "name": "KIHARA Miyuu 2:3 SZOCS Bernadette",
+            "children": [
+                {
+                    "name": "ITO Mima 1:3 KIHARA Miyuu",
+                    "children": [
+                        {
+                            "name": "ITO Mima 3:2 LEE Zion"
+                        },
+                        {
+                            "name": "BERGSTROM Linda 0:3 KIHARA Miyuu"
+                        }
+                    ]
+                },
+                {
+                    "name": "DIAZ Adriana 0:3 SZOCS Bernadette",
+                    "children": [
+                        {
+                            "name": "DIAZ Adriana 3:0 MATELOVA Hana"
+                        },
+                        {
+                            "name": "ZENG Jian 1:3 SZOCS Bernadette"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "HARIMOTO Miwa 1:3 SHIN Yubin",
+            "children": [
+                {
+                    "name": "PAVADE Prithika 1:3 HARIMOTO Miwa",
+                    "children": [
+                        {
+                            "name": "HIRANO Miu 0:3 PAVADE Prithika"
+                        },
+                        {
+                            "name": "LUTZ Camille 0:3 HARIMOTO Miwa"
+                        }
+                    ]
+                },
+                {
+                    "name": "NAGASAKI Miyu 2:3 SHIN Yubin",
+                    "children": [
+                        {
+                            "name": "NAGASAKI Miyu 3:1 TAKAHASHI Bruna"
+                        },
+                        {
+                            "name": "LEE Eunhye 0:3 SHIN Yubin"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

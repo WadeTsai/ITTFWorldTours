@@ -1,0 +1,59 @@
+{
+    "name": "SUN Yingsha 4:0 KUAI Man",
+    "children": [
+        {
+            "name": "SUN Yingsha 4:1 CHEN Xingtong",
+            "children": [
+                {
+                    "name": "SUN Yingsha 4:1 CHENG I-Ching",
+                    "children": [
+                        {
+                            "name": "SUN Yingsha 4:0 POLCANOVA Sofia"
+                        },
+                        {
+                            "name": "HAYATA Hina 3:4 CHENG I-Ching"
+                        }
+                    ]
+                },
+                {
+                    "name": "TAKAHASHI Bruna 1:4 CHEN Xingtong",
+                    "children": [
+                        {
+                            "name": "SZOCS Bernadette 0:4 TAKAHASHI Bruna"
+                        },
+                        {
+                            "name": "SHIN Yubin 0:4 CHEN Xingtong"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "ITO Mima 3:4 KUAI Man",
+            "children": [
+                {
+                    "name": "ODO Satsuki 2:4 ITO Mima",
+                    "children": [
+                        {
+                            "name": "YUAN Jia Nan 1:4 ODO Satsuki"
+                        },
+                        {
+                            "name": "ITO Mima 4:1 DIAZ Adriana"
+                        }
+                    ]
+                },
+                {
+                    "name": "KUAI Man 4:2 WANG Manyu",
+                    "children": [
+                        {
+                            "name": "KUAI Man 4:0 SUH Hyo Won"
+                        },
+                        {
+                            "name": "HARIMOTO Miwa 3:4 WANG Manyu"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

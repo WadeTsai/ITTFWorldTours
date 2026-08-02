@@ -1,0 +1,59 @@
+{
+    "name": "WANG Yidi 4:1 SUN Yingsha",
+    "children": [
+        {
+            "name": "ISHIKAWA Kasumi 1:4 WANG Yidi",
+            "children": [
+                {
+                    "name": "TAKAHASHI Bruna 2:3 ISHIKAWA Kasumi",
+                    "children": [
+                        {
+                            "name": "LEE Zion 1:3 TAKAHASHI Bruna"
+                        },
+                        {
+                            "name": "ISHIKAWA Kasumi 3:0 HAN Ying"
+                        }
+                    ]
+                },
+                {
+                    "name": "WANG Yidi 3:0 DOO Hoi Kem",
+                    "children": [
+                        {
+                            "name": "WANG Yidi 3:0 KIHARA Miyuu"
+                        },
+                        {
+                            "name": "NI Xia Lian 0:3 DOO Hoi Kem"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "WANG Manyu 0:4 SUN Yingsha",
+            "children": [
+                {
+                    "name": "ITO Mima 2:3 WANG Manyu",
+                    "children": [
+                        {
+                            "name": "ITO Mima 3:2 SAWETTABUT Suthasini"
+                        },
+                        {
+                            "name": "FAN Siqi 0:3 WANG Manyu"
+                        }
+                    ]
+                },
+                {
+                    "name": "HAYATA Hina 0:3 SUN Yingsha",
+                    "children": [
+                        {
+                            "name": "HAYATA Hina 3:0 HIRANO Miu"
+                        },
+                        {
+                            "name": "POLCANOVA Sofia 0:3 SUN Yingsha"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

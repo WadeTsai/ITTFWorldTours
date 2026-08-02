@@ -1,0 +1,59 @@
+{
+    "name": "HARIMOTO Tomokazu 2:4 CHEN Yuanyu",
+    "children": [
+        {
+            "name": "HARIMOTO Tomokazu 3:0 WONG Chun Ting",
+            "children": [
+                {
+                    "name": "HARIMOTO Tomokazu 3:1 HUANG Youzheng",
+                    "children": [
+                        {
+                            "name": "HARIMOTO Tomokazu 3:1 MA Jinbao"
+                        },
+                        {
+                            "name": "HUANG Youzheng 3:2 GAUZY Simon"
+                        }
+                    ]
+                },
+                {
+                    "name": "WONG Chun Ting 3:1 PORET Thibault",
+                    "children": [
+                        {
+                            "name": "HUANG Yan-Cheng 0:3 WONG Chun Ting"
+                        },
+                        {
+                            "name": "GACINA Andrej 1:3 PORET Thibault"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "KUO Guan-Hong 0:3 CHEN Yuanyu",
+            "children": [
+                {
+                    "name": "BARDET Lilian 0:3 KUO Guan-Hong",
+                    "children": [
+                        {
+                            "name": "SHINOZUKA Hiroto 2:3 BARDET Lilian"
+                        },
+                        {
+                            "name": "KUO Guan-Hong 3:1 XIANG Peng"
+                        }
+                    ]
+                },
+                {
+                    "name": "SHAH Manush 0:3 CHEN Yuanyu",
+                    "children": [
+                        {
+                            "name": "MATSUSHIMA Sora 2:3 SHAH Manush"
+                        },
+                        {
+                            "name": "CHEN Yuanyu 3:1 OVTCHAROV Dimitrij"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

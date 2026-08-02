@@ -1,0 +1,59 @@
+{
+    "name": "MA Long 2:4 WANG Chuqin",
+    "children": [
+        {
+            "name": "LEBRUN Felix 2:3 MA Long",
+            "children": [
+                {
+                    "name": "MA Jinbao 2:3 LEBRUN Felix",
+                    "children": [
+                        {
+                            "name": "YOSHIYAMA Ryoichi 2:3 MA Jinbao"
+                        },
+                        {
+                            "name": "LEBRUN Felix 3:1 LIN Shidong"
+                        }
+                    ]
+                },
+                {
+                    "name": "MA Long 3:1 LIANG Jingkun",
+                    "children": [
+                        {
+                            "name": "MA Long 3:0 CHO Seungmin"
+                        },
+                        {
+                            "name": "QUEK Izaac 2:3 LIANG Jingkun"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "LIN Gaoyuan 0:3 WANG Chuqin",
+            "children": [
+                {
+                    "name": "LIN Gaoyuan 3:1 HARIMOTO Tomokazu",
+                    "children": [
+                        {
+                            "name": "LIN Gaoyuan 3:1 BOLL Timo"
+                        },
+                        {
+                            "name": "LIANG Yanning 1:3 HARIMOTO Tomokazu"
+                        }
+                    ]
+                },
+                {
+                    "name": "ZHOU Qihao 2:3 WANG Chuqin",
+                    "children": [
+                        {
+                            "name": "OVTCHAROV Dimitrij 1:3 ZHOU Qihao"
+                        },
+                        {
+                            "name": "AN Jaehyun 0:3 WANG Chuqin"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "name": "TOGAMI Shunsuke 1:4 LEBRUN Alexis",
+    "children": [
+        {
+            "name": "HARIMOTO Tomokazu 2:3 TOGAMI Shunsuke",
+            "children": [
+                {
+                    "name": "HARIMOTO Tomokazu 3:1 ALAMIYAN Noshad",
+                    "children": [
+                        {
+                            "name": "HARIMOTO Tomokazu 3:1 JANCARIK Lubomir"
+                        },
+                        {
+                            "name": "ALAMIYAN Noshad 3:2 GAUZY Simon"
+                        }
+                    ]
+                },
+                {
+                    "name": "TOGAMI Shunsuke 3:1 IONESCU Ovidiu",
+                    "children": [
+                        {
+                            "name": "TOGAMI Shunsuke 3:1 PUCAR Tomislav"
+                        },
+                        {
+                            "name": "FENG Yi-Hsin 2:3 IONESCU Ovidiu"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "LEBRUN Alexis 3:2 AN Jaehyun",
+            "children": [
+                {
+                    "name": "LEBRUN Alexis 3:2 MATSUSHIMA Sora",
+                    "children": [
+                        {
+                            "name": "LEBRUN Alexis 3:0 GERALDO Joao"
+                        },
+                        {
+                            "name": "MATSUSHIMA Sora 3:0 ARUNA Quadri"
+                        }
+                    ]
+                },
+                {
+                    "name": "AN Jaehyun 3:2 JANG Woojin",
+                    "children": [
+                        {
+                            "name": "AN Jaehyun 3:2 DUDA Benedikt"
+                        },
+                        {
+                            "name": "WONG Chun Ting 1:3 JANG Woojin"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

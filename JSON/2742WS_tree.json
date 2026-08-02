@@ -1,0 +1,59 @@
+{
+    "name": "HAYATA Hina 4:0 HAN Ying",
+    "children": [
+        {
+            "name": "HAYATA Hina 3:1 HARIMOTO Miwa",
+            "children": [
+                {
+                    "name": "HAYATA Hina 3:1 PARANANG Orawan",
+                    "children": [
+                        {
+                            "name": "HAYATA Hina 3:0 SHAO Jieni"
+                        },
+                        {
+                            "name": "PARANANG Orawan 3:2 NAGASAKI Miyu"
+                        }
+                    ]
+                },
+                {
+                    "name": "HARIMOTO Miwa 3:0 DRAGOMAN Andreea",
+                    "children": [
+                        {
+                            "name": "HARIMOTO Miwa 3:2 BALAZOVA Barbora"
+                        },
+                        {
+                            "name": "JEON Jihee 2:3 DRAGOMAN Andreea"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "DIACONU Adina 0:3 HAN Ying",
+            "children": [
+                {
+                    "name": "SAMARA Elizabeta 0:3 DIACONU Adina",
+                    "children": [
+                        {
+                            "name": "SAMARA Elizabeta 3:2 KIM Nayeong"
+                        },
+                        {
+                            "name": "DIACONU Adina 3:1 LI Yu-Jhun"
+                        }
+                    ]
+                },
+                {
+                    "name": "PAVADE Prithika 0:3 HAN Ying",
+                    "children": [
+                        {
+                            "name": "LEE Zion 2:3 PAVADE Prithika"
+                        },
+                        {
+                            "name": "BATRA Manika 0:3 HAN Ying"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

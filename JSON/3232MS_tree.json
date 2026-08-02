@@ -1,0 +1,59 @@
+{
+    "name": "ZHOU Qihao 4:2 WEN Ruibo",
+    "children": [
+        {
+            "name": "OVTCHAROV Dimitrij 2:3 ZHOU Qihao",
+            "children": [
+                {
+                    "name": "OVTCHAROV Dimitrij 3:2 JANG Woojin",
+                    "children": [
+                        {
+                            "name": "LIN Shidong 1:3 OVTCHAROV Dimitrij"
+                        },
+                        {
+                            "name": "DE NODREST Leo 0:3 JANG Woojin"
+                        }
+                    ]
+                },
+                {
+                    "name": "ZHOU Qihao 3:1 HUANG Youzheng",
+                    "children": [
+                        {
+                            "name": "ZHOU Qihao 3:1 SHINOZUKA Hiroto"
+                        },
+                        {
+                            "name": "HUANG Youzheng 3:0 KUO Guan-Hong"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "WEN Ruibo 3:2 CALDERANO Hugo",
+            "children": [
+                {
+                    "name": "WEN Ruibo 3:1 XUE Fei",
+                    "children": [
+                        {
+                            "name": "WEN Ruibo 3:1 LIND Anders"
+                        },
+                        {
+                            "name": "XUE Fei 3:2 HARIMOTO Tomokazu"
+                        }
+                    ]
+                },
+                {
+                    "name": "GAUZY Simon 1:3 CALDERANO Hugo",
+                    "children": [
+                        {
+                            "name": "XIANG Peng 2:3 GAUZY Simon"
+                        },
+                        {
+                            "name": "PUCAR Tomislav 0:3 CALDERANO Hugo"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

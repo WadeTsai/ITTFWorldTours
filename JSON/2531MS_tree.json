@@ -1,0 +1,59 @@
+{
+    "name": "LIANG Jingkun 4:1 LIN Gaoyuan",
+    "children": [
+        {
+            "name": "LIANG Jingkun 4:3 XIANG Peng",
+            "children": [
+                {
+                    "name": "LIANG Jingkun 3:0 PERSSON Jon",
+                    "children": [
+                        {
+                            "name": "LIANG Jingkun 3:1 ZHOU Qihao"
+                        },
+                        {
+                            "name": "SALEH Ahmed 0:3 PERSSON Jon"
+                        }
+                    ]
+                },
+                {
+                    "name": "WANG Chuqin 1:3 XIANG Peng",
+                    "children": [
+                        {
+                            "name": "WANG Chuqin 3:0 ZHAO Zihao"
+                        },
+                        {
+                            "name": "XIANG Peng 3:1 CHUANG Chih-Yuan"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "LIU Dingshuo 1:4 LIN Gaoyuan",
+            "children": [
+                {
+                    "name": "LIU Dingshuo 3:0 ARUNA Quadri",
+                    "children": [
+                        {
+                            "name": "SUN Wen 0:3 LIU Dingshuo"
+                        },
+                        {
+                            "name": "ZHANG Yudong 1:3 ARUNA Quadri"
+                        }
+                    ]
+                },
+                {
+                    "name": "LIN Shidong 0:3 LIN Gaoyuan",
+                    "children": [
+                        {
+                            "name": "LIN Shidong 3:0 GERALDO Joao"
+                        },
+                        {
+                            "name": "DYJAS Jakub 1:3 LIN Gaoyuan"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

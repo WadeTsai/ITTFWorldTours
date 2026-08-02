@@ -1,0 +1,59 @@
+{
+    "name": "GERASSIMENKO Kirill 0:4 LIANG Jingkun",
+    "children": [
+        {
+            "name": "GERASSIMENKO Kirill 4:3 LIU Dingshuo",
+            "children": [
+                {
+                    "name": "DRINKHALL Paul 2:3 GERASSIMENKO Kirill",
+                    "children": [
+                        {
+                            "name": "LIN Gaoyuan 1:3 DRINKHALL Paul"
+                        },
+                        {
+                            "name": "GERASSIMENKO Kirill 3:0 SHINOZUKA Hiroto"
+                        }
+                    ]
+                },
+                {
+                    "name": "WANG Chuqin 2:3 LIU Dingshuo",
+                    "children": [
+                        {
+                            "name": "WANG Chuqin 3:0 MENGEL Steffen"
+                        },
+                        {
+                            "name": "LIU Dingshuo 3:2 DUDA Benedikt"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "PERSSON Jon 2:4 LIANG Jingkun",
+            "children": [
+                {
+                    "name": "PERSSON Jon 3:0 APOLONIA Tiago",
+                    "children": [
+                        {
+                            "name": "GNANASEKARAN Sathiyan 1:3 PERSSON Jon"
+                        },
+                        {
+                            "name": "APOLONIA Tiago 3:2 ARUNA Quadri"
+                        }
+                    ]
+                },
+                {
+                    "name": "KIZUKURI Yuto 0:3 LIANG Jingkun",
+                    "children": [
+                        {
+                            "name": "KIZUKURI Yuto 3:1 GERALDO Joao"
+                        },
+                        {
+                            "name": "KOZUL Deni 0:3 LIANG Jingkun"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

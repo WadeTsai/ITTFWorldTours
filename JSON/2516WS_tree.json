@@ -1,0 +1,59 @@
+{
+    "name": "WANG Yidi 2:4 SUN Yingsha",
+    "children": [
+        {
+            "name": "CHEN Meng 3:4 WANG Yidi",
+            "children": [
+                {
+                    "name": "CHEN Meng 3:0 FENG Tianwei",
+                    "children": [
+                        {
+                            "name": "CHEN Meng 3:1 ISHIKAWA Kasumi"
+                        },
+                        {
+                            "name": "FENG Tianwei 3:1 JEON Jihee"
+                        }
+                    ]
+                },
+                {
+                    "name": "WANG Yidi 3:1 SATO Hitomi",
+                    "children": [
+                        {
+                            "name": "WANG Yidi 3:1 DIAZ Adriana"
+                        },
+                        {
+                            "name": "SATO Hitomi 3:1 POLCANOVA Sofia"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "HAYATA Hina 1:4 SUN Yingsha",
+            "children": [
+                {
+                    "name": "HAYATA Hina 3:1 DOO Hoi Kem",
+                    "children": [
+                        {
+                            "name": "HAYATA Hina 3:1 CHENG I-Ching"
+                        },
+                        {
+                            "name": "DOO Hoi Kem 3:0 WANG Manyu"
+                        }
+                    ]
+                },
+                {
+                    "name": "CHEN Xingtong 0:3 SUN Yingsha",
+                    "children": [
+                        {
+                            "name": "HIRANO Miu 0:3 CHEN Xingtong"
+                        },
+                        {
+                            "name": "SOLJA Petrissa 0:3 SUN Yingsha"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

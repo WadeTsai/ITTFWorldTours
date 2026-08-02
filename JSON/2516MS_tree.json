@@ -1,0 +1,59 @@
+{
+    "name": "FAN Zhendong 4:1 HARIMOTO Tomokazu",
+    "children": [
+        {
+            "name": "FAN Zhendong 4:2 WANG Chuqin",
+            "children": [
+                {
+                    "name": "FAN Zhendong 3:0 JEOUNG Youngsik",
+                    "children": [
+                        {
+                            "name": "FAN Zhendong 3:0 FRANZISKA Patrick"
+                        },
+                        {
+                            "name": "JEOUNG Youngsik 3:1 LEE Sangsu"
+                        }
+                    ]
+                },
+                {
+                    "name": "WANG Chuqin 3:0 PITCHFORD Liam",
+                    "children": [
+                        {
+                            "name": "LIN Yun-Ju 0:3 WANG Chuqin"
+                        },
+                        {
+                            "name": "PITCHFORD Liam 3:2 JANG Woojin"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "HARIMOTO Tomokazu 4:1 CALDERANO Hugo",
+            "children": [
+                {
+                    "name": "WONG Chun Ting 1:3 HARIMOTO Tomokazu",
+                    "children": [
+                        {
+                            "name": "GAUZY Simon 1:3 WONG Chun Ting"
+                        },
+                        {
+                            "name": "FALCK Mattias 0:3 HARIMOTO Tomokazu"
+                        }
+                    ]
+                },
+                {
+                    "name": "ARUNA Quadri 1:3 CALDERANO Hugo",
+                    "children": [
+                        {
+                            "name": "LIANG Jingkun 1:3 ARUNA Quadri"
+                        },
+                        {
+                            "name": "LIN Gaoyuan 0:3 CALDERANO Hugo"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "name": "QIN Yuxuan 0:4 HASHIMOTO Honoka",
+    "children": [
+        {
+            "name": "YOKOI Sakura 2:3 QIN Yuxuan",
+            "children": [
+                {
+                    "name": "SHI Xunyao 0:3 YOKOI Sakura",
+                    "children": [
+                        {
+                            "name": "SHI Xunyao 3:1 SHAN Xiaona"
+                        },
+                        {
+                            "name": "KAUFMANN Annett 2:3 YOKOI Sakura"
+                        }
+                    ]
+                },
+                {
+                    "name": "QIN Yuxuan 3:2 KIM Nayeong",
+                    "children": [
+                        {
+                            "name": "QIAN Tianyi 1:3 QIN Yuxuan"
+                        },
+                        {
+                            "name": "YANG Ha Eun 1:3 KIM Nayeong"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "HE Zhuojia 1:3 HASHIMOTO Honoka",
+            "children": [
+                {
+                    "name": "SATO Hitomi 2:3 HE Zhuojia",
+                    "children": [
+                        {
+                            "name": "SATO Hitomi 3:0 LUPULESKU Izabela"
+                        },
+                        {
+                            "name": "PARK Gahyeon 0:3 HE Zhuojia"
+                        }
+                    ]
+                },
+                {
+                    "name": "XU Yi 1:3 HASHIMOTO Honoka",
+                    "children": [
+                        {
+                            "name": "LEE Eunhye 1:3 XU Yi"
+                        },
+                        {
+                            "name": "AKAE Kaho 0:3 HASHIMOTO Honoka"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

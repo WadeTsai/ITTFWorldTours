@@ -1,0 +1,59 @@
+{
+    "name": "FAN Siqi 1:4 QIAN Tianyi",
+    "children": [
+        {
+            "name": "ZHANG Rui 1:3 FAN Siqi",
+            "children": [
+                {
+                    "name": "MITTELHAM Nina 0:3 ZHANG Rui",
+                    "children": [
+                        {
+                            "name": "MITTELHAM Nina 3:2 WINTER Sabine"
+                        },
+                        {
+                            "name": "HUANG Yu-Chiao 0:3 ZHANG Rui"
+                        }
+                    ]
+                },
+                {
+                    "name": "FAN Siqi 3:1 LIU Weishan",
+                    "children": [
+                        {
+                            "name": "FAN Siqi 3:2 LUTZ Camille"
+                        },
+                        {
+                            "name": "MORET Rachel 0:3 LIU Weishan"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "CHIEN Tung-Chuan 1:3 QIAN Tianyi",
+            "children": [
+                {
+                    "name": "CHIEN Tung-Chuan 3:2 MESHREF Dina",
+                    "children": [
+                        {
+                            "name": "KUAI Man 2:3 CHIEN Tung-Chuan"
+                        },
+                        {
+                            "name": "BAJOR Natalia 0:3 MESHREF Dina"
+                        }
+                    ]
+                },
+                {
+                    "name": "QIAN Tianyi 3:0 SHAN Xiaona",
+                    "children": [
+                        {
+                            "name": "QIAN Tianyi 3:1 HUANG Hsin"
+                        },
+                        {
+                            "name": "CHEN Yi 2:3 SHAN Xiaona"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

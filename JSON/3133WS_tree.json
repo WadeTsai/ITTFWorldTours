@@ -1,0 +1,59 @@
+{
+    "name": "HASHIMOTO Honoka 2:4 HARIMOTO Miwa",
+    "children": [
+        {
+            "name": "HASHIMOTO Honoka 3:0 KIM Nayeong",
+            "children": [
+                {
+                    "name": "HASHIMOTO Honoka 3:1 JOO Cheonhui",
+                    "children": [
+                        {
+                            "name": "HAYATA Hina 2:3 HASHIMOTO Honoka"
+                        },
+                        {
+                            "name": "JOO Cheonhui 3:1 KIHARA Miyuu"
+                        }
+                    ]
+                },
+                {
+                    "name": "KIM Nayeong 3:0 DIAZ Adriana",
+                    "children": [
+                        {
+                            "name": "ODO Satsuki 1:3 KIM Nayeong"
+                        },
+                        {
+                            "name": "HUANG Yi-Hua 0:3 DIAZ Adriana"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "SHIN Yubin 0:3 HARIMOTO Miwa",
+            "children": [
+                {
+                    "name": "NAGASAKI Miyu 0:3 SHIN Yubin",
+                    "children": [
+                        {
+                            "name": "NAGASAKI Miyu 3:0 ROY Krittwika"
+                        },
+                        {
+                            "name": "LEE Eunhye 2:3 SHIN Yubin"
+                        }
+                    ]
+                },
+                {
+                    "name": "WAN Yuan 1:3 HARIMOTO Miwa",
+                    "children": [
+                        {
+                            "name": "WAN Yuan 3:1 HUANG Yu-Jie"
+                        },
+                        {
+                            "name": "YOKOI Sakura 0:3 HARIMOTO Miwa"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

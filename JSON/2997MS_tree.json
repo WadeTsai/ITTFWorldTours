@@ -1,0 +1,59 @@
+{
+    "name": "LIN Shidong 4:1 WEN Ruibo",
+    "children": [
+        {
+            "name": "LIN Shidong 3:2 UDA Yukiya",
+            "children": [
+                {
+                    "name": "LIN Shidong 3:0 CHEN Yuanyu",
+                    "children": [
+                        {
+                            "name": "LIN Shidong 3:1 CHAN Baldwin"
+                        },
+                        {
+                            "name": "CHEN Yuanyu 3:0 ZHOU Qihao"
+                        }
+                    ]
+                },
+                {
+                    "name": "XIANG Peng 2:3 UDA Yukiya",
+                    "children": [
+                        {
+                            "name": "XIANG Peng 3:1 IONESCU Eduard"
+                        },
+                        {
+                            "name": "HUANG Youzheng 2:3 UDA Yukiya"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "WEN Ruibo 3:0 LIN Gaoyuan",
+            "children": [
+                {
+                    "name": "XUE Fei 0:3 WEN Ruibo",
+                    "children": [
+                        {
+                            "name": "XUE Fei 3:2 THAKKAR Manav Vikash"
+                        },
+                        {
+                            "name": "WEN Ruibo 3:0 YUAN Licen"
+                        }
+                    ]
+                },
+                {
+                    "name": "IONESCU Ovidiu 1:3 LIN Gaoyuan",
+                    "children": [
+                        {
+                            "name": "IONESCU Ovidiu 3:2 PARK Gyuhyeon"
+                        },
+                        {
+                            "name": "SHAMS Navid 0:3 LIN Gaoyuan"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

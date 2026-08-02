@@ -1,0 +1,59 @@
+{
+    "name": "HUANG Yi-Hua 0:4 ODO Satsuki",
+    "children": [
+        {
+            "name": "YANG Xiaoxin 1:3 HUANG Yi-Hua",
+            "children": [
+                {
+                    "name": "YANG Xiaoxin 3:1 COSSIO ACEVES Arantxa",
+                    "children": [
+                        {
+                            "name": "YANG Xiaoxin 3:0 PRIETO Alejandra"
+                        },
+                        {
+                            "name": "WATANABE Laura 0:3 COSSIO ACEVES Arantxa"
+                        }
+                    ]
+                },
+                {
+                    "name": "HUANG Yi-Hua 3:0 SINGEORZAN Ioana",
+                    "children": [
+                        {
+                            "name": "HUANG Yi-Hua 3:0 DUFFOO Isabel"
+                        },
+                        {
+                            "name": "AQUIJE Natzumi 0:3 SINGEORZAN Ioana"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "YOKOI Sakura 0:3 ODO Satsuki",
+            "children": [
+                {
+                    "name": "YOKOI Sakura 3:2 EERLAND Britt",
+                    "children": [
+                        {
+                            "name": "TAKAHASHI Giulia 0:3 YOKOI Sakura"
+                        },
+                        {
+                            "name": "SU Pei-Ling 1:3 EERLAND Britt"
+                        }
+                    ]
+                },
+                {
+                    "name": "LUPULESKU Izabela 0:3 ODO Satsuki",
+                    "children": [
+                        {
+                            "name": "LUPULESKU Izabela 3:0 MENDOZA SALAZAR Karla Joana"
+                        },
+                        {
+                            "name": "COLFER Alessia 0:3 ODO Satsuki"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

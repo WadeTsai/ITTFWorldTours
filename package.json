@@ -1,45 +1,45 @@
 {
   "homepage": "https://wadetsai.github.io/ITTFWorldTours",
   "name": "table-tennis-world-tours",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "private": true,
-  "dependencies": {
-    "@material-ui/core": "^4.10.0",
-    "@material-ui/icons": "^4.9.1",
-    "@material-ui/lab": "^4.0.0-alpha.54",
-    "@testing-library/jest-dom": "^5.8.0",
-    "@testing-library/react": "^10.0.4",
-    "@testing-library/user-event": "^10.4.0",
-    "browserslist": "^4.12.0",
-    "caniuse-lite": "^1.0.30001066",
-    "gh-pages": "^2.2.0",
-    "i": "^0.3.6",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1",
-    "react-scripts": "^3.4.1",
-    "react-tree-graph": "^4.1.0"
-  },
+  "type": "module",
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject",
+    "dev": "vite",
+    "start": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc --noEmit",
+    "lint": "oxlint",
+    "test": "vitest run",
+    "test:watch": "vitest",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
   },
-  "eslintConfig": {
-    "extends": "react-app"
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.1",
+    "@mui/icons-material": "^9.2.0",
+    "@mui/material": "^9.2.0",
+    "@mui/x-tree-view": "^9.10.1",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8",
+    "react-tree-graph": "^8.0.3"
   },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
+  "devDependencies": {
+    "@testing-library/dom": "^10.4.1",
+    "@testing-library/jest-dom": "^7.0.0",
+    "@testing-library/react": "^16.3.2",
+    "@testing-library/user-event": "^14.6.1",
+    "@types/react": "^19.2.18",
+    "@types/react-dom": "^19.2.4",
+    "@types/react-tree-graph": "^8.0.0",
+    "@vitejs/plugin-react": "^6.0.5",
+    "jsdom": "^30.0.1",
+    "gh-pages": "^6.3.0",
+    "oxlint": "^1.76.0",
+    "typescript": "^7.0.2",
+    "vite": "^8.2.0",
+    "vitest": "^4.1.10"
   }
 }

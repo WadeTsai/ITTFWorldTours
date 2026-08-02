@@ -1,0 +1,59 @@
+{
+    "name": "LIN Yun-Ju 4:0 XIANG Peng",
+    "children": [
+        {
+            "name": "FRANZISKA Patrick 1:4 LIN Yun-Ju",
+            "children": [
+                {
+                    "name": "MOREGARD Truls 1:3 FRANZISKA Patrick",
+                    "children": [
+                        {
+                            "name": "MOREGARD Truls 3:0 WANG Chen Ce"
+                        },
+                        {
+                            "name": "JANG Woojin 2:3 FRANZISKA Patrick"
+                        }
+                    ]
+                },
+                {
+                    "name": "LIN Yun-Ju 3:1 LIANG Guodong",
+                    "children": [
+                        {
+                            "name": "LIN Yun-Ju 3:1 UDA Yukiya"
+                        },
+                        {
+                            "name": "LIANG Guodong 3:2 WONG Chun Ting"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "XIANG Peng 4:1 CHUANG Chih-Yuan",
+            "children": [
+                {
+                    "name": "WALTHER Ricardo 1:3 XIANG Peng",
+                    "children": [
+                        {
+                            "name": "WALTHER Ricardo 3:0 SIPOS Rares"
+                        },
+                        {
+                            "name": "XIANG Peng 3:1 HARIMOTO Tomokazu"
+                        }
+                    ]
+                },
+                {
+                    "name": "CHUANG Chih-Yuan 3:0 GNANASEKARAN Sathiyan",
+                    "children": [
+                        {
+                            "name": "CHUANG Chih-Yuan 3:2 ALAMIYAN Noshad"
+                        },
+                        {
+                            "name": "CHEN Yuanyu 0:3 GNANASEKARAN Sathiyan"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "name": "OVTCHAROV Dimitrij 4:1 LIN Yun-Ju",
+    "children": [
+        {
+            "name": "HARIMOTO Tomokazu 2:4 OVTCHAROV Dimitrij",
+            "children": [
+                {
+                    "name": "HARIMOTO Tomokazu 3:1 CHO Daeseong",
+                    "children": [
+                        {
+                            "name": "HARIMOTO Tomokazu 3:1 LEE Sangsu"
+                        },
+                        {
+                            "name": "CHO Daeseong 3:2 LEVENKO Andreas"
+                        }
+                    ]
+                },
+                {
+                    "name": "FALCK Mattias 2:3 OVTCHAROV Dimitrij",
+                    "children": [
+                        {
+                            "name": "FALCK Mattias 3:0 KARLSSON Kristian"
+                        },
+                        {
+                            "name": "LEBESSON Emmanuel 1:3 OVTCHAROV Dimitrij"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "LIN Yun-Ju 4:1 GAUZY Simon",
+            "children": [
+                {
+                    "name": "ARUNA Quadri 1:3 LIN Yun-Ju",
+                    "children": [
+                        {
+                            "name": "ARUNA Quadri 3:2 GERALDO Joao"
+                        },
+                        {
+                            "name": "ACHANTA Sharath Kamal 0:3 LIN Yun-Ju"
+                        }
+                    ]
+                },
+                {
+                    "name": "GAUZY Simon 3:2 CALDERANO Hugo",
+                    "children": [
+                        {
+                            "name": "GAUZY Simon 3:2 PUCAR Tomislav"
+                        },
+                        {
+                            "name": "AN Jaehyun 1:3 CALDERANO Hugo"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

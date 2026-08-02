@@ -1,0 +1,59 @@
+{
+    "name": "SHIN Yubin 3:4 JEON Jihee",
+    "children": [
+        {
+            "name": "SHIN Yubin 3:1 MESHREF Dina",
+            "children": [
+                {
+                    "name": "SHIN Yubin 3:0 BATRA Manika",
+                    "children": [
+                        {
+                            "name": "SHIN Yubin 3:0 ALHODABY Mariam"
+                        },
+                        {
+                            "name": "ZARIF Audrey 1:3 BATRA Manika"
+                        }
+                    ]
+                },
+                {
+                    "name": "KIM Nayeong 2:3 MESHREF Dina",
+                    "children": [
+                        {
+                            "name": "JOO Cheonhui 2:3 KIM Nayeong"
+                        },
+                        {
+                            "name": "SAWETTABUT Suthasini 1:3 MESHREF Dina"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "JEON Jihee 3:0 PARANANG Orawan",
+            "children": [
+                {
+                    "name": "JEON Jihee 3:0 KAUFMANN Annett",
+                    "children": [
+                        {
+                            "name": "JEON Jihee 3:2 LEE Zion"
+                        },
+                        {
+                            "name": "KAUFMANN Annett 3:2 CHENG I-Ching"
+                        }
+                    ]
+                },
+                {
+                    "name": "CHEN Szu-Yu 1:3 PARANANG Orawan",
+                    "children": [
+                        {
+                            "name": "DOO Hoi Kem 0:3 CHEN Szu-Yu"
+                        },
+                        {
+                            "name": "PARANANG Orawan 3:0 YANG Xiaoxin"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

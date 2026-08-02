@@ -1,0 +1,59 @@
+{
+    "name": "HAYATA Hina 4:1 YU Fu",
+    "children": [
+        {
+            "name": "HAYATA Hina 4:1 HIRANO Miu",
+            "children": [
+                {
+                    "name": "HAYATA Hina 3:0 SZOCS Bernadette",
+                    "children": [
+                        {
+                            "name": "HAYATA Hina 3:0 BERGSTROM Linda"
+                        },
+                        {
+                            "name": "ZENG Jian 2:3 SZOCS Bernadette"
+                        }
+                    ]
+                },
+                {
+                    "name": "HIRANO Miu 3:0 ZHANG Lily",
+                    "children": [
+                        {
+                            "name": "HIRANO Miu 3:0 XU Yi"
+                        },
+                        {
+                            "name": "HAN Feier 0:3 ZHANG Lily"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "YU Fu 4:2 YANG Xiaoxin",
+            "children": [
+                {
+                    "name": "CHEN Yi 0:3 YU Fu",
+                    "children": [
+                        {
+                            "name": "CHEN Szu-Yu 0:3 CHEN Yi"
+                        },
+                        {
+                            "name": "LI Yuqi 2:3 YU Fu"
+                        }
+                    ]
+                },
+                {
+                    "name": "WU Yangchen 0:3 YANG Xiaoxin",
+                    "children": [
+                        {
+                            "name": "WU Yangchen 3:1 WAN Yuan"
+                        },
+                        {
+                            "name": "KALLBERG Christina 1:3 YANG Xiaoxin"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

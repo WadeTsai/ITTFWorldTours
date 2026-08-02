@@ -1,0 +1,59 @@
+{
+    "name": "LIN Yun-Ju 4:1 XIANG Peng",
+    "children": [
+        {
+            "name": "LIN Yun-Ju 3:2 MOREGARD Truls",
+            "children": [
+                {
+                    "name": "LIN Yun-Ju 3:0 PUCAR Tomislav",
+                    "children": [
+                        {
+                            "name": "LIN Yun-Ju 3:1 OIKAWA Mizuki"
+                        },
+                        {
+                            "name": "PUCAR Tomislav 3:2 KARLSSON Kristian"
+                        }
+                    ]
+                },
+                {
+                    "name": "MOREGARD Truls 3:0 EL-BEIALI Mohamed",
+                    "children": [
+                        {
+                            "name": "MOREGARD Truls 3:0 FRANZISKA Patrick"
+                        },
+                        {
+                            "name": "APOLONIA Tiago 0:3 EL-BEIALI Mohamed"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "FREITAS Marcos 1:3 XIANG Peng",
+            "children": [
+                {
+                    "name": "FREITAS Marcos 3:0 JORGIC Darko",
+                    "children": [
+                        {
+                            "name": "FREITAS Marcos 3:0 WANG Yang"
+                        },
+                        {
+                            "name": "PITCHFORD Liam 1:3 JORGIC Darko"
+                        }
+                    ]
+                },
+                {
+                    "name": "XIANG Peng 3:1 LIANG Yanning",
+                    "children": [
+                        {
+                            "name": "DUDA Benedikt 1:3 XIANG Peng"
+                        },
+                        {
+                            "name": "FILUS Ruwen 1:3 LIANG Yanning"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

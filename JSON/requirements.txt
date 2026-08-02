@@ -1,0 +1,8 @@
+# Scraper dependencies for genJSON.py.
+#   pip install -r requirements.txt
+#
+# `playwright install` is NOT needed: worldtabletennis.com serves its draws as
+# plain JSON, so the scraper uses Playwright's request API and never launches a
+# browser. This replaces the old selenium + beautifulsoup4 pair, which drove a
+# real Chrome against results.ittf.com.
+playwright>=1.62

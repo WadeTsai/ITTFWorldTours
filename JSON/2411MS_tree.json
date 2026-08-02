@@ -1,0 +1,59 @@
+{
+    "name": "HARIMOTO Tomokazu 4:2 FILUS Ruwen",
+    "children": [
+        {
+            "name": "HARIMOTO Tomokazu 4:2 OVTCHAROV Dimitrij",
+            "children": [
+                {
+                    "name": "HARIMOTO Tomokazu 3:0 JEOUNG Youngsik",
+                    "children": [
+                        {
+                            "name": "HARIMOTO Tomokazu 3:0 ARUNA Quadri"
+                        },
+                        {
+                            "name": "TSUBOI Gustavo 1:3 JEOUNG Youngsik"
+                        }
+                    ]
+                },
+                {
+                    "name": "KALLBERG Anton 2:3 OVTCHAROV Dimitrij",
+                    "children": [
+                        {
+                            "name": "AN Jaehyun 0:3 KALLBERG Anton"
+                        },
+                        {
+                            "name": "ACHANTA Sharath Kamal 0:3 OVTCHAROV Dimitrij"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "FILUS Ruwen 4:2 JORGIC Darko",
+            "children": [
+                {
+                    "name": "FILUS Ruwen 3:0 LIN Yun-Ju",
+                    "children": [
+                        {
+                            "name": "FILUS Ruwen 3:0 MIZUTANI Jun"
+                        },
+                        {
+                            "name": "GARDOS Robert 1:3 LIN Yun-Ju"
+                        }
+                    ]
+                },
+                {
+                    "name": "KARLSSON Kristian 2:3 JORGIC Darko",
+                    "children": [
+                        {
+                            "name": "KARLSSON Kristian 3:0 GAUZY Simon"
+                        },
+                        {
+                            "name": "JORGIC Darko 3:2 CALDERANO Hugo"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

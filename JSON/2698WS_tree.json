@@ -1,0 +1,59 @@
+{
+    "name": "FAN Siqi 4:3 ZHANG Rui",
+    "children": [
+        {
+            "name": "LIU Weishan 1:3 FAN Siqi",
+            "children": [
+                {
+                    "name": "QIAN Tianyi 0:3 LIU Weishan",
+                    "children": [
+                        {
+                            "name": "KAUFMANN Annett 1:3 QIAN Tianyi"
+                        },
+                        {
+                            "name": "SAMARA Elizabeta 2:3 LIU Weishan"
+                        }
+                    ]
+                },
+                {
+                    "name": "CHENG I-Ching 1:3 FAN Siqi",
+                    "children": [
+                        {
+                            "name": "CHENG I-Ching 3:0 LI Yu-Jhun"
+                        },
+                        {
+                            "name": "KUAI Man 0:3 FAN Siqi"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "ZHANG Rui 3:1 BATRA Manika",
+            "children": [
+                {
+                    "name": "CHEN Yi 2:3 ZHANG Rui",
+                    "children": [
+                        {
+                            "name": "CHEN Yi 3:0 MADARASZ Dora"
+                        },
+                        {
+                            "name": "ZHANG Rui 3:1 JEON Jihee"
+                        }
+                    ]
+                },
+                {
+                    "name": "BATRA Manika 3:2 CHOI Hyojoo",
+                    "children": [
+                        {
+                            "name": "BATRA Manika 3:0 JOO Cheonhui"
+                        },
+                        {
+                            "name": "CHOI Hyojoo 3:0 YUAN Jia Nan"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "name": "CALDERANO Hugo 4:3 LEBRUN Alexis",
+    "children": [
+        {
+            "name": "CALDERANO Hugo 3:2 UDA Yukiya",
+            "children": [
+                {
+                    "name": "CALDERANO Hugo 3:0 OH Junsung",
+                    "children": [
+                        {
+                            "name": "CALDERANO Hugo 3:1 PUCAR Tomislav"
+                        },
+                        {
+                            "name": "OH Junsung 3:2 DUDA Benedikt"
+                        }
+                    ]
+                },
+                {
+                    "name": "JORGIC Darko 0:3 UDA Yukiya",
+                    "children": [
+                        {
+                            "name": "JORGIC Darko 3:0 JARVIS Tom"
+                        },
+                        {
+                            "name": "UDA Yukiya 3:0 SHINOZUKA Hiroto"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "AN Jaehyun 0:3 LEBRUN Alexis",
+            "children": [
+                {
+                    "name": "AN Jaehyun 3:1 TOGAMI Shunsuke",
+                    "children": [
+                        {
+                            "name": "JHA Kanak 1:3 AN Jaehyun"
+                        },
+                        {
+                            "name": "WONG Chun Ting 1:3 TOGAMI Shunsuke"
+                        }
+                    ]
+                },
+                {
+                    "name": "FRANZISKA Patrick 1:3 LEBRUN Alexis",
+                    "children": [
+                        {
+                            "name": "FRANZISKA Patrick 3:1 PORET Thibault"
+                        },
+                        {
+                            "name": "FENG Yi-Hsin 1:3 LEBRUN Alexis"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

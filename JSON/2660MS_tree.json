@@ -1,0 +1,59 @@
+{
+    "name": "FAN Zhendong 4:2 WANG Chuqin",
+    "children": [
+        {
+            "name": "FAN Zhendong 4:2 LIANG Jingkun",
+            "children": [
+                {
+                    "name": "FAN Zhendong 4:0 ASSAR Omar",
+                    "children": [
+                        {
+                            "name": "FAN Zhendong 4:0 QIU Dang"
+                        },
+                        {
+                            "name": "PUCAR Tomislav 0:4 ASSAR Omar"
+                        }
+                    ]
+                },
+                {
+                    "name": "LIANG Jingkun 4:2 HARIMOTO Tomokazu",
+                    "children": [
+                        {
+                            "name": "LIANG Jingkun 4:2 JORGIC Darko"
+                        },
+                        {
+                            "name": "BOBOCICA Mihai 0:4 HARIMOTO Tomokazu"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "MA Long 1:4 WANG Chuqin",
+            "children": [
+                {
+                    "name": "MA Long 4:1 LIN Gaoyuan",
+                    "children": [
+                        {
+                            "name": "MA Long 4:0 LIM Jonghoon"
+                        },
+                        {
+                            "name": "LIN Yun-Ju 1:4 LIN Gaoyuan"
+                        }
+                    ]
+                },
+                {
+                    "name": "LIND Anders 1:4 WANG Chuqin",
+                    "children": [
+                        {
+                            "name": "LIND Anders 4:1 JANG Woojin"
+                        },
+                        {
+                            "name": "GERALDO Joao 0:4 WANG Chuqin"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

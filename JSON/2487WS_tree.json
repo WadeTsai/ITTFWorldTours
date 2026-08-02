@@ -1,0 +1,59 @@
+{
+    "name": "YANG Xiaoxin 4:0 ABRAAMIAN Elizabet",
+    "children": [
+        {
+            "name": "YANG Xiaoxin 4:1 TAILAKOVA Mariia",
+            "children": [
+                {
+                    "name": "YANG Xiaoxin 3:0 VOROBEVA Olga",
+                    "children": [
+                        {
+                            "name": "YANG Xiaoxin 3:1 PERGEL Szandra"
+                        },
+                        {
+                            "name": "VOROBEVA Olga 3:0 SURJAN Sabina"
+                        }
+                    ]
+                },
+                {
+                    "name": "POTA Georgina 1:3 TAILAKOVA Mariia",
+                    "children": [
+                        {
+                            "name": "POTA Georgina 3:1 HARTBRICH Leonie"
+                        },
+                        {
+                            "name": "TAILAKOVA Mariia 3:0 KAMATH Archana Girish"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "BATRA Manika 0:4 ABRAAMIAN Elizabet",
+            "children": [
+                {
+                    "name": "BATRA Manika 3:2 AKULA Sreeja",
+                    "children": [
+                        {
+                            "name": "BATRA Manika 3:2 PICCOLIN Giorgia"
+                        },
+                        {
+                            "name": "AKULA Sreeja 3:0 BALAZOVA Barbora"
+                        }
+                    ]
+                },
+                {
+                    "name": "ABRAAMIAN Elizabet 3:0 MIKHAILOVA Polina",
+                    "children": [
+                        {
+                            "name": "NAGYVARADI Mercedes 1:3 ABRAAMIAN Elizabet"
+                        },
+                        {
+                            "name": "LUPULESKU Izabela 0:3 MIKHAILOVA Polina"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

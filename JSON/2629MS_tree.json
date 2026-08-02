@@ -1,0 +1,59 @@
+{
+    "name": "FAN Zhendong 4:1 MA Long",
+    "children": [
+        {
+            "name": "FAN Zhendong 4:1 WANG Chuqin",
+            "children": [
+                {
+                    "name": "FAN Zhendong 4:2 MOREGARD Truls",
+                    "children": [
+                        {
+                            "name": "FAN Zhendong 3:0 LIM Jonghoon"
+                        },
+                        {
+                            "name": "TOGAMI Shunsuke 2:3 MOREGARD Truls"
+                        }
+                    ]
+                },
+                {
+                    "name": "WANG Chuqin 4:1 LIN Gaoyuan",
+                    "children": [
+                        {
+                            "name": "WANG Chuqin 3:0 QUEK Izaac"
+                        },
+                        {
+                            "name": "LIN Gaoyuan 3:2 LIANG Jingkun"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "CALDERANO Hugo 1:4 MA Long",
+            "children": [
+                {
+                    "name": "CALDERANO Hugo 4:0 ARUNA Quadri",
+                    "children": [
+                        {
+                            "name": "CALDERANO Hugo 3:1 JORGIC Darko"
+                        },
+                        {
+                            "name": "ARUNA Quadri 3:0 HARIMOTO Tomokazu"
+                        }
+                    ]
+                },
+                {
+                    "name": "QIU Dang 0:4 MA Long",
+                    "children": [
+                        {
+                            "name": "LEBRUN Felix 2:3 QIU Dang"
+                        },
+                        {
+                            "name": "LEE Sangsu 0:3 MA Long"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

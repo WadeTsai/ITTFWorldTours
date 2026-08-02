@@ -1,0 +1,59 @@
+{
+    "name": "LIN Shidong 4:0 QIU Dang",
+    "children": [
+        {
+            "name": "WANG Chuqin 1:4 LIN Shidong",
+            "children": [
+                {
+                    "name": "WANG Chuqin 3:0 CHO Daeseong",
+                    "children": [
+                        {
+                            "name": "WANG Chuqin 3:0 XU Yingbin"
+                        },
+                        {
+                            "name": "CHO Daeseong 3:2 FRANZISKA Patrick"
+                        }
+                    ]
+                },
+                {
+                    "name": "LIN Shidong 3:0 LIN Yun-Ju",
+                    "children": [
+                        {
+                            "name": "HARIMOTO Tomokazu 2:3 LIN Shidong"
+                        },
+                        {
+                            "name": "KALLBERG Anton 0:3 LIN Yun-Ju"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "KAO Cheng-Jui 2:4 QIU Dang",
+            "children": [
+                {
+                    "name": "MOREGARD Truls 2:3 KAO Cheng-Jui",
+                    "children": [
+                        {
+                            "name": "MOREGARD Truls 3:1 PITCHFORD Liam"
+                        },
+                        {
+                            "name": "KAO Cheng-Jui 3:1 LIN Gaoyuan"
+                        }
+                    ]
+                },
+                {
+                    "name": "QIU Dang 3:2 LIANG Jingkun",
+                    "children": [
+                        {
+                            "name": "QIU Dang 3:2 FALCK Mattias"
+                        },
+                        {
+                            "name": "GAUZY Simon 2:3 LIANG Jingkun"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

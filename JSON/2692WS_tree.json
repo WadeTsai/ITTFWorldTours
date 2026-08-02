@@ -1,0 +1,59 @@
+{
+    "name": "SUN Yingsha 3:4 HIRANO Miu",
+    "children": [
+        {
+            "name": "SUN Yingsha 3:0 HAYATA Hina",
+            "children": [
+                {
+                    "name": "SUN Yingsha 3:0 SHIN Yubin",
+                    "children": [
+                        {
+                            "name": "SUN Yingsha 3:0 TAKAHASHI Bruna"
+                        },
+                        {
+                            "name": "BATRA Manika 0:3 SHIN Yubin"
+                        }
+                    ]
+                },
+                {
+                    "name": "HAYATA Hina 3:1 JEON Jihee",
+                    "children": [
+                        {
+                            "name": "HAYATA Hina 3:1 MORI Sakura"
+                        },
+                        {
+                            "name": "SUH Hyo Won 1:3 JEON Jihee"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "HIRANO Miu 3:1 KUAI Man",
+            "children": [
+                {
+                    "name": "HIRANO Miu 3:1 LIU Weishan",
+                    "children": [
+                        {
+                            "name": "HIRANO Miu 3:1 CHOI Hyojoo"
+                        },
+                        {
+                            "name": "LIU Weishan 3:2 KIHARA Miyuu"
+                        }
+                    ]
+                },
+                {
+                    "name": "KUAI Man 3:2 OJIO Haruna",
+                    "children": [
+                        {
+                            "name": "KUAI Man 3:1 HARIMOTO Miwa"
+                        },
+                        {
+                            "name": "YANG Ha Eun 0:3 OJIO Haruna"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

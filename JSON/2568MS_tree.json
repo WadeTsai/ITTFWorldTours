@@ -1,0 +1,59 @@
+{
+    "name": "LEBRUN Alexis 1:4 CALDERANO Hugo",
+    "children": [
+        {
+            "name": "LEBRUN Alexis 4:2 FALCK Mattias",
+            "children": [
+                {
+                    "name": "LEBRUN Alexis 3:1 XUE Fei",
+                    "children": [
+                        {
+                            "name": "HARIMOTO Tomokazu 0:3 LEBRUN Alexis"
+                        },
+                        {
+                            "name": "PERSSON Jon 1:3 XUE Fei"
+                        }
+                    ]
+                },
+                {
+                    "name": "LIN Gaoyuan 1:3 FALCK Mattias",
+                    "children": [
+                        {
+                            "name": "LIN Gaoyuan 3:0 NIWA Koki"
+                        },
+                        {
+                            "name": "FALCK Mattias 3:0 KARLSSON Kristian"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "JANG Woojin 0:4 CALDERANO Hugo",
+            "children": [
+                {
+                    "name": "JANG Woojin 3:0 WANG Yang",
+                    "children": [
+                        {
+                            "name": "JANG Woojin 3:0 FREITAS Marcos"
+                        },
+                        {
+                            "name": "WANG Yang 3:0 YUAN Licen"
+                        }
+                    ]
+                },
+                {
+                    "name": "LIAO Cheng-Ting 0:3 CALDERANO Hugo",
+                    "children": [
+                        {
+                            "name": "GERASSIMENKO Kirill 2:3 LIAO Cheng-Ting"
+                        },
+                        {
+                            "name": "LIU Dingshuo 0:3 CALDERANO Hugo"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

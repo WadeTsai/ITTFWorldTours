@@ -1,0 +1,59 @@
+{
+    "name": "FAN Siqi 1:4 KUAI Man",
+    "children": [
+        {
+            "name": "FAN Siqi 4:1 YANG Xiaoxin",
+            "children": [
+                {
+                    "name": "FAN Siqi 3:0 SHAO Jieni",
+                    "children": [
+                        {
+                            "name": "FAN Siqi 3:0 YUAN Jia Nan"
+                        },
+                        {
+                            "name": "VIVARELLI Debora 0:3 SHAO Jieni"
+                        }
+                    ]
+                },
+                {
+                    "name": "YANG Xiaoxin 3:1 SAMARA Elizabeta",
+                    "children": [
+                        {
+                            "name": "YANG Xiaoxin 3:1 KAMATH Archana Girish"
+                        },
+                        {
+                            "name": "CHEN Yi 1:3 SAMARA Elizabeta"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "KUAI Man 4:0 QIAN Tianyi",
+            "children": [
+                {
+                    "name": "BATRA Manika 0:3 KUAI Man",
+                    "children": [
+                        {
+                            "name": "SZOCS Bernadette 0:3 BATRA Manika"
+                        },
+                        {
+                            "name": "KUAI Man 3:1 CHEN Xingtong"
+                        }
+                    ]
+                },
+                {
+                    "name": "HE Zhuojia 1:3 QIAN Tianyi",
+                    "children": [
+                        {
+                            "name": "HE Zhuojia 3:0 SHI Xunyao"
+                        },
+                        {
+                            "name": "QIAN Tianyi 3:1 DE NUTTE Sarah"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

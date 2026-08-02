@@ -1,0 +1,59 @@
+{
+    "name": "KUAI Man 4:0 FAN Siqi",
+    "children": [
+        {
+            "name": "MITTELHAM Nina 1:3 KUAI Man",
+            "children": [
+                {
+                    "name": "CHOI Hyojoo 0:3 MITTELHAM Nina",
+                    "children": [
+                        {
+                            "name": "CHOI Hyojoo 3:1 MIRKADIROVA Sarvinoz"
+                        },
+                        {
+                            "name": "DRAGOMAN Andreea 0:3 MITTELHAM Nina"
+                        }
+                    ]
+                },
+                {
+                    "name": "ZHU Sibing 1:3 KUAI Man",
+                    "children": [
+                        {
+                            "name": "JOO Cheonhui 1:3 ZHU Sibing"
+                        },
+                        {
+                            "name": "LEE Zion 0:3 KUAI Man"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "FAN Siqi 3:2 SHI Xunyao",
+            "children": [
+                {
+                    "name": "FAN Siqi 3:1 YUAN Jia Nan",
+                    "children": [
+                        {
+                            "name": "FAN Siqi 3:1 WANG Xiaotong"
+                        },
+                        {
+                            "name": "CHEN Yi 2:3 YUAN Jia Nan"
+                        }
+                    ]
+                },
+                {
+                    "name": "SHI Xunyao 3:0 LI Yake",
+                    "children": [
+                        {
+                            "name": "SAMARA Elizabeta 0:3 SHI Xunyao"
+                        },
+                        {
+                            "name": "LIU Hsing-Yin 1:3 LI Yake"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

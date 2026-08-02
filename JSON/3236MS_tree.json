@@ -1,0 +1,59 @@
+{
+    "name": "COTON Flavien 4:1 SHINOZUKA Hiroto",
+    "children": [
+        {
+            "name": "COTON Flavien 3:0 YOSHIMURA Maharu",
+            "children": [
+                {
+                    "name": "COTON Flavien 3:0 GACINA Andrej",
+                    "children": [
+                        {
+                            "name": "COTON Flavien 3:2 ROLLAND Jules"
+                        },
+                        {
+                            "name": "GACINA Andrej 3:1 WALTHER Ricardo"
+                        }
+                    ]
+                },
+                {
+                    "name": "SIDORENKO Vladimir 2:3 YOSHIMURA Maharu",
+                    "children": [
+                        {
+                            "name": "SIDORENKO Vladimir 3:0 DEVOS Laurens"
+                        },
+                        {
+                            "name": "YOSHIMURA Maharu 3:0 SEYFRIED Joe"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "GERALDO Joao 2:3 SHINOZUKA Hiroto",
+            "children": [
+                {
+                    "name": "SHAH Manush 0:3 GERALDO Joao",
+                    "children": [
+                        {
+                            "name": "SHAH Manush 3:2 DESAI Harmeet"
+                        },
+                        {
+                            "name": "GERALDO Joao 3:2 FENG Yi-Hsin"
+                        }
+                    ]
+                },
+                {
+                    "name": "TIKHONOV Evgeny 0:3 SHINOZUKA Hiroto",
+                    "children": [
+                        {
+                            "name": "TIKHONOV Evgeny 3:2 DESCHAMPS Hugo"
+                        },
+                        {
+                            "name": "BOURRASSAUD Florian 0:3 SHINOZUKA Hiroto"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

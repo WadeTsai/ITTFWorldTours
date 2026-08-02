@@ -1,0 +1,59 @@
+{
+    "name": "SHI Xunyao 2:4 ODO Satsuki",
+    "children": [
+        {
+            "name": "NAGASAKI Miyu 2:3 SHI Xunyao",
+            "children": [
+                {
+                    "name": "HARIMOTO Miwa 1:3 NAGASAKI Miyu",
+                    "children": [
+                        {
+                            "name": "HARIMOTO Miwa 3:0 SATO Hitomi"
+                        },
+                        {
+                            "name": "SHAN Xiaona 1:3 NAGASAKI Miyu"
+                        }
+                    ]
+                },
+                {
+                    "name": "XU Yi 2:3 SHI Xunyao",
+                    "children": [
+                        {
+                            "name": "XU Yi 3:0 KIHARA Miyuu"
+                        },
+                        {
+                            "name": "ZHANG Xiangyu 1:3 SHI Xunyao"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "LIU Weishan 2:3 ODO Satsuki",
+            "children": [
+                {
+                    "name": "WANG Xiaotong 1:3 LIU Weishan",
+                    "children": [
+                        {
+                            "name": "ZHU Sibing 1:3 WANG Xiaotong"
+                        },
+                        {
+                            "name": "ARAPOVIC Hana 0:3 LIU Weishan"
+                        }
+                    ]
+                },
+                {
+                    "name": "QIAN Tianyi 1:3 ODO Satsuki",
+                    "children": [
+                        {
+                            "name": "QIAN Tianyi 3:0 YANG Ha Eun"
+                        },
+                        {
+                            "name": "ZHU Ziyu 0:3 ODO Satsuki"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

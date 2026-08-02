@@ -1,0 +1,59 @@
+{
+    "name": "WANG Manyu 4:1 WANG Yidi",
+    "children": [
+        {
+            "name": "WANG Manyu 3:0 KIHARA Miyuu",
+            "children": [
+                {
+                    "name": "WANG Manyu 3:2 JOO Cheonhui",
+                    "children": [
+                        {
+                            "name": "WANG Manyu 3:0 LAM Yee Lok"
+                        },
+                        {
+                            "name": "LEE Zion 0:3 JOO Cheonhui"
+                        }
+                    ]
+                },
+                {
+                    "name": "CHEN Yi 1:3 KIHARA Miyuu",
+                    "children": [
+                        {
+                            "name": "QIAN Tianyi 2:3 CHEN Yi"
+                        },
+                        {
+                            "name": "LI Yake 1:3 KIHARA Miyuu"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "YANG Xiaoxin 1:3 WANG Yidi",
+            "children": [
+                {
+                    "name": "YANG Xiaoxin 3:0 CHEN Xingtong",
+                    "children": [
+                        {
+                            "name": "YANG Xiaoxin 3:2 ZENG Jian"
+                        },
+                        {
+                            "name": "NG Wing Lam 0:3 CHEN Xingtong"
+                        }
+                    ]
+                },
+                {
+                    "name": "KUAI Man 1:3 WANG Yidi",
+                    "children": [
+                        {
+                            "name": "KUAI Man 3:2 JEON Jihee"
+                        },
+                        {
+                            "name": "ZHU Chengzhu 0:3 WANG Yidi"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -9,7 +9,16 @@
 /coverage
 
 # production
-/build
+/dist
+
+# vite
+.vite
+*.local
+
+# python scraper
+__pycache__/
+*.py[cod]
+.venv
 
 # misc
 .DS_Store

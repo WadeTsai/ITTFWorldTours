@@ -1,0 +1,59 @@
+{
+    "name": "MITTELHAM Nina 0:4 CHENG I-Ching",
+    "children": [
+        {
+            "name": "SHIN Yubin 2:3 MITTELHAM Nina",
+            "children": [
+                {
+                    "name": "SHIN Yubin 3:0 JEON Jihee",
+                    "children": [
+                        {
+                            "name": "SHIN Yubin 3:1 KALLBERG Christina"
+                        },
+                        {
+                            "name": "KAMATH Archana Girish 1:3 JEON Jihee"
+                        }
+                    ]
+                },
+                {
+                    "name": "JOO Cheonhui 0:3 MITTELHAM Nina",
+                    "children": [
+                        {
+                            "name": "JOO Cheonhui 3:1 LEE Eunhye"
+                        },
+                        {
+                            "name": "DIACONU Adina 1:3 MITTELHAM Nina"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "CHENG I-Ching 3:0 YANG Xiaoxin",
+            "children": [
+                {
+                    "name": "AKULA Sreeja 1:3 CHENG I-Ching",
+                    "children": [
+                        {
+                            "name": "AKULA Sreeja 3:1 DOO Hoi Kem"
+                        },
+                        {
+                            "name": "YANG Ha Eun 0:3 CHENG I-Ching"
+                        }
+                    ]
+                },
+                {
+                    "name": "KIM Nayeong 1:3 YANG Xiaoxin",
+                    "children": [
+                        {
+                            "name": "KIM Nayeong 3:1 PAVADE Prithika"
+                        },
+                        {
+                            "name": "BATRA Manika 1:3 YANG Xiaoxin"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "name": "AN Jaehyun 3:4 MATSUSHIMA Sora",
+    "children": [
+        {
+            "name": "AN Jaehyun 3:1 CHEN Yuanyu",
+            "children": [
+                {
+                    "name": "AN Jaehyun 3:0 FENG Yi-Hsin",
+                    "children": [
+                        {
+                            "name": "AN Jaehyun 3:1 XU Yingbin"
+                        },
+                        {
+                            "name": "FENG Yi-Hsin 3:1 HAMADA Kazuki"
+                        }
+                    ]
+                },
+                {
+                    "name": "CHEN Yuanyu 3:1 PARK Ganghyeon",
+                    "children": [
+                        {
+                            "name": "CHEN Yuanyu 3:2 WEN Ruibo"
+                        },
+                        {
+                            "name": "ZENG Beixun 1:3 PARK Ganghyeon"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "MATSUSHIMA Sora 3:0 XIANG Peng",
+            "children": [
+                {
+                    "name": "ZHOU Qihao 1:3 MATSUSHIMA Sora",
+                    "children": [
+                        {
+                            "name": "ZHOU Qihao 3:2 OIKAWA Mizuki"
+                        },
+                        {
+                            "name": "XU Haidong 1:3 MATSUSHIMA Sora"
+                        }
+                    ]
+                },
+                {
+                    "name": "LIM Jonghoon 2:3 XIANG Peng",
+                    "children": [
+                        {
+                            "name": "LIM Jonghoon 3:0 LAM Siu Hang"
+                        },
+                        {
+                            "name": "KARLSSON Kristian 0:3 XIANG Peng"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "name": "JHA Kanak 2:4 JORGIC Darko",
+    "children": [
+        {
+            "name": "SHINOZUKA Hiroto 2:3 JHA Kanak",
+            "children": [
+                {
+                    "name": "LIND Anders 1:3 SHINOZUKA Hiroto",
+                    "children": [
+                        {
+                            "name": "LIND Anders 3:1 IONESCU Eduard"
+                        },
+                        {
+                            "name": "APOLONIA Tiago 2:3 SHINOZUKA Hiroto"
+                        }
+                    ]
+                },
+                {
+                    "name": "GAUZY Simon 1:3 JHA Kanak",
+                    "children": [
+                        {
+                            "name": "GAUZY Simon 3:1 ROBLES Alvaro"
+                        },
+                        {
+                            "name": "FREITAS Marcos 1:3 JHA Kanak"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "KALLBERG Anton 2:3 JORGIC Darko",
+            "children": [
+                {
+                    "name": "KALLBERG Anton 3:0 PARK Gyuhyeon",
+                    "children": [
+                        {
+                            "name": "KALLBERG Anton 3:2 LIM Jonghoon"
+                        },
+                        {
+                            "name": "PARK Gyuhyeon 3:1 ARUNA Quadri"
+                        }
+                    ]
+                },
+                {
+                    "name": "RASSENFOSSE Adrien 1:3 JORGIC Darko",
+                    "children": [
+                        {
+                            "name": "ASSAR Omar 2:3 RASSENFOSSE Adrien"
+                        },
+                        {
+                            "name": "PARK Ganghyeon 0:3 JORGIC Darko"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

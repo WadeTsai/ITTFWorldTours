@@ -1,0 +1,59 @@
+{
+    "name": "CALDERANO Hugo 4:1 JANG Woojin",
+    "children": [
+        {
+            "name": "CALDERANO Hugo 3:2 XIANG Peng",
+            "children": [
+                {
+                    "name": "CALDERANO Hugo 3:0 YUAN Licen",
+                    "children": [
+                        {
+                            "name": "CALDERANO Hugo 3:2 GARDOS Robert"
+                        },
+                        {
+                            "name": "YUAN Licen 3:2 PUCAR Tomislav"
+                        }
+                    ]
+                },
+                {
+                    "name": "XIANG Peng 3:0 LEE Sangsu",
+                    "children": [
+                        {
+                            "name": "ACHANTA Sharath Kamal 0:3 XIANG Peng"
+                        },
+                        {
+                            "name": "JANCARIK Lubomir 0:3 LEE Sangsu"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "JANG Woojin 3:0 LIN Shidong",
+            "children": [
+                {
+                    "name": "JANG Woojin 3:2 LIM Jonghoon",
+                    "children": [
+                        {
+                            "name": "JANG Woojin 3:1 PISTEJ Lubomir"
+                        },
+                        {
+                            "name": "WALTHER Ricardo 0:3 LIM Jonghoon"
+                        }
+                    ]
+                },
+                {
+                    "name": "LIN Shidong 3:0 FREITAS Marcos",
+                    "children": [
+                        {
+                            "name": "CHO Seungmin 2:3 LIN Shidong"
+                        },
+                        {
+                            "name": "ZHOU Qihao 2:3 FREITAS Marcos"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

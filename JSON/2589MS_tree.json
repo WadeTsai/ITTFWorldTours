@@ -1,0 +1,59 @@
+{
+    "name": "JORGIC Darko 3:4 SHINOZUKA Hiroto",
+    "children": [
+        {
+            "name": "JORGIC Darko 4:3 DUDA Benedikt",
+            "children": [
+                {
+                    "name": "JORGIC Darko 3:0 AKKUZU Can",
+                    "children": [
+                        {
+                            "name": "JORGIC Darko 3:1 PUCAR Tomislav"
+                        },
+                        {
+                            "name": "AKKUZU Can 3:2 GERASSIMENKO Kirill"
+                        }
+                    ]
+                },
+                {
+                    "name": "FILUS Ruwen 0:3 DUDA Benedikt",
+                    "children": [
+                        {
+                            "name": "FILUS Ruwen 3:1 TANAKA Yuta"
+                        },
+                        {
+                            "name": "DUDA Benedikt 3:1 GACINA Andrej"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "OIKAWA Mizuki 3:4 SHINOZUKA Hiroto",
+            "children": [
+                {
+                    "name": "FENG Yi-Hsin 1:3 OIKAWA Mizuki",
+                    "children": [
+                        {
+                            "name": "PITCHFORD Liam 2:3 FENG Yi-Hsin"
+                        },
+                        {
+                            "name": "OIKAWA Mizuki 3:1 LIM Jonghoon"
+                        }
+                    ]
+                },
+                {
+                    "name": "LEE Sangsu 1:3 SHINOZUKA Hiroto",
+                    "children": [
+                        {
+                            "name": "LEE Sangsu 3:2 NUYTINCK Cedric"
+                        },
+                        {
+                            "name": "CHIRITA Iulian 2:3 SHINOZUKA Hiroto"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "name": "TOGAMI Shunsuke 4:2 ZHOU Qihao",
+    "children": [
+        {
+            "name": "YOSHIYAMA Ryoichi 1:3 TOGAMI Shunsuke",
+            "children": [
+                {
+                    "name": "JORGIC Darko 1:3 YOSHIYAMA Ryoichi",
+                    "children": [
+                        {
+                            "name": "JORGIC Darko 3:1 KATSMAN Lev"
+                        },
+                        {
+                            "name": "PARK Gyuhyeon 2:3 YOSHIYAMA Ryoichi"
+                        }
+                    ]
+                },
+                {
+                    "name": "TOGAMI Shunsuke 3:0 BOURRASSAUD Florian",
+                    "children": [
+                        {
+                            "name": "TOGAMI Shunsuke 3:0 ROLLAND Jules"
+                        },
+                        {
+                            "name": "BOURRASSAUD Florian 3:2 HUANG Youzheng"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "CHEN Junsong 0:3 ZHOU Qihao",
+            "children": [
+                {
+                    "name": "CHEN Junsong 3:1 COTON Flavien",
+                    "children": [
+                        {
+                            "name": "KURMANGALIYEV Alan 1:3 CHEN Junsong"
+                        },
+                        {
+                            "name": "FARAJI Benyamin 1:3 COTON Flavien"
+                        }
+                    ]
+                },
+                {
+                    "name": "ZHOU Qihao 3:1 MATSUSHIMA Sora",
+                    "children": [
+                        {
+                            "name": "ZHOU Qihao 3:1 ROBLES Alvaro"
+                        },
+                        {
+                            "name": "PARK Ganghyeon 0:3 MATSUSHIMA Sora"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "name": "FAN Zhendong 3:4 LIN Gaoyuan",
+    "children": [
+        {
+            "name": "FAN Zhendong 3:1 LIN Shidong",
+            "children": [
+                {
+                    "name": "FAN Zhendong 3:1 DUDA Benedikt",
+                    "children": [
+                        {
+                            "name": "FAN Zhendong 3:0 OH Junsung"
+                        },
+                        {
+                            "name": "DUDA Benedikt 3:2 ALAMIYAN Noshad"
+                        }
+                    ]
+                },
+                {
+                    "name": "LIN Shidong 3:1 CHUANG Chih-Yuan",
+                    "children": [
+                        {
+                            "name": "LIN Shidong 3:0 ACHANTA Sharath Kamal"
+                        },
+                        {
+                            "name": "MENG Fanbo 1:3 CHUANG Chih-Yuan"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "LIN Gaoyuan 3:0 XIANG Peng",
+            "children": [
+                {
+                    "name": "ZHOU Qihao 0:3 LIN Gaoyuan",
+                    "children": [
+                        {
+                            "name": "ZHOU Qihao 3:1 HABESOHN Daniel"
+                        },
+                        {
+                            "name": "WALTHER Ricardo 0:3 LIN Gaoyuan"
+                        }
+                    ]
+                },
+                {
+                    "name": "GERASSIMENKO Kirill 1:3 XIANG Peng",
+                    "children": [
+                        {
+                            "name": "GERASSIMENKO Kirill 3:1 ROBLES Alvaro"
+                        },
+                        {
+                            "name": "XIANG Peng 3:1 TOGAMI Shunsuke"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

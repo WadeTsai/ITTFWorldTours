@@ -1,0 +1,59 @@
+{
+    "name": "WANG Chuqin 4:0 HARIMOTO Tomokazu",
+    "children": [
+        {
+            "name": "WANG Chuqin 4:1 JORGIC Darko",
+            "children": [
+                {
+                    "name": "WANG Chuqin 3:1 MOREGARD Truls",
+                    "children": [
+                        {
+                            "name": "WANG Chuqin 3:1 FRANZISKA Patrick"
+                        },
+                        {
+                            "name": "KALLBERG Anton 2:3 MOREGARD Truls"
+                        }
+                    ]
+                },
+                {
+                    "name": "DUDA Benedikt 0:3 JORGIC Darko",
+                    "children": [
+                        {
+                            "name": "LEBRUN Felix 2:3 DUDA Benedikt"
+                        },
+                        {
+                            "name": "JORGIC Darko 3:0 LIN Gaoyuan"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "HARIMOTO Tomokazu 4:3 LIN Shidong",
+            "children": [
+                {
+                    "name": "JANG Woojin 0:3 HARIMOTO Tomokazu",
+                    "children": [
+                        {
+                            "name": "JANG Woojin 3:2 CALDERANO Hugo"
+                        },
+                        {
+                            "name": "HARIMOTO Tomokazu 3:1 LIANG Jingkun"
+                        }
+                    ]
+                },
+                {
+                    "name": "QIU Dang 0:3 LIN Shidong",
+                    "children": [
+                        {
+                            "name": "LIN Yun-Ju 2:3 QIU Dang"
+                        },
+                        {
+                            "name": "LEBRUN Alexis 1:3 LIN Shidong"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

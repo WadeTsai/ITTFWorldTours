@@ -1,0 +1,59 @@
+{
+    "name": "SUN Yingsha 4:3 KUAI Man",
+    "children": [
+        {
+            "name": "SUN Yingsha 4:1 WANG Yidi",
+            "children": [
+                {
+                    "name": "SUN Yingsha 4:0 CHEN Xingtong",
+                    "children": [
+                        {
+                            "name": "SUN Yingsha 3:0 MESHREF Dina"
+                        },
+                        {
+                            "name": "QIN Yuxuan 0:3 CHEN Xingtong"
+                        }
+                    ]
+                },
+                {
+                    "name": "JOO Cheonhui 0:4 WANG Yidi",
+                    "children": [
+                        {
+                            "name": "ZHU Yuling 0:3 JOO Cheonhui"
+                        },
+                        {
+                            "name": "YOKOI Sakura 2:3 WANG Yidi"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "HARIMOTO Miwa 3:4 KUAI Man",
+            "children": [
+                {
+                    "name": "HAYATA Hina 1:4 HARIMOTO Miwa",
+                    "children": [
+                        {
+                            "name": "HAN Ying 0:3 HAYATA Hina"
+                        },
+                        {
+                            "name": "ITO Mima 0:3 HARIMOTO Miwa"
+                        }
+                    ]
+                },
+                {
+                    "name": "KUAI Man 4:3 SATO Hitomi",
+                    "children": [
+                        {
+                            "name": "KUAI Man 3:0 SHIN Yubin"
+                        },
+                        {
+                            "name": "HASHIMOTO Honoka 0:3 SATO Hitomi"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

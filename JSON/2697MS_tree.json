@@ -1,0 +1,59 @@
+{
+    "name": "LIN Shidong 4:0 OVTCHAROV Dimitrij",
+    "children": [
+        {
+            "name": "LIN Shidong 3:0 XU Yingbin",
+            "children": [
+                {
+                    "name": "XU Haidong 2:3 LIN Shidong",
+                    "children": [
+                        {
+                            "name": "JORGIC Darko 2:3 XU Haidong"
+                        },
+                        {
+                            "name": "LIN Shidong 3:0 PITCHFORD Liam"
+                        }
+                    ]
+                },
+                {
+                    "name": "KARLSSON Kristian 1:3 XU Yingbin",
+                    "children": [
+                        {
+                            "name": "KARLSSON Kristian 3:1 TOGAMI Shunsuke"
+                        },
+                        {
+                            "name": "XU Yingbin 3:1 ASSAR Omar"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "ROBLES Alvaro 1:3 OVTCHAROV Dimitrij",
+            "children": [
+                {
+                    "name": "GROTH Jonathan 0:3 ROBLES Alvaro",
+                    "children": [
+                        {
+                            "name": "DUDA Benedikt 2:3 GROTH Jonathan"
+                        },
+                        {
+                            "name": "GNANASEKARAN Sathiyan 1:3 ROBLES Alvaro"
+                        }
+                    ]
+                },
+                {
+                    "name": "GERALDO Joao 1:3 OVTCHAROV Dimitrij",
+                    "children": [
+                        {
+                            "name": "GERALDO Joao 3:1 LEBRUN Felix"
+                        },
+                        {
+                            "name": "KAO Cheng-Jui 0:3 OVTCHAROV Dimitrij"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

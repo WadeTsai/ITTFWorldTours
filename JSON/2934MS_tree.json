@@ -1,0 +1,59 @@
+{
+    "name": "DUDA Benedikt 4:3 ROBLES Alvaro",
+    "children": [
+        {
+            "name": "PUCAR Tomislav 1:3 DUDA Benedikt",
+            "children": [
+                {
+                    "name": "TANAKA Yuta 1:3 PUCAR Tomislav",
+                    "children": [
+                        {
+                            "name": "TANAKA Yuta 3:0 ISHIY Vitor"
+                        },
+                        {
+                            "name": "MENGEL Steffen 2:3 PUCAR Tomislav"
+                        }
+                    ]
+                },
+                {
+                    "name": "DUDA Benedikt 3:1 BENTANCOR Martin",
+                    "children": [
+                        {
+                            "name": "DUDA Benedikt 3:0 APOLONIA Tiago"
+                        },
+                        {
+                            "name": "BENTANCOR Martin 3:0 GERALDO Joao"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "ROBLES Alvaro 3:2 AN Jaehyun",
+            "children": [
+                {
+                    "name": "THAKKAR Manav Vikash 1:3 ROBLES Alvaro",
+                    "children": [
+                        {
+                            "name": "LORENZO Santiago 2:3 THAKKAR Manav Vikash"
+                        },
+                        {
+                            "name": "DESAI Harmeet 1:3 ROBLES Alvaro"
+                        }
+                    ]
+                },
+                {
+                    "name": "BARDET Lilian 1:3 AN Jaehyun",
+                    "children": [
+                        {
+                            "name": "BARDET Lilian 3:1 ALLEGRO Martin"
+                        },
+                        {
+                            "name": "PISTEJ Lubomir 2:3 AN Jaehyun"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

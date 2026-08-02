@@ -1,0 +1,59 @@
+{
+    "name": "WANG Chuqin 4:0 LIN Yun-Ju",
+    "children": [
+        {
+            "name": "WANG Chuqin 4:1 LEBRUN Felix",
+            "children": [
+                {
+                    "name": "WANG Chuqin 4:0 JANG Woojin",
+                    "children": [
+                        {
+                            "name": "WANG Chuqin 3:1 LIND Anders"
+                        },
+                        {
+                            "name": "JANG Woojin 3:1 MATSUSHIMA Sora"
+                        }
+                    ]
+                },
+                {
+                    "name": "LIN Shidong 2:4 LEBRUN Felix",
+                    "children": [
+                        {
+                            "name": "LIN Shidong 3:1 LIM Jonghoon"
+                        },
+                        {
+                            "name": "COTON Flavien 0:3 LEBRUN Felix"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "LIN Yun-Ju 4:2 MOREGARD Truls",
+            "children": [
+                {
+                    "name": "LIN Yun-Ju 4:1 FRANZISKA Patrick",
+                    "children": [
+                        {
+                            "name": "LIN Yun-Ju 3:0 XIANG Peng"
+                        },
+                        {
+                            "name": "FRANZISKA Patrick 3:2 HARIMOTO Tomokazu"
+                        }
+                    ]
+                },
+                {
+                    "name": "MOREGARD Truls 4:3 CHEN Yuanyu",
+                    "children": [
+                        {
+                            "name": "MOREGARD Truls 3:1 PORET Thibault"
+                        },
+                        {
+                            "name": "CHEN Yuanyu 3:1 CALDERANO Hugo"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

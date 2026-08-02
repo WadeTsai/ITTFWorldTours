@@ -1,0 +1,59 @@
+{
+    "name": "KIHARA Miyuu 0:4 KUAI Man",
+    "children": [
+        {
+            "name": "CHEN Yi 1:3 KIHARA Miyuu",
+            "children": [
+                {
+                    "name": "CHEN Yi 3:0 QIAN Tianyi",
+                    "children": [
+                        {
+                            "name": "HAYATA Hina 2:3 CHEN Yi"
+                        },
+                        {
+                            "name": "AKULA Sreeja 0:3 QIAN Tianyi"
+                        }
+                    ]
+                },
+                {
+                    "name": "SHIN Yubin 0:3 KIHARA Miyuu",
+                    "children": [
+                        {
+                            "name": "SHIN Yubin 3:0 EERLAND Britt"
+                        },
+                        {
+                            "name": "KIHARA Miyuu 3:1 XIAO Maria"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "KUAI Man 3:0 NAGASAKI Miyu",
+            "children": [
+                {
+                    "name": "SHI Xunyao 2:3 KUAI Man",
+                    "children": [
+                        {
+                            "name": "SHI Xunyao 3:0 ZHU Yuling"
+                        },
+                        {
+                            "name": "YEH Yi-Tian 0:3 KUAI Man"
+                        }
+                    ]
+                },
+                {
+                    "name": "HE Zhuojia 2:3 NAGASAKI Miyu",
+                    "children": [
+                        {
+                            "name": "SZOCS Bernadette 0:3 HE Zhuojia"
+                        },
+                        {
+                            "name": "NAGASAKI Miyu 3:0 PARANANG Orawan"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

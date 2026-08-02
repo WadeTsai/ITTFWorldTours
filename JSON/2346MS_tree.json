@@ -1,0 +1,59 @@
+{
+    "name": "FAN Zhendong 4:0 MOREGARD Truls",
+    "children": [
+        {
+            "name": "FAN Zhendong 4:1 LIANG Jingkun",
+            "children": [
+                {
+                    "name": "FAN Zhendong 4:1 LIN Gaoyuan",
+                    "children": [
+                        {
+                            "name": "FAN Zhendong 4:2 WANG Chuqin"
+                        },
+                        {
+                            "name": "WONG Chun Ting 1:4 LIN Gaoyuan"
+                        }
+                    ]
+                },
+                {
+                    "name": "LIANG Jingkun 4:3 CALDERANO Hugo",
+                    "children": [
+                        {
+                            "name": "LIANG Jingkun 4:3 PITCHFORD Liam"
+                        },
+                        {
+                            "name": "JORGIC Darko 1:4 CALDERANO Hugo"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "MOREGARD Truls 4:3 BOLL Timo",
+            "children": [
+                {
+                    "name": "MOREGARD Truls 4:2 ARUNA Quadri",
+                    "children": [
+                        {
+                            "name": "LIM Jonghoon 3:4 MOREGARD Truls"
+                        },
+                        {
+                            "name": "ARUNA Quadri 4:3 KARLSSON Kristian"
+                        }
+                    ]
+                },
+                {
+                    "name": "BOLL Timo 4:2 JHA Kanak",
+                    "children": [
+                        {
+                            "name": "BOLL Timo 4:0 WANG Yang"
+                        },
+                        {
+                            "name": "JHA Kanak 4:1 FILUS Ruwen"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "name": "KUAI Man 4:2 QIAN Tianyi",
+    "children": [
+        {
+            "name": "ODO Satsuki 0:3 KUAI Man",
+            "children": [
+                {
+                    "name": "ODO Satsuki 3:1 HE Zhuojia",
+                    "children": [
+                        {
+                            "name": "ODO Satsuki 3:0 KIM Seoyun"
+                        },
+                        {
+                            "name": "HE Zhuojia 3:1 ZHU Chengzhu"
+                        }
+                    ]
+                },
+                {
+                    "name": "KIM Nayeong 1:3 KUAI Man",
+                    "children": [
+                        {
+                            "name": "KIM Nayeong 3:1 MUKHERJEE Ayhika"
+                        },
+                        {
+                            "name": "KUAI Man 3:0 DOO Hoi Kem"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "SHI Xunyao 2:3 QIAN Tianyi",
+            "children": [
+                {
+                    "name": "GHOSH Swastika 1:3 SHI Xunyao",
+                    "children": [
+                        {
+                            "name": "SAMARA Elizabeta 0:3 GHOSH Swastika"
+                        },
+                        {
+                            "name": "CHITALE Diya Parag 0:3 SHI Xunyao"
+                        }
+                    ]
+                },
+                {
+                    "name": "LEE Eunhye 2:3 QIAN Tianyi",
+                    "children": [
+                        {
+                            "name": "LEE Eunhye 3:2 DIACONU Adina"
+                        },
+                        {
+                            "name": "QIN Yuxuan 1:3 QIAN Tianyi"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "name": "ODO Satsuki 4:0 HIRANO Miu",
+    "children": [
+        {
+            "name": "ODO Satsuki 3:1 CHENG I-Ching",
+            "children": [
+                {
+                    "name": "ODO Satsuki 3:0 SATO Hitomi",
+                    "children": [
+                        {
+                            "name": "ODO Satsuki 3:1 HURSEY Anna"
+                        },
+                        {
+                            "name": "SHIBATA Saki 1:3 SATO Hitomi"
+                        }
+                    ]
+                },
+                {
+                    "name": "CHENG I-Ching 3:1 PENG Yu-Han",
+                    "children": [
+                        {
+                            "name": "CHENG I-Ching 3:1 MANI Nithya"
+                        },
+                        {
+                            "name": "SAMARA Elizabeta 2:3 PENG Yu-Han"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "YOKOI Sakura 1:3 HIRANO Miu",
+            "children": [
+                {
+                    "name": "YOKOI Sakura 3:0 DRAGOMAN Andreea",
+                    "children": [
+                        {
+                            "name": "KIM Nayeong 0:3 YOKOI Sakura"
+                        },
+                        {
+                            "name": "DRAGOMAN Andreea 3:1 JOO Cheonhui"
+                        }
+                    ]
+                },
+                {
+                    "name": "LEE Eunhye 0:3 HIRANO Miu",
+                    "children": [
+                        {
+                            "name": "HUANG Yu-Jie 1:3 LEE Eunhye"
+                        },
+                        {
+                            "name": "HIRANO Miu 3:2 NAGASAKI Miyu"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

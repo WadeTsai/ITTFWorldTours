@@ -1,0 +1,59 @@
+{
+    "name": "MATSUSHIMA Sora 0:4 MOREGARD Truls",
+    "children": [
+        {
+            "name": "JANG Woojin 1:4 MATSUSHIMA Sora",
+            "children": [
+                {
+                    "name": "LEE Sang Su 1:4 JANG Woojin",
+                    "children": [
+                        {
+                            "name": "JHA Kanak 2:3 LEE Sang Su"
+                        },
+                        {
+                            "name": "JANG Woojin 3:2 LIN Yun-Ju"
+                        }
+                    ]
+                },
+                {
+                    "name": "GAUZY Simon 1:4 MATSUSHIMA Sora",
+                    "children": [
+                        {
+                            "name": "LEBRUN Felix 2:3 GAUZY Simon"
+                        },
+                        {
+                            "name": "MATSUSHIMA Sora 3:1 FRANZISKA Patrick"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "MOREGARD Truls 4:1 LEBRUN Alexis",
+            "children": [
+                {
+                    "name": "QIU Dang 2:4 MOREGARD Truls",
+                    "children": [
+                        {
+                            "name": "QIU Dang 3:1 OH Junsung"
+                        },
+                        {
+                            "name": "OVTCHAROV Dimitrij 1:3 MOREGARD Truls"
+                        }
+                    ]
+                },
+                {
+                    "name": "JORGIC Darko 2:4 LEBRUN Alexis",
+                    "children": [
+                        {
+                            "name": "JORGIC Darko 3:2 SHINOZUKA Hiroto"
+                        },
+                        {
+                            "name": "LEBRUN Alexis 3:2 HARIMOTO Tomokazu"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

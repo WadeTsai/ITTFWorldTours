@@ -1,0 +1,59 @@
+{
+    "name": "CHEN Yi 2:4 ZHU Yuling",
+    "children": [
+        {
+            "name": "CHEN Yi 4:3 KUAI Man",
+            "children": [
+                {
+                    "name": "CHEN Yi 4:3 HAYATA Hina",
+                    "children": [
+                        {
+                            "name": "SUN Yingsha 1:3 CHEN Yi"
+                        },
+                        {
+                            "name": "HAYATA Hina 3:2 HARIMOTO Miwa"
+                        }
+                    ]
+                },
+                {
+                    "name": "CHEN Xingtong 0:4 KUAI Man",
+                    "children": [
+                        {
+                            "name": "CHEN Xingtong 3:0 YUAN Jia Nan"
+                        },
+                        {
+                            "name": "CHENG I-Ching 0:3 KUAI Man"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "ITO Mima 2:4 ZHU Yuling",
+            "children": [
+                {
+                    "name": "ITO Mima 4:2 HASHIMOTO Honoka",
+                    "children": [
+                        {
+                            "name": "ITO Mima 3:0 HAN Ying"
+                        },
+                        {
+                            "name": "HASHIMOTO Honoka 3:0 WANG Yidi"
+                        }
+                    ]
+                },
+                {
+                    "name": "SHIN Yubin 1:4 ZHU Yuling",
+                    "children": [
+                        {
+                            "name": "ODO Satsuki 2:3 SHIN Yubin"
+                        },
+                        {
+                            "name": "ZHU Yuling 3:1 WANG Manyu"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "name": "MATELOVA Hana 4:3 YANG Xiaoxin",
+    "children": [
+        {
+            "name": "POLCANOVA Sofia 2:4 MATELOVA Hana",
+            "children": [
+                {
+                    "name": "POLCANOVA Sofia 3:1 TRIGOLOS Daria",
+                    "children": [
+                        {
+                            "name": "POLCANOVA Sofia 3:1 TAILAKOVA Mariia"
+                        },
+                        {
+                            "name": "TRIGOLOS Daria 3:2 MIKHAILOVA Polina"
+                        }
+                    ]
+                },
+                {
+                    "name": "MITTELHAM Nina 2:3 MATELOVA Hana",
+                    "children": [
+                        {
+                            "name": "MITTELHAM Nina 3:0 MADARASZ Dora"
+                        },
+                        {
+                            "name": "KALLBERG Christina 1:3 MATELOVA Hana"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "YANG Xiaoxin 4:3 DIAZ Adriana",
+            "children": [
+                {
+                    "name": "PAVADE Prithika 1:3 YANG Xiaoxin",
+                    "children": [
+                        {
+                            "name": "MESHREF Dina 0:3 PAVADE Prithika"
+                        },
+                        {
+                            "name": "XIAO Maria 1:3 YANG Xiaoxin"
+                        }
+                    ]
+                },
+                {
+                    "name": "SHAO Jieni 0:3 DIAZ Adriana",
+                    "children": [
+                        {
+                            "name": "TAKAHASHI Bruna 2:3 SHAO Jieni"
+                        },
+                        {
+                            "name": "BERGSTROM Linda 1:3 DIAZ Adriana"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

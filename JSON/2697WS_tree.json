@@ -1,0 +1,59 @@
+{
+    "name": "ITO Mima 4:0 DOO Hoi Kem",
+    "children": [
+        {
+            "name": "ITO Mima 3:0 POLCANOVA Sofia",
+            "children": [
+                {
+                    "name": "ITO Mima 3:1 TAKAHASHI Bruna",
+                    "children": [
+                        {
+                            "name": "ITO Mima 3:2 CHENG I-Ching"
+                        },
+                        {
+                            "name": "PAVADE Prithika 2:3 TAKAHASHI Bruna"
+                        }
+                    ]
+                },
+                {
+                    "name": "POLCANOVA Sofia 3:0 SHAO Jieni",
+                    "children": [
+                        {
+                            "name": "POLCANOVA Sofia 3:1 HAN Feier"
+                        },
+                        {
+                            "name": "SHAO Jieni 3:2 SAMARA Elizabeta"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "YANG Xiaoxin 2:3 DOO Hoi Kem",
+            "children": [
+                {
+                    "name": "YUAN Jia Nan 1:3 YANG Xiaoxin",
+                    "children": [
+                        {
+                            "name": "YUAN Jia Nan 3:1 DIACONU Adina"
+                        },
+                        {
+                            "name": "SZOCS Bernadette 0:3 YANG Xiaoxin"
+                        }
+                    ]
+                },
+                {
+                    "name": "NI Xia Lian 1:3 DOO Hoi Kem",
+                    "children": [
+                        {
+                            "name": "NI Xia Lian 3:1 KALLBERG Christina"
+                        },
+                        {
+                            "name": "LEE Ho Ching 2:3 DOO Hoi Kem"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

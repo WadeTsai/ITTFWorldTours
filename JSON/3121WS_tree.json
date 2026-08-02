@@ -1,0 +1,59 @@
+{
+    "name": "AKULA Sreeja 1:4 HASHIMOTO Honoka",
+    "children": [
+        {
+            "name": "AKULA Sreeja 3:2 PAVADE Prithika",
+            "children": [
+                {
+                    "name": "AKULA Sreeja 3:0 SHAO Jieni",
+                    "children": [
+                        {
+                            "name": "AKULA Sreeja 3:1 VIVARELLI Debora"
+                        },
+                        {
+                            "name": "OJOMU Ajoke 1:3 SHAO Jieni"
+                        }
+                    ]
+                },
+                {
+                    "name": "PAVADE Prithika 3:0 YU Fu",
+                    "children": [
+                        {
+                            "name": "PAVADE Prithika 3:0 KWABI Cynthia"
+                        },
+                        {
+                            "name": "ALTINKAYA Sibel 1:3 YU Fu"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "YEH Yi-Tian 0:3 HASHIMOTO Honoka",
+            "children": [
+                {
+                    "name": "MESHREF Dina 0:3 YEH Yi-Tian",
+                    "children": [
+                        {
+                            "name": "MESHREF Dina 3:2 MONFARDINI Gaia"
+                        },
+                        {
+                            "name": "YEH Yi-Tian 3:0 GODA Hana"
+                        }
+                    ]
+                },
+                {
+                    "name": "KIM Nayeong 0:3 HASHIMOTO Honoka",
+                    "children": [
+                        {
+                            "name": "KIM Nayeong 3:2 PICCOLIN Giorgia"
+                        },
+                        {
+                            "name": "YEHIA Alaa 0:3 HASHIMOTO Honoka"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "name": "HAYATA Hina 4:1 BERGSTROM Linda",
+    "children": [
+        {
+            "name": "HAYATA Hina 3:0 SZOCS Bernadette",
+            "children": [
+                {
+                    "name": "HAYATA Hina 3:0 PAVADE Prithika",
+                    "children": [
+                        {
+                            "name": "HAYATA Hina 3:0 KALLBERG Christina"
+                        },
+                        {
+                            "name": "PAVADE Prithika 3:2 JEON Jihee"
+                        }
+                    ]
+                },
+                {
+                    "name": "SZOCS Bernadette 3:0 CHEN Szu-Yu",
+                    "children": [
+                        {
+                            "name": "SZOCS Bernadette 3:1 PESOTSKA Margaryta"
+                        },
+                        {
+                            "name": "COSSIO ACEVES Arantxa 0:3 CHEN Szu-Yu"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "TAKAHASHI Bruna 1:3 BERGSTROM Linda",
+            "children": [
+                {
+                    "name": "TAKAHASHI Bruna 3:1 LEE Eunhye",
+                    "children": [
+                        {
+                            "name": "TAKAHASHI Bruna 3:2 LI Yu-Jhun"
+                        },
+                        {
+                            "name": "LEE Eunhye 3:1 LEE Zion"
+                        }
+                    ]
+                },
+                {
+                    "name": "BERGSTROM Linda 3:0 KIM Nayeong",
+                    "children": [
+                        {
+                            "name": "ZENG Jian 1:3 BERGSTROM Linda"
+                        },
+                        {
+                            "name": "KIM Nayeong 3:1 DIAZ Adriana"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

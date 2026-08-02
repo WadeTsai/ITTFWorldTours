@@ -1,0 +1,59 @@
+{
+    "name": "ITO Mima 4:2 HASHIMOTO Honoka",
+    "children": [
+        {
+            "name": "SUH Hyo Won 0:3 ITO Mima",
+            "children": [
+                {
+                    "name": "SUH Hyo Won 3:1 CHENG I-Ching",
+                    "children": [
+                        {
+                            "name": "CHEN Xingtong 2:3 SUH Hyo Won"
+                        },
+                        {
+                            "name": "KIHARA Miyuu 0:3 CHENG I-Ching"
+                        }
+                    ]
+                },
+                {
+                    "name": "SZOCS Bernadette 1:3 ITO Mima",
+                    "children": [
+                        {
+                            "name": "SZOCS Bernadette 3:2 NAGASAKI Miyu"
+                        },
+                        {
+                            "name": "JOO Cheonhui 2:3 ITO Mima"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "SHIN Yubin 1:3 HASHIMOTO Honoka",
+            "children": [
+                {
+                    "name": "YANG Xiaoxin 1:3 SHIN Yubin",
+                    "children": [
+                        {
+                            "name": "CHOI Hyojoo 2:3 YANG Xiaoxin"
+                        },
+                        {
+                            "name": "PARANANG Orawan 1:3 SHIN Yubin"
+                        }
+                    ]
+                },
+                {
+                    "name": "JEON Jihee 2:3 HASHIMOTO Honoka",
+                    "children": [
+                        {
+                            "name": "JEON Jihee 3:0 MITTELHAM Nina"
+                        },
+                        {
+                            "name": "SATO Hitomi 1:3 HASHIMOTO Honoka"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

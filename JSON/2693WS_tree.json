@@ -1,0 +1,59 @@
+{
+    "name": "SHIN Yubin 4:2 LI Yake",
+    "children": [
+        {
+            "name": "SHIN Yubin 3:1 KIM Nayeong",
+            "children": [
+                {
+                    "name": "SHIN Yubin 3:2 BERGSTROM Linda",
+                    "children": [
+                        {
+                            "name": "SHIN Yubin 3:0 KUKULKOVA Tatiana"
+                        },
+                        {
+                            "name": "BERGSTROM Linda 3:1 KAMATH Archana Girish"
+                        }
+                    ]
+                },
+                {
+                    "name": "KIM Nayeong 3:1 PAVADE Prithika",
+                    "children": [
+                        {
+                            "name": "GODA Hana 1:3 KIM Nayeong"
+                        },
+                        {
+                            "name": "PAVADE Prithika 3:1 LEE Eunhye"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "WANG Xiaotong 0:3 LI Yake",
+            "children": [
+                {
+                    "name": "WANG Xiaotong 3:1 GUO Yuhan",
+                    "children": [
+                        {
+                            "name": "WANG Xiaotong 3:1 KALLBERG Christina"
+                        },
+                        {
+                            "name": "GUO Yuhan 3:0 JEON Jihee"
+                        }
+                    ]
+                },
+                {
+                    "name": "BALAZOVA Barbora 1:3 LI Yake",
+                    "children": [
+                        {
+                            "name": "BALAZOVA Barbora 3:0 ALTINKAYA Sibel"
+                        },
+                        {
+                            "name": "LI Yake 3:0 MESHREF Dina"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

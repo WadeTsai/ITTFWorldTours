@@ -1,0 +1,59 @@
+{
+    "name": "LIND Anders 4:1 PUCAR Tomislav",
+    "children": [
+        {
+            "name": "LIND Anders 3:2 DE NODREST Leo",
+            "children": [
+                {
+                    "name": "LIND Anders 3:0 GERALDO Joao",
+                    "children": [
+                        {
+                            "name": "LIND Anders 3:0 SAKAI Yuhi"
+                        },
+                        {
+                            "name": "RUIZ Romain 0:3 GERALDO Joao"
+                        }
+                    ]
+                },
+                {
+                    "name": "PAL Akash 1:3 DE NODREST Leo",
+                    "children": [
+                        {
+                            "name": "BATIX Ylane 0:3 PAL Akash"
+                        },
+                        {
+                            "name": "DE NODREST Leo 3:0 ESSID Wassim"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "ROLLAND Jules 1:3 PUCAR Tomislav",
+            "children": [
+                {
+                    "name": "ROLLAND Jules 3:2 STOYANOV Niagol",
+                    "children": [
+                        {
+                            "name": "GNANASEKARAN Sathiyan 0:3 ROLLAND Jules"
+                        },
+                        {
+                            "name": "YIGENLER Abdullah 2:3 STOYANOV Niagol"
+                        }
+                    ]
+                },
+                {
+                    "name": "MENGEL Steffen 0:3 PUCAR Tomislav",
+                    "children": [
+                        {
+                            "name": "MENGEL Steffen 3:1 MATI Taiwo"
+                        },
+                        {
+                            "name": "MENG Fanbo 0:3 PUCAR Tomislav"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
