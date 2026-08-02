@@ -1,9 +1,27 @@
 version: 2
 
 # Dependabot *alerts* need no configuration - the dependency graph already
-# picks up JSON/requirements.txt. This file adds scheduled *version* update
-# pull requests for the scraper, which alerts alone do not raise.
+# reads package-lock.json and JSON/requirements.txt. This file adds scheduled
+# *version* update pull requests, which alerts alone do not raise.
 updates:
+  - package-ecosystem: npm
+    directory: /
+    schedule:
+      interval: weekly
+    open-pull-requests-limit: 5
+    commit-message:
+      prefix: deps
+      prefix-development: deps-dev
+    # One PR a week for everything routine, and a separate PR per major so the
+    # breaking ones stay reviewable. Ungrouped, the React/MUI/Vite/Vitest tree
+    # would open a dozen PRs a week - the noise that let 69 alerts pile up on
+    # the old lockfile in the first place.
+    groups:
+      minor-and-patch:
+        update-types:
+          - minor
+          - patch
+
   - package-ecosystem: pip
     # Where the manifest lives, not the repository root: the scraper and its
     # requirements.txt sit under JSON/ next to the data they produce.
