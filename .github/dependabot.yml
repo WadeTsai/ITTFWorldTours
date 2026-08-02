@@ -1,0 +1,17 @@
+version: 2
+
+# Dependabot *alerts* need no configuration - the dependency graph already
+# picks up JSON/requirements.txt. This file adds scheduled *version* update
+# pull requests for the scraper, which alerts alone do not raise.
+updates:
+  - package-ecosystem: pip
+    # Where the manifest lives, not the repository root: the scraper and its
+    # requirements.txt sit under JSON/ next to the data they produce.
+    directory: /JSON
+    schedule:
+      interval: weekly
+    # The scraper is a single local script with one direct dependency, so a
+    # backlog of update PRs would be noise rather than signal.
+    open-pull-requests-limit: 2
+    commit-message:
+      prefix: deps
