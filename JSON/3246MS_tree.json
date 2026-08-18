@@ -1,0 +1,59 @@
+{
+    "name": "LEBRUN Felix 4:1 HARIMOTO Tomokazu",
+    "children": [
+        {
+            "name": "JORGIC Darko 0:4 LEBRUN Felix",
+            "children": [
+                {
+                    "name": "JORGIC Darko 4:2 ASSAR Omar",
+                    "children": [
+                        {
+                            "name": "OVTCHAROV Dimitrij 1:3 JORGIC Darko"
+                        },
+                        {
+                            "name": "ASSAR Omar 3:2 GROTH Jonathan"
+                        }
+                    ]
+                },
+                {
+                    "name": "LEBRUN Felix 4:1 CALDERANO Hugo",
+                    "children": [
+                        {
+                            "name": "LEBRUN Felix 3:0 PORET Thibault"
+                        },
+                        {
+                            "name": "LIND Anders 1:3 CALDERANO Hugo"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "HARIMOTO Tomokazu 4:3 MATSUSHIMA Sora",
+            "children": [
+                {
+                    "name": "LEBRUN Alexis 0:4 HARIMOTO Tomokazu",
+                    "children": [
+                        {
+                            "name": "LIN Shidong 2:3 LEBRUN Alexis"
+                        },
+                        {
+                            "name": "TOGAMI Shunsuke 2:3 HARIMOTO Tomokazu"
+                        }
+                    ]
+                },
+                {
+                    "name": "RANEFUR Elias 3:4 MATSUSHIMA Sora",
+                    "children": [
+                        {
+                            "name": "PUCAR Tomislav 2:3 RANEFUR Elias"
+                        },
+                        {
+                            "name": "ZHOU Qihao 2:3 MATSUSHIMA Sora"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

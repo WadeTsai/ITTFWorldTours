@@ -1,0 +1,59 @@
+{
+    "name": "HARIMOTO Tomokazu 4:1 OH Junsung",
+    "children": [
+        {
+            "name": "MATSUSHIMA Sora 2:4 HARIMOTO Tomokazu",
+            "children": [
+                {
+                    "name": "MATSUSHIMA Sora 4:3 JANG Woojin",
+                    "children": [
+                        {
+                            "name": "MATSUSHIMA Sora 3:0 LIND Anders"
+                        },
+                        {
+                            "name": "CHEN Yuanyu 0:3 JANG Woojin"
+                        }
+                    ]
+                },
+                {
+                    "name": "HARIMOTO Tomokazu 4:0 LEBRUN Alexis",
+                    "children": [
+                        {
+                            "name": "HARIMOTO Tomokazu 3:0 XIANG Peng"
+                        },
+                        {
+                            "name": "JORGIC Darko 1:3 LEBRUN Alexis"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "OH Junsung 4:1 SHINOZUKA Hiroto",
+            "children": [
+                {
+                    "name": "QIU Dang 3:4 OH Junsung",
+                    "children": [
+                        {
+                            "name": "QIU Dang 3:0 JHA Kanak"
+                        },
+                        {
+                            "name": "OH Junsung 3:0 LIM Jonghoon"
+                        }
+                    ]
+                },
+                {
+                    "name": "SHINOZUKA Hiroto 4:2 LEBRUN Felix",
+                    "children": [
+                        {
+                            "name": "GERALDO Joao 1:3 SHINOZUKA Hiroto"
+                        },
+                        {
+                            "name": "DUDA Benedikt 0:3 LEBRUN Felix"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
