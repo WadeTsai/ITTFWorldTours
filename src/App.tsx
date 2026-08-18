@@ -69,7 +69,10 @@ const DEFAULT_EXPANDED = [
 
 export default function ITTFWorldTours() {
   const [eventId, setEventId] = useState(LATEST_EVENT_ID);
-  const [group, setGroup] = useState<Group>('MS');
+  // Not a hard-coded 'MS': the gender-split Finals of 2023 and 2024 ran a single
+  // draw each, so the newest event on record is not guaranteed to have a men's
+  // one to open on.
+  const [group, setGroup] = useState<Group>(groupsOf(LATEST_EVENT_ID)[0] ?? 'MS');
   const [activeMatch, setActiveMatch] = useState<ActiveMatch | null>(null);
 
   const bracket = useMemo(() => getTree(eventId, group), [eventId, group]);

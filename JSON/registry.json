@@ -1,0 +1,798 @@
+[
+    {
+        "id": "3231",
+        "name": "WTT Champions Doha",
+        "year": 2026
+    },
+    {
+        "id": "3232",
+        "name": "WTT Star Contender Doha",
+        "year": 2026
+    },
+    {
+        "id": "3251",
+        "name": "WTT Contender Muscat",
+        "year": 2026
+    },
+    {
+        "id": "3233",
+        "name": "WTT Star Contender Chennai",
+        "year": 2026
+    },
+    {
+        "id": "3234",
+        "name": "Singapore Smash",
+        "year": 2026
+    },
+    {
+        "id": "3235",
+        "name": "WTT Champions Chongqing",
+        "year": 2026
+    },
+    {
+        "id": "3236",
+        "name": "WTT Contender Tunis",
+        "year": 2026
+    },
+    {
+        "id": "3379",
+        "name": "ITTF Men's & Women's World Cup Macao",
+        "year": 2026
+    },
+    {
+        "id": "3237",
+        "name": "WTT Contender Taiyuan",
+        "year": 2026
+    },
+    {
+        "id": "3238",
+        "name": "WTT Contender Lagos",
+        "year": 2026
+    },
+    {
+        "id": "3239",
+        "name": "WTT Contender Skopje",
+        "year": 2026
+    },
+    {
+        "id": "3240",
+        "name": "WTT Contender Zagreb",
+        "year": 2026
+    },
+    {
+        "id": "3241",
+        "name": "WTT Star Contender Ljubljana",
+        "year": 2026
+    },
+    {
+        "id": "3242",
+        "name": "United States Smash",
+        "year": 2026
+    },
+    {
+        "id": "3244",
+        "name": "WTT Star Contender São José dos Campos",
+        "year": 2026
+    },
+    {
+        "id": "3083",
+        "name": "WTT Star Contender Doha",
+        "year": 2025
+    },
+    {
+        "id": "3084",
+        "name": "WTT Contender Muscat",
+        "year": 2025
+    },
+    {
+        "id": "3085",
+        "name": "Singapore Smash",
+        "year": 2025
+    },
+    {
+        "id": "3086",
+        "name": "WTT Champions Chongqing",
+        "year": 2025
+    },
+    {
+        "id": "3133",
+        "name": "WTT Star Contender Chennai",
+        "year": 2025
+    },
+    {
+        "id": "3087",
+        "name": "WTT Champions Incheon",
+        "year": 2025
+    },
+    {
+        "id": "3088",
+        "name": "WTT Contender Taiyuan",
+        "year": 2025
+    },
+    {
+        "id": "3109",
+        "name": "ITTF Men's and Women's World Cup Macao",
+        "year": 2025
+    },
+    {
+        "id": "3089",
+        "name": "WTT Contender Tunis",
+        "year": 2025
+    },
+    {
+        "id": "3108",
+        "name": "ITTF World Table Tennis Championships Finals Doha",
+        "year": 2025
+    },
+    {
+        "id": "3090",
+        "name": "WTT Contender Skopje",
+        "year": 2025
+    },
+    {
+        "id": "3091",
+        "name": "WTT Star Contender Ljubljana",
+        "year": 2025
+    },
+    {
+        "id": "3092",
+        "name": "WTT Contender Zagreb",
+        "year": 2025
+    },
+    {
+        "id": "3082",
+        "name": "United States Smash",
+        "year": 2025
+    },
+    {
+        "id": "3121",
+        "name": "WTT Contender Lagos",
+        "year": 2025
+    },
+    {
+        "id": "3175",
+        "name": "WTT Contender Buenos Aires",
+        "year": 2025
+    },
+    {
+        "id": "3093",
+        "name": "WTT Star Contender Foz do Iguaçu",
+        "year": 2025
+    },
+    {
+        "id": "3094",
+        "name": "WTT Champions Yokohama",
+        "year": 2025
+    },
+    {
+        "id": "3128",
+        "name": "Europe Smash - Sweden",
+        "year": 2025
+    },
+    {
+        "id": "3096",
+        "name": "WTT Contender Almaty",
+        "year": 2025
+    },
+    {
+        "id": "3097",
+        "name": "WTT Champions Macao",
+        "year": 2025
+    },
+    {
+        "id": "3098",
+        "name": "China Smash",
+        "year": 2025
+    },
+    {
+        "id": "3110",
+        "name": "WTT Star Contender London",
+        "year": 2025
+    },
+    {
+        "id": "3099",
+        "name": "WTT Champions Montpellier",
+        "year": 2025
+    },
+    {
+        "id": "3100",
+        "name": "WTT Champions Frankfurt",
+        "year": 2025
+    },
+    {
+        "id": "3176",
+        "name": "WTT Star Contender Muscat",
+        "year": 2025
+    },
+    {
+        "id": "3112",
+        "name": "WTT Finals Hong Kong",
+        "year": 2025
+    },
+    {
+        "id": "2866",
+        "name": "WTT Finals Men Doha",
+        "year": 2024,
+        "groups": [
+            "MS"
+        ]
+    },
+    {
+        "id": "2862",
+        "name": "WTT Star Contender Doha",
+        "year": 2024
+    },
+    {
+        "id": "2861",
+        "name": "WTT Contender Doha",
+        "year": 2024
+    },
+    {
+        "id": "2863",
+        "name": "WTT Star Contender Goa",
+        "year": 2024
+    },
+    {
+        "id": "2904",
+        "name": "Singapore Smash",
+        "year": 2024
+    },
+    {
+        "id": "2899",
+        "name": "WTT Champions Incheon",
+        "year": 2024
+    },
+    {
+        "id": "2937",
+        "name": "ITTF Men's and Women's World Cup Macao",
+        "year": 2024
+    },
+    {
+        "id": "2932",
+        "name": "Saudi Smash",
+        "year": 2024
+    },
+    {
+        "id": "2867",
+        "name": "WTT Contender Rio de Janeiro",
+        "year": 2024
+    },
+    {
+        "id": "2865",
+        "name": "WTT Contender Taiyuan",
+        "year": 2024
+    },
+    {
+        "id": "2934",
+        "name": "WTT Contender Mendoza",
+        "year": 2024
+    },
+    {
+        "id": "2941",
+        "name": "WTT Champions Chongqing",
+        "year": 2024
+    },
+    {
+        "id": "2869",
+        "name": "WTT Contender Zagreb",
+        "year": 2024
+    },
+    {
+        "id": "2870",
+        "name": "WTT Star Contender Ljubljana",
+        "year": 2024
+    },
+    {
+        "id": "2868",
+        "name": "WTT Contender Lagos",
+        "year": 2024
+    },
+    {
+        "id": "2871",
+        "name": "WTT Contender Tunis",
+        "year": 2024
+    },
+    {
+        "id": "2900",
+        "name": "WTT Star Contender Bangkok",
+        "year": 2024
+    },
+    {
+        "id": "2872",
+        "name": "WTT Contender Lima",
+        "year": 2024
+    },
+    {
+        "id": "2873",
+        "name": "WTT Contender Almaty",
+        "year": 2024
+    },
+    {
+        "id": "2983",
+        "name": "WTT Champions Macao",
+        "year": 2024
+    },
+    {
+        "id": "2942",
+        "name": "China Smash",
+        "year": 2024
+    },
+    {
+        "id": "2940",
+        "name": "WTT Champions Montpellier",
+        "year": 2024
+    },
+    {
+        "id": "2997",
+        "name": "WTT Contender Muscat",
+        "year": 2024
+    },
+    {
+        "id": "2877",
+        "name": "WTT Champions Frankfurt",
+        "year": 2024
+    },
+    {
+        "id": "2947",
+        "name": "WTT Finals Fukuoka",
+        "year": 2024
+    },
+    {
+        "id": "2699",
+        "name": "WTT Contender Durban",
+        "year": 2023
+    },
+    {
+        "id": "2698",
+        "name": "WTT Contender Doha",
+        "year": 2023
+    },
+    {
+        "id": "2697",
+        "name": "WTT Contender Amman",
+        "year": 2023
+    },
+    {
+        "id": "2696",
+        "name": "WTT Star Contender Goa",
+        "year": 2023
+    },
+    {
+        "id": "2629",
+        "name": "Singapore Smash",
+        "year": 2023
+    },
+    {
+        "id": "2737",
+        "name": "WTT Champions Xinxiang",
+        "year": 2023
+    },
+    {
+        "id": "2728",
+        "name": "WTT Champions Macao",
+        "year": 2023
+    },
+    {
+        "id": "2695",
+        "name": "WTT Star Contender Bangkok",
+        "year": 2023
+    },
+    {
+        "id": "2660",
+        "name": "ITTF World Table Tennis Championships Finals Durban",
+        "year": 2023
+    },
+    {
+        "id": "2693",
+        "name": "WTT Contender Lagos",
+        "year": 2023
+    },
+    {
+        "id": "2691",
+        "name": "WTT Contender Tunis",
+        "year": 2023
+    },
+    {
+        "id": "2692",
+        "name": "WTT Contender Zagreb",
+        "year": 2023
+    },
+    {
+        "id": "2694",
+        "name": "WTT Star Contender Ljubljana",
+        "year": 2023
+    },
+    {
+        "id": "2721",
+        "name": "WTT Contender Lima",
+        "year": 2023
+    },
+    {
+        "id": "2722",
+        "name": "WTT Contender Rio de Janeiro",
+        "year": 2023
+    },
+    {
+        "id": "2739",
+        "name": "WTT Contender Almaty",
+        "year": 2023
+    },
+    {
+        "id": "2777",
+        "name": "WTT Star Contender Lanzhou",
+        "year": 2023
+    },
+    {
+        "id": "2775",
+        "name": "WTT Contender Muscat",
+        "year": 2023
+    },
+    {
+        "id": "2742",
+        "name": "WTT Contender Antalya",
+        "year": 2023
+    },
+    {
+        "id": "2705",
+        "name": "WTT Champions Frankfurt",
+        "year": 2023
+    },
+    {
+        "id": "2794",
+        "name": "WTT Contender Taiyuan",
+        "year": 2023
+    },
+    {
+        "id": "2776",
+        "name": "WTT Finals Women Nagoya",
+        "year": 2023,
+        "groups": [
+            "WS"
+        ]
+    },
+    {
+        "id": "2537",
+        "name": "WTT Macao",
+        "year": 2022
+    },
+    {
+        "id": "2531",
+        "name": "WTT Contender Muscat (February)",
+        "year": 2022
+    },
+    {
+        "id": "2536",
+        "name": "Singapore Smash",
+        "year": 2022
+    },
+    {
+        "id": "2532",
+        "name": "WTT Contender Doha",
+        "year": 2022
+    },
+    {
+        "id": "2533",
+        "name": "WTT Star Contender Doha",
+        "year": 2022
+    },
+    {
+        "id": "2539",
+        "name": "WTT Contender Zagreb",
+        "year": 2022
+    },
+    {
+        "id": "2574",
+        "name": "WTT Contender Lima",
+        "year": 2022
+    },
+    {
+        "id": "2591",
+        "name": "WTT Star Contender European Summer Series",
+        "year": 2022
+    },
+    {
+        "id": "2593",
+        "name": "WTT Champions European Summer Series",
+        "year": 2022
+    },
+    {
+        "id": "2568",
+        "name": "WTT Contender Tunis",
+        "year": 2022
+    },
+    {
+        "id": "2605",
+        "name": "WTT Contender Muscat (September)",
+        "year": 2022
+    },
+    {
+        "id": "2606",
+        "name": "WTT Contender Almaty",
+        "year": 2022
+    },
+    {
+        "id": "2619",
+        "name": "WTT Champions Macao",
+        "year": 2022
+    },
+    {
+        "id": "2627",
+        "name": "WTT Cup Finals Xinxiang",
+        "year": 2022
+    },
+    {
+        "id": "2589",
+        "name": "WTT Contender Nova Gorica",
+        "year": 2022
+    },
+    {
+        "id": "2410",
+        "name": "WTT Contender Doha",
+        "year": 2021
+    },
+    {
+        "id": "2411",
+        "name": "WTT Star Contender Doha (March)",
+        "year": 2021
+    },
+    {
+        "id": "2487",
+        "name": "WTT Contender Budapest",
+        "year": 2021
+    },
+    {
+        "id": "2489",
+        "name": "WTT Star Contender Doha (September)",
+        "year": 2021
+    },
+    {
+        "id": "2502",
+        "name": "WTT Contender Tunis",
+        "year": 2021
+    },
+    {
+        "id": "2503",
+        "name": "WTT Contender Laško",
+        "year": 2021
+    },
+    {
+        "id": "2504",
+        "name": "WTT Contender Novo Mesto",
+        "year": 2021
+    },
+    {
+        "id": "2346",
+        "name": "World Table Tennis Championships Finals Houston",
+        "year": 2021
+    },
+    {
+        "id": "2516",
+        "name": "WTT Cup Finals Singapore",
+        "year": 2021
+    },
+    {
+        "id": "5139",
+        "name": "德國公開賽",
+        "year": 2020
+    },
+    {
+        "id": "5145",
+        "name": "匈牙利公開賽",
+        "year": 2020
+    },
+    {
+        "id": "5146",
+        "name": "卡達公開賽",
+        "year": 2020
+    },
+    {
+        "id": "5184",
+        "name": "世界盃",
+        "year": 2020
+    },
+    {
+        "id": "5263",
+        "name": "年終總決賽",
+        "year": 2020
+    },
+    {
+        "id": "5000",
+        "name": "世界錦標賽",
+        "year": 2019
+    },
+    {
+        "id": "5001",
+        "name": "匈牙利公開賽",
+        "year": 2019
+    },
+    {
+        "id": "5002",
+        "name": "卡達公開賽",
+        "year": 2019
+    },
+    {
+        "id": "5003",
+        "name": "中國公開賽",
+        "year": 2019
+    },
+    {
+        "id": "5004",
+        "name": "香港公開賽",
+        "year": 2019
+    },
+    {
+        "id": "5005",
+        "name": "日本公開賽",
+        "year": 2019
+    },
+    {
+        "id": "5006",
+        "name": "韓國公開賽",
+        "year": 2019
+    },
+    {
+        "id": "5007",
+        "name": "澳洲公開賽",
+        "year": 2019
+    },
+    {
+        "id": "5008",
+        "name": "保加利亞公開賽",
+        "year": 2019
+    },
+    {
+        "id": "5009",
+        "name": "捷克公開賽",
+        "year": 2019
+    },
+    {
+        "id": "5010",
+        "name": "瑞典公開賽",
+        "year": 2019
+    },
+    {
+        "id": "5011",
+        "name": "德國公開賽",
+        "year": 2019
+    },
+    {
+        "id": "5012",
+        "name": "奧地利公開賽",
+        "year": 2019
+    },
+    {
+        "id": "5013",
+        "name": "年終總決賽",
+        "year": 2019
+    },
+    {
+        "id": "5014",
+        "name": "葡萄牙公開賽",
+        "year": 2019
+    },
+    {
+        "id": "5015",
+        "name": "阿曼公開賽",
+        "year": 2019
+    },
+    {
+        "id": "5016",
+        "name": "西班牙公開賽",
+        "year": 2019
+    },
+    {
+        "id": "5017",
+        "name": "塞爾維亞公開賽",
+        "year": 2019
+    },
+    {
+        "id": "5018",
+        "name": "斯洛文尼亞公開賽",
+        "year": 2019
+    },
+    {
+        "id": "5019",
+        "name": "克羅地亞公開賽",
+        "year": 2019
+    },
+    {
+        "id": "5020",
+        "name": "泰國公開賽",
+        "year": 2019
+    },
+    {
+        "id": "5021",
+        "name": "平壤公開賽",
+        "year": 2019
+    },
+    {
+        "id": "5022",
+        "name": "尼日利亞公開賽",
+        "year": 2019
+    },
+    {
+        "id": "5023",
+        "name": "巴拉圭公開賽",
+        "year": 2019
+    },
+    {
+        "id": "5025",
+        "name": "波蘭公開賽",
+        "year": 2019
+    },
+    {
+        "id": "5026",
+        "name": "白俄羅斯公開賽",
+        "year": 2019
+    },
+    {
+        "id": "5028",
+        "name": "印尼公開賽",
+        "year": 2019
+    },
+    {
+        "id": "5030",
+        "name": "北美公開賽",
+        "year": 2019
+    },
+    {
+        "id": "5069",
+        "name": "世界盃",
+        "year": 2019
+    },
+    {
+        "id": "2816",
+        "name": "香港公開賽",
+        "year": 2018
+    },
+    {
+        "id": "2817",
+        "name": "中國公開賽",
+        "year": 2018
+    },
+    {
+        "id": "2818",
+        "name": "日本公開賽",
+        "year": 2018
+    },
+    {
+        "id": "2819",
+        "name": "韓國公開賽",
+        "year": 2018
+    },
+    {
+        "id": "2820",
+        "name": "保加利亞公開賽",
+        "year": 2018
+    },
+    {
+        "id": "2821",
+        "name": "捷克公開賽",
+        "year": 2018
+    },
+    {
+        "id": "2822",
+        "name": "奧地利公開賽",
+        "year": 2018
+    },
+    {
+        "id": "2823",
+        "name": "瑞典公開賽",
+        "year": 2018
+    },
+    {
+        "id": "2824",
+        "name": "澳洲公開賽",
+        "year": 2018
+    },
+    {
+        "id": "2825",
+        "name": "年終總決賽",
+        "year": 2018
+    },
+    {
+        "id": "ittf2873",
+        "name": "世界盃",
+        "year": 2018
+    }
+]

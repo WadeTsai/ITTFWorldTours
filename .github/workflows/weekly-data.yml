@@ -1,0 +1,108 @@
+name: Weekly data refresh
+
+# Scrapes whatever the current WTT season has played since the last run, commits
+# the new brackets, and republishes the site.
+#
+# `genJSON.py --sync` is the whole discovery step: it reads WTT's event calendar,
+# keeps the series this site covers, and skips events already in
+# JSON/registry.json. An event still being played has no complete round of 16, so
+# it is left alone and picked up the following week.
+
+on:
+  schedule:
+    # Mondays, 06:00 UTC. WTT events finish on a Sunday and the draws need a few
+    # hours to settle.
+    - cron: '0 6 * * 1'
+  workflow_dispatch:
+    inputs:
+      season:
+        description: 'Season to sync (default: the current year)'
+        required: false
+        type: string
+
+# One refresh at a time: two runs would race on the same commit and on the
+# gh-pages branch.
+concurrency:
+  group: weekly-data
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    permissions:
+      # Pushes the scraped JSON to the default branch and the build to gh-pages.
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: '3.13'
+
+      - uses: actions/setup-node@v7
+        with:
+          node-version: '24'
+          cache: npm
+
+      - name: Install the scraper
+        # No `playwright install`: WTT serves its draws as JSON, so the scraper
+        # uses Playwright's request API and never launches a browser.
+        run: pip install -r JSON/requirements.txt
+
+      - name: Scrape the season
+        id: scrape
+        # A slower search than the local default: 15 YouTube lookups per draw
+        # from a shared runner IP is exactly the pattern that gets throttled, and
+        # a throttled search silently records "no video for this match".
+        run: |
+          python JSON/genJSON.py --sync ${{ inputs.season }} --delay 2
+          if [ -z "$(git status --porcelain -- JSON)" ]; then
+            echo 'No new draws.'
+            echo 'changed=false' >> "$GITHUB_OUTPUT"
+          else
+            git status --short -- JSON
+            echo 'changed=true' >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Install the app
+        if: steps.scrape.outputs.changed == 'true'
+        run: npm ci
+
+      # The registry and the bracket files have to agree, and this is what
+      # asserts it. A scrape that produced a half-written draw must not reach the
+      # site, so the build and the commit both wait behind it.
+      - name: Verify
+        if: steps.scrape.outputs.changed == 'true'
+        run: |
+          npm run lint
+          npm run typecheck
+          npm test
+
+      - name: Build
+        if: steps.scrape.outputs.changed == 'true'
+        run: npm run build
+
+      - name: Commit the new draws
+        if: steps.scrape.outputs.changed == 'true'
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add JSON
+          git commit -m 'Add this week'\''s draws' -m 'Scraped by .github/workflows/weekly-data.yml.'
+          git push
+
+      - name: Publish to GitHub Pages
+        if: steps.scrape.outputs.changed == 'true'
+        # Pages serves the gh-pages branch, and `-d dist` is the same publish
+        # step as the repo's own `npm run deploy`. The token goes through the
+        # environment rather than the command line so it stays out of the log.
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          npx gh-pages \
+            --dist dist \
+            --user 'github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>' \
+            --message "Deploy ${GITHUB_SHA}" \
+            --repo "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
