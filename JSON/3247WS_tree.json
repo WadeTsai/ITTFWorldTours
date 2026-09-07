@@ -1,0 +1,59 @@
+{
+    "name": "HAYATA Hina 1:4 HIRANO Miu",
+    "children": [
+        {
+            "name": "HAYATA Hina 3:1 DIAZ Adriana",
+            "children": [
+                {
+                    "name": "HAYATA Hina 3:0 ABRAAMIAN Elizabet",
+                    "children": [
+                        {
+                            "name": "HAYATA Hina 3:0 CHIEN Tung-Chuan"
+                        },
+                        {
+                            "name": "KALLBERG Christina 1:3 ABRAAMIAN Elizabet"
+                        }
+                    ]
+                },
+                {
+                    "name": "DIAZ Adriana 3:1 KAUFMANN Annett",
+                    "children": [
+                        {
+                            "name": "DIAZ Adriana 3:0 DAS Syndrela"
+                        },
+                        {
+                            "name": "PANFILOVA Maria 0:3 KAUFMANN Annett"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "HIRANO Miu 3:1 NAGASAKI Miyu",
+            "children": [
+                {
+                    "name": "HIRANO Miu 3:0 VORONINA Vlada",
+                    "children": [
+                        {
+                            "name": "HIRANO Miu 3:1 YANG Ha Eun"
+                        },
+                        {
+                            "name": "VORONINA Vlada 3:0 GHOSH Swastika"
+                        }
+                    ]
+                },
+                {
+                    "name": "AKAE Kaho 2:3 NAGASAKI Miyu",
+                    "children": [
+                        {
+                            "name": "AKAE Kaho 3:1 VIVARELLI Debora"
+                        },
+                        {
+                            "name": "GHORPADE Yashaswini 1:3 NAGASAKI Miyu"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

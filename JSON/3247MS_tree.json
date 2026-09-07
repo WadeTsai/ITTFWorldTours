@@ -1,0 +1,59 @@
+{
+    "name": "TOGAMI Shunsuke 4:0 GAUZY Simon",
+    "children": [
+        {
+            "name": "TOGAMI Shunsuke 3:0 HAMADA Kazuki",
+            "children": [
+                {
+                    "name": "TOGAMI Shunsuke 3:1 ROBLES Alvaro",
+                    "children": [
+                        {
+                            "name": "TOGAMI Shunsuke 3:0 BOURRASSAUD Florian"
+                        },
+                        {
+                            "name": "PICARD Vincent 1:3 ROBLES Alvaro"
+                        }
+                    ]
+                },
+                {
+                    "name": "IVONIN Denis 0:3 HAMADA Kazuki",
+                    "children": [
+                        {
+                            "name": "SHAH Manush 0:3 IVONIN Denis"
+                        },
+                        {
+                            "name": "KARLSSON Mattias 2:3 HAMADA Kazuki"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "TIKHONOV Evgeny 1:3 GAUZY Simon",
+            "children": [
+                {
+                    "name": "TIKHONOV Evgeny 3:2 KOURAICHI Alexis",
+                    "children": [
+                        {
+                            "name": "YOSHIYAMA Ryoichi 0:3 TIKHONOV Evgeny"
+                        },
+                        {
+                            "name": "KOURAICHI Alexis 3:2 KARLSSON Kristian"
+                        }
+                    ]
+                },
+                {
+                    "name": "FANG Bo 0:3 GAUZY Simon",
+                    "children": [
+                        {
+                            "name": "GERASSIMENKO Kirill 2:3 FANG Bo"
+                        },
+                        {
+                            "name": "TANAKA Yuta 2:3 GAUZY Simon"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
