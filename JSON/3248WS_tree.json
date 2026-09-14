@@ -1,0 +1,59 @@
+{
+    "name": "HARIMOTO Miwa 4:3 CHEN Yi",
+    "children": [
+        {
+            "name": "HARIMOTO Miwa 4:1 CHEN Xingtong",
+            "children": [
+                {
+                    "name": "HARIMOTO Miwa 4:1 SZOCS Bernadette",
+                    "children": [
+                        {
+                            "name": "HARIMOTO Miwa 3:0 HURSEY Anna"
+                        },
+                        {
+                            "name": "POLCANOVA Sofia 2:3 SZOCS Bernadette"
+                        }
+                    ]
+                },
+                {
+                    "name": "MESHREF Dina 0:4 CHEN Xingtong",
+                    "children": [
+                        {
+                            "name": "MESHREF Dina 3:0 ZHANG Lily"
+                        },
+                        {
+                            "name": "GODA Hana 2:3 CHEN Xingtong"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "HAYATA Hina 3:4 CHEN Yi",
+            "children": [
+                {
+                    "name": "ODO Satsuki 1:4 HAYATA Hina",
+                    "children": [
+                        {
+                            "name": "ODO Satsuki 3:2 CHENG I-Ching"
+                        },
+                        {
+                            "name": "HASHIMOTO Honoka 2:3 HAYATA Hina"
+                        }
+                    ]
+                },
+                {
+                    "name": "CHEN Yi 4:0 HAN Ying",
+                    "children": [
+                        {
+                            "name": "CHEN Yi 3:1 ABRAAMIAN Elizabet"
+                        },
+                        {
+                            "name": "BAJOR Natalia 2:3 HAN Ying"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
