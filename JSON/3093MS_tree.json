@@ -8,10 +8,58 @@
                     "name": "CALDERANO Hugo 3:0 UDA Yukiya",
                     "children": [
                         {
-                            "name": "CALDERANO Hugo 3:1 CHANG Yu-An"
+                            "name": "CALDERANO Hugo 3:1 CHANG Yu-An",
+                            "children": [
+                                {
+                                    "name": "CALDERANO Hugo 3:1 VERDONSCHOT Wim",
+                                    "children": [
+                                        {
+                                            "name": "CALDERANO Hugo 0:0 BYE"
+                                        },
+                                        {
+                                            "name": "LORENZO Santiago 2:3 VERDONSCHOT Wim"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "CHANG Yu-An 3:0 BERTELSMEIER Andre",
+                                    "children": [
+                                        {
+                                            "name": "CHANG Yu-An 3:0 BOURRASSAUD Florian"
+                                        },
+                                        {
+                                            "name": "BYE 0:0 BERTELSMEIER Andre"
+                                        }
+                                    ]
+                                }
+                            ]
                         },
                         {
-                            "name": "KUO Guan-Hong 0:3 UDA Yukiya"
+                            "name": "KUO Guan-Hong 0:3 UDA Yukiya",
+                            "children": [
+                                {
+                                    "name": "THAKKAR Manav 1:3 KUO Guan-Hong",
+                                    "children": [
+                                        {
+                                            "name": "THAKKAR Manav 0:0 BYE"
+                                        },
+                                        {
+                                            "name": "NARANJO Angel 1:3 KUO Guan-Hong"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "MEISSNER Cedric 2:3 UDA Yukiya",
+                                    "children": [
+                                        {
+                                            "name": "MEISSNER Cedric 3:0 ROMANSKI Lucas"
+                                        },
+                                        {
+                                            "name": "BYE 0:0 UDA Yukiya"
+                                        }
+                                    ]
+                                }
+                            ]
                         }
                     ]
                 },
@@ -19,10 +67,58 @@
                     "name": "OH Junsung 3:2 TANAKA Yuta",
                     "children": [
                         {
-                            "name": "OH Junsung 3:1 DESAI Harmeet"
+                            "name": "OH Junsung 3:1 DESAI Harmeet",
+                            "children": [
+                                {
+                                    "name": "OH Junsung 3:0 HUNG Jing-Kai",
+                                    "children": [
+                                        {
+                                            "name": "OH Junsung 0:0 BYE"
+                                        },
+                                        {
+                                            "name": "HUNG Jing-Kai 3:1 GOMEZ Gustavo"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "DESAI Harmeet 3:2 STUMPER Kay",
+                                    "children": [
+                                        {
+                                            "name": "SARMENTO Allan 0:3 DESAI Harmeet"
+                                        },
+                                        {
+                                            "name": "BYE 0:0 STUMPER Kay"
+                                        }
+                                    ]
+                                }
+                            ]
                         },
                         {
-                            "name": "ISHIY Vitor 0:3 TANAKA Yuta"
+                            "name": "ISHIY Vitor 0:3 TANAKA Yuta",
+                            "children": [
+                                {
+                                    "name": "ISHIY Vitor 3:1 TEODORO Guilherme",
+                                    "children": [
+                                        {
+                                            "name": "ISHIY Vitor 0:0 BYE"
+                                        },
+                                        {
+                                            "name": "SURAVAJJULA Snehit 2:3 TEODORO Guilherme"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "MUTTI Matteo 1:3 TANAKA Yuta",
+                                    "children": [
+                                        {
+                                            "name": "MUTTI Matteo 3:2 DESCHAMPS Hugo"
+                                        },
+                                        {
+                                            "name": "BYE 0:0 TANAKA Yuta"
+                                        }
+                                    ]
+                                }
+                            ]
                         }
                     ]
                 }
@@ -35,10 +131,58 @@
                     "name": "OVTCHAROV Dimitrij 3:1 QIU Dang",
                     "children": [
                         {
-                            "name": "OVTCHAROV Dimitrij 3:0 BARDET Lilian"
+                            "name": "OVTCHAROV Dimitrij 3:0 BARDET Lilian",
+                            "children": [
+                                {
+                                    "name": "OVTCHAROV Dimitrij 3:0 LIN Yen-Chun",
+                                    "children": [
+                                        {
+                                            "name": "OVTCHAROV Dimitrij 0:0 BYE"
+                                        },
+                                        {
+                                            "name": "LIN Yen-Chun 3:1 IIZUKA Leonardo"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "CASTRO Rogelio 0:3 BARDET Lilian",
+                                    "children": [
+                                        {
+                                            "name": "CASTRO Rogelio 3:1 NOGUTI Henrique"
+                                        },
+                                        {
+                                            "name": "BYE 0:0 BARDET Lilian"
+                                        }
+                                    ]
+                                }
+                            ]
                         },
                         {
-                            "name": "OIKAWA Mizuki 0:3 QIU Dang"
+                            "name": "OIKAWA Mizuki 0:3 QIU Dang",
+                            "children": [
+                                {
+                                    "name": "OIKAWA Mizuki 3:1 BURGOS Nicolas",
+                                    "children": [
+                                        {
+                                            "name": "OIKAWA Mizuki 0:0 BYE"
+                                        },
+                                        {
+                                            "name": "JAIN Payas 1:3 BURGOS Nicolas"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "APOLONIA Tiago 1:3 QIU Dang",
+                                    "children": [
+                                        {
+                                            "name": "APOLONIA Tiago 3:0 OLAVE Alfonso"
+                                        },
+                                        {
+                                            "name": "BYE 0:0 QIU Dang"
+                                        }
+                                    ]
+                                }
+                            ]
                         }
                     ]
                 },
@@ -46,10 +190,58 @@
                     "name": "HAMADA Kazuki 0:3 DUDA Benedikt",
                     "children": [
                         {
-                            "name": "BAE Hwan 1:3 HAMADA Kazuki"
+                            "name": "BAE Hwan 1:3 HAMADA Kazuki",
+                            "children": [
+                                {
+                                    "name": "BAE Hwan 3:2 YOSHIYAMA Ryoichi",
+                                    "children": [
+                                        {
+                                            "name": "BAE Hwan 0:0 BYE"
+                                        },
+                                        {
+                                            "name": "YOSHIYAMA Ryoichi 3:1 TURRINI Rafael"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "HAMADA Kazuki 3:2 WALTHER Ricardo",
+                                    "children": [
+                                        {
+                                            "name": "HAMADA Kazuki 3:0 AIDA Satoshi"
+                                        },
+                                        {
+                                            "name": "BYE 0:0 WALTHER Ricardo"
+                                        }
+                                    ]
+                                }
+                            ]
                         },
                         {
-                            "name": "SHAH Manush 1:3 DUDA Benedikt"
+                            "name": "SHAH Manush 1:3 DUDA Benedikt",
+                            "children": [
+                                {
+                                    "name": "LIAO Cheng-Ting 2:3 SHAH Manush",
+                                    "children": [
+                                        {
+                                            "name": "LIAO Cheng-Ting 0:0 BYE"
+                                        },
+                                        {
+                                            "name": "KIM Taehyun 1:3 SHAH Manush"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "HUANG Yan-Cheng 0:3 DUDA Benedikt",
+                                    "children": [
+                                        {
+                                            "name": "DOTI Felipe 1:3 HUANG Yan-Cheng"
+                                        },
+                                        {
+                                            "name": "BYE 0:0 DUDA Benedikt"
+                                        }
+                                    ]
+                                }
+                            ]
                         }
                     ]
                 }

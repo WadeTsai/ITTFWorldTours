@@ -8,10 +8,26 @@
                     "name": "YANG Xiaoxin 3:1 COSSIO ACEVES Arantxa",
                     "children": [
                         {
-                            "name": "YANG Xiaoxin 3:0 PRIETO Alejandra"
+                            "name": "YANG Xiaoxin 3:0 PRIETO Alejandra",
+                            "children": [
+                                {
+                                    "name": "YANG Xiaoxin 3:0 LA TORRE Mariagrazia"
+                                },
+                                {
+                                    "name": "PRIETO Alejandra 3:0 CHAVEZ Alejandra"
+                                }
+                            ]
                         },
                         {
-                            "name": "WATANABE Laura 0:3 COSSIO ACEVES Arantxa"
+                            "name": "WATANABE Laura 0:3 COSSIO ACEVES Arantxa",
+                            "children": [
+                                {
+                                    "name": "GRANADOS Luciana 0:3 WATANABE Laura"
+                                },
+                                {
+                                    "name": "TAFUR Kiara 0:3 COSSIO ACEVES Arantxa"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -19,10 +35,26 @@
                     "name": "HUANG Yi-Hua 3:0 SINGEORZAN Ioana",
                     "children": [
                         {
-                            "name": "HUANG Yi-Hua 3:0 DUFFOO Isabel"
+                            "name": "HUANG Yi-Hua 3:0 DUFFOO Isabel",
+                            "children": [
+                                {
+                                    "name": "HUANG Yi-Hua 3:0 RIOS Valentina"
+                                },
+                                {
+                                    "name": "DUFFOO Isabel 3:0 HUAMAN Camila"
+                                }
+                            ]
                         },
                         {
-                            "name": "AQUIJE Natzumi 0:3 SINGEORZAN Ioana"
+                            "name": "AQUIJE Natzumi 0:3 SINGEORZAN Ioana",
+                            "children": [
+                                {
+                                    "name": "AQUIJE Natzumi 3:1 YAMANAKA Erika"
+                                },
+                                {
+                                    "name": "VEGA Paulina 1:3 SINGEORZAN Ioana"
+                                }
+                            ]
                         }
                     ]
                 }
@@ -35,10 +67,26 @@
                     "name": "YOKOI Sakura 3:2 EERLAND Britt",
                     "children": [
                         {
-                            "name": "TAKAHASHI Giulia 0:3 YOKOI Sakura"
+                            "name": "TAKAHASHI Giulia 0:3 YOKOI Sakura",
+                            "children": [
+                                {
+                                    "name": "TAKAHASHI Giulia 3:0 RETAMOZO Andrea"
+                                },
+                                {
+                                    "name": "WANG Yi-Ju 0:3 YOKOI Sakura"
+                                }
+                            ]
                         },
                         {
-                            "name": "SU Pei-Ling 1:3 EERLAND Britt"
+                            "name": "SU Pei-Ling 1:3 EERLAND Britt",
+                            "children": [
+                                {
+                                    "name": "ROY Krittwika 0:3 SU Pei-Ling"
+                                },
+                                {
+                                    "name": "GONZALEZ Eliana 0:3 EERLAND Britt"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -46,10 +94,26 @@
                     "name": "LUPULESKU Izabela 0:3 ODO Satsuki",
                     "children": [
                         {
-                            "name": "LUPULESKU Izabela 3:0 MENDOZA SALAZAR Karla Joana"
+                            "name": "LUPULESKU Izabela 3:0 MENDOZA SALAZAR Karla Joana",
+                            "children": [
+                                {
+                                    "name": "LUPULESKU Izabela 3:0 SANLLEHI Ana"
+                                },
+                                {
+                                    "name": "CARREON Noelia 0:3 MENDOZA SALAZAR Karla Joana"
+                                }
+                            ]
                         },
                         {
-                            "name": "COLFER Alessia 0:3 ODO Satsuki"
+                            "name": "COLFER Alessia 0:3 ODO Satsuki",
+                            "children": [
+                                {
+                                    "name": "LEON Isabella 2:3 COLFER Alessia"
+                                },
+                                {
+                                    "name": "PAREDES Camila 0:3 ODO Satsuki"
+                                }
+                            ]
                         }
                     ]
                 }

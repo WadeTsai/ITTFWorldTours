@@ -8,10 +8,26 @@
                     "name": "WANG Manyu 3:2 JOO Cheonhui",
                     "children": [
                         {
-                            "name": "WANG Manyu 3:0 LAM Yee Lok"
+                            "name": "WANG Manyu 3:0 LAM Yee Lok",
+                            "children": [
+                                {
+                                    "name": "WANG Manyu 0:0 BYE"
+                                },
+                                {
+                                    "name": "LAM Yee Lok 3:0 DENG Zhen"
+                                }
+                            ]
                         },
                         {
-                            "name": "LEE Zion 0:3 JOO Cheonhui"
+                            "name": "LEE Zion 0:3 JOO Cheonhui",
+                            "children": [
+                                {
+                                    "name": "YANG Ha Eun 2:3 LEE Zion"
+                                },
+                                {
+                                    "name": "LIU Weishan 0:3 JOO Cheonhui"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -19,10 +35,26 @@
                     "name": "CHEN Yi 1:3 KIHARA Miyuu",
                     "children": [
                         {
-                            "name": "QIAN Tianyi 2:3 CHEN Yi"
+                            "name": "QIAN Tianyi 2:3 CHEN Yi",
+                            "children": [
+                                {
+                                    "name": "QIAN Tianyi 0:0 BYE"
+                                },
+                                {
+                                    "name": "CHEN Yi 3:2 XU Yi"
+                                }
+                            ]
                         },
                         {
-                            "name": "LI Yake 1:3 KIHARA Miyuu"
+                            "name": "LI Yake 1:3 KIHARA Miyuu",
+                            "children": [
+                                {
+                                    "name": "LI Yake 3:1 WANG Xiaotong"
+                                },
+                                {
+                                    "name": "KIM Hayeong 0:3 KIHARA Miyuu"
+                                }
+                            ]
                         }
                     ]
                 }
@@ -35,10 +67,26 @@
                     "name": "YANG Xiaoxin 3:0 CHEN Xingtong",
                     "children": [
                         {
-                            "name": "YANG Xiaoxin 3:2 ZENG Jian"
+                            "name": "YANG Xiaoxin 3:2 ZENG Jian",
+                            "children": [
+                                {
+                                    "name": "YANG Xiaoxin 3:0 LEE Hoi Man Karen"
+                                },
+                                {
+                                    "name": "LEE Ho Ching 2:3 ZENG Jian"
+                                }
+                            ]
                         },
                         {
-                            "name": "NG Wing Lam 0:3 CHEN Xingtong"
+                            "name": "NG Wing Lam 0:3 CHEN Xingtong",
+                            "children": [
+                                {
+                                    "name": "NG Wing Lam 3:1 MORI Sakura"
+                                },
+                                {
+                                    "name": "KIM Nayeong 0:3 CHEN Xingtong"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -46,10 +94,26 @@
                     "name": "KUAI Man 1:3 WANG Yidi",
                     "children": [
                         {
-                            "name": "KUAI Man 3:2 JEON Jihee"
+                            "name": "KUAI Man 3:2 JEON Jihee",
+                            "children": [
+                                {
+                                    "name": "KUAI Man 3:0 QIN Yuxuan"
+                                },
+                                {
+                                    "name": "LEE Eunhye 1:3 JEON Jihee"
+                                }
+                            ]
                         },
                         {
-                            "name": "ZHU Chengzhu 0:3 WANG Yidi"
+                            "name": "ZHU Chengzhu 0:3 WANG Yidi",
+                            "children": [
+                                {
+                                    "name": "ZHU Chengzhu 3:2 WU Yangchen"
+                                },
+                                {
+                                    "name": "BYE 0:0 WANG Yidi"
+                                }
+                            ]
                         }
                     ]
                 }

@@ -8,10 +8,26 @@
                     "name": "LIN Yun-Ju 3:2 FALCK Mattias",
                     "children": [
                         {
-                            "name": "LIN Yun-Ju 3:0 MENG Fanbo"
+                            "name": "LIN Yun-Ju 3:0 MENG Fanbo",
+                            "children": [
+                                {
+                                    "name": "LIN Yun-Ju 3:0 AKKUZU Can"
+                                },
+                                {
+                                    "name": "GERALDO Joao 2:3 MENG Fanbo"
+                                }
+                            ]
                         },
                         {
-                            "name": "AN Jaehyun 2:3 FALCK Mattias"
+                            "name": "AN Jaehyun 2:3 FALCK Mattias",
+                            "children": [
+                                {
+                                    "name": "AN Jaehyun 3:2 PLETEA Cristian"
+                                },
+                                {
+                                    "name": "FALCK Mattias 3:1 GERASSIMENKO Kirill"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -19,10 +35,26 @@
                     "name": "LIANG Yanning 3:2 JANG Woojin",
                     "children": [
                         {
-                            "name": "GACINA Andrej 0:3 LIANG Yanning"
+                            "name": "GACINA Andrej 0:3 LIANG Yanning",
+                            "children": [
+                                {
+                                    "name": "GACINA Andrej 3:1 ZENG Beixun"
+                                },
+                                {
+                                    "name": "LIANG Yanning 3:0 KENZHIGULOV Aidos"
+                                }
+                            ]
                         },
                         {
-                            "name": "APOLONIA Tiago 0:3 JANG Woojin"
+                            "name": "APOLONIA Tiago 0:3 JANG Woojin",
+                            "children": [
+                                {
+                                    "name": "KURMANGALIYEV Alan 1:3 APOLONIA Tiago"
+                                },
+                                {
+                                    "name": "YAN Sheng 1:3 JANG Woojin"
+                                }
+                            ]
                         }
                     ]
                 }
@@ -35,10 +67,26 @@
                     "name": "FILUS Ruwen 3:1 KALLBERG Anton",
                     "children": [
                         {
-                            "name": "FILUS Ruwen 3:1 SAI Linwei"
+                            "name": "FILUS Ruwen 3:1 SAI Linwei",
+                            "children": [
+                                {
+                                    "name": "FILUS Ruwen 3:0 ZHOLUDEV Denis"
+                                },
+                                {
+                                    "name": "AGUIRRE Marcelo 0:3 SAI Linwei"
+                                }
+                            ]
                         },
                         {
-                            "name": "JHA Kanak 2:3 KALLBERG Anton"
+                            "name": "JHA Kanak 2:3 KALLBERG Anton",
+                            "children": [
+                                {
+                                    "name": "CASSIN Alexandre 2:3 JHA Kanak"
+                                },
+                                {
+                                    "name": "KANG Dongsoo 1:3 KALLBERG Anton"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -46,10 +94,26 @@
                     "name": "SHINOZUKA Hiroto 3:1 CHEN Yuanyu",
                     "children": [
                         {
-                            "name": "SHINOZUKA Hiroto 3:1 WANG Yang"
+                            "name": "SHINOZUKA Hiroto 3:1 WANG Yang",
+                            "children": [
+                                {
+                                    "name": "LEE Sangsu 2:3 SHINOZUKA Hiroto"
+                                },
+                                {
+                                    "name": "WANG Yang 3:0 AFANADOR Brian"
+                                }
+                            ]
                         },
                         {
-                            "name": "NIWA Koki 1:3 CHEN Yuanyu"
+                            "name": "NIWA Koki 1:3 CHEN Yuanyu",
+                            "children": [
+                                {
+                                    "name": "NIWA Koki 3:1 LIAO Cheng-Ting"
+                                },
+                                {
+                                    "name": "CHEN Yuanyu 3:0 LIM Jonghoon"
+                                }
+                            ]
                         }
                     ]
                 }

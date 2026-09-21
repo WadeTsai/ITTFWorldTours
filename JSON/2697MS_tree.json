@@ -8,10 +8,26 @@
                     "name": "XU Haidong 2:3 LIN Shidong",
                     "children": [
                         {
-                            "name": "JORGIC Darko 2:3 XU Haidong"
+                            "name": "JORGIC Darko 2:3 XU Haidong",
+                            "children": [
+                                {
+                                    "name": "JORGIC Darko 3:1 PUCAR Tomislav"
+                                },
+                                {
+                                    "name": "HABESOHN Daniel 0:3 XU Haidong"
+                                }
+                            ]
                         },
                         {
-                            "name": "LIN Shidong 3:0 PITCHFORD Liam"
+                            "name": "LIN Shidong 3:0 PITCHFORD Liam",
+                            "children": [
+                                {
+                                    "name": "LIN Shidong 3:0 APOLONIA Tiago"
+                                },
+                                {
+                                    "name": "YAN Sheng 2:3 PITCHFORD Liam"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -19,10 +35,26 @@
                     "name": "KARLSSON Kristian 1:3 XU Yingbin",
                     "children": [
                         {
-                            "name": "KARLSSON Kristian 3:1 TOGAMI Shunsuke"
+                            "name": "KARLSSON Kristian 3:1 TOGAMI Shunsuke",
+                            "children": [
+                                {
+                                    "name": "KARLSSON Kristian 3:0 HUANG Youzheng"
+                                },
+                                {
+                                    "name": "TOGAMI Shunsuke 3:0 MADRID Marcos"
+                                }
+                            ]
                         },
                         {
-                            "name": "XU Yingbin 3:1 ASSAR Omar"
+                            "name": "XU Yingbin 3:1 ASSAR Omar",
+                            "children": [
+                                {
+                                    "name": "ABO YAMAN Zaid 2:3 XU Yingbin"
+                                },
+                                {
+                                    "name": "ROLLAND Jules 1:3 ASSAR Omar"
+                                }
+                            ]
                         }
                     ]
                 }
@@ -35,10 +67,26 @@
                     "name": "GROTH Jonathan 0:3 ROBLES Alvaro",
                     "children": [
                         {
-                            "name": "DUDA Benedikt 2:3 GROTH Jonathan"
+                            "name": "DUDA Benedikt 2:3 GROTH Jonathan",
+                            "children": [
+                                {
+                                    "name": "UDA Yukiya 1:3 DUDA Benedikt"
+                                },
+                                {
+                                    "name": "FREITAS Marcos 1:3 GROTH Jonathan"
+                                }
+                            ]
                         },
                         {
-                            "name": "GNANASEKARAN Sathiyan 1:3 ROBLES Alvaro"
+                            "name": "GNANASEKARAN Sathiyan 1:3 ROBLES Alvaro",
+                            "children": [
+                                {
+                                    "name": "LEBESSON Emmanuel 0:3 GNANASEKARAN Sathiyan"
+                                },
+                                {
+                                    "name": "ROBLES Alvaro 3:2 CHUANG Chih-Yuan"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -46,10 +94,26 @@
                     "name": "GERALDO Joao 1:3 OVTCHAROV Dimitrij",
                     "children": [
                         {
-                            "name": "GERALDO Joao 3:1 LEBRUN Felix"
+                            "name": "GERALDO Joao 3:1 LEBRUN Felix",
+                            "children": [
+                                {
+                                    "name": "GACINA Andrej 0:3 GERALDO Joao"
+                                },
+                                {
+                                    "name": "PERSSON Jon 2:3 LEBRUN Felix"
+                                }
+                            ]
                         },
                         {
-                            "name": "KAO Cheng-Jui 0:3 OVTCHAROV Dimitrij"
+                            "name": "KAO Cheng-Jui 0:3 OVTCHAROV Dimitrij",
+                            "children": [
+                                {
+                                    "name": "KAO Cheng-Jui 3:2 MAJOROS Bence"
+                                },
+                                {
+                                    "name": "GAUZY Simon 0:3 OVTCHAROV Dimitrij"
+                                }
+                            ]
                         }
                     ]
                 }

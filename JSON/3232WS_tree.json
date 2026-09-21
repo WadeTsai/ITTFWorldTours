@@ -8,10 +8,58 @@
                     "name": "SATO Hitomi 3:0 KIM Nayeong",
                     "children": [
                         {
-                            "name": "KUAI Man 0:3 SATO Hitomi"
+                            "name": "KUAI Man 0:3 SATO Hitomi",
+                            "children": [
+                                {
+                                    "name": "KUAI Man 3:1 WANG Xiaotong",
+                                    "children": [
+                                        {
+                                            "name": "KUAI Man 0:0 BYE"
+                                        },
+                                        {
+                                            "name": "KOTECHA Taneesha 0:3 WANG Xiaotong"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "ZONG Geman 0:3 SATO Hitomi",
+                                    "children": [
+                                        {
+                                            "name": "YANG Ha Eun 0:3 ZONG Geman"
+                                        },
+                                        {
+                                            "name": "BYE 0:0 SATO Hitomi"
+                                        }
+                                    ]
+                                }
+                            ]
                         },
                         {
-                            "name": "KIM Nayeong 3:0 HIRANO Miu"
+                            "name": "KIM Nayeong 3:0 HIRANO Miu",
+                            "children": [
+                                {
+                                    "name": "KIM Nayeong 3:0 DOO Hoi Kem",
+                                    "children": [
+                                        {
+                                            "name": "KIM Nayeong 0:0 BYE"
+                                        },
+                                        {
+                                            "name": "ELBAZ Rokaia 1:3 DOO Hoi Kem"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "HIRANO Miu 3:2 JOO Cheonhui",
+                                    "children": [
+                                        {
+                                            "name": "YEH Yi-Tian 2:3 HIRANO Miu"
+                                        },
+                                        {
+                                            "name": "BYE 0:0 JOO Cheonhui"
+                                        }
+                                    ]
+                                }
+                            ]
                         }
                     ]
                 },
@@ -19,10 +67,58 @@
                     "name": "CHEN Yi 2:3 DIAZ Adriana",
                     "children": [
                         {
-                            "name": "CHEN Yi 3:1 PAVADE Prithika"
+                            "name": "CHEN Yi 3:1 PAVADE Prithika",
+                            "children": [
+                                {
+                                    "name": "CHEN Yi 3:0 KIM Seongjin",
+                                    "children": [
+                                        {
+                                            "name": "CHEN Yi 0:0 BYE"
+                                        },
+                                        {
+                                            "name": "BAJOR Natalia 2:3 KIM Seongjin"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "TSAI Yun-En 0:3 PAVADE Prithika",
+                                    "children": [
+                                        {
+                                            "name": "HURSEY Anna 1:3 TSAI Yun-En"
+                                        },
+                                        {
+                                            "name": "BYE 0:0 PAVADE Prithika"
+                                        }
+                                    ]
+                                }
+                            ]
                         },
                         {
-                            "name": "CHENG I-Ching 1:3 DIAZ Adriana"
+                            "name": "CHENG I-Ching 1:3 DIAZ Adriana",
+                            "children": [
+                                {
+                                    "name": "CHENG I-Ching 3:0 YOO Yerin",
+                                    "children": [
+                                        {
+                                            "name": "CHENG I-Ching 0:0 BYE"
+                                        },
+                                        {
+                                            "name": "MOHAMED Aia 0:3 YOO Yerin"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "KUKULKOVA Tatiana 0:3 DIAZ Adriana",
+                                    "children": [
+                                        {
+                                            "name": "KUKULKOVA Tatiana 3:0 ALHODABY Mariam"
+                                        },
+                                        {
+                                            "name": "BYE 0:0 DIAZ Adriana"
+                                        }
+                                    ]
+                                }
+                            ]
                         }
                     ]
                 }
@@ -35,10 +131,58 @@
                     "name": "ODO Satsuki 3:2 SHIN Yubin",
                     "children": [
                         {
-                            "name": "ODO Satsuki 3:0 YUAN Jia Nan"
+                            "name": "ODO Satsuki 3:0 YUAN Jia Nan",
+                            "children": [
+                                {
+                                    "name": "ODO Satsuki 3:2 ZENG Jian",
+                                    "children": [
+                                        {
+                                            "name": "ODO Satsuki 0:0 BYE"
+                                        },
+                                        {
+                                            "name": "GHOSH Swastika 0:3 ZENG Jian"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "RYU Hanna 0:3 YUAN Jia Nan",
+                                    "children": [
+                                        {
+                                            "name": "MESHREF Dina 0:3 RYU Hanna"
+                                        },
+                                        {
+                                            "name": "BYE 0:0 YUAN Jia Nan"
+                                        }
+                                    ]
+                                }
+                            ]
                         },
                         {
-                            "name": "POLCANOVA Sofia 2:3 SHIN Yubin"
+                            "name": "POLCANOVA Sofia 2:3 SHIN Yubin",
+                            "children": [
+                                {
+                                    "name": "POLCANOVA Sofia 3:2 ABRAAMIAN Elizabet",
+                                    "children": [
+                                        {
+                                            "name": "POLCANOVA Sofia 0:0 BYE"
+                                        },
+                                        {
+                                            "name": "NG Wing Lam 1:3 ABRAAMIAN Elizabet"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "KAUFMANN Annett 1:3 SHIN Yubin",
+                                    "children": [
+                                        {
+                                            "name": "KAUFMANN Annett 3:0 MUKHERJEE Ayhika"
+                                        },
+                                        {
+                                            "name": "BYE 0:0 SHIN Yubin"
+                                        }
+                                    ]
+                                }
+                            ]
                         }
                     ]
                 },
@@ -46,10 +190,58 @@
                     "name": "SHIBATA Saki 2:3 ZHU Yuling",
                     "children": [
                         {
-                            "name": "YOKOI Sakura 0:3 SHIBATA Saki"
+                            "name": "YOKOI Sakura 0:3 SHIBATA Saki",
+                            "children": [
+                                {
+                                    "name": "SHI Xunyao 2:3 YOKOI Sakura",
+                                    "children": [
+                                        {
+                                            "name": "SHI Xunyao 0:0 BYE"
+                                        },
+                                        {
+                                            "name": "YOKOI Sakura 3:0 SU Tsz Tung"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "SHIBATA Saki 3:2 KIHARA Miyuu",
+                                    "children": [
+                                        {
+                                            "name": "SHIBATA Saki 3:2 XIAO Maria"
+                                        },
+                                        {
+                                            "name": "BYE 0:0 KIHARA Miyuu"
+                                        }
+                                    ]
+                                }
+                            ]
                         },
                         {
-                            "name": "BATRA Manika 0:3 ZHU Yuling"
+                            "name": "BATRA Manika 0:3 ZHU Yuling",
+                            "children": [
+                                {
+                                    "name": "LEE Eunhye 1:3 BATRA Manika",
+                                    "children": [
+                                        {
+                                            "name": "LEE Eunhye 0:0 BYE"
+                                        },
+                                        {
+                                            "name": "QIN Yuxuan 2:3 BATRA Manika"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "ZHU Ziyu 0:3 ZHU Yuling",
+                                    "children": [
+                                        {
+                                            "name": "ZHU Ziyu 3:1 HE Zhuojia"
+                                        },
+                                        {
+                                            "name": "BYE 0:0 ZHU Yuling"
+                                        }
+                                    ]
+                                }
+                            ]
                         }
                     ]
                 }

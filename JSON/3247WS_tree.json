@@ -8,10 +8,26 @@
                     "name": "HAYATA Hina 3:0 ABRAAMIAN Elizabet",
                     "children": [
                         {
-                            "name": "HAYATA Hina 3:0 CHIEN Tung-Chuan"
+                            "name": "HAYATA Hina 3:0 CHIEN Tung-Chuan",
+                            "children": [
+                                {
+                                    "name": "HAYATA Hina 3:0 LI Yu-Jhun"
+                                },
+                                {
+                                    "name": "CHIEN Tung-Chuan 3:2 CHITALE Diya"
+                                }
+                            ]
                         },
                         {
-                            "name": "KALLBERG Christina 1:3 ABRAAMIAN Elizabet"
+                            "name": "KALLBERG Christina 1:3 ABRAAMIAN Elizabet",
+                            "children": [
+                                {
+                                    "name": "KALLBERG Christina 3:2 KOTSIUR Valeriia"
+                                },
+                                {
+                                    "name": "AKASHEVA Zauresh 1:3 ABRAAMIAN Elizabet"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -19,10 +35,26 @@
                     "name": "DIAZ Adriana 3:1 KAUFMANN Annett",
                     "children": [
                         {
-                            "name": "DIAZ Adriana 3:0 DAS Syndrela"
+                            "name": "DIAZ Adriana 3:0 DAS Syndrela",
+                            "children": [
+                                {
+                                    "name": "DIAZ Adriana 3:2 HUANG Yu-Jie"
+                                },
+                                {
+                                    "name": "VOROBEVA Olga 0:3 DAS Syndrela"
+                                }
+                            ]
                         },
                         {
-                            "name": "PANFILOVA Maria 0:3 KAUFMANN Annett"
+                            "name": "PANFILOVA Maria 0:3 KAUFMANN Annett",
+                            "children": [
+                                {
+                                    "name": "OJIO Yuna 0:3 PANFILOVA Maria"
+                                },
+                                {
+                                    "name": "LEE Zion 1:3 KAUFMANN Annett"
+                                }
+                            ]
                         }
                     ]
                 }
@@ -35,10 +67,26 @@
                     "name": "HIRANO Miu 3:0 VORONINA Vlada",
                     "children": [
                         {
-                            "name": "HIRANO Miu 3:1 YANG Ha Eun"
+                            "name": "HIRANO Miu 3:1 YANG Ha Eun",
+                            "children": [
+                                {
+                                    "name": "HIRANO Miu 3:0 VISHNIAKOVA Olga"
+                                },
+                                {
+                                    "name": "NI Xia Lian 0:3 YANG Ha Eun"
+                                }
+                            ]
                         },
                         {
-                            "name": "VORONINA Vlada 3:0 GHOSH Swastika"
+                            "name": "VORONINA Vlada 3:0 GHOSH Swastika",
+                            "children": [
+                                {
+                                    "name": "VORONINA Vlada 3:1 MIRKADIROVA Sarvinoz"
+                                },
+                                {
+                                    "name": "GHOSH Swastika 3:1 KIHARA Miyuu"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -46,10 +94,26 @@
                     "name": "AKAE Kaho 2:3 NAGASAKI Miyu",
                     "children": [
                         {
-                            "name": "AKAE Kaho 3:1 VIVARELLI Debora"
+                            "name": "AKAE Kaho 3:1 VIVARELLI Debora",
+                            "children": [
+                                {
+                                    "name": "AKAE Kaho 3:0 KOSHKUMBAYEVA Zhanerke"
+                                },
+                                {
+                                    "name": "VIVARELLI Debora 3:2 ROMANOVSKAYA Angelina"
+                                }
+                            ]
                         },
                         {
-                            "name": "GHORPADE Yashaswini 1:3 NAGASAKI Miyu"
+                            "name": "GHORPADE Yashaswini 1:3 NAGASAKI Miyu",
+                            "children": [
+                                {
+                                    "name": "GHORPADE Yashaswini 3:2 SHCHERBATYKH Valeriia"
+                                },
+                                {
+                                    "name": "MUKHERJEE Sutirtha 0:3 NAGASAKI Miyu"
+                                }
+                            ]
                         }
                     ]
                 }

@@ -8,10 +8,26 @@
                     "name": "CALDERANO Hugo 3:2 LIN Shidong",
                     "children": [
                         {
-                            "name": "CALDERANO Hugo 3:0 SURAVAJJULA Snehit"
+                            "name": "CALDERANO Hugo 3:0 SURAVAJJULA Snehit",
+                            "children": [
+                                {
+                                    "name": "CALDERANO Hugo 3:0 DRINKHALL Paul"
+                                },
+                                {
+                                    "name": "SURAVAJJULA Snehit 3:0 SAPIRE Tevia"
+                                }
+                            ]
                         },
                         {
-                            "name": "JARVIS Tom 1:3 LIN Shidong"
+                            "name": "JARVIS Tom 1:3 LIN Shidong",
+                            "children": [
+                                {
+                                    "name": "JARVIS Tom 3:0 XUE Fei"
+                                },
+                                {
+                                    "name": "KAO Cheng-Jui 0:3 LIN Shidong"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -19,10 +35,26 @@
                     "name": "FRANZISKA Patrick 1:3 KALLBERG Anton",
                     "children": [
                         {
-                            "name": "FRANZISKA Patrick 3:0 HUANG Yan-Cheng"
+                            "name": "FRANZISKA Patrick 3:0 HUANG Yan-Cheng",
+                            "children": [
+                                {
+                                    "name": "FRANZISKA Patrick 3:0 CHEN Yuanyu"
+                                },
+                                {
+                                    "name": "HUANG Yan-Cheng 3:0 COGILL Theo"
+                                }
+                            ]
                         },
                         {
-                            "name": "PISTEJ Lubomir 0:3 KALLBERG Anton"
+                            "name": "PISTEJ Lubomir 0:3 KALLBERG Anton",
+                            "children": [
+                                {
+                                    "name": "PICARD Vincent 1:3 PISTEJ Lubomir"
+                                },
+                                {
+                                    "name": "ZELINKA Jakub 0:3 KALLBERG Anton"
+                                }
+                            ]
                         }
                     ]
                 }
@@ -35,10 +67,26 @@
                     "name": "ZHMUDENKO Yaroslav 3:0 ARUNA Quadri",
                     "children": [
                         {
-                            "name": "ROLLAND Jules 2:3 ZHMUDENKO Yaroslav"
+                            "name": "ROLLAND Jules 2:3 ZHMUDENKO Yaroslav",
+                            "children": [
+                                {
+                                    "name": "LIANG Yanning 1:3 ROLLAND Jules"
+                                },
+                                {
+                                    "name": "MOOKETSI Ndelu 0:3 ZHMUDENKO Yaroslav"
+                                }
+                            ]
                         },
                         {
-                            "name": "LEBRUN Felix 2:3 ARUNA Quadri"
+                            "name": "LEBRUN Felix 2:3 ARUNA Quadri",
+                            "children": [
+                                {
+                                    "name": "ORT Kilian 0:3 LEBRUN Felix"
+                                },
+                                {
+                                    "name": "SUN Wen 1:3 ARUNA Quadri"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -46,10 +94,26 @@
                     "name": "GAUZY Simon 3:2 QIU Dang",
                     "children": [
                         {
-                            "name": "GAUZY Simon 3:1 XU Yingbin"
+                            "name": "GAUZY Simon 3:1 XU Yingbin",
+                            "children": [
+                                {
+                                    "name": "GAUZY Simon 3:1 LORENZO Santiago"
+                                },
+                                {
+                                    "name": "XU Yingbin 3:0 GLOD Eric"
+                                }
+                            ]
                         },
                         {
-                            "name": "THAKKAR Manav Vikash 1:3 QIU Dang"
+                            "name": "THAKKAR Manav Vikash 1:3 QIU Dang",
+                            "children": [
+                                {
+                                    "name": "THAKKAR Manav Vikash 3:0 NATHOO Chetan"
+                                },
+                                {
+                                    "name": "YANG Tzu-Yi 0:3 QIU Dang"
+                                }
+                            ]
                         }
                     ]
                 }

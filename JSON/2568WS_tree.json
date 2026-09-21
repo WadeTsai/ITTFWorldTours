@@ -8,10 +8,26 @@
                     "name": "ISHIKAWA Kasumi 1:3 CHEN Szu-Yu",
                     "children": [
                         {
-                            "name": "ISHIKAWA Kasumi 3:0 KIM Nayeong"
+                            "name": "ISHIKAWA Kasumi 3:0 KIM Nayeong",
+                            "children": [
+                                {
+                                    "name": "ISHIKAWA Kasumi 3:2 YOON Hyobin"
+                                },
+                                {
+                                    "name": "KIM Nayeong 3:1 YEH Yi-Tian"
+                                }
+                            ]
                         },
                         {
-                            "name": "CHEN Szu-Yu 3:2 SAWETTABUT Suthasini"
+                            "name": "CHEN Szu-Yu 3:2 SAWETTABUT Suthasini",
+                            "children": [
+                                {
+                                    "name": "CHEN Szu-Yu 3:0 SASAO Asuka"
+                                },
+                                {
+                                    "name": "MORI Sakura 0:3 SAWETTABUT Suthasini"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -19,10 +35,26 @@
                     "name": "YANG Xiaoxin 1:3 HARIMOTO Miwa",
                     "children": [
                         {
-                            "name": "YANG Xiaoxin 3:1 KUAI Man"
+                            "name": "YANG Xiaoxin 3:1 KUAI Man",
+                            "children": [
+                                {
+                                    "name": "YANG Xiaoxin 3:0 SAWETTABUT Jinnipa"
+                                },
+                                {
+                                    "name": "LI Yu-Jhun 1:3 KUAI Man"
+                                }
+                            ]
                         },
                         {
-                            "name": "LEE Zion 0:3 HARIMOTO Miwa"
+                            "name": "LEE Zion 0:3 HARIMOTO Miwa",
+                            "children": [
+                                {
+                                    "name": "LEE Zion 3:1 ALTINKAYA Sibel"
+                                },
+                                {
+                                    "name": "HARIMOTO Miwa 3:2 LIU Weishan"
+                                }
+                            ]
                         }
                     ]
                 }
@@ -35,10 +67,26 @@
                     "name": "FAN Siqi 2:3 ZHANG Rui",
                     "children": [
                         {
-                            "name": "FAN Siqi 3:2 YUAN Jia Nan"
+                            "name": "FAN Siqi 3:2 YUAN Jia Nan",
+                            "children": [
+                                {
+                                    "name": "FAN Siqi 3:1 QI Fei"
+                                },
+                                {
+                                    "name": "WANG Tianyi 0:3 YUAN Jia Nan"
+                                }
+                            ]
                         },
                         {
-                            "name": "ZHANG Rui 3:2 HIRANO Miu"
+                            "name": "ZHANG Rui 3:2 HIRANO Miu",
+                            "children": [
+                                {
+                                    "name": "SHAO Jieni 1:3 ZHANG Rui"
+                                },
+                                {
+                                    "name": "BALAZOVA Barbora 1:3 HIRANO Miu"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -46,10 +94,26 @@
                     "name": "NAGASAKI Miyu 3:1 CHENG I-Ching",
                     "children": [
                         {
-                            "name": "WAN Yuan 2:3 NAGASAKI Miyu"
+                            "name": "WAN Yuan 2:3 NAGASAKI Miyu",
+                            "children": [
+                                {
+                                    "name": "TAKAHASHI Bruna 0:3 WAN Yuan"
+                                },
+                                {
+                                    "name": "HE Zhuojia 2:3 NAGASAKI Miyu"
+                                }
+                            ]
                         },
                         {
-                            "name": "CHENG I-Ching 3:0 SHIN Yubin"
+                            "name": "CHENG I-Ching 3:0 SHIN Yubin",
+                            "children": [
+                                {
+                                    "name": "NI Xia Lian 0:3 CHENG I-Ching"
+                                },
+                                {
+                                    "name": "SHIN Yubin 3:1 DIAZ Adriana"
+                                }
+                            ]
                         }
                     ]
                 }

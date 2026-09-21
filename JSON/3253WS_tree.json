@@ -8,10 +8,26 @@
                     "name": "SATO Hitomi 3:1 HIRANO Miu",
                     "children": [
                         {
-                            "name": "SATO Hitomi 3:0 HO Tin-Tin"
+                            "name": "SATO Hitomi 3:0 HO Tin-Tin",
+                            "children": [
+                                {
+                                    "name": "SATO Hitomi 3:0 MOYLAND Sally"
+                                },
+                                {
+                                    "name": "YOVKOVA Maria 1:3 HO Tin-Tin"
+                                }
+                            ]
                         },
                         {
-                            "name": "BATRA Manika 2:3 HIRANO Miu"
+                            "name": "BATRA Manika 2:3 HIRANO Miu",
+                            "children": [
+                                {
+                                    "name": "BATRA Manika 3:0 LUPULESKU Izabela"
+                                },
+                                {
+                                    "name": "ZARIF Audrey 1:3 HIRANO Miu"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -19,10 +35,26 @@
                     "name": "AOKI Sachi 3:1 HUANG Yu-Jie",
                     "children": [
                         {
-                            "name": "KIHARA Miyuu 2:3 AOKI Sachi"
+                            "name": "KIHARA Miyuu 2:3 AOKI Sachi",
+                            "children": [
+                                {
+                                    "name": "KIHARA Miyuu 3:2 SALPIN Anais"
+                                },
+                                {
+                                    "name": "AOKI Sachi 3:0 BERGAND Filippa"
+                                }
+                            ]
                         },
                         {
-                            "name": "PICCOLIN Giorgia 1:3 HUANG Yu-Jie"
+                            "name": "PICCOLIN Giorgia 1:3 HUANG Yu-Jie",
+                            "children": [
+                                {
+                                    "name": "WAN Yuan 1:3 PICCOLIN Giorgia"
+                                },
+                                {
+                                    "name": "YU Fu 2:3 HUANG Yu-Jie"
+                                }
+                            ]
                         }
                     ]
                 }
@@ -35,10 +67,26 @@
                     "name": "ARAPOVIC Hana 2:3 YOKOI Sakura",
                     "children": [
                         {
-                            "name": "XIAO Maria 2:3 ARAPOVIC Hana"
+                            "name": "XIAO Maria 2:3 ARAPOVIC Hana",
+                            "children": [
+                                {
+                                    "name": "XIAO Maria 3:1 SURJAN Sabina"
+                                },
+                                {
+                                    "name": "LUTZ Charlotte 2:3 ARAPOVIC Hana"
+                                }
+                            ]
                         },
                         {
-                            "name": "LUTZ Camille 2:3 YOKOI Sakura"
+                            "name": "LUTZ Camille 2:3 YOKOI Sakura",
+                            "children": [
+                                {
+                                    "name": "ORTEGA Daniela 0:3 LUTZ Camille"
+                                },
+                                {
+                                    "name": "MONFARDINI Gaia 0:3 YOKOI Sakura"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -46,10 +94,26 @@
                     "name": "AKAE Kaho 1:3 NAGASAKI Miyu",
                     "children": [
                         {
-                            "name": "AKAE Kaho 3:0 OJIO Yuna"
+                            "name": "AKAE Kaho 3:0 OJIO Yuna",
+                            "children": [
+                                {
+                                    "name": "AKAE Kaho 3:0 PICARD Claire"
+                                },
+                                {
+                                    "name": "ZAHARIA Elena 0:3 OJIO Yuna"
+                                }
+                            ]
                         },
                         {
-                            "name": "KALLBERG Christina 0:3 NAGASAKI Miyu"
+                            "name": "KALLBERG Christina 0:3 NAGASAKI Miyu",
+                            "children": [
+                                {
+                                    "name": "ZHANG Sofia-Xuan 1:3 KALLBERG Christina"
+                                },
+                                {
+                                    "name": "DE STOPPELEIRE Clea 0:3 NAGASAKI Miyu"
+                                }
+                            ]
                         }
                     ]
                 }

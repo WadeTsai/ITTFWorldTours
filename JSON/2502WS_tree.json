@@ -8,10 +8,26 @@
                     "name": "POLCANOVA Sofia 3:1 TRIGOLOS Daria",
                     "children": [
                         {
-                            "name": "POLCANOVA Sofia 3:1 TAILAKOVA Mariia"
+                            "name": "POLCANOVA Sofia 3:1 TAILAKOVA Mariia",
+                            "children": [
+                                {
+                                    "name": "POLCANOVA Sofia 3:0 PICCOLIN Giorgia"
+                                },
+                                {
+                                    "name": "SOLJA Amelie 0:3 TAILAKOVA Mariia"
+                                }
+                            ]
                         },
                         {
-                            "name": "TRIGOLOS Daria 3:2 MIKHAILOVA Polina"
+                            "name": "TRIGOLOS Daria 3:2 MIKHAILOVA Polina",
+                            "children": [
+                                {
+                                    "name": "TRIGOLOS Daria 3:0 WAN Yuan"
+                                },
+                                {
+                                    "name": "ZARIF Audrey 0:3 MIKHAILOVA Polina"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -19,10 +35,26 @@
                     "name": "MITTELHAM Nina 2:3 MATELOVA Hana",
                     "children": [
                         {
-                            "name": "MITTELHAM Nina 3:0 MADARASZ Dora"
+                            "name": "MITTELHAM Nina 3:0 MADARASZ Dora",
+                            "children": [
+                                {
+                                    "name": "MITTELHAM Nina 3:1 BATRA Manika"
+                                },
+                                {
+                                    "name": "MADARASZ Dora 3:1 VIVARELLI Debora"
+                                }
+                            ]
                         },
                         {
-                            "name": "KALLBERG Christina 1:3 MATELOVA Hana"
+                            "name": "KALLBERG Christina 1:3 MATELOVA Hana",
+                            "children": [
+                                {
+                                    "name": "KALLBERG Christina 3:1 DE NUTTE Sarah"
+                                },
+                                {
+                                    "name": "MORET Rachel 0:3 MATELOVA Hana"
+                                }
+                            ]
                         }
                     ]
                 }
@@ -35,10 +67,26 @@
                     "name": "PAVADE Prithika 1:3 YANG Xiaoxin",
                     "children": [
                         {
-                            "name": "MESHREF Dina 0:3 PAVADE Prithika"
+                            "name": "MESHREF Dina 0:3 PAVADE Prithika",
+                            "children": [
+                                {
+                                    "name": "MESHREF Dina 3:0 SELVAKUMAR Selena"
+                                },
+                                {
+                                    "name": "DIACONU Adina 0:3 PAVADE Prithika"
+                                }
+                            ]
                         },
                         {
-                            "name": "XIAO Maria 1:3 YANG Xiaoxin"
+                            "name": "XIAO Maria 1:3 YANG Xiaoxin",
+                            "children": [
+                                {
+                                    "name": "BALAZOVA Barbora 1:3 XIAO Maria"
+                                },
+                                {
+                                    "name": "YUAN Jia Nan 2:3 YANG Xiaoxin"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -46,10 +94,26 @@
                     "name": "SHAO Jieni 0:3 DIAZ Adriana",
                     "children": [
                         {
-                            "name": "TAKAHASHI Bruna 2:3 SHAO Jieni"
+                            "name": "TAKAHASHI Bruna 2:3 SHAO Jieni",
+                            "children": [
+                                {
+                                    "name": "TAKAHASHI Bruna 3:0 DIAZ Melanie"
+                                },
+                                {
+                                    "name": "HELMY Yousra 0:3 SHAO Jieni"
+                                }
+                            ]
                         },
                         {
-                            "name": "BERGSTROM Linda 1:3 DIAZ Adriana"
+                            "name": "BERGSTROM Linda 1:3 DIAZ Adriana",
+                            "children": [
+                                {
+                                    "name": "BERGSTROM Linda 3:1 MIGOT Marie"
+                                },
+                                {
+                                    "name": "MOSTAFAVI Leili 0:3 DIAZ Adriana"
+                                }
+                            ]
                         }
                     ]
                 }

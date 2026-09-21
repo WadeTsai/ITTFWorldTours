@@ -8,10 +8,26 @@
                     "name": "LIND Anders 3:1 GERALDO Joao",
                     "children": [
                         {
-                            "name": "LIND Anders 3:1 DANI Mudit"
+                            "name": "LIND Anders 3:1 DANI Mudit",
+                            "children": [
+                                {
+                                    "name": "LIND Anders 3:2 CHIRITA Iulian"
+                                },
+                                {
+                                    "name": "DANI Mudit 3:0 LY Edward"
+                                }
+                            ]
                         },
                         {
-                            "name": "SALIFOU Abdel-Kader 0:3 GERALDO Joao"
+                            "name": "SALIFOU Abdel-Kader 0:3 GERALDO Joao",
+                            "children": [
+                                {
+                                    "name": "SOLANKE Azeez 2:3 SALIFOU Abdel-Kader"
+                                },
+                                {
+                                    "name": "JAIN Payas 0:3 GERALDO Joao"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -19,10 +35,26 @@
                     "name": "THAKKAR Manav 2:3 LIM Jonghoon",
                     "children": [
                         {
-                            "name": "THAKKAR Manav 3:0 BHATTACHARJEE Ankur"
+                            "name": "THAKKAR Manav 3:0 BHATTACHARJEE Ankur",
+                            "children": [
+                                {
+                                    "name": "THAKKAR Manav 3:0 DESAI Harmeet"
+                                },
+                                {
+                                    "name": "BHATTACHARJEE Ankur 3:0 ABDULFATAI Abdulbasit"
+                                }
+                            ]
                         },
                         {
-                            "name": "LIM Jonghoon 3:0 YOSHIMURA Kazuhiro"
+                            "name": "LIM Jonghoon 3:0 YOSHIMURA Kazuhiro",
+                            "children": [
+                                {
+                                    "name": "LIM Jonghoon 3:0 OMOTAYO Olajide"
+                                },
+                                {
+                                    "name": "YOSHIMURA Kazuhiro 3:2 SEYFRIED Joe"
+                                }
+                            ]
                         }
                     ]
                 }
@@ -35,10 +67,26 @@
                     "name": "BARDET Lilian 0:3 OH Junsung",
                     "children": [
                         {
-                            "name": "BARDET Lilian 3:0 ISTRATE Andrei"
+                            "name": "BARDET Lilian 3:0 ISTRATE Andrei",
+                            "children": [
+                                {
+                                    "name": "BARDET Lilian 3:0 MATI Taiwo"
+                                },
+                                {
+                                    "name": "ISTRATE Andrei 3:0 ADEGOKE Muizz"
+                                }
+                            ]
                         },
                         {
-                            "name": "DE NODREST Leo 1:3 OH Junsung"
+                            "name": "DE NODREST Leo 1:3 OH Junsung",
+                            "children": [
+                                {
+                                    "name": "SHETTY Sanil 0:3 DE NODREST Leo"
+                                },
+                                {
+                                    "name": "CAMARA Gabrielius 0:3 OH Junsung"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -46,10 +94,26 @@
                     "name": "SHAH Manush 3:2 PORET Thibault",
                     "children": [
                         {
-                            "name": "SHAH Manush 3:1 AGUNBIADE Sultan"
+                            "name": "SHAH Manush 3:1 AGUNBIADE Sultan",
+                            "children": [
+                                {
+                                    "name": "SHAH Manush 3:1 KUTI Matthew"
+                                },
+                                {
+                                    "name": "FABUNMI Mathew 1:3 AGUNBIADE Sultan"
+                                }
+                            ]
                         },
                         {
-                            "name": "KIM Gaon 1:3 PORET Thibault"
+                            "name": "KIM Gaon 1:3 PORET Thibault",
+                            "children": [
+                                {
+                                    "name": "DE BOER Milo 1:3 KIM Gaon"
+                                },
+                                {
+                                    "name": "ALLEGRO Martin 2:3 PORET Thibault"
+                                }
+                            ]
                         }
                     ]
                 }

@@ -8,10 +8,26 @@
                     "name": "ODO Satsuki 3:1 HE Zhuojia",
                     "children": [
                         {
-                            "name": "ODO Satsuki 3:0 KIM Seoyun"
+                            "name": "ODO Satsuki 3:0 KIM Seoyun",
+                            "children": [
+                                {
+                                    "name": "ODO Satsuki 3:1 YANG Yiyun"
+                                },
+                                {
+                                    "name": "ZONG Geman 1:3 KIM Seoyun"
+                                }
+                            ]
                         },
                         {
-                            "name": "HE Zhuojia 3:1 ZHU Chengzhu"
+                            "name": "HE Zhuojia 3:1 ZHU Chengzhu",
+                            "children": [
+                                {
+                                    "name": "HE Zhuojia 3:0 CHENG Hsien-Tzu"
+                                },
+                                {
+                                    "name": "YOON Hyobin 2:3 ZHU Chengzhu"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -19,10 +35,26 @@
                     "name": "KIM Nayeong 1:3 KUAI Man",
                     "children": [
                         {
-                            "name": "KIM Nayeong 3:1 MUKHERJEE Ayhika"
+                            "name": "KIM Nayeong 3:1 MUKHERJEE Ayhika",
+                            "children": [
+                                {
+                                    "name": "KIM Nayeong 3:0 RAKOVAC Lea"
+                                },
+                                {
+                                    "name": "BALAZOVA Barbora 2:3 MUKHERJEE Ayhika"
+                                }
+                            ]
                         },
                         {
-                            "name": "KUAI Man 3:0 DOO Hoi Kem"
+                            "name": "KUAI Man 3:0 DOO Hoi Kem",
+                            "children": [
+                                {
+                                    "name": "KUAI Man 3:0 ZHU Sibing"
+                                },
+                                {
+                                    "name": "SURJAN Sabina 0:3 DOO Hoi Kem"
+                                }
+                            ]
                         }
                     ]
                 }
@@ -35,10 +67,26 @@
                     "name": "GHOSH Swastika 1:3 SHI Xunyao",
                     "children": [
                         {
-                            "name": "SAMARA Elizabeta 0:3 GHOSH Swastika"
+                            "name": "SAMARA Elizabeta 0:3 GHOSH Swastika",
+                            "children": [
+                                {
+                                    "name": "SAMARA Elizabeta 3:0 CHEN Yi"
+                                },
+                                {
+                                    "name": "LI Yake 1:3 GHOSH Swastika"
+                                }
+                            ]
                         },
                         {
-                            "name": "CHITALE Diya Parag 0:3 SHI Xunyao"
+                            "name": "CHITALE Diya Parag 0:3 SHI Xunyao",
+                            "children": [
+                                {
+                                    "name": "GHORPADE Yashaswini 2:3 CHITALE Diya Parag"
+                                },
+                                {
+                                    "name": "HAN Feier 1:3 SHI Xunyao"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -46,10 +94,26 @@
                     "name": "LEE Eunhye 2:3 QIAN Tianyi",
                     "children": [
                         {
-                            "name": "LEE Eunhye 3:2 DIACONU Adina"
+                            "name": "LEE Eunhye 3:2 DIACONU Adina",
+                            "children": [
+                                {
+                                    "name": "LEE Eunhye 3:2 YANG Ha Eun"
+                                },
+                                {
+                                    "name": "DIACONU Adina 3:0 LEE Hoi Man Karen"
+                                }
+                            ]
                         },
                         {
-                            "name": "QIN Yuxuan 1:3 QIAN Tianyi"
+                            "name": "QIN Yuxuan 1:3 QIAN Tianyi",
+                            "children": [
+                                {
+                                    "name": "QIN Yuxuan 3:1 MUKHERJEE Sutirtha"
+                                },
+                                {
+                                    "name": "NG Wing Lam 1:3 QIAN Tianyi"
+                                }
+                            ]
                         }
                     ]
                 }

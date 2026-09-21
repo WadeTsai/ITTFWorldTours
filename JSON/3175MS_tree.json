@@ -8,10 +8,26 @@
                     "name": "CALDERANO Hugo 3:0 LIAO Cheng-Ting",
                     "children": [
                         {
-                            "name": "CALDERANO Hugo 3:1 APOLONIA Tiago"
+                            "name": "CALDERANO Hugo 3:1 APOLONIA Tiago",
+                            "children": [
+                                {
+                                    "name": "CALDERANO Hugo 3:0 FUENTES Leandro"
+                                },
+                                {
+                                    "name": "APOLONIA Tiago 3:2 HAMADA Kazuki"
+                                }
+                            ]
                         },
                         {
-                            "name": "LIAO Cheng-Ting 3:0 DESAI Harmeet"
+                            "name": "LIAO Cheng-Ting 3:0 DESAI Harmeet",
+                            "children": [
+                                {
+                                    "name": "LIAO Cheng-Ting 3:0 BURGOS Nicolas"
+                                },
+                                {
+                                    "name": "DESAI Harmeet 3:2 UDA Yukiya"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -19,10 +35,26 @@
                     "name": "SHINOZUKA Hiroto 3:1 WALTHER Ricardo",
                     "children": [
                         {
-                            "name": "SHINOZUKA Hiroto 3:0 CIFUENTES Horacio"
+                            "name": "SHINOZUKA Hiroto 3:0 CIFUENTES Horacio",
+                            "children": [
+                                {
+                                    "name": "SHINOZUKA Hiroto 3:0 IIZUKA Leonardo"
+                                },
+                                {
+                                    "name": "CIFUENTES Horacio 3:0 DESCHAMPS Hugo"
+                                }
+                            ]
                         },
                         {
-                            "name": "GOMEZ Gustavo 1:3 WALTHER Ricardo"
+                            "name": "GOMEZ Gustavo 1:3 WALTHER Ricardo",
+                            "children": [
+                                {
+                                    "name": "GOMEZ Gustavo 3:2 SHAH Manush"
+                                },
+                                {
+                                    "name": "BENTANCOR Martin 1:3 WALTHER Ricardo"
+                                }
+                            ]
                         }
                     ]
                 }
@@ -35,10 +67,26 @@
                     "name": "THAKKAR Manav 3:0 KIM Taehyun",
                     "children": [
                         {
-                            "name": "THAKKAR Manav 3:2 STUMPER Kay"
+                            "name": "THAKKAR Manav 3:2 STUMPER Kay",
+                            "children": [
+                                {
+                                    "name": "THAKKAR Manav 3:1 LORENZO Santiago"
+                                },
+                                {
+                                    "name": "STUMPER Kay 3:0 NARANJO Angel"
+                                }
+                            ]
                         },
                         {
-                            "name": "KIM Taehyun 3:2 SURAVAJJULA Snehit"
+                            "name": "KIM Taehyun 3:2 SURAVAJJULA Snehit",
+                            "children": [
+                                {
+                                    "name": "KIM Taehyun 3:2 KUO Guan-Hong"
+                                },
+                                {
+                                    "name": "SURAVAJJULA Snehit 3:1 BAE Hwan"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -46,10 +94,26 @@
                     "name": "BERTELSMEIER Andre 1:3 OIKAWA Mizuki",
                     "children": [
                         {
-                            "name": "YOSHIYAMA Ryoichi 2:3 BERTELSMEIER Andre"
+                            "name": "YOSHIYAMA Ryoichi 2:3 BERTELSMEIER Andre",
+                            "children": [
+                                {
+                                    "name": "BARDET Lilian 0:3 YOSHIYAMA Ryoichi"
+                                },
+                                {
+                                    "name": "BERTELSMEIER Andre 3:2 BHATTACHARJEE Ankur"
+                                }
+                            ]
                         },
                         {
-                            "name": "OIKAWA Mizuki 3:2 OH Junsung"
+                            "name": "OIKAWA Mizuki 3:2 OH Junsung",
+                            "children": [
+                                {
+                                    "name": "BOURRASSAUD Florian 2:3 OIKAWA Mizuki"
+                                },
+                                {
+                                    "name": "CHANG Yu-An 1:3 OH Junsung"
+                                }
+                            ]
                         }
                     ]
                 }

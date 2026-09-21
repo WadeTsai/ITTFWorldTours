@@ -8,10 +8,26 @@
                     "name": "JOO Cheonhui 3:0 GHORPADE Yashaswini",
                     "children": [
                         {
-                            "name": "JOO Cheonhui 3:1 LUPULESKU Izabela"
+                            "name": "JOO Cheonhui 3:1 LUPULESKU Izabela",
+                            "children": [
+                                {
+                                    "name": "JOO Cheonhui 3:0 CHEN Szu-Yu"
+                                },
+                                {
+                                    "name": "ZARIF Audrey 2:3 LUPULESKU Izabela"
+                                }
+                            ]
                         },
                         {
-                            "name": "GHORPADE Yashaswini 3:2 SINGEORZAN Ioana"
+                            "name": "GHORPADE Yashaswini 3:2 SINGEORZAN Ioana",
+                            "children": [
+                                {
+                                    "name": "GHORPADE Yashaswini 3:1 KANEYOSHI Yuka"
+                                },
+                                {
+                                    "name": "SINGEORZAN Ioana 3:2 KALLBERG Christina"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -19,10 +35,26 @@
                     "name": "PESOTSKA Margaryta 3:2 CHIEN Tung-Chuan",
                     "children": [
                         {
-                            "name": "PESOTSKA Margaryta 3:2 SHAN Xiaona"
+                            "name": "PESOTSKA Margaryta 3:2 SHAN Xiaona",
+                            "children": [
+                                {
+                                    "name": "PESOTSKA Margaryta 3:0 LUTZ Camille"
+                                },
+                                {
+                                    "name": "SHAN Xiaona 3:0 ORTEGA Daniela"
+                                }
+                            ]
                         },
                         {
-                            "name": "PANFILOVA Maria 1:3 CHIEN Tung-Chuan"
+                            "name": "PANFILOVA Maria 1:3 CHIEN Tung-Chuan",
+                            "children": [
+                                {
+                                    "name": "HELMY Yousra 2:3 PANFILOVA Maria"
+                                },
+                                {
+                                    "name": "SCHREINER Franziska 2:3 CHIEN Tung-Chuan"
+                                }
+                            ]
                         }
                     ]
                 }
@@ -35,10 +67,26 @@
                     "name": "ABRAAMIAN Elizabet 3:2 MITTELHAM Nina",
                     "children": [
                         {
-                            "name": "ABRAAMIAN Elizabet 3:2 IDESAWA Kyoka"
+                            "name": "ABRAAMIAN Elizabet 3:2 IDESAWA Kyoka",
+                            "children": [
+                                {
+                                    "name": "WAN Yuan 2:3 ABRAAMIAN Elizabet"
+                                },
+                                {
+                                    "name": "NG Wing Lam 0:3 IDESAWA Kyoka"
+                                }
+                            ]
                         },
                         {
-                            "name": "COK Isa 0:3 MITTELHAM Nina"
+                            "name": "COK Isa 0:3 MITTELHAM Nina",
+                            "children": [
+                                {
+                                    "name": "ZAHARIA Elena 0:3 COK Isa"
+                                },
+                                {
+                                    "name": "HARAC Ece 2:3 MITTELHAM Nina"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -46,10 +94,26 @@
                     "name": "TAKEYA Misuzu 0:3 XIAO Maria",
                     "children": [
                         {
-                            "name": "TAKEYA Misuzu 3:2 ZHANG Sofia-Xuan"
+                            "name": "TAKEYA Misuzu 3:2 ZHANG Sofia-Xuan",
+                            "children": [
+                                {
+                                    "name": "ALTINKAYA Sibel 0:3 TAKEYA Misuzu"
+                                },
+                                {
+                                    "name": "GUO ZHENG Nina 1:3 ZHANG Sofia-Xuan"
+                                }
+                            ]
                         },
                         {
-                            "name": "MUKHERJEE Sutirtha 0:3 XIAO Maria"
+                            "name": "MUKHERJEE Sutirtha 0:3 XIAO Maria",
+                            "children": [
+                                {
+                                    "name": "PICCOLIN Giorgia 2:3 MUKHERJEE Sutirtha"
+                                },
+                                {
+                                    "name": "CHITALE Diya 0:3 XIAO Maria"
+                                }
+                            ]
                         }
                     ]
                 }

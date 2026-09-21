@@ -8,10 +8,26 @@
                     "name": "ODO Satsuki 3:0 SHAO Jieni",
                     "children": [
                         {
-                            "name": "ODO Satsuki 3:0 VIVARELLI Debora"
+                            "name": "ODO Satsuki 3:0 VIVARELLI Debora",
+                            "children": [
+                                {
+                                    "name": "ODO Satsuki 3:0 ODUSANYA Abosede"
+                                },
+                                {
+                                    "name": "VIVARELLI Debora 3:0 OJOMU Ajoke"
+                                }
+                            ]
                         },
                         {
-                            "name": "SHAO Jieni 3:1 BATRA Manika"
+                            "name": "SHAO Jieni 3:1 BATRA Manika",
+                            "children": [
+                                {
+                                    "name": "MUKHERJEE Sutirtha 0:3 SHAO Jieni"
+                                },
+                                {
+                                    "name": "ASO Reina 1:3 BATRA Manika"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -19,10 +35,26 @@
                     "name": "SATO Hitomi 3:0 CHITALE Diya",
                     "children": [
                         {
-                            "name": "SATO Hitomi 3:0 BELLO Fatimo"
+                            "name": "SATO Hitomi 3:0 BELLO Fatimo",
+                            "children": [
+                                {
+                                    "name": "SATO Hitomi 3:0 OKANLAWON Kadijat"
+                                },
+                                {
+                                    "name": "SEZUO Aziza 0:3 BELLO Fatimo"
+                                }
+                            ]
                         },
                         {
-                            "name": "CHITALE Diya 3:2 LUTZ Camille"
+                            "name": "CHITALE Diya 3:2 LUTZ Camille",
+                            "children": [
+                                {
+                                    "name": "UDOAKA Hope 0:3 CHITALE Diya"
+                                },
+                                {
+                                    "name": "LUTZ Camille 3:1 MESHREF Dina"
+                                }
+                            ]
                         }
                     ]
                 }
@@ -35,10 +67,26 @@
                     "name": "SAMARA Elizabeta 0:3 JOO Cheonhui",
                     "children": [
                         {
-                            "name": "SAMARA Elizabeta 3:2 SCHREINER Franziska"
+                            "name": "SAMARA Elizabeta 3:2 SCHREINER Franziska",
+                            "children": [
+                                {
+                                    "name": "SAMARA Elizabeta 3:0 MANI Nithya"
+                                },
+                                {
+                                    "name": "SCHREINER Franziska 3:0 AJUWON Anuoluwapo"
+                                }
+                            ]
                         },
                         {
-                            "name": "SHIBATA Saki 1:3 JOO Cheonhui"
+                            "name": "SHIBATA Saki 1:3 JOO Cheonhui",
+                            "children": [
+                                {
+                                    "name": "MONFARDINI Gaia 2:3 SHIBATA Saki"
+                                },
+                                {
+                                    "name": "OJO Favour 0:3 JOO Cheonhui"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -46,10 +94,26 @@
                     "name": "MUKHERJEE Ayhika 0:3 HASHIMOTO Honoka",
                     "children": [
                         {
-                            "name": "ZHANG Mo 0:3 MUKHERJEE Ayhika"
+                            "name": "ZHANG Mo 0:3 MUKHERJEE Ayhika",
+                            "children": [
+                                {
+                                    "name": "ZHANG Mo 3:0 VEGA Paulina"
+                                },
+                                {
+                                    "name": "MUKHERJEE Ayhika 3:0 TOFANT Ana"
+                                }
+                            ]
                         },
                         {
-                            "name": "DAS Syndrela 0:3 HASHIMOTO Honoka"
+                            "name": "DAS Syndrela 0:3 HASHIMOTO Honoka",
+                            "children": [
+                                {
+                                    "name": "DAS Syndrela 3:0 GHORPADE Yashaswini"
+                                },
+                                {
+                                    "name": "SAINI Suhana 0:3 HASHIMOTO Honoka"
+                                }
+                            ]
                         }
                     ]
                 }

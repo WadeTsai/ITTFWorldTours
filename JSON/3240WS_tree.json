@@ -8,10 +8,26 @@
                     "name": "HARIMOTO Miwa 3:0 SATO Hitomi",
                     "children": [
                         {
-                            "name": "HARIMOTO Miwa 3:0 ARAPOVIC Hana"
+                            "name": "HARIMOTO Miwa 3:0 ARAPOVIC Hana",
+                            "children": [
+                                {
+                                    "name": "HARIMOTO Miwa 3:0 KAUFMANN Annett"
+                                },
+                                {
+                                    "name": "HAN Feier 1:3 ARAPOVIC Hana"
+                                }
+                            ]
                         },
                         {
-                            "name": "POLCANOVA Sofia 0:3 SATO Hitomi"
+                            "name": "POLCANOVA Sofia 0:3 SATO Hitomi",
+                            "children": [
+                                {
+                                    "name": "POLCANOVA Sofia 3:1 KIM Nayeong"
+                                },
+                                {
+                                    "name": "ZHANG Lily 1:3 SATO Hitomi"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -19,10 +35,26 @@
                     "name": "ODO Satsuki 3:0 HIRANO Miu",
                     "children": [
                         {
-                            "name": "ODO Satsuki 3:0 HURSEY Anna"
+                            "name": "ODO Satsuki 3:0 HURSEY Anna",
+                            "children": [
+                                {
+                                    "name": "ODO Satsuki 3:0 KALLBERG Christina"
+                                },
+                                {
+                                    "name": "AKULA Sreeja 1:3 HURSEY Anna"
+                                }
+                            ]
                         },
                         {
-                            "name": "HIRANO Miu 3:1 SHAN Xiaona"
+                            "name": "HIRANO Miu 3:1 SHAN Xiaona",
+                            "children": [
+                                {
+                                    "name": "MURAMATSU Cocona 1:3 HIRANO Miu"
+                                },
+                                {
+                                    "name": "SHAN Xiaona 3:2 GODA Hana"
+                                }
+                            ]
                         }
                     ]
                 }
@@ -35,10 +67,26 @@
                     "name": "YOKOI Sakura 3:2 CHEN Yi",
                     "children": [
                         {
-                            "name": "HAYATA Hina 1:3 YOKOI Sakura"
+                            "name": "HAYATA Hina 1:3 YOKOI Sakura",
+                            "children": [
+                                {
+                                    "name": "HAYATA Hina 3:1 QIN Yuxuan"
+                                },
+                                {
+                                    "name": "YOKOI Sakura 3:0 MALOBABIC Ivana"
+                                }
+                            ]
                         },
                         {
-                            "name": "LEE Eunhye 1:3 CHEN Yi"
+                            "name": "LEE Eunhye 1:3 CHEN Yi",
+                            "children": [
+                                {
+                                    "name": "LEE Eunhye 3:2 YANG Xiaoxin"
+                                },
+                                {
+                                    "name": "YEH Yi-Tian 0:3 CHEN Yi"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -46,10 +94,26 @@
                     "name": "KIHARA Miyuu 1:3 ZHU Yuling",
                     "children": [
                         {
-                            "name": "KIHARA Miyuu 3:2 DOO Hoi Kem"
+                            "name": "KIHARA Miyuu 3:2 DOO Hoi Kem",
+                            "children": [
+                                {
+                                    "name": "KIHARA Miyuu 3:0 YU Fu"
+                                },
+                                {
+                                    "name": "FAN Shuhan 0:3 DOO Hoi Kem"
+                                }
+                            ]
                         },
                         {
-                            "name": "ZENG Jian 0:3 ZHU Yuling"
+                            "name": "ZENG Jian 0:3 ZHU Yuling",
+                            "children": [
+                                {
+                                    "name": "RAKOVAC Lea 2:3 ZENG Jian"
+                                },
+                                {
+                                    "name": "HE Zhuojia 1:3 ZHU Yuling"
+                                }
+                            ]
                         }
                     ]
                 }

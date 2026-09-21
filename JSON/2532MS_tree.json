@@ -8,10 +8,26 @@
                     "name": "CALDERANO Hugo 2:3 QIU Dang",
                     "children": [
                         {
-                            "name": "CALDERANO Hugo 3:0 KALLBERG Anton"
+                            "name": "CALDERANO Hugo 3:0 KALLBERG Anton",
+                            "children": [
+                                {
+                                    "name": "CALDERANO Hugo 3:0 LIU Dingshuo"
+                                },
+                                {
+                                    "name": "KALLBERG Anton 3:1 GARDOS Robert"
+                                }
+                            ]
                         },
                         {
-                            "name": "QIU Dang 3:2 GAUZY Simon"
+                            "name": "QIU Dang 3:2 GAUZY Simon",
+                            "children": [
+                                {
+                                    "name": "WANG Yang 2:3 QIU Dang"
+                                },
+                                {
+                                    "name": "PERSSON Jon 1:3 GAUZY Simon"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -19,10 +35,26 @@
                     "name": "AN Jaehyun 0:3 LEBRUN Alexis",
                     "children": [
                         {
-                            "name": "JORGIC Darko 0:3 AN Jaehyun"
+                            "name": "JORGIC Darko 0:3 AN Jaehyun",
+                            "children": [
+                                {
+                                    "name": "JORGIC Darko 3:0 DUDA Benedikt"
+                                },
+                                {
+                                    "name": "AN Jaehyun 3:2 KARLSSON Kristian"
+                                }
+                            ]
                         },
                         {
-                            "name": "LEBRUN Alexis 3:0 JIN Takuya"
+                            "name": "LEBRUN Alexis 3:0 JIN Takuya",
+                            "children": [
+                                {
+                                    "name": "LEBRUN Alexis 3:1 GERASSIMENKO Kirill"
+                                },
+                                {
+                                    "name": "JIN Takuya 3:2 FRANZISKA Patrick"
+                                }
+                            ]
                         }
                     ]
                 }
@@ -35,10 +67,26 @@
                     "name": "PUCAR Tomislav 0:3 ACHANTA Sharath Kamal",
                     "children": [
                         {
-                            "name": "WONG Chun Ting 1:3 PUCAR Tomislav"
+                            "name": "WONG Chun Ting 1:3 PUCAR Tomislav",
+                            "children": [
+                                {
+                                    "name": "WONG Chun Ting 3:0 AKKUZU Can"
+                                },
+                                {
+                                    "name": "PUCAR Tomislav 3:2 ROBLES Alvaro"
+                                }
+                            ]
                         },
                         {
-                            "name": "ACHANTA Sharath Kamal 3:1 LIM Jonghoon"
+                            "name": "ACHANTA Sharath Kamal 3:1 LIM Jonghoon",
+                            "children": [
+                                {
+                                    "name": "ALMUGHANNE Fahed 0:3 ACHANTA Sharath Kamal"
+                                },
+                                {
+                                    "name": "LIM Jonghoon 3:1 ARUNA Quadri"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -46,10 +94,26 @@
                     "name": "ZHAO Zihao 1:3 YUAN Licen",
                     "children": [
                         {
-                            "name": "ZHAO Zihao 3:0 GROTH Jonathan"
+                            "name": "ZHAO Zihao 3:0 GROTH Jonathan",
+                            "children": [
+                                {
+                                    "name": "CHUANG Chih-Yuan 1:3 ZHAO Zihao"
+                                },
+                                {
+                                    "name": "GROTH Jonathan 3:1 FALCK Mattias"
+                                }
+                            ]
                         },
                         {
-                            "name": "YUAN Licen 3:1 LIN Yun-Ju"
+                            "name": "YUAN Licen 3:1 LIN Yun-Ju",
+                            "children": [
+                                {
+                                    "name": "GNANASEKARAN Sathiyan 0:3 YUAN Licen"
+                                },
+                                {
+                                    "name": "LEBRUN Felix 1:3 LIN Yun-Ju"
+                                }
+                            ]
                         }
                     ]
                 }

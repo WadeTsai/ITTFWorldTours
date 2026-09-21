@@ -8,10 +8,26 @@
                     "name": "MOREGARD Truls 1:3 FRANZISKA Patrick",
                     "children": [
                         {
-                            "name": "MOREGARD Truls 3:0 WANG Chen Ce"
+                            "name": "MOREGARD Truls 3:0 WANG Chen Ce",
+                            "children": [
+                                {
+                                    "name": "MOREGARD Truls 3:1 TOGAMI Shunsuke"
+                                },
+                                {
+                                    "name": "ZELJKO Filip 1:3 WANG Chen Ce"
+                                }
+                            ]
                         },
                         {
-                            "name": "JANG Woojin 2:3 FRANZISKA Patrick"
+                            "name": "JANG Woojin 2:3 FRANZISKA Patrick",
+                            "children": [
+                                {
+                                    "name": "JANG Woojin 3:0 OLAH Benedek"
+                                },
+                                {
+                                    "name": "LEBRUN Alexis 0:3 FRANZISKA Patrick"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -19,10 +35,26 @@
                     "name": "LIN Yun-Ju 3:1 LIANG Guodong",
                     "children": [
                         {
-                            "name": "LIN Yun-Ju 3:1 UDA Yukiya"
+                            "name": "LIN Yun-Ju 3:1 UDA Yukiya",
+                            "children": [
+                                {
+                                    "name": "LIN Yun-Ju 3:0 CHO Seungmin"
+                                },
+                                {
+                                    "name": "UDA Yukiya 3:2 AN Jaehyun"
+                                }
+                            ]
                         },
                         {
-                            "name": "LIANG Guodong 3:2 WONG Chun Ting"
+                            "name": "LIANG Guodong 3:2 WONG Chun Ting",
+                            "children": [
+                                {
+                                    "name": "HABESOHN Daniel 2:3 LIANG Guodong"
+                                },
+                                {
+                                    "name": "GERASSIMENKO Kirill 2:3 WONG Chun Ting"
+                                }
+                            ]
                         }
                     ]
                 }
@@ -35,10 +67,26 @@
                     "name": "WALTHER Ricardo 1:3 XIANG Peng",
                     "children": [
                         {
-                            "name": "WALTHER Ricardo 3:0 SIPOS Rares"
+                            "name": "WALTHER Ricardo 3:0 SIPOS Rares",
+                            "children": [
+                                {
+                                    "name": "GACINA Andrej 2:3 WALTHER Ricardo"
+                                },
+                                {
+                                    "name": "SIPOS Rares 3:1 GARDOS Robert"
+                                }
+                            ]
                         },
                         {
-                            "name": "XIANG Peng 3:1 HARIMOTO Tomokazu"
+                            "name": "XIANG Peng 3:1 HARIMOTO Tomokazu",
+                            "children": [
+                                {
+                                    "name": "ISHIY Vitor 0:3 XIANG Peng"
+                                },
+                                {
+                                    "name": "LIN Shidong 2:3 HARIMOTO Tomokazu"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -46,10 +94,26 @@
                     "name": "CHUANG Chih-Yuan 3:0 GNANASEKARAN Sathiyan",
                     "children": [
                         {
-                            "name": "CHUANG Chih-Yuan 3:2 ALAMIYAN Noshad"
+                            "name": "CHUANG Chih-Yuan 3:2 ALAMIYAN Noshad",
+                            "children": [
+                                {
+                                    "name": "CHUANG Chih-Yuan 3:0 IONESCU Ovidiu"
+                                },
+                                {
+                                    "name": "ALAMIYAN Noshad 3:1 ALLEGRO Martin"
+                                }
+                            ]
                         },
                         {
-                            "name": "CHEN Yuanyu 0:3 GNANASEKARAN Sathiyan"
+                            "name": "CHEN Yuanyu 0:3 GNANASEKARAN Sathiyan",
+                            "children": [
+                                {
+                                    "name": "CHEN Yuanyu 3:2 SHINOZUKA Hiroto"
+                                },
+                                {
+                                    "name": "GNANASEKARAN Sathiyan 3:1 JORGIC Darko"
+                                }
+                            ]
                         }
                     ]
                 }

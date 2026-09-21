@@ -8,10 +8,26 @@
                     "name": "ODO Satsuki 3:0 YOKOI Sakura",
                     "children": [
                         {
-                            "name": "ODO Satsuki 3:1 MUKHERJEE Ayhika"
+                            "name": "ODO Satsuki 3:1 MUKHERJEE Ayhika",
+                            "children": [
+                                {
+                                    "name": "ODO Satsuki 3:0 BALAZOVA Barbora"
+                                },
+                                {
+                                    "name": "MUKHERJEE Ayhika 3:1 ZHU Chengzhu"
+                                }
+                            ]
                         },
                         {
-                            "name": "YOKOI Sakura 3:2 AKULA Sreeja"
+                            "name": "YOKOI Sakura 3:2 AKULA Sreeja",
+                            "children": [
+                                {
+                                    "name": "YOKOI Sakura 3:2 LUTZ Charlotte"
+                                },
+                                {
+                                    "name": "BAJOR Natalia 2:3 AKULA Sreeja"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -19,10 +35,26 @@
                     "name": "CHEN Yi 1:3 KUAI Man",
                     "children": [
                         {
-                            "name": "PAVADE Prithika 0:3 CHEN Yi"
+                            "name": "PAVADE Prithika 0:3 CHEN Yi",
+                            "children": [
+                                {
+                                    "name": "PAVADE Prithika 3:0 SAINI Suhana"
+                                },
+                                {
+                                    "name": "ZENG Jian 1:3 CHEN Yi"
+                                }
+                            ]
                         },
                         {
-                            "name": "KUAI Man 3:0 SUH Hyo Won"
+                            "name": "KUAI Man 3:0 SUH Hyo Won",
+                            "children": [
+                                {
+                                    "name": "KUAI Man 3:1 XIAO Maria"
+                                },
+                                {
+                                    "name": "HUANG Yu-Jie 0:3 SUH Hyo Won"
+                                }
+                            ]
                         }
                     ]
                 }
@@ -35,10 +67,26 @@
                     "name": "SHI Xunyao 3:0 DOO Hoi Kem",
                     "children": [
                         {
-                            "name": "SHI Xunyao 3:1 YEH Yi-Tian"
+                            "name": "SHI Xunyao 3:1 YEH Yi-Tian",
+                            "children": [
+                                {
+                                    "name": "KIHARA Miyuu 0:3 SHI Xunyao"
+                                },
+                                {
+                                    "name": "HUANG Yi-Hua 2:3 YEH Yi-Tian"
+                                }
+                            ]
                         },
                         {
-                            "name": "DOO Hoi Kem 3:0 TAKAHASHI Bruna"
+                            "name": "DOO Hoi Kem 3:0 TAKAHASHI Bruna",
+                            "children": [
+                                {
+                                    "name": "DOO Hoi Kem 3:0 TODOROVIC Andrea"
+                                },
+                                {
+                                    "name": "JEE Minhyung 1:3 TAKAHASHI Bruna"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -46,10 +94,26 @@
                     "name": "QIN Yuxuan 3:1 LIU Yangzi",
                     "children": [
                         {
-                            "name": "BATRA Manika 1:3 QIN Yuxuan"
+                            "name": "BATRA Manika 1:3 QIN Yuxuan",
+                            "children": [
+                                {
+                                    "name": "BATRA Manika 3:2 CHITALE Diya"
+                                },
+                                {
+                                    "name": "WANG Xiaotong 1:3 QIN Yuxuan"
+                                }
+                            ]
                         },
                         {
-                            "name": "LIU Yangzi 3:1 HIRANO Miu"
+                            "name": "LIU Yangzi 3:1 HIRANO Miu",
+                            "children": [
+                                {
+                                    "name": "GHOSH Swastika 0:3 LIU Yangzi"
+                                },
+                                {
+                                    "name": "PICCOLIN Giorgia 1:3 HIRANO Miu"
+                                }
+                            ]
                         }
                     ]
                 }

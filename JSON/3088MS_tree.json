@@ -8,10 +8,26 @@
                     "name": "AN Jaehyun 3:0 FENG Yi-Hsin",
                     "children": [
                         {
-                            "name": "AN Jaehyun 3:1 XU Yingbin"
+                            "name": "AN Jaehyun 3:1 XU Yingbin",
+                            "children": [
+                                {
+                                    "name": "AN Jaehyun 3:1 QUEK Izaac"
+                                },
+                                {
+                                    "name": "XU Yingbin 3:1 CHAN Baldwin"
+                                }
+                            ]
                         },
                         {
-                            "name": "FENG Yi-Hsin 3:1 HAMADA Kazuki"
+                            "name": "FENG Yi-Hsin 3:1 HAMADA Kazuki",
+                            "children": [
+                                {
+                                    "name": "FENG Yi-Hsin 3:1 DORR Esteban"
+                                },
+                                {
+                                    "name": "HAMADA Kazuki 3:2 XUE Fei"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -19,10 +35,26 @@
                     "name": "CHEN Yuanyu 3:1 PARK Ganghyeon",
                     "children": [
                         {
-                            "name": "CHEN Yuanyu 3:2 WEN Ruibo"
+                            "name": "CHEN Yuanyu 3:2 WEN Ruibo",
+                            "children": [
+                                {
+                                    "name": "CHEN Yuanyu 3:2 YOSHIMURA Maharu"
+                                },
+                                {
+                                    "name": "SUN Yang 1:3 WEN Ruibo"
+                                }
+                            ]
                         },
                         {
-                            "name": "ZENG Beixun 1:3 PARK Ganghyeon"
+                            "name": "ZENG Beixun 1:3 PARK Ganghyeon",
+                            "children": [
+                                {
+                                    "name": "QUAN Kaiyuan 0:0 ZENG Beixun"
+                                },
+                                {
+                                    "name": "PARK Ganghyeon 3:1 WONG Chun Ting"
+                                }
+                            ]
                         }
                     ]
                 }
@@ -35,10 +67,26 @@
                     "name": "ZHOU Qihao 1:3 MATSUSHIMA Sora",
                     "children": [
                         {
-                            "name": "ZHOU Qihao 3:2 OIKAWA Mizuki"
+                            "name": "ZHOU Qihao 3:2 OIKAWA Mizuki",
+                            "children": [
+                                {
+                                    "name": "ZHOU Qihao 3:0 YUAN Licen"
+                                },
+                                {
+                                    "name": "WANG Yang 1:3 OIKAWA Mizuki"
+                                }
+                            ]
                         },
                         {
-                            "name": "XU Haidong 1:3 MATSUSHIMA Sora"
+                            "name": "XU Haidong 1:3 MATSUSHIMA Sora",
+                            "children": [
+                                {
+                                    "name": "XU Haidong 3:1 DESAI Harmeet"
+                                },
+                                {
+                                    "name": "YIU Kwan To 0:3 MATSUSHIMA Sora"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -46,10 +94,26 @@
                     "name": "LIM Jonghoon 2:3 XIANG Peng",
                     "children": [
                         {
-                            "name": "LIM Jonghoon 3:0 LAM Siu Hang"
+                            "name": "LIM Jonghoon 3:0 LAM Siu Hang",
+                            "children": [
+                                {
+                                    "name": "LIM Jonghoon 3:1 PARK Gyuhyeon"
+                                },
+                                {
+                                    "name": "LAM Siu Hang 3:2 MLADENOVIC Luka"
+                                }
+                            ]
                         },
                         {
-                            "name": "KARLSSON Kristian 0:3 XIANG Peng"
+                            "name": "KARLSSON Kristian 0:3 XIANG Peng",
+                            "children": [
+                                {
+                                    "name": "KARLSSON Kristian 3:2 TANAKA Yuta"
+                                },
+                                {
+                                    "name": "PANG Koen 1:3 XIANG Peng"
+                                }
+                            ]
                         }
                     ]
                 }

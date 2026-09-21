@@ -8,10 +8,26 @@
                     "name": "JORGIC Darko 2:3 JANG Woojin",
                     "children": [
                         {
-                            "name": "JORGIC Darko 3:0 YAN Sheng"
+                            "name": "JORGIC Darko 3:0 YAN Sheng",
+                            "children": [
+                                {
+                                    "name": "JORGIC Darko 3:0 LEBRUN Felix"
+                                },
+                                {
+                                    "name": "AN Jaehyun 0:3 YAN Sheng"
+                                }
+                            ]
                         },
                         {
-                            "name": "ALAMIYAN Noshad 1:3 JANG Woojin"
+                            "name": "ALAMIYAN Noshad 1:3 JANG Woojin",
+                            "children": [
+                                {
+                                    "name": "ALAMIYAN Noshad 3:1 AFANADOR Brian"
+                                },
+                                {
+                                    "name": "CASSIN Alexandre 1:3 JANG Woojin"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -19,10 +35,26 @@
                     "name": "JHA Kanak 3:2 LIU Yebo",
                     "children": [
                         {
-                            "name": "WALTHER Ricardo 1:3 JHA Kanak"
+                            "name": "WALTHER Ricardo 1:3 JHA Kanak",
+                            "children": [
+                                {
+                                    "name": "LIM Jonghoon 2:3 WALTHER Ricardo"
+                                },
+                                {
+                                    "name": "FILUS Ruwen 1:3 JHA Kanak"
+                                }
+                            ]
                         },
                         {
-                            "name": "LIU Yebo 3:0 LEE Sangsu"
+                            "name": "LIU Yebo 3:0 LEE Sangsu",
+                            "children": [
+                                {
+                                    "name": "GARDOS Robert 2:3 LIU Yebo"
+                                },
+                                {
+                                    "name": "DESAI Harmeet 0:3 LEE Sangsu"
+                                }
+                            ]
                         }
                     ]
                 }
@@ -35,10 +67,26 @@
                     "name": "LEBRUN Alexis 1:3 CHUANG Chih-Yuan",
                     "children": [
                         {
-                            "name": "LEBRUN Alexis 3:0 GROTH Jonathan"
+                            "name": "LEBRUN Alexis 3:0 GROTH Jonathan",
+                            "children": [
+                                {
+                                    "name": "LEBRUN Alexis 3:1 NIU Guankai"
+                                },
+                                {
+                                    "name": "ROBLES Alvaro 0:3 GROTH Jonathan"
+                                }
+                            ]
                         },
                         {
-                            "name": "WANG Yang 2:3 CHUANG Chih-Yuan"
+                            "name": "WANG Yang 2:3 CHUANG Chih-Yuan",
+                            "children": [
+                                {
+                                    "name": "WANG Yang 3:1 XU Haidong"
+                                },
+                                {
+                                    "name": "ZHOU Qihao 2:3 CHUANG Chih-Yuan"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -46,10 +94,26 @@
                     "name": "PERSSON Jon 0:3 LIANG Yanning",
                     "children": [
                         {
-                            "name": "APOLONIA Tiago 2:3 PERSSON Jon"
+                            "name": "APOLONIA Tiago 2:3 PERSSON Jon",
+                            "children": [
+                                {
+                                    "name": "GAUZY Simon 2:3 APOLONIA Tiago"
+                                },
+                                {
+                                    "name": "MENG Fanbo 2:3 PERSSON Jon"
+                                }
+                            ]
                         },
                         {
-                            "name": "DUDA Benedikt 1:3 LIANG Yanning"
+                            "name": "DUDA Benedikt 1:3 LIANG Yanning",
+                            "children": [
+                                {
+                                    "name": "DUDA Benedikt 3:2 NIWA Koki"
+                                },
+                                {
+                                    "name": "LIANG Yanning 3:2 FRANZISKA Patrick"
+                                }
+                            ]
                         }
                     ]
                 }

@@ -8,10 +8,26 @@
                     "name": "LIND Anders 3:0 GERALDO Joao",
                     "children": [
                         {
-                            "name": "LIND Anders 3:0 SAKAI Yuhi"
+                            "name": "LIND Anders 3:0 SAKAI Yuhi",
+                            "children": [
+                                {
+                                    "name": "LIND Anders 3:0 ADEGOKE Muizz"
+                                },
+                                {
+                                    "name": "DANI Mudit 0:3 SAKAI Yuhi"
+                                }
+                            ]
                         },
                         {
-                            "name": "RUIZ Romain 0:3 GERALDO Joao"
+                            "name": "RUIZ Romain 0:3 GERALDO Joao",
+                            "children": [
+                                {
+                                    "name": "BETELU Remi 1:3 RUIZ Romain"
+                                },
+                                {
+                                    "name": "ROSSI Carlo 1:3 GERALDO Joao"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -19,10 +35,26 @@
                     "name": "PAL Akash 1:3 DE NODREST Leo",
                     "children": [
                         {
-                            "name": "BATIX Ylane 0:3 PAL Akash"
+                            "name": "BATIX Ylane 0:3 PAL Akash",
+                            "children": [
+                                {
+                                    "name": "BATIX Ylane 3:0 ABDULFATAI Abdulbasit"
+                                },
+                                {
+                                    "name": "PAL Akash 3:0 OMOTAYO Olajide"
+                                }
+                            ]
                         },
                         {
-                            "name": "DE NODREST Leo 3:0 ESSID Wassim"
+                            "name": "DE NODREST Leo 3:0 ESSID Wassim",
+                            "children": [
+                                {
+                                    "name": "GHOSH Anirban 1:3 DE NODREST Leo"
+                                },
+                                {
+                                    "name": "AKANBI Rilwan 0:3 ESSID Wassim"
+                                }
+                            ]
                         }
                     ]
                 }
@@ -35,10 +67,26 @@
                     "name": "ROLLAND Jules 3:2 STOYANOV Niagol",
                     "children": [
                         {
-                            "name": "GNANASEKARAN Sathiyan 0:3 ROLLAND Jules"
+                            "name": "GNANASEKARAN Sathiyan 0:3 ROLLAND Jules",
+                            "children": [
+                                {
+                                    "name": "GNANASEKARAN Sathiyan 3:1 KARNAVAR Arnav"
+                                },
+                                {
+                                    "name": "ROLLAND Jules 3:0 BOBOYE Samuel"
+                                }
+                            ]
                         },
                         {
-                            "name": "YIGENLER Abdullah 2:3 STOYANOV Niagol"
+                            "name": "YIGENLER Abdullah 2:3 STOYANOV Niagol",
+                            "children": [
+                                {
+                                    "name": "YIGENLER Abdullah 3:2 MUSTAPHA Mustapha"
+                                },
+                                {
+                                    "name": "STOYANOV Niagol 3:1 OYEBODE John"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -46,10 +94,26 @@
                     "name": "MENGEL Steffen 0:3 PUCAR Tomislav",
                     "children": [
                         {
-                            "name": "MENGEL Steffen 3:1 MATI Taiwo"
+                            "name": "MENGEL Steffen 3:1 MATI Taiwo",
+                            "children": [
+                                {
+                                    "name": "MENGEL Steffen 3:0 KUTI Matthew"
+                                },
+                                {
+                                    "name": "AGBODJAN Elias 0:3 MATI Taiwo"
+                                }
+                            ]
                         },
                         {
-                            "name": "MENG Fanbo 0:3 PUCAR Tomislav"
+                            "name": "MENG Fanbo 0:3 PUCAR Tomislav",
+                            "children": [
+                                {
+                                    "name": "LIN Xuqi 1:3 MENG Fanbo"
+                                },
+                                {
+                                    "name": "CHAMBET-WEIL Remi 0:3 PUCAR Tomislav"
+                                }
+                            ]
                         }
                     ]
                 }

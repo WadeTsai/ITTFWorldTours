@@ -8,10 +8,26 @@
                     "name": "HAYATA Hina 3:0 SZOCS Bernadette",
                     "children": [
                         {
-                            "name": "HAYATA Hina 3:0 BERGSTROM Linda"
+                            "name": "HAYATA Hina 3:0 BERGSTROM Linda",
+                            "children": [
+                                {
+                                    "name": "HAYATA Hina 3:0 QIAN Tianyi"
+                                },
+                                {
+                                    "name": "ZONG Geman 2:3 BERGSTROM Linda"
+                                }
+                            ]
                         },
                         {
-                            "name": "ZENG Jian 2:3 SZOCS Bernadette"
+                            "name": "ZENG Jian 2:3 SZOCS Bernadette",
+                            "children": [
+                                {
+                                    "name": "HUANG Yi-Hua 0:3 ZENG Jian"
+                                },
+                                {
+                                    "name": "CHOI Hyojoo 1:3 SZOCS Bernadette"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -19,10 +35,26 @@
                     "name": "HIRANO Miu 3:0 ZHANG Lily",
                     "children": [
                         {
-                            "name": "HIRANO Miu 3:0 XU Yi"
+                            "name": "HIRANO Miu 3:0 XU Yi",
+                            "children": [
+                                {
+                                    "name": "HIRANO Miu 3:0 FAN Shuhan"
+                                },
+                                {
+                                    "name": "CHASSELIN Pauline 0:3 XU Yi"
+                                }
+                            ]
                         },
                         {
-                            "name": "HAN Feier 0:3 ZHANG Lily"
+                            "name": "HAN Feier 0:3 ZHANG Lily",
+                            "children": [
+                                {
+                                    "name": "DIACONU Adina 1:3 HAN Feier"
+                                },
+                                {
+                                    "name": "LAVROVA Anastassiya 0:3 ZHANG Lily"
+                                }
+                            ]
                         }
                     ]
                 }
@@ -35,10 +67,26 @@
                     "name": "CHEN Yi 0:3 YU Fu",
                     "children": [
                         {
-                            "name": "CHEN Szu-Yu 0:3 CHEN Yi"
+                            "name": "CHEN Szu-Yu 0:3 CHEN Yi",
+                            "children": [
+                                {
+                                    "name": "CHEN Szu-Yu 3:0 MIRKADIROVA Sarvinoz"
+                                },
+                                {
+                                    "name": "CHEN Yi 3:1 KAMATH Archana Girish"
+                                }
+                            ]
                         },
                         {
-                            "name": "LI Yuqi 2:3 YU Fu"
+                            "name": "LI Yuqi 2:3 YU Fu",
+                            "children": [
+                                {
+                                    "name": "LI Yuqi 3:2 DRAGOMAN Andreea"
+                                },
+                                {
+                                    "name": "ZHOU Jingyi 0:3 YU Fu"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -46,10 +94,26 @@
                     "name": "WU Yangchen 0:3 YANG Xiaoxin",
                     "children": [
                         {
-                            "name": "WU Yangchen 3:1 WAN Yuan"
+                            "name": "WU Yangchen 3:1 WAN Yuan",
+                            "children": [
+                                {
+                                    "name": "SHIN Yubin 0:3 WU Yangchen"
+                                },
+                                {
+                                    "name": "WAN Yuan 3:0 AKASHEVA Zauresh"
+                                }
+                            ]
                         },
                         {
-                            "name": "KALLBERG Christina 1:3 YANG Xiaoxin"
+                            "name": "KALLBERG Christina 1:3 YANG Xiaoxin",
+                            "children": [
+                                {
+                                    "name": "BALAZOVA Barbora 2:3 KALLBERG Christina"
+                                },
+                                {
+                                    "name": "WANG Yiduo 0:3 YANG Xiaoxin"
+                                }
+                            ]
                         }
                     ]
                 }

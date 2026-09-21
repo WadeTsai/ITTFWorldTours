@@ -8,10 +8,26 @@
                     "name": "SHI Xunyao 0:3 YOKOI Sakura",
                     "children": [
                         {
-                            "name": "SHI Xunyao 3:1 SHAN Xiaona"
+                            "name": "SHI Xunyao 3:1 SHAN Xiaona",
+                            "children": [
+                                {
+                                    "name": "SHI Xunyao 3:0 ZHANG Xiangyu"
+                                },
+                                {
+                                    "name": "KOSHKUMBAYEVA Zhanerke 0:3 SHAN Xiaona"
+                                }
+                            ]
                         },
                         {
-                            "name": "KAUFMANN Annett 2:3 YOKOI Sakura"
+                            "name": "KAUFMANN Annett 2:3 YOKOI Sakura",
+                            "children": [
+                                {
+                                    "name": "KAUFMANN Annett 3:0 AKASHEVA Zauresh"
+                                },
+                                {
+                                    "name": "TAKEYA Misuzu 0:3 YOKOI Sakura"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -19,10 +35,26 @@
                     "name": "QIN Yuxuan 3:2 KIM Nayeong",
                     "children": [
                         {
-                            "name": "QIAN Tianyi 1:3 QIN Yuxuan"
+                            "name": "QIAN Tianyi 1:3 QIN Yuxuan",
+                            "children": [
+                                {
+                                    "name": "QIAN Tianyi 3:2 OJIO Yuna"
+                                },
+                                {
+                                    "name": "GHOSH Swastika 0:3 QIN Yuxuan"
+                                }
+                            ]
                         },
                         {
-                            "name": "YANG Ha Eun 1:3 KIM Nayeong"
+                            "name": "YANG Ha Eun 1:3 KIM Nayeong",
+                            "children": [
+                                {
+                                    "name": "YANG Ha Eun 3:0 MUKHERJEE Ayhika"
+                                },
+                                {
+                                    "name": "IDESAWA Kyoka 0:3 KIM Nayeong"
+                                }
+                            ]
                         }
                     ]
                 }
@@ -35,10 +67,26 @@
                     "name": "SATO Hitomi 2:3 HE Zhuojia",
                     "children": [
                         {
-                            "name": "SATO Hitomi 3:0 LUPULESKU Izabela"
+                            "name": "SATO Hitomi 3:0 LUPULESKU Izabela",
+                            "children": [
+                                {
+                                    "name": "SATO Hitomi 3:2 WANG Xiaotong"
+                                },
+                                {
+                                    "name": "UESAWA Anne 0:3 LUPULESKU Izabela"
+                                }
+                            ]
                         },
                         {
-                            "name": "PARK Gahyeon 0:3 HE Zhuojia"
+                            "name": "PARK Gahyeon 0:3 HE Zhuojia",
+                            "children": [
+                                {
+                                    "name": "TAILAKOVA Mariia 2:3 PARK Gahyeon"
+                                },
+                                {
+                                    "name": "YOO Siwoo 0:3 HE Zhuojia"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -46,10 +94,26 @@
                     "name": "XU Yi 1:3 HASHIMOTO Honoka",
                     "children": [
                         {
-                            "name": "LEE Eunhye 1:3 XU Yi"
+                            "name": "LEE Eunhye 1:3 XU Yi",
+                            "children": [
+                                {
+                                    "name": "LEE Eunhye 3:1 DRAGOMAN Andreea"
+                                },
+                                {
+                                    "name": "XU Yi 3:0 MIRKADIROVA Sarvinoz"
+                                }
+                            ]
                         },
                         {
-                            "name": "AKAE Kaho 0:3 HASHIMOTO Honoka"
+                            "name": "AKAE Kaho 0:3 HASHIMOTO Honoka",
+                            "children": [
+                                {
+                                    "name": "AKAE Kaho 3:1 DIACONU Adina"
+                                },
+                                {
+                                    "name": "ZONG Geman 1:3 HASHIMOTO Honoka"
+                                }
+                            ]
                         }
                     ]
                 }

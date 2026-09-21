@@ -8,10 +8,26 @@
                     "name": "PITCHFORD Liam 0:3 ORT Kilian",
                     "children": [
                         {
-                            "name": "PITCHFORD Liam 3:1 KHANIN Aleksandr"
+                            "name": "PITCHFORD Liam 3:1 KHANIN Aleksandr",
+                            "children": [
+                                {
+                                    "name": "PITCHFORD Liam 3:2 SZUDI Adam"
+                                },
+                                {
+                                    "name": "KHANIN Aleksandr 3:0 HODAEI Amir Hossein"
+                                }
+                            ]
                         },
                         {
-                            "name": "ORT Kilian 3:1 OLAH Benedek"
+                            "name": "ORT Kilian 3:1 OLAH Benedek",
+                            "children": [
+                                {
+                                    "name": "ISMAILOV Sadi 1:3 ORT Kilian"
+                                },
+                                {
+                                    "name": "OLAH Benedek 3:2 DUDA Benedikt"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -19,10 +35,26 @@
                     "name": "POLANSKY Tomas 3:2 SKACHKOV Kirill",
                     "children": [
                         {
-                            "name": "POLANSKY Tomas 3:1 ECSEKI Nandor"
+                            "name": "POLANSKY Tomas 3:1 ECSEKI Nandor",
+                            "children": [
+                                {
+                                    "name": "FILUS Ruwen 2:3 POLANSKY Tomas"
+                                },
+                                {
+                                    "name": "ECSEKI Nandor 3:1 CHEN Alexander"
+                                }
+                            ]
                         },
                         {
-                            "name": "THAKKAR Manav Vikash 2:3 SKACHKOV Kirill"
+                            "name": "THAKKAR Manav Vikash 2:3 SKACHKOV Kirill",
+                            "children": [
+                                {
+                                    "name": "PLATONOV Pavel 0:3 THAKKAR Manav Vikash"
+                                },
+                                {
+                                    "name": "JUHASZ Patrik 0:3 SKACHKOV Kirill"
+                                }
+                            ]
                         }
                     ]
                 }
@@ -35,10 +67,26 @@
                     "name": "QIU Dang 3:0 STOYANOV Niagol",
                     "children": [
                         {
-                            "name": "QIU Dang 3:1 DESAI Harmeet"
+                            "name": "QIU Dang 3:1 DESAI Harmeet",
+                            "children": [
+                                {
+                                    "name": "QIU Dang 3:0 SERDAROGLU David"
+                                },
+                                {
+                                    "name": "ANDRAS Csaba 2:3 DESAI Harmeet"
+                                }
+                            ]
                         },
                         {
-                            "name": "STOYANOV Niagol 3:1 GNANASEKARAN Sathiyan"
+                            "name": "STOYANOV Niagol 3:1 GNANASEKARAN Sathiyan",
+                            "children": [
+                                {
+                                    "name": "PISTEJ Lubomir 1:3 STOYANOV Niagol"
+                                },
+                                {
+                                    "name": "AKKUZU Can 1:3 GNANASEKARAN Sathiyan"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -46,10 +94,26 @@
                     "name": "MOREGARD Truls 3:2 ARUNA Quadri",
                     "children": [
                         {
-                            "name": "MENG Fanbo 1:3 MOREGARD Truls"
+                            "name": "MENG Fanbo 1:3 MOREGARD Truls",
+                            "children": [
+                                {
+                                    "name": "MAJOROS Bence 0:3 MENG Fanbo"
+                                },
+                                {
+                                    "name": "SIDORENKO Vladimir 0:3 MOREGARD Truls"
+                                }
+                            ]
                         },
                         {
-                            "name": "ROBINOT Alexandre 1:3 ARUNA Quadri"
+                            "name": "ROBINOT Alexandre 1:3 ARUNA Quadri",
+                            "children": [
+                                {
+                                    "name": "ROBINOT Alexandre 3:0 SHIBAEV Alexander"
+                                },
+                                {
+                                    "name": "LEVENKO Andreas 2:3 ARUNA Quadri"
+                                }
+                            ]
                         }
                     ]
                 }

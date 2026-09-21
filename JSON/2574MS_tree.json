@@ -8,10 +8,26 @@
                     "name": "KANG Dongsoo 3:2 APOLONIA Tiago",
                     "children": [
                         {
-                            "name": "CALDERANO Hugo 1:3 KANG Dongsoo"
+                            "name": "CALDERANO Hugo 1:3 KANG Dongsoo",
+                            "children": [
+                                {
+                                    "name": "CALDERANO Hugo 3:2 ROBLES Alvaro"
+                                },
+                                {
+                                    "name": "ORT Kilian 0:3 KANG Dongsoo"
+                                }
+                            ]
                         },
                         {
-                            "name": "APOLONIA Tiago 3:0 LIM Jonghoon"
+                            "name": "APOLONIA Tiago 3:0 LIM Jonghoon",
+                            "children": [
+                                {
+                                    "name": "MORIZONO Masataka 2:3 APOLONIA Tiago"
+                                },
+                                {
+                                    "name": "GERALDO Joao 0:3 LIM Jonghoon"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -19,10 +35,26 @@
                     "name": "QIU Dang 3:0 YOSHIYAMA Ryoichi",
                     "children": [
                         {
-                            "name": "QIU Dang 3:1 STUMPER Kay"
+                            "name": "QIU Dang 3:1 STUMPER Kay",
+                            "children": [
+                                {
+                                    "name": "QIU Dang 3:0 SUZUKI Hayate"
+                                },
+                                {
+                                    "name": "STUMPER Kay 3:1 DESAI Harmeet"
+                                }
+                            ]
                         },
                         {
-                            "name": "GROTH Jonathan 2:3 YOSHIYAMA Ryoichi"
+                            "name": "GROTH Jonathan 2:3 YOSHIYAMA Ryoichi",
+                            "children": [
+                                {
+                                    "name": "AGUIRRE Marcelo 0:3 GROTH Jonathan"
+                                },
+                                {
+                                    "name": "YOSHIYAMA Ryoichi 3:1 PITCHFORD Liam"
+                                }
+                            ]
                         }
                     ]
                 }
@@ -35,10 +67,26 @@
                     "name": "NIWA Koki 2:3 KALLBERG Anton",
                     "children": [
                         {
-                            "name": "CIFUENTES Horacio 1:3 NIWA Koki"
+                            "name": "CIFUENTES Horacio 1:3 NIWA Koki",
+                            "children": [
+                                {
+                                    "name": "JHA Kanak 1:3 CIFUENTES Horacio"
+                                },
+                                {
+                                    "name": "NIWA Koki 3:1 AFANADOR Brian"
+                                }
+                            ]
                         },
                         {
-                            "name": "FALCK Mattias 2:3 KALLBERG Anton"
+                            "name": "FALCK Mattias 2:3 KALLBERG Anton",
+                            "children": [
+                                {
+                                    "name": "GONZALEZ Daniel 2:3 FALCK Mattias"
+                                },
+                                {
+                                    "name": "MINO Alberto 2:3 KALLBERG Anton"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -46,10 +94,26 @@
                     "name": "GAUZY Simon 1:3 OVTCHAROV Dimitrij",
                     "children": [
                         {
-                            "name": "GAUZY Simon 3:0 ROLLAND Jules"
+                            "name": "GAUZY Simon 3:0 ROLLAND Jules",
+                            "children": [
+                                {
+                                    "name": "GAUZY Simon 3:1 CASSIN Alexandre"
+                                },
+                                {
+                                    "name": "ROLLAND Jules 3:2 ANGLES Enzo"
+                                }
+                            ]
                         },
                         {
-                            "name": "CHEN Chien-An 1:3 OVTCHAROV Dimitrij"
+                            "name": "CHEN Chien-An 1:3 OVTCHAROV Dimitrij",
+                            "children": [
+                                {
+                                    "name": "POLANSKY Tomas 0:3 CHEN Chien-An"
+                                },
+                                {
+                                    "name": "MONTEIRO Joao 2:3 OVTCHAROV Dimitrij"
+                                }
+                            ]
                         }
                     ]
                 }

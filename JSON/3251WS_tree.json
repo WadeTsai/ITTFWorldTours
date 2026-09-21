@@ -8,10 +8,26 @@
                     "name": "SHI Xunyao 3:0 ZENG Jian",
                     "children": [
                         {
-                            "name": "SHI Xunyao 3:2 BATRA Manika"
+                            "name": "SHI Xunyao 3:2 BATRA Manika",
+                            "children": [
+                                {
+                                    "name": "SHI Xunyao 3:0 HUANG Yu-Jie"
+                                },
+                                {
+                                    "name": "BATRA Manika 3:2 PANFILOVA Maria"
+                                }
+                            ]
                         },
                         {
-                            "name": "MITTELHAM Nina 0:3 ZENG Jian"
+                            "name": "MITTELHAM Nina 0:3 ZENG Jian",
+                            "children": [
+                                {
+                                    "name": "MITTELHAM Nina 3:0 YU Fu"
+                                },
+                                {
+                                    "name": "WAN Yuan 1:3 ZENG Jian"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -19,10 +35,26 @@
                     "name": "QIN Yuxuan 2:3 ZONG Geman",
                     "children": [
                         {
-                            "name": "QIN Yuxuan 3:1 SHAN Xiaona"
+                            "name": "QIN Yuxuan 3:1 SHAN Xiaona",
+                            "children": [
+                                {
+                                    "name": "QIN Yuxuan 3:1 HO Tin-Tin"
+                                },
+                                {
+                                    "name": "SHAN Xiaona 3:2 SHAO Jieni"
+                                }
+                            ]
                         },
                         {
-                            "name": "ABRAAMIAN Elizabet 0:3 ZONG Geman"
+                            "name": "ABRAAMIAN Elizabet 0:3 ZONG Geman",
+                            "children": [
+                                {
+                                    "name": "ABRAAMIAN Elizabet 3:0 FAN Shuhan"
+                                },
+                                {
+                                    "name": "ZONG Geman 3:2 MESHREF Dina"
+                                }
+                            ]
                         }
                     ]
                 }
@@ -35,10 +67,26 @@
                     "name": "HURSEY Anna 2:3 HE Zhuojia",
                     "children": [
                         {
-                            "name": "HURSEY Anna 3:2 WANG Xiaotong"
+                            "name": "HURSEY Anna 3:2 WANG Xiaotong",
+                            "children": [
+                                {
+                                    "name": "BERGSTROM Linda 2:3 HURSEY Anna"
+                                },
+                                {
+                                    "name": "LOY Ming Ying 2:3 WANG Xiaotong"
+                                }
+                            ]
                         },
                         {
-                            "name": "YEH Yi-Tian 0:3 HE Zhuojia"
+                            "name": "YEH Yi-Tian 0:3 HE Zhuojia",
+                            "children": [
+                                {
+                                    "name": "YEH Yi-Tian 3:0 CHEN Chi-Shiuan"
+                                },
+                                {
+                                    "name": "SU Tsz Tung 0:3 HE Zhuojia"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -46,10 +94,26 @@
                     "name": "DOO Hoi Kem 3:2 CHENG I-Ching",
                     "children": [
                         {
-                            "name": "DOO Hoi Kem 3:0 ALTINKAYA Sibel"
+                            "name": "DOO Hoi Kem 3:0 ALTINKAYA Sibel",
+                            "children": [
+                                {
+                                    "name": "DOO Hoi Kem 3:0 XU Yi"
+                                },
+                                {
+                                    "name": "ALTINKAYA Sibel 3:2 MUKHERJEE Ayhika"
+                                }
+                            ]
                         },
                         {
-                            "name": "YANG Yiyun 0:3 CHENG I-Ching"
+                            "name": "YANG Yiyun 0:3 CHENG I-Ching",
+                            "children": [
+                                {
+                                    "name": "HAN Feier 2:3 YANG Yiyun"
+                                },
+                                {
+                                    "name": "LUTZ Charlotte 1:3 CHENG I-Ching"
+                                }
+                            ]
                         }
                     ]
                 }

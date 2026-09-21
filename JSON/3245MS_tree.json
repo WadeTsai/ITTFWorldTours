@@ -8,10 +8,26 @@
                     "name": "MATSUSHIMA Sora 4:3 JANG Woojin",
                     "children": [
                         {
-                            "name": "MATSUSHIMA Sora 3:0 LIND Anders"
+                            "name": "MATSUSHIMA Sora 3:0 LIND Anders",
+                            "children": [
+                                {
+                                    "name": "MATSUSHIMA Sora 3:1 ZHOU Qihao"
+                                },
+                                {
+                                    "name": "KUO Guan-Hong 2:3 LIND Anders"
+                                }
+                            ]
                         },
                         {
-                            "name": "CHEN Yuanyu 0:3 JANG Woojin"
+                            "name": "CHEN Yuanyu 0:3 JANG Woojin",
+                            "children": [
+                                {
+                                    "name": "GAUZY Simon 0:3 CHEN Yuanyu"
+                                },
+                                {
+                                    "name": "KALLBERG Anton 1:3 JANG Woojin"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -19,10 +35,26 @@
                     "name": "HARIMOTO Tomokazu 4:0 LEBRUN Alexis",
                     "children": [
                         {
-                            "name": "HARIMOTO Tomokazu 3:0 XIANG Peng"
+                            "name": "HARIMOTO Tomokazu 3:0 XIANG Peng",
+                            "children": [
+                                {
+                                    "name": "HARIMOTO Tomokazu 3:0 LUM Nicholas"
+                                },
+                                {
+                                    "name": "XIANG Peng 3:1 SIDORENKO Vladimir"
+                                }
+                            ]
                         },
                         {
-                            "name": "JORGIC Darko 1:3 LEBRUN Alexis"
+                            "name": "JORGIC Darko 1:3 LEBRUN Alexis",
+                            "children": [
+                                {
+                                    "name": "THAKKAR Manav 2:3 JORGIC Darko"
+                                },
+                                {
+                                    "name": "SHAH Manush 0:3 LEBRUN Alexis"
+                                }
+                            ]
                         }
                     ]
                 }
@@ -35,10 +67,26 @@
                     "name": "QIU Dang 3:4 OH Junsung",
                     "children": [
                         {
-                            "name": "QIU Dang 3:0 JHA Kanak"
+                            "name": "QIU Dang 3:0 JHA Kanak",
+                            "children": [
+                                {
+                                    "name": "QIU Dang 3:1 AN Jaehyun"
+                                },
+                                {
+                                    "name": "JHA Kanak 3:0 PUCAR Tomislav"
+                                }
+                            ]
                         },
                         {
-                            "name": "OH Junsung 3:0 LIM Jonghoon"
+                            "name": "OH Junsung 3:0 LIM Jonghoon",
+                            "children": [
+                                {
+                                    "name": "OH Junsung 3:0 ASSAR Omar"
+                                },
+                                {
+                                    "name": "LIM Jonghoon 3:2 LIN Yun-Ju"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -46,10 +94,26 @@
                     "name": "SHINOZUKA Hiroto 4:2 LEBRUN Felix",
                     "children": [
                         {
-                            "name": "GERALDO Joao 1:3 SHINOZUKA Hiroto"
+                            "name": "GERALDO Joao 1:3 SHINOZUKA Hiroto",
+                            "children": [
+                                {
+                                    "name": "WEN Ruibo 1:3 GERALDO Joao"
+                                },
+                                {
+                                    "name": "SHINOZUKA Hiroto 3:2 UDA Yukiya"
+                                }
+                            ]
                         },
                         {
-                            "name": "DUDA Benedikt 0:3 LEBRUN Felix"
+                            "name": "DUDA Benedikt 0:3 LEBRUN Felix",
+                            "children": [
+                                {
+                                    "name": "DUDA Benedikt 3:2 TOGAMI Shunsuke"
+                                },
+                                {
+                                    "name": "COTON Flavien 0:3 LEBRUN Felix"
+                                }
+                            ]
                         }
                     ]
                 }

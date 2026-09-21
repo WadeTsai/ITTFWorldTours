@@ -8,10 +8,26 @@
                     "name": "COTON Flavien 3:0 GACINA Andrej",
                     "children": [
                         {
-                            "name": "COTON Flavien 3:2 ROLLAND Jules"
+                            "name": "COTON Flavien 3:2 ROLLAND Jules",
+                            "children": [
+                                {
+                                    "name": "COTON Flavien 3:1 PUTUNTICA Andrei"
+                                },
+                                {
+                                    "name": "ROLLAND Jules 3:0 BATIX Ylane"
+                                }
+                            ]
                         },
                         {
-                            "name": "GACINA Andrej 3:1 WALTHER Ricardo"
+                            "name": "GACINA Andrej 3:1 WALTHER Ricardo",
+                            "children": [
+                                {
+                                    "name": "CASTRO Rogelio 2:3 GACINA Andrej"
+                                },
+                                {
+                                    "name": "STOYANOV Niagol 2:3 WALTHER Ricardo"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -19,10 +35,26 @@
                     "name": "SIDORENKO Vladimir 2:3 YOSHIMURA Maharu",
                     "children": [
                         {
-                            "name": "SIDORENKO Vladimir 3:0 DEVOS Laurens"
+                            "name": "SIDORENKO Vladimir 3:0 DEVOS Laurens",
+                            "children": [
+                                {
+                                    "name": "SIDORENKO Vladimir 3:0 MUTTI Matteo"
+                                },
+                                {
+                                    "name": "DEVOS Laurens 3:2 BHATTACHARJEE Ankur"
+                                }
+                            ]
                         },
                         {
-                            "name": "YOSHIMURA Maharu 3:0 SEYFRIED Joe"
+                            "name": "YOSHIMURA Maharu 3:0 SEYFRIED Joe",
+                            "children": [
+                                {
+                                    "name": "BETELU Remi 0:3 YOSHIMURA Maharu"
+                                },
+                                {
+                                    "name": "SURAVAJJULA Snehit 2:3 SEYFRIED Joe"
+                                }
+                            ]
                         }
                     ]
                 }
@@ -35,10 +67,26 @@
                     "name": "SHAH Manush 0:3 GERALDO Joao",
                     "children": [
                         {
-                            "name": "SHAH Manush 3:2 DESAI Harmeet"
+                            "name": "SHAH Manush 3:2 DESAI Harmeet",
+                            "children": [
+                                {
+                                    "name": "SHAH Manush 3:1 JAIN Payas"
+                                },
+                                {
+                                    "name": "DESAI Harmeet 3:1 ARTEMENKO Nikita"
+                                }
+                            ]
                         },
                         {
-                            "name": "GERALDO Joao 3:2 FENG Yi-Hsin"
+                            "name": "GERALDO Joao 3:2 FENG Yi-Hsin",
+                            "children": [
+                                {
+                                    "name": "SKACHKOV Kirill 1:3 GERALDO Joao"
+                                },
+                                {
+                                    "name": "YIGENLER Abdullah 1:3 FENG Yi-Hsin"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -46,10 +94,26 @@
                     "name": "TIKHONOV Evgeny 0:3 SHINOZUKA Hiroto",
                     "children": [
                         {
-                            "name": "TIKHONOV Evgeny 3:2 DESCHAMPS Hugo"
+                            "name": "TIKHONOV Evgeny 3:2 DESCHAMPS Hugo",
+                            "children": [
+                                {
+                                    "name": "ROBLES Alvaro 1:3 TIKHONOV Evgeny"
+                                },
+                                {
+                                    "name": "ESSID Wassim 2:3 DESCHAMPS Hugo"
+                                }
+                            ]
                         },
                         {
-                            "name": "BOURRASSAUD Florian 0:3 SHINOZUKA Hiroto"
+                            "name": "BOURRASSAUD Florian 0:3 SHINOZUKA Hiroto",
+                            "children": [
+                                {
+                                    "name": "URSU Vladislav 2:3 BOURRASSAUD Florian"
+                                },
+                                {
+                                    "name": "CAMARA Gabrielius 1:3 SHINOZUKA Hiroto"
+                                }
+                            ]
                         }
                     ]
                 }

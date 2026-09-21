@@ -8,10 +8,26 @@
                     "name": "ITO Mima 1:3 KIHARA Miyuu",
                     "children": [
                         {
-                            "name": "ITO Mima 3:2 LEE Zion"
+                            "name": "ITO Mima 3:2 LEE Zion",
+                            "children": [
+                                {
+                                    "name": "ITO Mima 3:0 ZHANG Sofia-Xuan"
+                                },
+                                {
+                                    "name": "LEE Zion 3:2 HUANG Yi-Hua"
+                                }
+                            ]
                         },
                         {
-                            "name": "BERGSTROM Linda 0:3 KIHARA Miyuu"
+                            "name": "BERGSTROM Linda 0:3 KIHARA Miyuu",
+                            "children": [
+                                {
+                                    "name": "BERGSTROM Linda 3:2 BALAZOVA Barbora"
+                                },
+                                {
+                                    "name": "ZARIF Audrey 0:3 KIHARA Miyuu"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -19,10 +35,26 @@
                     "name": "DIAZ Adriana 0:3 SZOCS Bernadette",
                     "children": [
                         {
-                            "name": "DIAZ Adriana 3:0 MATELOVA Hana"
+                            "name": "DIAZ Adriana 3:0 MATELOVA Hana",
+                            "children": [
+                                {
+                                    "name": "DIAZ Adriana 3:2 JEON Jihee"
+                                },
+                                {
+                                    "name": "DUFFOO Isabel 0:3 MATELOVA Hana"
+                                }
+                            ]
                         },
                         {
-                            "name": "ZENG Jian 1:3 SZOCS Bernadette"
+                            "name": "ZENG Jian 1:3 SZOCS Bernadette",
+                            "children": [
+                                {
+                                    "name": "KIM Nayeong 2:3 ZENG Jian"
+                                },
+                                {
+                                    "name": "CHEN Szu-Yu 0:3 SZOCS Bernadette"
+                                }
+                            ]
                         }
                     ]
                 }
@@ -35,10 +67,26 @@
                     "name": "PAVADE Prithika 1:3 HARIMOTO Miwa",
                     "children": [
                         {
-                            "name": "HIRANO Miu 0:3 PAVADE Prithika"
+                            "name": "HIRANO Miu 0:3 PAVADE Prithika",
+                            "children": [
+                                {
+                                    "name": "HIRANO Miu 3:1 BATRA Manika"
+                                },
+                                {
+                                    "name": "ZHANG Lily 1:3 PAVADE Prithika"
+                                }
+                            ]
                         },
                         {
-                            "name": "LUTZ Camille 0:3 HARIMOTO Miwa"
+                            "name": "LUTZ Camille 0:3 HARIMOTO Miwa",
+                            "children": [
+                                {
+                                    "name": "KAUFMANN Annett 1:3 LUTZ Camille"
+                                },
+                                {
+                                    "name": "MADARASZ Dora 0:3 HARIMOTO Miwa"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -46,10 +94,26 @@
                     "name": "NAGASAKI Miyu 2:3 SHIN Yubin",
                     "children": [
                         {
-                            "name": "NAGASAKI Miyu 3:1 TAKAHASHI Bruna"
+                            "name": "NAGASAKI Miyu 3:1 TAKAHASHI Bruna",
+                            "children": [
+                                {
+                                    "name": "NAGASAKI Miyu 3:0 KUKULKOVA Tatiana"
+                                },
+                                {
+                                    "name": "TAKAHASHI Bruna 3:0 LIU Hsing-Yin"
+                                }
+                            ]
                         },
                         {
-                            "name": "LEE Eunhye 0:3 SHIN Yubin"
+                            "name": "LEE Eunhye 0:3 SHIN Yubin",
+                            "children": [
+                                {
+                                    "name": "YANG Ha Eun 0:3 LEE Eunhye"
+                                },
+                                {
+                                    "name": "CHOI Hyojoo 2:3 SHIN Yubin"
+                                }
+                            ]
                         }
                     ]
                 }

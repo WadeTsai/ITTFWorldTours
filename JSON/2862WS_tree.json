@@ -8,10 +8,58 @@
                     "name": "SUN Yingsha 3:2 HAYATA Hina",
                     "children": [
                         {
-                            "name": "SUN Yingsha 3:0 HARIMOTO Miwa"
+                            "name": "SUN Yingsha 3:0 HARIMOTO Miwa",
+                            "children": [
+                                {
+                                    "name": "SUN Yingsha 3:0 NAGASAKI Miyu",
+                                    "children": [
+                                        {
+                                            "name": "SUN Yingsha 0:0 BYE"
+                                        },
+                                        {
+                                            "name": "LI Yu-Jhun 0:3 NAGASAKI Miyu"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "DRAGOMAN Andreea 0:3 HARIMOTO Miwa",
+                                    "children": [
+                                        {
+                                            "name": "BALAZOVA Barbora 2:3 DRAGOMAN Andreea"
+                                        },
+                                        {
+                                            "name": "BYE 0:0 HARIMOTO Miwa"
+                                        }
+                                    ]
+                                }
+                            ]
                         },
                         {
-                            "name": "BERGSTROM Linda 2:3 HAYATA Hina"
+                            "name": "BERGSTROM Linda 2:3 HAYATA Hina",
+                            "children": [
+                                {
+                                    "name": "SZOCS Bernadette 1:3 BERGSTROM Linda",
+                                    "children": [
+                                        {
+                                            "name": "SZOCS Bernadette 0:0 BYE"
+                                        },
+                                        {
+                                            "name": "YUAN Jia Nan 0:3 BERGSTROM Linda"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "LEE Zion 0:3 HAYATA Hina",
+                                    "children": [
+                                        {
+                                            "name": "LEE Zion 3:1 DOO Hoi Kem"
+                                        },
+                                        {
+                                            "name": "BYE 0:0 HAYATA Hina"
+                                        }
+                                    ]
+                                }
+                            ]
                         }
                     ]
                 },
@@ -19,10 +67,58 @@
                     "name": "WANG Manyu 3:0 CHEN Xingtong",
                     "children": [
                         {
-                            "name": "WANG Manyu 3:1 CHENG I-Ching"
+                            "name": "WANG Manyu 3:1 CHENG I-Ching",
+                            "children": [
+                                {
+                                    "name": "WANG Manyu 3:1 LIU Yangzi",
+                                    "children": [
+                                        {
+                                            "name": "WANG Manyu 0:0 BYE"
+                                        },
+                                        {
+                                            "name": "LIU Yangzi 3:2 BATRA Manika"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "SAMARA Elizabeta 0:3 CHENG I-Ching",
+                                    "children": [
+                                        {
+                                            "name": "SAMARA Elizabeta 3:1 GHORPADE Yashaswini"
+                                        },
+                                        {
+                                            "name": "BYE 0:0 CHENG I-Ching"
+                                        }
+                                    ]
+                                }
+                            ]
                         },
                         {
-                            "name": "SHIN Yubin 1:3 CHEN Xingtong"
+                            "name": "SHIN Yubin 1:3 CHEN Xingtong",
+                            "children": [
+                                {
+                                    "name": "SHIN Yubin 3:1 KALLBERG Christina",
+                                    "children": [
+                                        {
+                                            "name": "SHIN Yubin 0:0 BYE"
+                                        },
+                                        {
+                                            "name": "KALLBERG Christina 3:1 TAKAHASHI Bruna"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "DIACONU Adina 0:3 CHEN Xingtong",
+                                    "children": [
+                                        {
+                                            "name": "DIACONU Adina 3:1 ZHU Chengzhu"
+                                        },
+                                        {
+                                            "name": "BYE 0:0 CHEN Xingtong"
+                                        }
+                                    ]
+                                }
+                            ]
                         }
                     ]
                 }
@@ -35,10 +131,58 @@
                     "name": "ZHANG Rui 1:3 CHEN Meng",
                     "children": [
                         {
-                            "name": "JEON Jihee 1:3 ZHANG Rui"
+                            "name": "JEON Jihee 1:3 ZHANG Rui",
+                            "children": [
+                                {
+                                    "name": "HAN Ying 2:3 JEON Jihee",
+                                    "children": [
+                                        {
+                                            "name": "HAN Ying 0:0 BYE"
+                                        },
+                                        {
+                                            "name": "WINTER Sabine 2:3 JEON Jihee"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "SHAO Jieni 0:3 ZHANG Rui",
+                                    "children": [
+                                        {
+                                            "name": "MOHAMED Aia 0:3 SHAO Jieni"
+                                        },
+                                        {
+                                            "name": "BYE 0:0 ZHANG Rui"
+                                        }
+                                    ]
+                                }
+                            ]
                         },
                         {
-                            "name": "JOO Cheonhui 0:3 CHEN Meng"
+                            "name": "JOO Cheonhui 0:3 CHEN Meng",
+                            "children": [
+                                {
+                                    "name": "JOO Cheonhui 3:0 MESHREF Dina",
+                                    "children": [
+                                        {
+                                            "name": "JOO Cheonhui 0:0 BYE"
+                                        },
+                                        {
+                                            "name": "MESHREF Dina 3:2 SUH Hyo Won"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "POLCANOVA Sofia 0:3 CHEN Meng",
+                                    "children": [
+                                        {
+                                            "name": "POLCANOVA Sofia 3:1 HUANG Yu-Chiao"
+                                        },
+                                        {
+                                            "name": "BYE 0:0 CHEN Meng"
+                                        }
+                                    ]
+                                }
+                            ]
                         }
                     ]
                 },
@@ -46,10 +190,58 @@
                     "name": "QIAN Tianyi 3:0 WANG Yidi",
                     "children": [
                         {
-                            "name": "QIAN Tianyi 3:1 YANG Xiaoxin"
+                            "name": "QIAN Tianyi 3:1 YANG Xiaoxin",
+                            "children": [
+                                {
+                                    "name": "QIAN Tianyi 3:0 PAVADE Prithika",
+                                    "children": [
+                                        {
+                                            "name": "QIAN Tianyi 0:0 BYE"
+                                        },
+                                        {
+                                            "name": "PAVADE Prithika 3:1 LIU Hsing-Yin"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "CHEN Szu-Yu 0:3 YANG Xiaoxin",
+                                    "children": [
+                                        {
+                                            "name": "CHEN Szu-Yu 3:0 SHAN Xiaona"
+                                        },
+                                        {
+                                            "name": "BYE 0:0 YANG Xiaoxin"
+                                        }
+                                    ]
+                                }
+                            ]
                         },
                         {
-                            "name": "NI Xia Lian 1:3 WANG Yidi"
+                            "name": "NI Xia Lian 1:3 WANG Yidi",
+                            "children": [
+                                {
+                                    "name": "KUAI Man 2:3 NI Xia Lian",
+                                    "children": [
+                                        {
+                                            "name": "KUAI Man 0:0 BYE"
+                                        },
+                                        {
+                                            "name": "NI Xia Lian 3:0 XIAO Maria"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "PARANANG Orawan 0:3 WANG Yidi",
+                                    "children": [
+                                        {
+                                            "name": "SAWETTABUT Suthasini 0:3 PARANANG Orawan"
+                                        },
+                                        {
+                                            "name": "BYE 0:0 WANG Yidi"
+                                        }
+                                    ]
+                                }
+                            ]
                         }
                     ]
                 }

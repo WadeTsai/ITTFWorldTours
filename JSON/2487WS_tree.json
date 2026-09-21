@@ -8,10 +8,26 @@
                     "name": "YANG Xiaoxin 3:0 VOROBEVA Olga",
                     "children": [
                         {
-                            "name": "YANG Xiaoxin 3:1 PERGEL Szandra"
+                            "name": "YANG Xiaoxin 3:1 PERGEL Szandra",
+                            "children": [
+                                {
+                                    "name": "YANG Xiaoxin 3:0 BALINT Bernadett"
+                                },
+                                {
+                                    "name": "TENNISON Reeth 2:3 PERGEL Szandra"
+                                }
+                            ]
                         },
                         {
-                            "name": "VOROBEVA Olga 3:0 SURJAN Sabina"
+                            "name": "VOROBEVA Olga 3:0 SURJAN Sabina",
+                            "children": [
+                                {
+                                    "name": "WAN Yuan 0:3 VOROBEVA Olga"
+                                },
+                                {
+                                    "name": "SURJAN Sabina 3:1 VIVARELLI Debora"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -19,10 +35,26 @@
                     "name": "POTA Georgina 1:3 TAILAKOVA Mariia",
                     "children": [
                         {
-                            "name": "POTA Georgina 3:1 HARTBRICH Leonie"
+                            "name": "POTA Georgina 3:1 HARTBRICH Leonie",
+                            "children": [
+                                {
+                                    "name": "POTA Georgina 3:0 KUKULKOVA Tatiana"
+                                },
+                                {
+                                    "name": "HARTBRICH Leonie 3:0 HELMY Yousra"
+                                }
+                            ]
                         },
                         {
-                            "name": "TAILAKOVA Mariia 3:0 KAMATH Archana Girish"
+                            "name": "TAILAKOVA Mariia 3:0 KAMATH Archana Girish",
+                            "children": [
+                                {
+                                    "name": "KALLBERG Christina 1:3 TAILAKOVA Mariia"
+                                },
+                                {
+                                    "name": "KAMATH Archana Girish 3:2 NOSKOVA Yana"
+                                }
+                            ]
                         }
                     ]
                 }
@@ -35,10 +67,26 @@
                     "name": "BATRA Manika 3:2 AKULA Sreeja",
                     "children": [
                         {
-                            "name": "BATRA Manika 3:2 PICCOLIN Giorgia"
+                            "name": "BATRA Manika 3:2 PICCOLIN Giorgia",
+                            "children": [
+                                {
+                                    "name": "BATRA Manika 3:2 WINTER Sabine"
+                                },
+                                {
+                                    "name": "PICCOLIN Giorgia 3:2 VEGA Paulina"
+                                }
+                            ]
                         },
                         {
-                            "name": "AKULA Sreeja 3:0 BALAZOVA Barbora"
+                            "name": "AKULA Sreeja 3:0 BALAZOVA Barbora",
+                            "children": [
+                                {
+                                    "name": "AKULA Sreeja 3:2 BERGSTROM Linda"
+                                },
+                                {
+                                    "name": "TODOROVIC Andrea 1:3 BALAZOVA Barbora"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -46,10 +94,26 @@
                     "name": "ABRAAMIAN Elizabet 3:0 MIKHAILOVA Polina",
                     "children": [
                         {
-                            "name": "NAGYVARADI Mercedes 1:3 ABRAAMIAN Elizabet"
+                            "name": "NAGYVARADI Mercedes 1:3 ABRAAMIAN Elizabet",
+                            "children": [
+                                {
+                                    "name": "MADARASZ Dora 1:3 NAGYVARADI Mercedes"
+                                },
+                                {
+                                    "name": "TRIGOLOS Daria 1:3 ABRAAMIAN Elizabet"
+                                }
+                            ]
                         },
                         {
-                            "name": "LUPULESKU Izabela 0:3 MIKHAILOVA Polina"
+                            "name": "LUPULESKU Izabela 0:3 MIKHAILOVA Polina",
+                            "children": [
+                                {
+                                    "name": "IMRE Leila 1:3 LUPULESKU Izabela"
+                                },
+                                {
+                                    "name": "HO Tin-Tin 0:3 MIKHAILOVA Polina"
+                                }
+                            ]
                         }
                     ]
                 }

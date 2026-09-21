@@ -53,25 +53,41 @@ type TreeGraphProps = ComponentProps<typeof Tree>;
 // what the rules in App.css hang off, so no className has to be passed in.
 const NODE_PROPS = { r: 15 } as TreeGraphProps['nodeProps'];
 const TEXT_PROPS = { x: -25, y: 25 } as TreeGraphProps['textProps'];
-const TREE_MARGINS = { top: 30, bottom: 10, left: 20, right: 250 };
+// `right` is canvas, not layout: `bracketSize` derives the SVG width from the
+// round count, so the margin only decides how much room the last round's labels
+// have before the edge clips them. 250 was enough for the round of 16; the round
+// of 64 reaches the players with the longest names, out to 337px.
+const TREE_MARGINS = { top: 30, bottom: 10, left: 20, right: 370 };
 
 /**
  * Bracket geometry.
  *
- * react-tree-graph lays out into a fixed size SVG and spreads whatever it is
- * given across it, so the size has to come from the draw rather than the other
- * way round. Draws are no longer one shape: a Finals or World Cup is four
- * rounds off eight opening ties, a Contender or Champions five off sixteen, a
- * Smash or Star Contender six off thirty-two.
+ * react-tree-graph lays out into a fixed size SVG and stretches the draw to
+ * fill it, so the size has to come from the draw rather than the other way
+ * round. Draws are no longer one shape: a Finals or World Cup is four rounds
+ * off eight opening ties, a Contender or Champions five off sixteen, a Smash or
+ * Star Contender six off thirty-two.
  *
- * `ROUND_WIDTH` and `LEAF_PITCH` are the room one round and one opening tie get.
- * Both are set to what the four-round draws already rendered at, so those look
- * exactly as they did and the larger ones simply extend past the card, which
- * scrolls. `MIN_HEIGHT` stops a small draw from collapsing into a strip.
+ * `ROUND_WIDTH` is the room one round gets and `ROW_GAP` the room between two
+ * ties that share a parent. Both are what the four-round draws already rendered
+ * at, so those come out pixel for pixel as they were and the larger draws simply
+ * extend past the card, which scrolls.
  */
 const ROUND_WIDTH = 245;
-const LEAF_PITCH = 46;
+const ROW_GAP = 50;
 const MIN_HEIGHT = 640;
+
+/**
+ * d3's tree layout does not space the rows evenly: its default `separation`
+ * gives siblings one unit and cousins two, so a bracket of N opening ties is
+ * laid out over 1.5N units rather than N, and asking for `N * ROW_GAP` of
+ * height would squeeze the closest rows to two thirds of the gap intended -
+ * tight enough for a label to run into the node below it.
+ *
+ * 1.5N holds because every bracket is a complete knockout, which
+ * `src/data.test.ts` is what keeps true.
+ */
+const LAYOUT_UNITS_PER_TIE = 1.5;
 
 /** The SVG a bracket needs: one column per round, one row per opening tie. */
 function bracketSize(root: MatchNode): { width: number; height: number } {
@@ -92,7 +108,7 @@ function bracketSize(root: MatchNode): { width: number; height: number } {
     width: TREE_MARGINS.left + TREE_MARGINS.right + (rounds - 1) * ROUND_WIDTH,
     height: Math.max(
       MIN_HEIGHT,
-      leaves * LEAF_PITCH + TREE_MARGINS.top + TREE_MARGINS.bottom,
+      leaves * LAYOUT_UNITS_PER_TIE * ROW_GAP + TREE_MARGINS.top + TREE_MARGINS.bottom,
     ),
   };
 }

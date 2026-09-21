@@ -8,10 +8,26 @@
                     "name": "HAYATA Hina 3:0 PAVADE Prithika",
                     "children": [
                         {
-                            "name": "HAYATA Hina 3:0 KALLBERG Christina"
+                            "name": "HAYATA Hina 3:0 KALLBERG Christina",
+                            "children": [
+                                {
+                                    "name": "HAYATA Hina 3:0 CHOI Hyojoo"
+                                },
+                                {
+                                    "name": "AKULA Sreeja 1:3 KALLBERG Christina"
+                                }
+                            ]
                         },
                         {
-                            "name": "PAVADE Prithika 3:2 JEON Jihee"
+                            "name": "PAVADE Prithika 3:2 JEON Jihee",
+                            "children": [
+                                {
+                                    "name": "DE NUTTE Sarah 1:3 PAVADE Prithika"
+                                },
+                                {
+                                    "name": "YANG Ha Eun 1:3 JEON Jihee"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -19,10 +35,26 @@
                     "name": "SZOCS Bernadette 3:0 CHEN Szu-Yu",
                     "children": [
                         {
-                            "name": "SZOCS Bernadette 3:1 PESOTSKA Margaryta"
+                            "name": "SZOCS Bernadette 3:1 PESOTSKA Margaryta",
+                            "children": [
+                                {
+                                    "name": "SZOCS Bernadette 3:1 XIAO Maria"
+                                },
+                                {
+                                    "name": "KUKULKOVA Tatiana 0:3 PESOTSKA Margaryta"
+                                }
+                            ]
                         },
                         {
-                            "name": "COSSIO ACEVES Arantxa 0:3 CHEN Szu-Yu"
+                            "name": "COSSIO ACEVES Arantxa 0:3 CHEN Szu-Yu",
+                            "children": [
+                                {
+                                    "name": "ALEXANDRE Bruna 0:3 COSSIO ACEVES Arantxa"
+                                },
+                                {
+                                    "name": "TAKAHASHI Giulia 1:3 CHEN Szu-Yu"
+                                }
+                            ]
                         }
                     ]
                 }
@@ -35,10 +67,26 @@
                     "name": "TAKAHASHI Bruna 3:1 LEE Eunhye",
                     "children": [
                         {
-                            "name": "TAKAHASHI Bruna 3:2 LI Yu-Jhun"
+                            "name": "TAKAHASHI Bruna 3:2 LI Yu-Jhun",
+                            "children": [
+                                {
+                                    "name": "SAMARA Elizabeta 1:3 TAKAHASHI Bruna"
+                                },
+                                {
+                                    "name": "LI Yu-Jhun 3:0 WATANABE Laura"
+                                }
+                            ]
                         },
                         {
-                            "name": "LEE Eunhye 3:1 LEE Zion"
+                            "name": "LEE Eunhye 3:1 LEE Zion",
+                            "children": [
+                                {
+                                    "name": "HUANG Yi-Hua 2:3 LEE Eunhye"
+                                },
+                                {
+                                    "name": "LEE Zion 3:1 CHENG I-Ching"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -46,10 +94,26 @@
                     "name": "BERGSTROM Linda 3:0 KIM Nayeong",
                     "children": [
                         {
-                            "name": "ZENG Jian 1:3 BERGSTROM Linda"
+                            "name": "ZENG Jian 1:3 BERGSTROM Linda",
+                            "children": [
+                                {
+                                    "name": "ZHANG Lily 2:3 ZENG Jian"
+                                },
+                                {
+                                    "name": "BRATEYKO Solomiya 1:3 BERGSTROM Linda"
+                                }
+                            ]
                         },
                         {
-                            "name": "KIM Nayeong 3:1 DIAZ Adriana"
+                            "name": "KIM Nayeong 3:1 DIAZ Adriana",
+                            "children": [
+                                {
+                                    "name": "KIM Nayeong 3:0 KAUFMANN Annett"
+                                },
+                                {
+                                    "name": "MATELOVA Hana 1:3 DIAZ Adriana"
+                                }
+                            ]
                         }
                     ]
                 }

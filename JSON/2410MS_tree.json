@@ -8,10 +8,26 @@
                     "name": "HARIMOTO Tomokazu 3:1 CHO Daeseong",
                     "children": [
                         {
-                            "name": "HARIMOTO Tomokazu 3:1 LEE Sangsu"
+                            "name": "HARIMOTO Tomokazu 3:1 LEE Sangsu",
+                            "children": [
+                                {
+                                    "name": "HARIMOTO Tomokazu 3:0 CHUANG Chih-Yuan"
+                                },
+                                {
+                                    "name": "LEE Sangsu 3:1 GARDOS Robert"
+                                }
+                            ]
                         },
                         {
-                            "name": "CHO Daeseong 3:2 LEVENKO Andreas"
+                            "name": "CHO Daeseong 3:2 LEVENKO Andreas",
+                            "children": [
+                                {
+                                    "name": "UDA Yukiya 2:3 CHO Daeseong"
+                                },
+                                {
+                                    "name": "LEVENKO Andreas 3:1 PITCHFORD Liam"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -19,10 +35,26 @@
                     "name": "FALCK Mattias 2:3 OVTCHAROV Dimitrij",
                     "children": [
                         {
-                            "name": "FALCK Mattias 3:0 KARLSSON Kristian"
+                            "name": "FALCK Mattias 3:0 KARLSSON Kristian",
+                            "children": [
+                                {
+                                    "name": "FALCK Mattias 3:1 BOBOCICA Mihai"
+                                },
+                                {
+                                    "name": "JORGIC Darko 1:3 KARLSSON Kristian"
+                                }
+                            ]
                         },
                         {
-                            "name": "LEBESSON Emmanuel 1:3 OVTCHAROV Dimitrij"
+                            "name": "LEBESSON Emmanuel 1:3 OVTCHAROV Dimitrij",
+                            "children": [
+                                {
+                                    "name": "LEBESSON Emmanuel 3:1 FREITAS Marcos"
+                                },
+                                {
+                                    "name": "ALAMIYAN Noshad 1:3 OVTCHAROV Dimitrij"
+                                }
+                            ]
                         }
                     ]
                 }
@@ -35,10 +67,26 @@
                     "name": "ARUNA Quadri 1:3 LIN Yun-Ju",
                     "children": [
                         {
-                            "name": "ARUNA Quadri 3:2 GERALDO Joao"
+                            "name": "ARUNA Quadri 3:2 GERALDO Joao",
+                            "children": [
+                                {
+                                    "name": "ARUNA Quadri 3:0 GNANASEKARAN Sathiyan"
+                                },
+                                {
+                                    "name": "GERALDO Joao 3:0 WANG Yang"
+                                }
+                            ]
                         },
                         {
-                            "name": "ACHANTA Sharath Kamal 0:3 LIN Yun-Ju"
+                            "name": "ACHANTA Sharath Kamal 0:3 LIN Yun-Ju",
+                            "children": [
+                                {
+                                    "name": "ACHANTA Sharath Kamal 3:2 SIRUCEK Pavel"
+                                },
+                                {
+                                    "name": "DUDA Benedikt 2:3 LIN Yun-Ju"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -46,10 +94,26 @@
                     "name": "GAUZY Simon 3:2 CALDERANO Hugo",
                     "children": [
                         {
-                            "name": "GAUZY Simon 3:2 PUCAR Tomislav"
+                            "name": "GAUZY Simon 3:2 PUCAR Tomislav",
+                            "children": [
+                                {
+                                    "name": "GAUZY Simon 3:0 GROTH Jonathan"
+                                },
+                                {
+                                    "name": "PUCAR Tomislav 3:1 HABESOHN Daniel"
+                                }
+                            ]
                         },
                         {
-                            "name": "AN Jaehyun 1:3 CALDERANO Hugo"
+                            "name": "AN Jaehyun 1:3 CALDERANO Hugo",
+                            "children": [
+                                {
+                                    "name": "MORIZONO Masataka 0:3 AN Jaehyun"
+                                },
+                                {
+                                    "name": "TSUBOI Gustavo 1:3 CALDERANO Hugo"
+                                }
+                            ]
                         }
                     ]
                 }

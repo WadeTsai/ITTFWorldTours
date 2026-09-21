@@ -8,10 +8,26 @@
                     "name": "ZHU Yuling 3:2 YOKOI Sakura",
                     "children": [
                         {
-                            "name": "QIAN Tianyi 1:3 ZHU Yuling"
+                            "name": "QIAN Tianyi 1:3 ZHU Yuling",
+                            "children": [
+                                {
+                                    "name": "QIAN Tianyi 3:0 SASAO Asuka"
+                                },
+                                {
+                                    "name": "SHAO Jieni 0:3 ZHU Yuling"
+                                }
+                            ]
                         },
                         {
-                            "name": "YANG Ha Eun 2:3 YOKOI Sakura"
+                            "name": "YANG Ha Eun 2:3 YOKOI Sakura",
+                            "children": [
+                                {
+                                    "name": "LEE Daeun 0:3 YANG Ha Eun"
+                                },
+                                {
+                                    "name": "XU Yi 2:3 YOKOI Sakura"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -19,10 +35,26 @@
                     "name": "CHEN Yi 3:2 NAGASAKI Miyu",
                     "children": [
                         {
-                            "name": "CHEN Yi 3:0 ZHU Ziyu"
+                            "name": "CHEN Yi 3:0 ZHU Ziyu",
+                            "children": [
+                                {
+                                    "name": "CHEN Yi 3:0 GHOSH Swastika"
+                                },
+                                {
+                                    "name": "YOO Siwoo 0:3 ZHU Ziyu"
+                                }
+                            ]
                         },
                         {
-                            "name": "PARK Gahyeon 1:3 NAGASAKI Miyu"
+                            "name": "PARK Gahyeon 1:3 NAGASAKI Miyu",
+                            "children": [
+                                {
+                                    "name": "PARK Gahyeon 3:1 DENG Zhen"
+                                },
+                                {
+                                    "name": "NG Wing Lam 0:3 NAGASAKI Miyu"
+                                }
+                            ]
                         }
                     ]
                 }
@@ -35,10 +67,26 @@
                     "name": "ZONG Geman 0:3 HASHIMOTO Honoka",
                     "children": [
                         {
-                            "name": "SHI Xunyao 2:3 ZONG Geman"
+                            "name": "SHI Xunyao 2:3 ZONG Geman",
+                            "children": [
+                                {
+                                    "name": "SHI Xunyao 3:1 YAN Yutong"
+                                },
+                                {
+                                    "name": "UESAWA Anne 2:3 ZONG Geman"
+                                }
+                            ]
                         },
                         {
-                            "name": "LIU Weishan 0:3 HASHIMOTO Honoka"
+                            "name": "LIU Weishan 0:3 HASHIMOTO Honoka",
+                            "children": [
+                                {
+                                    "name": "LIU Weishan 3:2 ZENG Jian"
+                                },
+                                {
+                                    "name": "ZHU Chengzhu 0:3 HASHIMOTO Honoka"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -46,10 +94,26 @@
                     "name": "QIN Yuxuan 3:2 KIHARA Miyuu",
                     "children": [
                         {
-                            "name": "FAN Shuhan 0:3 QIN Yuxuan"
+                            "name": "FAN Shuhan 0:3 QIN Yuxuan",
+                            "children": [
+                                {
+                                    "name": "KIM Nayeong 1:3 FAN Shuhan"
+                                },
+                                {
+                                    "name": "LEE Zion 0:3 QIN Yuxuan"
+                                }
+                            ]
                         },
                         {
-                            "name": "LI Jie 1:3 KIHARA Miyuu"
+                            "name": "LI Jie 1:3 KIHARA Miyuu",
+                            "children": [
+                                {
+                                    "name": "YU Fu 1:3 LI Jie"
+                                },
+                                {
+                                    "name": "LEE Eunhye 1:3 KIHARA Miyuu"
+                                }
+                            ]
                         }
                     ]
                 }

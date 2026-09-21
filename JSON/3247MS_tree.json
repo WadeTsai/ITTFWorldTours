@@ -8,10 +8,26 @@
                     "name": "TOGAMI Shunsuke 3:1 ROBLES Alvaro",
                     "children": [
                         {
-                            "name": "TOGAMI Shunsuke 3:0 BOURRASSAUD Florian"
+                            "name": "TOGAMI Shunsuke 3:0 BOURRASSAUD Florian",
+                            "children": [
+                                {
+                                    "name": "TOGAMI Shunsuke 3:0 KURMANGALIYEV Alan"
+                                },
+                                {
+                                    "name": "MINO Alberto 0:3 BOURRASSAUD Florian"
+                                }
+                            ]
                         },
                         {
-                            "name": "PICARD Vincent 1:3 ROBLES Alvaro"
+                            "name": "PICARD Vincent 1:3 ROBLES Alvaro",
+                            "children": [
+                                {
+                                    "name": "PICARD Vincent 3:2 ARTUKMETOV Irisbek"
+                                },
+                                {
+                                    "name": "NARANJO Angel 2:3 ROBLES Alvaro"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -19,10 +35,26 @@
                     "name": "IVONIN Denis 0:3 HAMADA Kazuki",
                     "children": [
                         {
-                            "name": "SHAH Manush 0:3 IVONIN Denis"
+                            "name": "SHAH Manush 0:3 IVONIN Denis",
+                            "children": [
+                                {
+                                    "name": "SHAH Manush 3:0 VOLIN Lev"
+                                },
+                                {
+                                    "name": "WALTHER Ricardo 2:3 IVONIN Denis"
+                                }
+                            ]
                         },
                         {
-                            "name": "KARLSSON Mattias 2:3 HAMADA Kazuki"
+                            "name": "KARLSSON Mattias 2:3 HAMADA Kazuki",
+                            "children": [
+                                {
+                                    "name": "KARLSSON Mattias 3:1 ZHUBANOV Sanzhar"
+                                },
+                                {
+                                    "name": "DORR Esteban 2:3 HAMADA Kazuki"
+                                }
+                            ]
                         }
                     ]
                 }
@@ -35,10 +67,26 @@
                     "name": "TIKHONOV Evgeny 3:2 KOURAICHI Alexis",
                     "children": [
                         {
-                            "name": "YOSHIYAMA Ryoichi 0:3 TIKHONOV Evgeny"
+                            "name": "YOSHIYAMA Ryoichi 0:3 TIKHONOV Evgeny",
+                            "children": [
+                                {
+                                    "name": "YOSHIYAMA Ryoichi 3:0 KHARKI Iskender"
+                                },
+                                {
+                                    "name": "TIKHONOV Evgeny 3:1 ARTEMENKO Nikita"
+                                }
+                            ]
                         },
                         {
-                            "name": "KOURAICHI Alexis 3:2 KARLSSON Kristian"
+                            "name": "KOURAICHI Alexis 3:2 KARLSSON Kristian",
+                            "children": [
+                                {
+                                    "name": "JAIN Payas 2:3 KOURAICHI Alexis"
+                                },
+                                {
+                                    "name": "KATSMAN Lev 1:3 KARLSSON Kristian"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -46,10 +94,26 @@
                     "name": "FANG Bo 0:3 GAUZY Simon",
                     "children": [
                         {
-                            "name": "GERASSIMENKO Kirill 2:3 FANG Bo"
+                            "name": "GERASSIMENKO Kirill 2:3 FANG Bo",
+                            "children": [
+                                {
+                                    "name": "GERASSIMENKO Kirill 3:0 OIKAWA Mizuki"
+                                },
+                                {
+                                    "name": "MENG Fanbo 1:3 FANG Bo"
+                                }
+                            ]
                         },
                         {
-                            "name": "TANAKA Yuta 2:3 GAUZY Simon"
+                            "name": "TANAKA Yuta 2:3 GAUZY Simon",
+                            "children": [
+                                {
+                                    "name": "TANAKA Yuta 3:0 YOSHIYAMA Kazuki"
+                                },
+                                {
+                                    "name": "SKACHKOV Kirill 1:3 GAUZY Simon"
+                                }
+                            ]
                         }
                     ]
                 }

@@ -8,10 +8,26 @@
                     "name": "HAYATA Hina 3:1 HASHIMOTO Honoka",
                     "children": [
                         {
-                            "name": "HAYATA Hina 3:0 SATO Hitomi"
+                            "name": "HAYATA Hina 3:0 SATO Hitomi",
+                            "children": [
+                                {
+                                    "name": "HAYATA Hina 3:0 VEGA Paulina"
+                                },
+                                {
+                                    "name": "LIU Hsing-Yin 0:3 SATO Hitomi"
+                                }
+                            ]
                         },
                         {
-                            "name": "ZHANG Mo 0:3 HASHIMOTO Honoka"
+                            "name": "ZHANG Mo 0:3 HASHIMOTO Honoka",
+                            "children": [
+                                {
+                                    "name": "ZHANG Mo 3:1 LUTZ Charlotte"
+                                },
+                                {
+                                    "name": "HASHIMOTO Honoka 3:0 KIM Nayeong"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -19,10 +35,26 @@
                     "name": "SCHREINER Franziska 1:3 TAKAHASHI Bruna",
                     "children": [
                         {
-                            "name": "SCHREINER Franziska 3:0 VIVARELLI Debora"
+                            "name": "SCHREINER Franziska 3:0 VIVARELLI Debora",
+                            "children": [
+                                {
+                                    "name": "MITTELHAM Nina 0:3 SCHREINER Franziska"
+                                },
+                                {
+                                    "name": "CHIEN Tung-Chuan 2:3 VIVARELLI Debora"
+                                }
+                            ]
                         },
                         {
-                            "name": "ALTINKAYA Sibel 0:3 TAKAHASHI Bruna"
+                            "name": "ALTINKAYA Sibel 0:3 TAKAHASHI Bruna",
+                            "children": [
+                                {
+                                    "name": "BALAZOVA Barbora 0:3 ALTINKAYA Sibel"
+                                },
+                                {
+                                    "name": "WATANABE Laura 0:3 TAKAHASHI Bruna"
+                                }
+                            ]
                         }
                     ]
                 }
@@ -35,10 +67,26 @@
                     "name": "NAGASAKI Miyu 3:0 KALLBERG Christina",
                     "children": [
                         {
-                            "name": "NAGASAKI Miyu 3:0 WINTER Sabine"
+                            "name": "NAGASAKI Miyu 3:0 WINTER Sabine",
+                            "children": [
+                                {
+                                    "name": "NAGASAKI Miyu 3:0 STRASSBURGER Victoria"
+                                },
+                                {
+                                    "name": "WINTER Sabine 3:2 LEE Eunhye"
+                                }
+                            ]
                         },
                         {
-                            "name": "KALLBERG Christina 3:1 MORI Sakura"
+                            "name": "KALLBERG Christina 3:1 MORI Sakura",
+                            "children": [
+                                {
+                                    "name": "YU Fu 0:3 KALLBERG Christina"
+                                },
+                                {
+                                    "name": "MORI Sakura 3:0 DIAZ Adriana"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -46,10 +94,26 @@
                     "name": "SHAN Xiaona 3:1 SHIN Yubin",
                     "children": [
                         {
-                            "name": "SUH Hyo Won 0:3 SHAN Xiaona"
+                            "name": "SUH Hyo Won 0:3 SHAN Xiaona",
+                            "children": [
+                                {
+                                    "name": "SUH Hyo Won 3:0 SHAO Jieni"
+                                },
+                                {
+                                    "name": "SHAN Xiaona 3:2 ALEXANDRE Bruna"
+                                }
+                            ]
                         },
                         {
-                            "name": "DE NUTTE Sarah 0:3 SHIN Yubin"
+                            "name": "DE NUTTE Sarah 0:3 SHIN Yubin",
+                            "children": [
+                                {
+                                    "name": "DE NUTTE Sarah 3:1 TAKAHASHI Giulia"
+                                },
+                                {
+                                    "name": "XIAO Maria 1:3 SHIN Yubin"
+                                }
+                            ]
                         }
                     ]
                 }

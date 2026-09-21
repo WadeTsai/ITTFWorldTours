@@ -8,10 +8,26 @@
                     "name": "CHOI Hyojoo 3:2 PESOTSKA Margaryta",
                     "children": [
                         {
-                            "name": "CHOI Hyojoo 3:1 XU Yi"
+                            "name": "CHOI Hyojoo 3:1 XU Yi",
+                            "children": [
+                                {
+                                    "name": "POLCANOVA Sofia 1:3 CHOI Hyojoo"
+                                },
+                                {
+                                    "name": "WU Yangchen 1:3 XU Yi"
+                                }
+                            ]
                         },
                         {
-                            "name": "PESOTSKA Margaryta 3:1 BATRA Manika"
+                            "name": "PESOTSKA Margaryta 3:1 BATRA Manika",
+                            "children": [
+                                {
+                                    "name": "PESOTSKA Margaryta 3:2 ZANG Xiaotong"
+                                },
+                                {
+                                    "name": "BATRA Manika 3:1 SHIN Yubin"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -19,10 +35,26 @@
                     "name": "CHEN Szu-Yu 3:2 ZHANG Lily",
                     "children": [
                         {
-                            "name": "CHEN Szu-Yu 3:1 ZENG Jian"
+                            "name": "CHEN Szu-Yu 3:1 ZENG Jian",
+                            "children": [
+                                {
+                                    "name": "CHEN Szu-Yu 3:0 BALAZOVA Barbora"
+                                },
+                                {
+                                    "name": "LI Yuqi 0:3 ZENG Jian"
+                                }
+                            ]
                         },
                         {
-                            "name": "CHU Hanwen 2:3 ZHANG Lily"
+                            "name": "CHU Hanwen 2:3 ZHANG Lily",
+                            "children": [
+                                {
+                                    "name": "KAMATH Archana Girish 1:3 CHU Hanwen"
+                                },
+                                {
+                                    "name": "MUKHERJEE Sutirtha 1:3 ZHANG Lily"
+                                }
+                            ]
                         }
                     ]
                 }
@@ -35,10 +67,26 @@
                     "name": "CHEN Xingtong 3:0 MITTELHAM Nina",
                     "children": [
                         {
-                            "name": "CHEN Xingtong 3:0 CHITALE Diya Parag"
+                            "name": "CHEN Xingtong 3:0 CHITALE Diya Parag",
+                            "children": [
+                                {
+                                    "name": "CHEN Xingtong 3:1 AKULA Sreeja"
+                                },
+                                {
+                                    "name": "ZHANG Wanling 1:3 CHITALE Diya Parag"
+                                }
+                            ]
                         },
                         {
-                            "name": "LEE Zion 1:3 MITTELHAM Nina"
+                            "name": "LEE Zion 1:3 MITTELHAM Nina",
+                            "children": [
+                                {
+                                    "name": "BAJOR Natalia 0:3 LEE Zion"
+                                },
+                                {
+                                    "name": "MUKHERJEE Ayhika 0:3 MITTELHAM Nina"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -46,10 +94,26 @@
                     "name": "SAMARA Elizabeta 1:3 QIAN Tianyi",
                     "children": [
                         {
-                            "name": "SAMARA Elizabeta 3:2 HUANG Yi-Hua"
+                            "name": "SAMARA Elizabeta 3:2 HUANG Yi-Hua",
+                            "children": [
+                                {
+                                    "name": "SAMARA Elizabeta 3:2 SEN Prapti"
+                                },
+                                {
+                                    "name": "HUANG Yi-Hua 3:0 GOI Rui Xuan"
+                                }
+                            ]
                         },
                         {
-                            "name": "ZHOU Jingyi 0:3 QIAN Tianyi"
+                            "name": "ZHOU Jingyi 0:3 QIAN Tianyi",
+                            "children": [
+                                {
+                                    "name": "WONG Xin Ru 2:3 ZHOU Jingyi"
+                                },
+                                {
+                                    "name": "QIAN Tianyi 3:0 YANG Xiaoxin"
+                                }
+                            ]
                         }
                     ]
                 }

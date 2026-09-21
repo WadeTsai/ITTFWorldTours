@@ -8,10 +8,26 @@
                     "name": "DRINKHALL Paul 2:3 GERASSIMENKO Kirill",
                     "children": [
                         {
-                            "name": "LIN Gaoyuan 1:3 DRINKHALL Paul"
+                            "name": "LIN Gaoyuan 1:3 DRINKHALL Paul",
+                            "children": [
+                                {
+                                    "name": "LIN Gaoyuan 3:1 TOKIC Bojan"
+                                },
+                                {
+                                    "name": "HRIBAR Peter 0:3 DRINKHALL Paul"
+                                }
+                            ]
                         },
                         {
-                            "name": "GERASSIMENKO Kirill 3:0 SHINOZUKA Hiroto"
+                            "name": "GERASSIMENKO Kirill 3:0 SHINOZUKA Hiroto",
+                            "children": [
+                                {
+                                    "name": "GERASSIMENKO Kirill 3:1 MAJOROS Bence"
+                                },
+                                {
+                                    "name": "SHINOZUKA Hiroto 3:0 JHA Kanak"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -19,10 +35,26 @@
                     "name": "WANG Chuqin 2:3 LIU Dingshuo",
                     "children": [
                         {
-                            "name": "WANG Chuqin 3:0 MENGEL Steffen"
+                            "name": "WANG Chuqin 3:0 MENGEL Steffen",
+                            "children": [
+                                {
+                                    "name": "WANG Chuqin 3:0 OMOTAYO Olajide"
+                                },
+                                {
+                                    "name": "MENGEL Steffen 3:0 KOSOLOSKY Olav"
+                                }
+                            ]
                         },
                         {
-                            "name": "LIU Dingshuo 3:2 DUDA Benedikt"
+                            "name": "LIU Dingshuo 3:2 DUDA Benedikt",
+                            "children": [
+                                {
+                                    "name": "LIU Dingshuo 3:2 PLATONOV Pavel"
+                                },
+                                {
+                                    "name": "ISHIY Vitor 1:3 DUDA Benedikt"
+                                }
+                            ]
                         }
                     ]
                 }
@@ -35,10 +67,26 @@
                     "name": "PERSSON Jon 3:0 APOLONIA Tiago",
                     "children": [
                         {
-                            "name": "GNANASEKARAN Sathiyan 1:3 PERSSON Jon"
+                            "name": "GNANASEKARAN Sathiyan 1:3 PERSSON Jon",
+                            "children": [
+                                {
+                                    "name": "GNANASEKARAN Sathiyan 3:1 MINO Alberto"
+                                },
+                                {
+                                    "name": "PERSSON Jon 3:2 SKACHKOV Kirill"
+                                }
+                            ]
                         },
                         {
-                            "name": "APOLONIA Tiago 3:2 ARUNA Quadri"
+                            "name": "APOLONIA Tiago 3:2 ARUNA Quadri",
+                            "children": [
+                                {
+                                    "name": "AKKUZU Can 1:3 APOLONIA Tiago"
+                                },
+                                {
+                                    "name": "MONTEIRO Thiago 1:3 ARUNA Quadri"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -46,10 +94,26 @@
                     "name": "KIZUKURI Yuto 0:3 LIANG Jingkun",
                     "children": [
                         {
-                            "name": "KIZUKURI Yuto 3:1 GERALDO Joao"
+                            "name": "KIZUKURI Yuto 3:1 GERALDO Joao",
+                            "children": [
+                                {
+                                    "name": "ACHANTA Sharath Kamal 1:3 KIZUKURI Yuto"
+                                },
+                                {
+                                    "name": "GERALDO Joao 3:0 OLAH Benedek"
+                                }
+                            ]
                         },
                         {
-                            "name": "KOZUL Deni 0:3 LIANG Jingkun"
+                            "name": "KOZUL Deni 0:3 LIANG Jingkun",
+                            "children": [
+                                {
+                                    "name": "KOZUL Deni 3:0 JIN Takuya"
+                                },
+                                {
+                                    "name": "DEVOS Laurens 0:3 LIANG Jingkun"
+                                }
+                            ]
                         }
                     ]
                 }

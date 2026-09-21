@@ -8,10 +8,26 @@
                     "name": "HARIMOTO Miwa 3:1 KALLBERG Christina",
                     "children": [
                         {
-                            "name": "HARIMOTO Miwa 3:0 PARANANG Orawan"
+                            "name": "HARIMOTO Miwa 3:0 PARANANG Orawan",
+                            "children": [
+                                {
+                                    "name": "HARIMOTO Miwa 3:0 BERGSTROM Linda"
+                                },
+                                {
+                                    "name": "HUANG Yi-Hua 2:3 PARANANG Orawan"
+                                }
+                            ]
                         },
                         {
-                            "name": "MORI Sakura 1:3 KALLBERG Christina"
+                            "name": "MORI Sakura 1:3 KALLBERG Christina",
+                            "children": [
+                                {
+                                    "name": "SASAO Asuka 1:3 MORI Sakura"
+                                },
+                                {
+                                    "name": "KALLBERG Christina 3:1 MESHREF Dina"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -19,10 +35,26 @@
                     "name": "YOKOI Sakura 0:3 JOO Cheonhui",
                     "children": [
                         {
-                            "name": "YUAN Jia Nan 1:3 YOKOI Sakura"
+                            "name": "YUAN Jia Nan 1:3 YOKOI Sakura",
+                            "children": [
+                                {
+                                    "name": "YUAN Jia Nan 3:0 HANSSON Matilda"
+                                },
+                                {
+                                    "name": "LIU Hsing-Yin 0:3 YOKOI Sakura"
+                                }
+                            ]
                         },
                         {
-                            "name": "ZENG Jian 2:3 JOO Cheonhui"
+                            "name": "ZENG Jian 2:3 JOO Cheonhui",
+                            "children": [
+                                {
+                                    "name": "ZENG Jian 3:0 LABOSOVA Ema"
+                                },
+                                {
+                                    "name": "PLAIAN Tania 1:3 JOO Cheonhui"
+                                }
+                            ]
                         }
                     ]
                 }
@@ -35,10 +67,26 @@
                     "name": "ODO Satsuki 3:1 SAWETTABUT Suthasini",
                     "children": [
                         {
-                            "name": "ODO Satsuki 3:0 CHITALE Diya Parag"
+                            "name": "ODO Satsuki 3:0 CHITALE Diya Parag",
+                            "children": [
+                                {
+                                    "name": "POLCANOVA Sofia 1:3 ODO Satsuki"
+                                },
+                                {
+                                    "name": "MUKHERJEE Ayhika 0:3 CHITALE Diya Parag"
+                                }
+                            ]
                         },
                         {
-                            "name": "BATRA Manika 2:3 SAWETTABUT Suthasini"
+                            "name": "BATRA Manika 2:3 SAWETTABUT Suthasini",
+                            "children": [
+                                {
+                                    "name": "BATRA Manika 3:0 BERGAND Filippa"
+                                },
+                                {
+                                    "name": "SAWETTABUT Suthasini 3:0 PAVADE Prithika"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -46,10 +94,26 @@
                     "name": "NAGASAKI Miyu 3:0 DIAZ Adriana",
                     "children": [
                         {
-                            "name": "NAGASAKI Miyu 3:2 GHORPADE Yashaswini"
+                            "name": "NAGASAKI Miyu 3:2 GHORPADE Yashaswini",
+                            "children": [
+                                {
+                                    "name": "NAGASAKI Miyu 3:0 KAMATH Archana Girish"
+                                },
+                                {
+                                    "name": "GHORPADE Yashaswini 3:0 YOO Siwoo"
+                                }
+                            ]
                         },
                         {
-                            "name": "KIMURA Kasumi 1:3 DIAZ Adriana"
+                            "name": "KIMURA Kasumi 1:3 DIAZ Adriana",
+                            "children": [
+                                {
+                                    "name": "KIMURA Kasumi 3:2 AKULA Sreeja"
+                                },
+                                {
+                                    "name": "WANG Yi-Ju 0:3 DIAZ Adriana"
+                                }
+                            ]
                         }
                     ]
                 }

@@ -8,10 +8,26 @@
                     "name": "HAYATA Hina 3:0 CHENG I-Ching",
                     "children": [
                         {
-                            "name": "HAYATA Hina 3:1 ODO Satsuki"
+                            "name": "HAYATA Hina 3:1 ODO Satsuki",
+                            "children": [
+                                {
+                                    "name": "HAYATA Hina 3:0 RAKOVAC Lea"
+                                },
+                                {
+                                    "name": "ODO Satsuki 3:0 SAMARA Elizabeta"
+                                }
+                            ]
                         },
                         {
-                            "name": "ZENG Jian 2:3 CHENG I-Ching"
+                            "name": "ZENG Jian 2:3 CHENG I-Ching",
+                            "children": [
+                                {
+                                    "name": "ZENG Jian 3:2 SAWETTABUT Jinnipa"
+                                },
+                                {
+                                    "name": "GHOSH Swastika 0:3 CHENG I-Ching"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -19,10 +35,26 @@
                     "name": "SZOCS Bernadette 0:3 HIRANO Miu",
                     "children": [
                         {
-                            "name": "SZOCS Bernadette 3:0 ZHANG Lily"
+                            "name": "SZOCS Bernadette 3:0 ZHANG Lily",
+                            "children": [
+                                {
+                                    "name": "SZOCS Bernadette 3:2 YANG Ha Eun"
+                                },
+                                {
+                                    "name": "MALOBABIC Ivana 1:3 ZHANG Lily"
+                                }
+                            ]
                         },
                         {
-                            "name": "ZHU Chengzhu 0:3 HIRANO Miu"
+                            "name": "ZHU Chengzhu 0:3 HIRANO Miu",
+                            "children": [
+                                {
+                                    "name": "DIACONU Adina 1:3 ZHU Chengzhu"
+                                },
+                                {
+                                    "name": "LI Yu-Jhun 1:3 HIRANO Miu"
+                                }
+                            ]
                         }
                     ]
                 }
@@ -35,10 +67,26 @@
                     "name": "PAVADE Prithika 0:3 HARIMOTO Miwa",
                     "children": [
                         {
-                            "name": "ITO Mima 2:3 PAVADE Prithika"
+                            "name": "ITO Mima 2:3 PAVADE Prithika",
+                            "children": [
+                                {
+                                    "name": "ITO Mima 3:0 ARAPOVIC Hana"
+                                },
+                                {
+                                    "name": "SAWETTABUT Suthasini 0:3 PAVADE Prithika"
+                                }
+                            ]
                         },
                         {
-                            "name": "LEE Ho Ching 0:3 HARIMOTO Miwa"
+                            "name": "LEE Ho Ching 0:3 HARIMOTO Miwa",
+                            "children": [
+                                {
+                                    "name": "LUTZ Charlotte 1:3 LEE Ho Ching"
+                                },
+                                {
+                                    "name": "JOO Cheonhui 1:3 HARIMOTO Miwa"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -46,10 +94,26 @@
                     "name": "JEON Jihee 1:3 KIHARA Miyuu",
                     "children": [
                         {
-                            "name": "JEON Jihee 3:1 SUH Hyo Won"
+                            "name": "JEON Jihee 3:1 SUH Hyo Won",
+                            "children": [
+                                {
+                                    "name": "JEON Jihee 3:0 NI Xia Lian"
+                                },
+                                {
+                                    "name": "SUH Hyo Won 3:2 DOO Hoi Kem"
+                                }
+                            ]
                         },
                         {
-                            "name": "CHENG Hsien-Tzu 0:3 KIHARA Miyuu"
+                            "name": "CHENG Hsien-Tzu 0:3 KIHARA Miyuu",
+                            "children": [
+                                {
+                                    "name": "PARANANG Orawan 1:3 CHENG Hsien-Tzu"
+                                },
+                                {
+                                    "name": "KIHARA Miyuu 3:2 SHIN Yubin"
+                                }
+                            ]
                         }
                     ]
                 }

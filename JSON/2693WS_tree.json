@@ -8,10 +8,26 @@
                     "name": "SHIN Yubin 3:2 BERGSTROM Linda",
                     "children": [
                         {
-                            "name": "SHIN Yubin 3:0 KUKULKOVA Tatiana"
+                            "name": "SHIN Yubin 3:0 KUKULKOVA Tatiana",
+                            "children": [
+                                {
+                                    "name": "SHIN Yubin 3:2 LI Yu-Jhun"
+                                },
+                                {
+                                    "name": "KUKULKOVA Tatiana 3:1 LIU Hsing-Yin"
+                                }
+                            ]
                         },
                         {
-                            "name": "BERGSTROM Linda 3:1 KAMATH Archana Girish"
+                            "name": "BERGSTROM Linda 3:1 KAMATH Archana Girish",
+                            "children": [
+                                {
+                                    "name": "HUANG Yu-Wen 1:3 BERGSTROM Linda"
+                                },
+                                {
+                                    "name": "KAMATH Archana Girish 3:1 SUH Hyo Won"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -19,10 +35,26 @@
                     "name": "KIM Nayeong 3:1 PAVADE Prithika",
                     "children": [
                         {
-                            "name": "GODA Hana 1:3 KIM Nayeong"
+                            "name": "GODA Hana 1:3 KIM Nayeong",
+                            "children": [
+                                {
+                                    "name": "GODA Hana 3:0 AKULA Sreeja"
+                                },
+                                {
+                                    "name": "KIM Nayeong 3:0 ORIBAMISE Esther"
+                                }
+                            ]
                         },
                         {
-                            "name": "PAVADE Prithika 3:1 LEE Eunhye"
+                            "name": "PAVADE Prithika 3:1 LEE Eunhye",
+                            "children": [
+                                {
+                                    "name": "HUANG Yi-Hua 0:3 PAVADE Prithika"
+                                },
+                                {
+                                    "name": "LEE Eunhye 3:0 BELLO Fatimo"
+                                }
+                            ]
                         }
                     ]
                 }
@@ -35,10 +67,26 @@
                     "name": "WANG Xiaotong 3:1 GUO Yuhan",
                     "children": [
                         {
-                            "name": "WANG Xiaotong 3:1 KALLBERG Christina"
+                            "name": "WANG Xiaotong 3:1 KALLBERG Christina",
+                            "children": [
+                                {
+                                    "name": "BAJOR Natalia 2:3 WANG Xiaotong"
+                                },
+                                {
+                                    "name": "HANFFOU Sarah 1:3 KALLBERG Christina"
+                                }
+                            ]
                         },
                         {
-                            "name": "GUO Yuhan 3:0 JEON Jihee"
+                            "name": "GUO Yuhan 3:0 JEON Jihee",
+                            "children": [
+                                {
+                                    "name": "GUO Yuhan 3:1 YANG Ha Eun"
+                                },
+                                {
+                                    "name": "TENNISON Reeth 0:3 JEON Jihee"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -46,10 +94,26 @@
                     "name": "BALAZOVA Barbora 1:3 LI Yake",
                     "children": [
                         {
-                            "name": "BALAZOVA Barbora 3:0 ALTINKAYA Sibel"
+                            "name": "BALAZOVA Barbora 3:0 ALTINKAYA Sibel",
+                            "children": [
+                                {
+                                    "name": "BALAZOVA Barbora 3:2 RYU Hanna"
+                                },
+                                {
+                                    "name": "ALTINKAYA Sibel 3:0 OJOMU Ajoke"
+                                }
+                            ]
                         },
                         {
-                            "name": "LI Yake 3:0 MESHREF Dina"
+                            "name": "LI Yake 3:0 MESHREF Dina",
+                            "children": [
+                                {
+                                    "name": "EDEM Offiong 0:3 LI Yake"
+                                },
+                                {
+                                    "name": "CHITALE Diya Parag 1:3 MESHREF Dina"
+                                }
+                            ]
                         }
                     ]
                 }

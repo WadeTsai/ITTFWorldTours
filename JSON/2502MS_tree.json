@@ -8,10 +8,26 @@
                     "name": "FRANZISKA Patrick 1:3 ZELJKO Filip",
                     "children": [
                         {
-                            "name": "FRANZISKA Patrick 3:1 GREBNEV Maksim"
+                            "name": "FRANZISKA Patrick 3:1 GREBNEV Maksim",
+                            "children": [
+                                {
+                                    "name": "FRANZISKA Patrick 3:2 APOLONIA Tiago"
+                                },
+                                {
+                                    "name": "MOREGARD Truls 2:3 GREBNEV Maksim"
+                                }
+                            ]
                         },
                         {
-                            "name": "ZELJKO Filip 3:0 ISHIY Vitor"
+                            "name": "ZELJKO Filip 3:0 ISHIY Vitor",
+                            "children": [
+                                {
+                                    "name": "ZELJKO Filip 3:0 AGUIRRE Marcelo"
+                                },
+                                {
+                                    "name": "ISHIY Vitor 3:2 ACHANTA Sharath Kamal"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -19,10 +35,26 @@
                     "name": "QIU Dang 3:0 GNANASEKARAN Sathiyan",
                     "children": [
                         {
-                            "name": "ANGLES Enzo 0:3 QIU Dang"
+                            "name": "ANGLES Enzo 0:3 QIU Dang",
+                            "children": [
+                                {
+                                    "name": "FREITAS Marcos 2:3 ANGLES Enzo"
+                                },
+                                {
+                                    "name": "QIU Dang 3:1 SKACHKOV Kirill"
+                                }
+                            ]
                         },
                         {
-                            "name": "DIAW Ibrahima 0:3 GNANASEKARAN Sathiyan"
+                            "name": "DIAW Ibrahima 0:3 GNANASEKARAN Sathiyan",
+                            "children": [
+                                {
+                                    "name": "DIAW Ibrahima 3:0 ALLEGRO Martin"
+                                },
+                                {
+                                    "name": "ROBLES Alvaro 0:3 GNANASEKARAN Sathiyan"
+                                }
+                            ]
                         }
                     ]
                 }
@@ -35,10 +67,26 @@
                     "name": "IONESCU Ovidiu 0:3 KALLBERG Anton",
                     "children": [
                         {
-                            "name": "STUMPER Kay 0:3 IONESCU Ovidiu"
+                            "name": "STUMPER Kay 0:3 IONESCU Ovidiu",
+                            "children": [
+                                {
+                                    "name": "WANG Yang 2:3 STUMPER Kay"
+                                },
+                                {
+                                    "name": "IONESCU Ovidiu 3:2 KOJIC Frane"
+                                }
+                            ]
                         },
                         {
-                            "name": "MENG Fanbo 0:3 KALLBERG Anton"
+                            "name": "MENG Fanbo 0:3 KALLBERG Anton",
+                            "children": [
+                                {
+                                    "name": "MENG Fanbo 3:2 MAJOROS Bence"
+                                },
+                                {
+                                    "name": "KALLBERG Anton 3:1 GARDOS Robert"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -46,10 +94,26 @@
                     "name": "DYJAS Jakub 1:3 ARUNA Quadri",
                     "children": [
                         {
-                            "name": "DYJAS Jakub 3:0 LEBESSON Emmanuel"
+                            "name": "DYJAS Jakub 3:0 LEBESSON Emmanuel",
+                            "children": [
+                                {
+                                    "name": "FILUS Ruwen 2:3 DYJAS Jakub"
+                                },
+                                {
+                                    "name": "LEBESSON Emmanuel 3:2 SHIBAEV Alexander"
+                                }
+                            ]
                         },
                         {
-                            "name": "MONTEIRO Joao 0:3 ARUNA Quadri"
+                            "name": "MONTEIRO Joao 0:3 ARUNA Quadri",
+                            "children": [
+                                {
+                                    "name": "SALEH Ahmed 2:3 MONTEIRO Joao"
+                                },
+                                {
+                                    "name": "PERSSON Jon 1:3 ARUNA Quadri"
+                                }
+                            ]
                         }
                     ]
                 }

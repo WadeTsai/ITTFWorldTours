@@ -8,10 +8,26 @@
                     "name": "HAYATA Hina 3:1 PARANANG Orawan",
                     "children": [
                         {
-                            "name": "HAYATA Hina 3:0 SHAO Jieni"
+                            "name": "HAYATA Hina 3:0 SHAO Jieni",
+                            "children": [
+                                {
+                                    "name": "HAYATA Hina 3:0 SAWETTABUT Suthasini"
+                                },
+                                {
+                                    "name": "XIAO Maria 2:3 SHAO Jieni"
+                                }
+                            ]
                         },
                         {
-                            "name": "PARANANG Orawan 3:2 NAGASAKI Miyu"
+                            "name": "PARANANG Orawan 3:2 NAGASAKI Miyu",
+                            "children": [
+                                {
+                                    "name": "PARANANG Orawan 3:1 LIU Yangzi"
+                                },
+                                {
+                                    "name": "CHENG Hsien-Tzu 0:3 NAGASAKI Miyu"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -19,10 +35,26 @@
                     "name": "HARIMOTO Miwa 3:0 DRAGOMAN Andreea",
                     "children": [
                         {
-                            "name": "HARIMOTO Miwa 3:2 BALAZOVA Barbora"
+                            "name": "HARIMOTO Miwa 3:2 BALAZOVA Barbora",
+                            "children": [
+                                {
+                                    "name": "HARIMOTO Miwa 3:0 YILMAZ Ozge"
+                                },
+                                {
+                                    "name": "YU Fu 1:3 BALAZOVA Barbora"
+                                }
+                            ]
                         },
                         {
-                            "name": "JEON Jihee 2:3 DRAGOMAN Andreea"
+                            "name": "JEON Jihee 2:3 DRAGOMAN Andreea",
+                            "children": [
+                                {
+                                    "name": "JEON Jihee 3:0 ZARIF Audrey"
+                                },
+                                {
+                                    "name": "DRAGOMAN Andreea 3:2 SHAN Xiaona"
+                                }
+                            ]
                         }
                     ]
                 }
@@ -35,10 +67,26 @@
                     "name": "SAMARA Elizabeta 0:3 DIACONU Adina",
                     "children": [
                         {
-                            "name": "SAMARA Elizabeta 3:2 KIM Nayeong"
+                            "name": "SAMARA Elizabeta 3:2 KIM Nayeong",
+                            "children": [
+                                {
+                                    "name": "SAMARA Elizabeta 3:1 SUH Hyo Won"
+                                },
+                                {
+                                    "name": "KIM Nayeong 3:2 YANG Ha Eun"
+                                }
+                            ]
                         },
                         {
-                            "name": "DIACONU Adina 3:1 LI Yu-Jhun"
+                            "name": "DIACONU Adina 3:1 LI Yu-Jhun",
+                            "children": [
+                                {
+                                    "name": "DIACONU Adina 3:1 GODA Hana"
+                                },
+                                {
+                                    "name": "LI Yu-Jhun 3:1 SZOCS Bernadette"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -46,10 +94,26 @@
                     "name": "PAVADE Prithika 0:3 HAN Ying",
                     "children": [
                         {
-                            "name": "LEE Zion 2:3 PAVADE Prithika"
+                            "name": "LEE Zion 2:3 PAVADE Prithika",
+                            "children": [
+                                {
+                                    "name": "MESHREF Dina 1:3 LEE Zion"
+                                },
+                                {
+                                    "name": "ALTINKAYA Sibel 0:3 PAVADE Prithika"
+                                }
+                            ]
                         },
                         {
-                            "name": "BATRA Manika 0:3 HAN Ying"
+                            "name": "BATRA Manika 0:3 HAN Ying",
+                            "children": [
+                                {
+                                    "name": "KAUFMANN Annett 0:3 BATRA Manika"
+                                },
+                                {
+                                    "name": "CHEN Szu-Yu 0:3 HAN Ying"
+                                }
+                            ]
                         }
                     ]
                 }

@@ -8,10 +8,58 @@
                     "name": "SUN Yingsha 4:0 HAN Ying",
                     "children": [
                         {
-                            "name": "SUN Yingsha 4:0 SHIN Yubin"
+                            "name": "SUN Yingsha 4:0 SHIN Yubin",
+                            "children": [
+                                {
+                                    "name": "SUN Yingsha 4:0 SAMARA Elizabeta",
+                                    "children": [
+                                        {
+                                            "name": "SUN Yingsha 4:0 SOLJA Amelie"
+                                        },
+                                        {
+                                            "name": "PAVADE Prithika 2:4 SAMARA Elizabeta"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "SHIN Yubin 4:3 YUAN Jia Nan",
+                                    "children": [
+                                        {
+                                            "name": "SHIN Yubin 4:1 ZARIF Audrey"
+                                        },
+                                        {
+                                            "name": "BALAZOVA Barbora 2:4 YUAN Jia Nan"
+                                        }
+                                    ]
+                                }
+                            ]
                         },
                         {
-                            "name": "KUKULKOVA Tatiana 0:4 HAN Ying"
+                            "name": "KUKULKOVA Tatiana 0:4 HAN Ying",
+                            "children": [
+                                {
+                                    "name": "KUKULKOVA Tatiana 4:1 MONFARDINI Gaia",
+                                    "children": [
+                                        {
+                                            "name": "MADARASZ Dora 0:4 KUKULKOVA Tatiana"
+                                        },
+                                        {
+                                            "name": "MONFARDINI Gaia 4:2 WINTER Sabine"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "DRAGOMAN Andreea 0:4 HAN Ying",
+                                    "children": [
+                                        {
+                                            "name": "DRAGOMAN Andreea 4:0 YILMAZ Ozge"
+                                        },
+                                        {
+                                            "name": "AKULA Sreeja 0:4 HAN Ying"
+                                        }
+                                    ]
+                                }
+                            ]
                         }
                     ]
                 },
@@ -19,10 +67,58 @@
                     "name": "HAYATA Hina 4:3 WANG Yidi",
                     "children": [
                         {
-                            "name": "HAYATA Hina 4:0 SUH Hyo Won"
+                            "name": "HAYATA Hina 4:0 SUH Hyo Won",
+                            "children": [
+                                {
+                                    "name": "HAYATA Hina 4:0 NAGASAKI Miyu",
+                                    "children": [
+                                        {
+                                            "name": "HAYATA Hina 4:0 PICCOLIN Giorgia"
+                                        },
+                                        {
+                                            "name": "DIAZ Melanie 0:4 NAGASAKI Miyu"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "SUH Hyo Won 4:2 DIACONU Adina",
+                                    "children": [
+                                        {
+                                            "name": "SUH Hyo Won 4:1 BRATEYKO Solomiya"
+                                        },
+                                        {
+                                            "name": "DIACONU Adina 4:2 DOO Hoi Kem"
+                                        }
+                                    ]
+                                }
+                            ]
                         },
                         {
-                            "name": "HIRANO Miu 0:4 WANG Yidi"
+                            "name": "HIRANO Miu 0:4 WANG Yidi",
+                            "children": [
+                                {
+                                    "name": "HIRANO Miu 4:0 JEON Jihee",
+                                    "children": [
+                                        {
+                                            "name": "HIRANO Miu 4:2 KAUFMANN Annett"
+                                        },
+                                        {
+                                            "name": "PESOTSKA Margaryta 1:4 JEON Jihee"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "YU Fu 1:4 WANG Yidi",
+                                    "children": [
+                                        {
+                                            "name": "YU Fu 4:0 BELLO Fatimo"
+                                        },
+                                        {
+                                            "name": "XIAO Maria 0:4 WANG Yidi"
+                                        }
+                                    ]
+                                }
+                            ]
                         }
                     ]
                 }
@@ -35,10 +131,58 @@
                     "name": "CHEN Meng 4:0 ITO Mima",
                     "children": [
                         {
-                            "name": "CHEN Meng 4:2 KIHARA Miyuu"
+                            "name": "CHEN Meng 4:2 KIHARA Miyuu",
+                            "children": [
+                                {
+                                    "name": "CHEN Meng 4:0 SHAN Xiaona",
+                                    "children": [
+                                        {
+                                            "name": "CHEN Meng 4:0 SAWETTABUT Jinnipa"
+                                        },
+                                        {
+                                            "name": "NI Xia Lian 3:4 SHAN Xiaona"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "MESHREF Dina 1:4 KIHARA Miyuu",
+                                    "children": [
+                                        {
+                                            "name": "MESHREF Dina 4:0 WEGRZYN Anna"
+                                        },
+                                        {
+                                            "name": "PARANANG Orawan 0:4 KIHARA Miyuu"
+                                        }
+                                    ]
+                                }
+                            ]
                         },
                         {
-                            "name": "DIAZ Adriana 0:4 ITO Mima"
+                            "name": "DIAZ Adriana 0:4 ITO Mima",
+                            "children": [
+                                {
+                                    "name": "DIAZ Adriana 4:3 BATRA Manika",
+                                    "children": [
+                                        {
+                                            "name": "DIAZ Adriana 4:1 MALOBABIC Ivana"
+                                        },
+                                        {
+                                            "name": "WONG Xin Ru 0:4 BATRA Manika"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "POTA Georgina 0:4 ITO Mima",
+                                    "children": [
+                                        {
+                                            "name": "SAWETTABUT Suthasini 1:4 POTA Georgina"
+                                        },
+                                        {
+                                            "name": "LUTZ Camille 0:4 ITO Mima"
+                                        }
+                                    ]
+                                }
+                            ]
                         }
                     ]
                 },
@@ -46,10 +190,58 @@
                     "name": "CHEN Xingtong 4:0 WANG Manyu",
                     "children": [
                         {
-                            "name": "CHEN Xingtong 4:3 CHENG I-Ching"
+                            "name": "CHEN Xingtong 4:3 CHENG I-Ching",
+                            "children": [
+                                {
+                                    "name": "CHEN Xingtong 4:2 ZHU Chengzhu",
+                                    "children": [
+                                        {
+                                            "name": "CHEN Xingtong 4:1 LEE Zion"
+                                        },
+                                        {
+                                            "name": "ZHU Chengzhu 4:2 CHOI Hyojoo"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "SZOCS Bernadette 1:4 CHENG I-Ching",
+                                    "children": [
+                                        {
+                                            "name": "SZOCS Bernadette 4:3 ALHODABY Mariam"
+                                        },
+                                        {
+                                            "name": "LUTZ Charlotte 2:4 CHENG I-Ching"
+                                        }
+                                    ]
+                                }
+                            ]
                         },
                         {
-                            "name": "MITTELHAM Nina 1:4 WANG Manyu"
+                            "name": "MITTELHAM Nina 1:4 WANG Manyu",
+                            "children": [
+                                {
+                                    "name": "MITTELHAM Nina 4:0 LI Yu-Jhun",
+                                    "children": [
+                                        {
+                                            "name": "MITTELHAM Nina 4:1 TENNISON Reeth"
+                                        },
+                                        {
+                                            "name": "LI Yu-Jhun 4:1 GODA Hana"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "HAPONOVA Hanna 3:4 WANG Manyu",
+                                    "children": [
+                                        {
+                                            "name": "BERGSTROM Linda 1:4 HAPONOVA Hanna"
+                                        },
+                                        {
+                                            "name": "MATELOVA Hana 0:4 WANG Manyu"
+                                        }
+                                    ]
+                                }
+                            ]
                         }
                     ]
                 }

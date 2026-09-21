@@ -8,10 +8,26 @@
                     "name": "ITO Mima 3:1 TAKAHASHI Bruna",
                     "children": [
                         {
-                            "name": "ITO Mima 3:2 CHENG I-Ching"
+                            "name": "ITO Mima 3:2 CHENG I-Ching",
+                            "children": [
+                                {
+                                    "name": "ITO Mima 3:1 AKULA Sreeja"
+                                },
+                                {
+                                    "name": "CHENG I-Ching 3:0 KUAI Man"
+                                }
+                            ]
                         },
                         {
-                            "name": "PAVADE Prithika 2:3 TAKAHASHI Bruna"
+                            "name": "PAVADE Prithika 2:3 TAKAHASHI Bruna",
+                            "children": [
+                                {
+                                    "name": "PAVADE Prithika 3:1 BERGSTROM Linda"
+                                },
+                                {
+                                    "name": "MATELOVA Hana 2:3 TAKAHASHI Bruna"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -19,10 +35,26 @@
                     "name": "POLCANOVA Sofia 3:0 SHAO Jieni",
                     "children": [
                         {
-                            "name": "POLCANOVA Sofia 3:1 HAN Feier"
+                            "name": "POLCANOVA Sofia 3:1 HAN Feier",
+                            "children": [
+                                {
+                                    "name": "POLCANOVA Sofia 3:2 ZHANG Mo"
+                                },
+                                {
+                                    "name": "HAN Feier 3:1 XIAO Maria"
+                                }
+                            ]
                         },
                         {
-                            "name": "SHAO Jieni 3:2 SAMARA Elizabeta"
+                            "name": "SHAO Jieni 3:2 SAMARA Elizabeta",
+                            "children": [
+                                {
+                                    "name": "SHAO Jieni 3:0 BALAZOVA Barbora"
+                                },
+                                {
+                                    "name": "SAMARA Elizabeta 3:2 MESHREF Dina"
+                                }
+                            ]
                         }
                     ]
                 }
@@ -35,10 +67,26 @@
                     "name": "YUAN Jia Nan 1:3 YANG Xiaoxin",
                     "children": [
                         {
-                            "name": "YUAN Jia Nan 3:1 DIACONU Adina"
+                            "name": "YUAN Jia Nan 3:1 DIACONU Adina",
+                            "children": [
+                                {
+                                    "name": "YUAN Jia Nan 3:0 LUTZ Camille"
+                                },
+                                {
+                                    "name": "DIACONU Adina 3:1 QIN Yuxuan"
+                                }
+                            ]
                         },
                         {
-                            "name": "SZOCS Bernadette 0:3 YANG Xiaoxin"
+                            "name": "SZOCS Bernadette 0:3 YANG Xiaoxin",
+                            "children": [
+                                {
+                                    "name": "ZONG Geman 1:3 SZOCS Bernadette"
+                                },
+                                {
+                                    "name": "ZHU Chengzhu 0:3 YANG Xiaoxin"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -46,10 +94,26 @@
                     "name": "NI Xia Lian 1:3 DOO Hoi Kem",
                     "children": [
                         {
-                            "name": "NI Xia Lian 3:1 KALLBERG Christina"
+                            "name": "NI Xia Lian 3:1 KALLBERG Christina",
+                            "children": [
+                                {
+                                    "name": "CHEN Szu-Yu 0:3 NI Xia Lian"
+                                },
+                                {
+                                    "name": "KALLBERG Christina 3:0 BAJOR Natalia"
+                                }
+                            ]
                         },
                         {
-                            "name": "LEE Ho Ching 2:3 DOO Hoi Kem"
+                            "name": "LEE Ho Ching 2:3 DOO Hoi Kem",
+                            "children": [
+                                {
+                                    "name": "LEE Ho Ching 3:1 JEE  Minhyung"
+                                },
+                                {
+                                    "name": "PICCOLIN Giorgia 1:3 DOO Hoi Kem"
+                                }
+                            ]
                         }
                     ]
                 }

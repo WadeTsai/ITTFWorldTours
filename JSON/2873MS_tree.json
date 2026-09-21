@@ -8,10 +8,26 @@
                     "name": "LIN Shidong 3:0 WEN Ruibo",
                     "children": [
                         {
-                            "name": "LIN Shidong 3:0 ISTRATE Andrei"
+                            "name": "LIN Shidong 3:0 ISTRATE Andrei",
+                            "children": [
+                                {
+                                    "name": "LIN Shidong 3:1 KENZHIGULOV Aidos"
+                                },
+                                {
+                                    "name": "KHARKI Iskender 1:3 ISTRATE Andrei"
+                                }
+                            ]
                         },
                         {
-                            "name": "WEN Ruibo 3:2 FENG Yi-Hsin"
+                            "name": "WEN Ruibo 3:2 FENG Yi-Hsin",
+                            "children": [
+                                {
+                                    "name": "WEN Ruibo 3:1 WALTHER Ricardo"
+                                },
+                                {
+                                    "name": "CHANG Yu-An 2:3 FENG Yi-Hsin"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -19,10 +35,26 @@
                     "name": "ZHOU Qihao 3:1 TANAKA Yuta",
                     "children": [
                         {
-                            "name": "XIANG Peng 2:3 ZHOU Qihao"
+                            "name": "XIANG Peng 2:3 ZHOU Qihao",
+                            "children": [
+                                {
+                                    "name": "XIANG Peng 3:0 YOKOTANI Jo"
+                                },
+                                {
+                                    "name": "ZHOU Qihao 3:1 KURMANGALIYEV Alan"
+                                }
+                            ]
                         },
                         {
-                            "name": "LIANG Yanning 2:3 TANAKA Yuta"
+                            "name": "LIANG Yanning 2:3 TANAKA Yuta",
+                            "children": [
+                                {
+                                    "name": "LIANG Yanning 3:0 XU Yingbin"
+                                },
+                                {
+                                    "name": "DORR Esteban 0:3 TANAKA Yuta"
+                                }
+                            ]
                         }
                     ]
                 }
@@ -35,10 +67,26 @@
                     "name": "OH Junsung 3:0 IONESCU Eduard",
                     "children": [
                         {
-                            "name": "OH Junsung 3:1 CHIRITA Iulian"
+                            "name": "OH Junsung 3:1 CHIRITA Iulian",
+                            "children": [
+                                {
+                                    "name": "OH Junsung 3:1 MEISSNER Cedric"
+                                },
+                                {
+                                    "name": "CHIRITA Iulian 3:0 GACINA Andrej"
+                                }
+                            ]
                         },
                         {
-                            "name": "IONESCU Eduard 3:0 SEYFRIED Joe"
+                            "name": "IONESCU Eduard 3:0 SEYFRIED Joe",
+                            "children": [
+                                {
+                                    "name": "HUANG Yan-Cheng 1:3 IONESCU Eduard"
+                                },
+                                {
+                                    "name": "SEYFRIED Joe 3:0 GERASSIMENKO Kirill"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -46,10 +94,26 @@
                     "name": "UDA Yukiya 3:2 KAO Cheng-Jui",
                     "children": [
                         {
-                            "name": "UDA Yukiya 3:2 YOSHIYAMA Ryoichi"
+                            "name": "UDA Yukiya 3:2 YOSHIYAMA Ryoichi",
+                            "children": [
+                                {
+                                    "name": "UDA Yukiya 3:2 LI Yan Jun"
+                                },
+                                {
+                                    "name": "CHAN Baldwin 1:3 YOSHIYAMA Ryoichi"
+                                }
+                            ]
                         },
                         {
-                            "name": "JANCARIK Lubomir 1:3 KAO Cheng-Jui"
+                            "name": "JANCARIK Lubomir 1:3 KAO Cheng-Jui",
+                            "children": [
+                                {
+                                    "name": "JANCARIK Lubomir 3:0 KIM Gaon"
+                                },
+                                {
+                                    "name": "YUAN Licen 2:3 KAO Cheng-Jui"
+                                }
+                            ]
                         }
                     ]
                 }

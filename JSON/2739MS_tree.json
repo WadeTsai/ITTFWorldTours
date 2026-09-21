@@ -8,10 +8,26 @@
                     "name": "LIN Yun-Ju 3:0 PUCAR Tomislav",
                     "children": [
                         {
-                            "name": "LIN Yun-Ju 3:1 OIKAWA Mizuki"
+                            "name": "LIN Yun-Ju 3:1 OIKAWA Mizuki",
+                            "children": [
+                                {
+                                    "name": "LIN Yun-Ju 3:2 GACINA Andrej"
+                                },
+                                {
+                                    "name": "LEE Sang Su 0:3 OIKAWA Mizuki"
+                                }
+                            ]
                         },
                         {
-                            "name": "PUCAR Tomislav 3:2 KARLSSON Kristian"
+                            "name": "PUCAR Tomislav 3:2 KARLSSON Kristian",
+                            "children": [
+                                {
+                                    "name": "GERASSIMENKO Kirill 2:3 PUCAR Tomislav"
+                                },
+                                {
+                                    "name": "KARLSSON Kristian 3:1 LEBRUN Alexis"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -19,10 +35,26 @@
                     "name": "MOREGARD Truls 3:0 EL-BEIALI Mohamed",
                     "children": [
                         {
-                            "name": "MOREGARD Truls 3:0 FRANZISKA Patrick"
+                            "name": "MOREGARD Truls 3:0 FRANZISKA Patrick",
+                            "children": [
+                                {
+                                    "name": "MOREGARD Truls 3:2 CHUANG Chih-Yuan"
+                                },
+                                {
+                                    "name": "GROTH Jonathan 2:3 FRANZISKA Patrick"
+                                }
+                            ]
                         },
                         {
-                            "name": "APOLONIA Tiago 0:3 EL-BEIALI Mohamed"
+                            "name": "APOLONIA Tiago 0:3 EL-BEIALI Mohamed",
+                            "children": [
+                                {
+                                    "name": "AKKUZU Can 1:3 APOLONIA Tiago"
+                                },
+                                {
+                                    "name": "EL-BEIALI Mohamed 3:0 ARUNA Quadri"
+                                }
+                            ]
                         }
                     ]
                 }
@@ -35,10 +67,26 @@
                     "name": "FREITAS Marcos 3:0 JORGIC Darko",
                     "children": [
                         {
-                            "name": "FREITAS Marcos 3:0 WANG Yang"
+                            "name": "FREITAS Marcos 3:0 WANG Yang",
+                            "children": [
+                                {
+                                    "name": "FREITAS Marcos 3:1 XU Yingbin"
+                                },
+                                {
+                                    "name": "WANG Yang 3:0 BOBOCICA Mihai"
+                                }
+                            ]
                         },
                         {
-                            "name": "PITCHFORD Liam 1:3 JORGIC Darko"
+                            "name": "PITCHFORD Liam 1:3 JORGIC Darko",
+                            "children": [
+                                {
+                                    "name": "PITCHFORD Liam 3:1 BARDET Lilian"
+                                },
+                                {
+                                    "name": "IONESCU Ovidiu 1:3 JORGIC Darko"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -46,10 +94,26 @@
                     "name": "XIANG Peng 3:1 LIANG Yanning",
                     "children": [
                         {
-                            "name": "DUDA Benedikt 1:3 XIANG Peng"
+                            "name": "DUDA Benedikt 1:3 XIANG Peng",
+                            "children": [
+                                {
+                                    "name": "ASSAR Omar 1:3 DUDA Benedikt"
+                                },
+                                {
+                                    "name": "CHO Seungmin 1:3 XIANG Peng"
+                                }
+                            ]
                         },
                         {
-                            "name": "FILUS Ruwen 1:3 LIANG Yanning"
+                            "name": "FILUS Ruwen 1:3 LIANG Yanning",
+                            "children": [
+                                {
+                                    "name": "IONESCU Eduard 0:3 FILUS Ruwen"
+                                },
+                                {
+                                    "name": "LIANG Yanning 3:2 OVTCHAROV Dimitrij"
+                                }
+                            ]
                         }
                     ]
                 }

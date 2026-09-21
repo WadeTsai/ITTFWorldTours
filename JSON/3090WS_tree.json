@@ -8,10 +8,26 @@
                     "name": "ODO Satsuki 2:3 YUAN Jia Nan",
                     "children": [
                         {
-                            "name": "ODO Satsuki 3:0 HUANG Yi-Hua"
+                            "name": "ODO Satsuki 3:0 HUANG Yi-Hua",
+                            "children": [
+                                {
+                                    "name": "ODO Satsuki 3:0 RAKOVAC Lea"
+                                },
+                                {
+                                    "name": "HUANG Yi-Hua 3:2 ASO Reina"
+                                }
+                            ]
                         },
                         {
-                            "name": "KALLBERG Christina 0:3 YUAN Jia Nan"
+                            "name": "KALLBERG Christina 0:3 YUAN Jia Nan",
+                            "children": [
+                                {
+                                    "name": "KALLBERG Christina 3:2 WEGRZYN Katarzyna"
+                                },
+                                {
+                                    "name": "YU Fu 0:3 YUAN Jia Nan"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -19,10 +35,26 @@
                     "name": "SHI Xunyao 3:0 NAGASAKI Miyu",
                     "children": [
                         {
-                            "name": "SHI Xunyao 3:1 SATO Hitomi"
+                            "name": "SHI Xunyao 3:1 SATO Hitomi",
+                            "children": [
+                                {
+                                    "name": "SHI Xunyao 3:1 BERGSTROM Linda"
+                                },
+                                {
+                                    "name": "SATO Hitomi 3:0 LUPULESKU Izabela"
+                                }
+                            ]
                         },
                         {
-                            "name": "YEH Yi-Tian 0:3 NAGASAKI Miyu"
+                            "name": "YEH Yi-Tian 0:3 NAGASAKI Miyu",
+                            "children": [
+                                {
+                                    "name": "YEH Yi-Tian 3:2 DRAGOMAN Andreea"
+                                },
+                                {
+                                    "name": "SHAO Jieni 0:3 NAGASAKI Miyu"
+                                }
+                            ]
                         }
                     ]
                 }
@@ -35,10 +67,26 @@
                     "name": "KIM Nayeong 1:3 PAVADE Prithika",
                     "children": [
                         {
-                            "name": "KIM Nayeong 3:0 GUO Jiangshan"
+                            "name": "KIM Nayeong 3:0 GUO Jiangshan",
+                            "children": [
+                                {
+                                    "name": "KIM Nayeong 3:0 KLEE Sophia"
+                                },
+                                {
+                                    "name": "GUO Jiangshan 3:2 LUTZ Camille"
+                                }
+                            ]
                         },
                         {
-                            "name": "OJIO Yuna 2:3 PAVADE Prithika"
+                            "name": "OJIO Yuna 2:3 PAVADE Prithika",
+                            "children": [
+                                {
+                                    "name": "BAJOR Natalia 1:3 OJIO Yuna"
+                                },
+                                {
+                                    "name": "TOFANT Ana 0:3 PAVADE Prithika"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -46,10 +94,26 @@
                     "name": "ZONG Geman 0:3 FAN Shuhan",
                     "children": [
                         {
-                            "name": "YOKOI Sakura 2:3 ZONG Geman"
+                            "name": "YOKOI Sakura 2:3 ZONG Geman",
+                            "children": [
+                                {
+                                    "name": "YOKOI Sakura 3:1 AKAE Kaho"
+                                },
+                                {
+                                    "name": "HARAC Ece 1:3 ZONG Geman"
+                                }
+                            ]
                         },
                         {
-                            "name": "FAN Shuhan 3:2 OMODA Kotomi"
+                            "name": "FAN Shuhan 3:2 OMODA Kotomi",
+                            "children": [
+                                {
+                                    "name": "FAN Shuhan 3:0 BATRA Manika"
+                                },
+                                {
+                                    "name": "OMODA Kotomi 3:0 POLCANOVA Sofia"
+                                }
+                            ]
                         }
                     ]
                 }

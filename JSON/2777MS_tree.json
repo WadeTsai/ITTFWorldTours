@@ -8,10 +8,58 @@
                     "name": "MA Jinbao 2:3 LEBRUN Felix",
                     "children": [
                         {
-                            "name": "YOSHIYAMA Ryoichi 2:3 MA Jinbao"
+                            "name": "YOSHIYAMA Ryoichi 2:3 MA Jinbao",
+                            "children": [
+                                {
+                                    "name": "SHINOZUKA Hiroto 2:3 YOSHIYAMA Ryoichi",
+                                    "children": [
+                                        {
+                                            "name": "SHINOZUKA Hiroto 0:0 BYE"
+                                        },
+                                        {
+                                            "name": "YOSHIYAMA Ryoichi 3:2 OH Junsung"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "MA Jinbao 3:2 KAO Cheng-Jui",
+                                    "children": [
+                                        {
+                                            "name": "GARDOS Robert 1:3 MA Jinbao"
+                                        },
+                                        {
+                                            "name": "BYE 0:0 KAO Cheng-Jui"
+                                        }
+                                    ]
+                                }
+                            ]
                         },
                         {
-                            "name": "LEBRUN Felix 3:1 LIN Shidong"
+                            "name": "LEBRUN Felix 3:1 LIN Shidong",
+                            "children": [
+                                {
+                                    "name": "LEBRUN Felix 3:1 BOULOUSSA Mehdi",
+                                    "children": [
+                                        {
+                                            "name": "LEBRUN Felix 0:0 BYE"
+                                        },
+                                        {
+                                            "name": "BOULOUSSA Mehdi 3:2 DESAI Harmeet"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "THAKKAR Manav Vikash 1:3 LIN Shidong",
+                                    "children": [
+                                        {
+                                            "name": "THAKKAR Manav Vikash 3:0 LIANG Jishan"
+                                        },
+                                        {
+                                            "name": "BYE 0:0 LIN Shidong"
+                                        }
+                                    ]
+                                }
+                            ]
                         }
                     ]
                 },
@@ -19,10 +67,58 @@
                     "name": "MA Long 3:1 LIANG Jingkun",
                     "children": [
                         {
-                            "name": "MA Long 3:0 CHO Seungmin"
+                            "name": "MA Long 3:0 CHO Seungmin",
+                            "children": [
+                                {
+                                    "name": "MA Long 3:1 GNANASEKARAN Sathiyan",
+                                    "children": [
+                                        {
+                                            "name": "MA Long 0:0 BYE"
+                                        },
+                                        {
+                                            "name": "GNANASEKARAN Sathiyan 3:2 DRINKHALL Paul"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "CHO Seungmin 3:2 PITCHFORD Liam",
+                                    "children": [
+                                        {
+                                            "name": "ACHANTA Sharath Kamal 1:3 CHO Seungmin"
+                                        },
+                                        {
+                                            "name": "BYE 0:0 PITCHFORD Liam"
+                                        }
+                                    ]
+                                }
+                            ]
                         },
                         {
-                            "name": "QUEK Izaac 2:3 LIANG Jingkun"
+                            "name": "QUEK Izaac 2:3 LIANG Jingkun",
+                            "children": [
+                                {
+                                    "name": "LEBRUN Alexis 2:3 QUEK Izaac",
+                                    "children": [
+                                        {
+                                            "name": "LEBRUN Alexis 0:0 BYE"
+                                        },
+                                        {
+                                            "name": "CHEN Yuanyu 2:3 QUEK Izaac"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "LAM Siu Hang 1:3 LIANG Jingkun",
+                                    "children": [
+                                        {
+                                            "name": "LAM Siu Hang 3:0 OIKAWA Mizuki"
+                                        },
+                                        {
+                                            "name": "BYE 0:0 LIANG Jingkun"
+                                        }
+                                    ]
+                                }
+                            ]
                         }
                     ]
                 }
@@ -35,10 +131,58 @@
                     "name": "LIN Gaoyuan 3:1 HARIMOTO Tomokazu",
                     "children": [
                         {
-                            "name": "LIN Gaoyuan 3:1 BOLL Timo"
+                            "name": "LIN Gaoyuan 3:1 BOLL Timo",
+                            "children": [
+                                {
+                                    "name": "LIN Gaoyuan 3:1 TOGAMI Shunsuke",
+                                    "children": [
+                                        {
+                                            "name": "LIN Gaoyuan 0:0 BYE"
+                                        },
+                                        {
+                                            "name": "WONG Chun Ting 2:3 TOGAMI Shunsuke"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "BOLL Timo 3:1 XIANG Peng",
+                                    "children": [
+                                        {
+                                            "name": "BOLL Timo 3:1 KANG Dongsoo"
+                                        },
+                                        {
+                                            "name": "BYE 0:0 XIANG Peng"
+                                        }
+                                    ]
+                                }
+                            ]
                         },
                         {
-                            "name": "LIANG Yanning 1:3 HARIMOTO Tomokazu"
+                            "name": "LIANG Yanning 1:3 HARIMOTO Tomokazu",
+                            "children": [
+                                {
+                                    "name": "LEE Sang Su 2:3 LIANG Yanning",
+                                    "children": [
+                                        {
+                                            "name": "LEE Sang Su 0:0 BYE"
+                                        },
+                                        {
+                                            "name": "XU Yingbin 0:3 LIANG Yanning"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "HABESOHN Daniel 0:3 HARIMOTO Tomokazu",
+                                    "children": [
+                                        {
+                                            "name": "MATSUSHIMA Sora 0:3 HABESOHN Daniel"
+                                        },
+                                        {
+                                            "name": "BYE 0:0 HARIMOTO Tomokazu"
+                                        }
+                                    ]
+                                }
+                            ]
                         }
                     ]
                 },
@@ -46,10 +190,58 @@
                     "name": "ZHOU Qihao 2:3 WANG Chuqin",
                     "children": [
                         {
-                            "name": "OVTCHAROV Dimitrij 1:3 ZHOU Qihao"
+                            "name": "OVTCHAROV Dimitrij 1:3 ZHOU Qihao",
+                            "children": [
+                                {
+                                    "name": "OVTCHAROV Dimitrij 3:0 YUAN Licen",
+                                    "children": [
+                                        {
+                                            "name": "OVTCHAROV Dimitrij 0:0 BYE"
+                                        },
+                                        {
+                                            "name": "YANG Tzu-Yi 2:3 YUAN Licen"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "HUANG Yan-Cheng 2:3 ZHOU Qihao",
+                                    "children": [
+                                        {
+                                            "name": "YOSHIMURA Maharu 0:3 HUANG Yan-Cheng"
+                                        },
+                                        {
+                                            "name": "BYE 0:0 ZHOU Qihao"
+                                        }
+                                    ]
+                                }
+                            ]
                         },
                         {
-                            "name": "AN Jaehyun 0:3 WANG Chuqin"
+                            "name": "AN Jaehyun 0:3 WANG Chuqin",
+                            "children": [
+                                {
+                                    "name": "CHUANG Chih-Yuan 2:3 AN Jaehyun",
+                                    "children": [
+                                        {
+                                            "name": "CHUANG Chih-Yuan 0:0 BYE"
+                                        },
+                                        {
+                                            "name": "NG Pak Nam 1:3 AN Jaehyun"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "AIDA Satoshi 1:3 WANG Chuqin",
+                                    "children": [
+                                        {
+                                            "name": "AIDA Satoshi 3:1 CHAN Baldwin"
+                                        },
+                                        {
+                                            "name": "BYE 0:0 WANG Chuqin"
+                                        }
+                                    ]
+                                }
+                            ]
                         }
                     ]
                 }

@@ -8,10 +8,26 @@
                     "name": "HAYATA Hina 3:0 JEON Jihee",
                     "children": [
                         {
-                            "name": "HAYATA Hina 3:2 YANG Ha Eun"
+                            "name": "HAYATA Hina 3:2 YANG Ha Eun",
+                            "children": [
+                                {
+                                    "name": "HAYATA Hina 3:0 KUKULKOVA Tatiana"
+                                },
+                                {
+                                    "name": "YANG Ha Eun 3:1 MADARASZ Dora"
+                                }
+                            ]
                         },
                         {
-                            "name": "PICCOLIN Giorgia 0:3 JEON Jihee"
+                            "name": "PICCOLIN Giorgia 0:3 JEON Jihee",
+                            "children": [
+                                {
+                                    "name": "PICCOLIN Giorgia 3:1 MORET Rachel"
+                                },
+                                {
+                                    "name": "ZENG Jian 2:3 JEON Jihee"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -19,10 +35,26 @@
                     "name": "CHEN Szu-Yu 1:3 NAGASAKI Miyu",
                     "children": [
                         {
-                            "name": "YUAN Jia Nan 2:3 CHEN Szu-Yu"
+                            "name": "YUAN Jia Nan 2:3 CHEN Szu-Yu",
+                            "children": [
+                                {
+                                    "name": "YUAN Jia Nan 3:1 ALTINKAYA Sibel"
+                                },
+                                {
+                                    "name": "CHEN Szu-Yu 3:2 XIAO Maria"
+                                }
+                            ]
                         },
                         {
-                            "name": "AKULA Sreeja 0:3 NAGASAKI Miyu"
+                            "name": "AKULA Sreeja 0:3 NAGASAKI Miyu",
+                            "children": [
+                                {
+                                    "name": "AKULA Sreeja 3:1 SUH Hyo Won"
+                                },
+                                {
+                                    "name": "NI Xia Lian 1:3 NAGASAKI Miyu"
+                                }
+                            ]
                         }
                     ]
                 }
@@ -35,10 +67,26 @@
                     "name": "MITTELHAM Nina 0:3 HARIMOTO Miwa",
                     "children": [
                         {
-                            "name": "MITTELHAM Nina 3:2 ZHU Chengzhu"
+                            "name": "MITTELHAM Nina 3:2 ZHU Chengzhu",
+                            "children": [
+                                {
+                                    "name": "MITTELHAM Nina 3:1 KAMATH Archana Girish"
+                                },
+                                {
+                                    "name": "ZHU Chengzhu 3:1 JEE Minhyung"
+                                }
+                            ]
                         },
                         {
-                            "name": "BAJOR Natalia 0:3 HARIMOTO Miwa"
+                            "name": "BAJOR Natalia 0:3 HARIMOTO Miwa",
+                            "children": [
+                                {
+                                    "name": "GHORPADE Yashaswini 2:3 BAJOR Natalia"
+                                },
+                                {
+                                    "name": "HUANG Yi-Hua 0:3 HARIMOTO Miwa"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -46,10 +94,26 @@
                     "name": "LEE Zion 2:3 DIAZ Adriana",
                     "children": [
                         {
-                            "name": "LEE Zion 3:2 KIM Nayeong"
+                            "name": "LEE Zion 3:2 KIM Nayeong",
+                            "children": [
+                                {
+                                    "name": "MESHREF Dina 1:3 LEE Zion"
+                                },
+                                {
+                                    "name": "KIM Nayeong 3:1 NG Wing Lam"
+                                }
+                            ]
                         },
                         {
-                            "name": "MATELOVA Hana 0:3 DIAZ Adriana"
+                            "name": "MATELOVA Hana 0:3 DIAZ Adriana",
+                            "children": [
+                                {
+                                    "name": "MATELOVA Hana 3:0 ZHANG Sofia-Xuan"
+                                },
+                                {
+                                    "name": "PAVADE Prithika 2:3 DIAZ Adriana"
+                                }
+                            ]
                         }
                     ]
                 }

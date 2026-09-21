@@ -8,10 +8,26 @@
                     "name": "JORGIC Darko 1:3 YOSHIYAMA Ryoichi",
                     "children": [
                         {
-                            "name": "JORGIC Darko 3:1 KATSMAN Lev"
+                            "name": "JORGIC Darko 3:1 KATSMAN Lev",
+                            "children": [
+                                {
+                                    "name": "JORGIC Darko 3:1 WONG Qi Shen"
+                                },
+                                {
+                                    "name": "KATSMAN Lev 3:1 STUMPER Kay"
+                                }
+                            ]
                         },
                         {
-                            "name": "PARK Gyuhyeon 2:3 YOSHIYAMA Ryoichi"
+                            "name": "PARK Gyuhyeon 2:3 YOSHIYAMA Ryoichi",
+                            "children": [
+                                {
+                                    "name": "PARK Gyuhyeon 3:0 IONESCU Eduard"
+                                },
+                                {
+                                    "name": "YOSHIYAMA Ryoichi 3:2 XUE Fei"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -19,10 +35,26 @@
                     "name": "TOGAMI Shunsuke 3:0 BOURRASSAUD Florian",
                     "children": [
                         {
-                            "name": "TOGAMI Shunsuke 3:0 ROLLAND Jules"
+                            "name": "TOGAMI Shunsuke 3:0 ROLLAND Jules",
+                            "children": [
+                                {
+                                    "name": "TOGAMI Shunsuke 3:1 SAKAI Yuhi"
+                                },
+                                {
+                                    "name": "KHARKI Iskender 0:3 ROLLAND Jules"
+                                }
+                            ]
                         },
                         {
-                            "name": "BOURRASSAUD Florian 3:2 HUANG Youzheng"
+                            "name": "BOURRASSAUD Florian 3:2 HUANG Youzheng",
+                            "children": [
+                                {
+                                    "name": "BOURRASSAUD Florian 3:1 KENZHIGULOV Aidos"
+                                },
+                                {
+                                    "name": "PEREZ Juan 0:3 HUANG Youzheng"
+                                }
+                            ]
                         }
                     ]
                 }
@@ -35,10 +67,26 @@
                     "name": "CHEN Junsong 3:1 COTON Flavien",
                     "children": [
                         {
-                            "name": "KURMANGALIYEV Alan 1:3 CHEN Junsong"
+                            "name": "KURMANGALIYEV Alan 1:3 CHEN Junsong",
+                            "children": [
+                                {
+                                    "name": "BAE Hwan 0:3 KURMANGALIYEV Alan"
+                                },
+                                {
+                                    "name": "MENG Fanbo 2:3 CHEN Junsong"
+                                }
+                            ]
                         },
                         {
-                            "name": "FARAJI Benyamin 1:3 COTON Flavien"
+                            "name": "FARAJI Benyamin 1:3 COTON Flavien",
+                            "children": [
+                                {
+                                    "name": "FARAJI Benyamin 3:1 SEYFRIED Joe"
+                                },
+                                {
+                                    "name": "COTON Flavien 3:1 TANAKA Yuta"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -46,10 +94,26 @@
                     "name": "ZHOU Qihao 3:1 MATSUSHIMA Sora",
                     "children": [
                         {
-                            "name": "ZHOU Qihao 3:1 ROBLES Alvaro"
+                            "name": "ZHOU Qihao 3:1 ROBLES Alvaro",
+                            "children": [
+                                {
+                                    "name": "ZHOU Qihao 3:1 WANG Yang"
+                                },
+                                {
+                                    "name": "ROBLES Alvaro 3:1 AIDA Satoshi"
+                                }
+                            ]
                         },
                         {
-                            "name": "PARK Ganghyeon 0:3 MATSUSHIMA Sora"
+                            "name": "PARK Ganghyeon 0:3 MATSUSHIMA Sora",
+                            "children": [
+                                {
+                                    "name": "PARK Ganghyeon 3:0 KIM Woojin"
+                                },
+                                {
+                                    "name": "YUAN Licen 0:3 MATSUSHIMA Sora"
+                                }
+                            ]
                         }
                     ]
                 }

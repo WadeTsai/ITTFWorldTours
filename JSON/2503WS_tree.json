@@ -8,10 +8,26 @@
                     "name": "WANG Yidi 3:0 ABRAAMIAN Elizabet",
                     "children": [
                         {
-                            "name": "WANG Yidi 3:0 ORTEGA Daniela"
+                            "name": "WANG Yidi 3:0 ORTEGA Daniela",
+                            "children": [
+                                {
+                                    "name": "WANG Yidi 3:0 LIN Ye"
+                                },
+                                {
+                                    "name": "ORTEGA Daniela 3:1 DIAZ Melanie"
+                                }
+                            ]
                         },
                         {
-                            "name": "KAUFMANN Annett 0:3 ABRAAMIAN Elizabet"
+                            "name": "KAUFMANN Annett 0:3 ABRAAMIAN Elizabet",
+                            "children": [
+                                {
+                                    "name": "WONG Xin Ru 1:3 KAUFMANN Annett"
+                                },
+                                {
+                                    "name": "ABRAAMIAN Elizabet 3:2 NI Xia Lian"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -19,10 +35,26 @@
                     "name": "SZOCS Bernadette 2:3 BATRA Manika",
                     "children": [
                         {
-                            "name": "SZOCS Bernadette 3:0 GAUTHIER Lucie"
+                            "name": "SZOCS Bernadette 3:0 GAUTHIER Lucie",
+                            "children": [
+                                {
+                                    "name": "SZOCS Bernadette 3:1 STRAZAR Katarina"
+                                },
+                                {
+                                    "name": "JEGER Mateja 1:3 GAUTHIER Lucie"
+                                }
+                            ]
                         },
                         {
-                            "name": "TRIGOLOS Daria 1:3 BATRA Manika"
+                            "name": "TRIGOLOS Daria 1:3 BATRA Manika",
+                            "children": [
+                                {
+                                    "name": "CIOBANU Irina 2:3 TRIGOLOS Daria"
+                                },
+                                {
+                                    "name": "KUKULKOVA Tatiana 2:3 BATRA Manika"
+                                }
+                            ]
                         }
                     ]
                 }
@@ -35,10 +67,26 @@
                     "name": "WINTER Sabine 3:1 ZHANG Mo",
                     "children": [
                         {
-                            "name": "NOSKOVA Yana 0:3 WINTER Sabine"
+                            "name": "NOSKOVA Yana 0:3 WINTER Sabine",
+                            "children": [
+                                {
+                                    "name": "NOSKOVA Yana 3:2 AKULA Sreeja"
+                                },
+                                {
+                                    "name": "WINTER Sabine 3:0 ZARIF Audrey"
+                                }
+                            ]
                         },
                         {
-                            "name": "TOFANT Ana 1:3 ZHANG Mo"
+                            "name": "TOFANT Ana 1:3 ZHANG Mo",
+                            "children": [
+                                {
+                                    "name": "VEGA Paulina 2:3 TOFANT Ana"
+                                },
+                                {
+                                    "name": "TOMANOVSKA Katerina 0:3 ZHANG Mo"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -46,10 +94,26 @@
                     "name": "LIU Weishan 3:0 ZENG Jian",
                     "children": [
                         {
-                            "name": "BALAZOVA Barbora 2:3 LIU Weishan"
+                            "name": "BALAZOVA Barbora 2:3 LIU Weishan",
+                            "children": [
+                                {
+                                    "name": "BALAZOVA Barbora 3:1 KAMATH Archana Girish"
+                                },
+                                {
+                                    "name": "LIU Weishan 3:1 LUPULESKU Izabela"
+                                }
+                            ]
                         },
                         {
-                            "name": "ZENG Jian 3:0 DIAZ Adriana"
+                            "name": "ZENG Jian 3:0 DIAZ Adriana",
+                            "children": [
+                                {
+                                    "name": "HELMY Yousra 0:3 ZENG Jian"
+                                },
+                                {
+                                    "name": "VOVK Aleksandra 0:3 DIAZ Adriana"
+                                }
+                            ]
                         }
                     ]
                 }

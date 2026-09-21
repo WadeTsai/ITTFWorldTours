@@ -8,10 +8,58 @@
                     "name": "OH Junsung 0:3 PORET Thibault",
                     "children": [
                         {
-                            "name": "OH Junsung 3:1 SURAVAJJULA Snehit"
+                            "name": "OH Junsung 3:1 SURAVAJJULA Snehit",
+                            "children": [
+                                {
+                                    "name": "OH Junsung 3:0 MOVILEANU Darius",
+                                    "children": [
+                                        {
+                                            "name": "OH Junsung 0:0 BYE"
+                                        },
+                                        {
+                                            "name": "MOVILEANU Darius 3:2 JAIN Payas"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "SURAVAJJULA Snehit 3:2 OIKAWA Mizuki",
+                                    "children": [
+                                        {
+                                            "name": "SRIVASTAVA Divyansh 2:3 SURAVAJJULA Snehit"
+                                        },
+                                        {
+                                            "name": "BYE 0:0 OIKAWA Mizuki"
+                                        }
+                                    ]
+                                }
+                            ]
                         },
                         {
-                            "name": "FENG Yi-Hsin 2:3 PORET Thibault"
+                            "name": "FENG Yi-Hsin 2:3 PORET Thibault",
+                            "children": [
+                                {
+                                    "name": "FENG Yi-Hsin 3:0 MLADENOVIC Luka",
+                                    "children": [
+                                        {
+                                            "name": "FENG Yi-Hsin 0:0 BYE"
+                                        },
+                                        {
+                                            "name": "MODI Jash 1:3 MLADENOVIC Luka"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "PAL Akash 1:3 PORET Thibault",
+                                    "children": [
+                                        {
+                                            "name": "BHATTACHARYYA Priyanuj 1:3 PAL Akash"
+                                        },
+                                        {
+                                            "name": "BYE 0:0 PORET Thibault"
+                                        }
+                                    ]
+                                }
+                            ]
                         }
                     ]
                 },
@@ -19,10 +67,58 @@
                     "name": "COTON Flavien 3:2 RANEFUR Elias",
                     "children": [
                         {
-                            "name": "COTON Flavien 3:1 YOSHIMURA Kazuhiro"
+                            "name": "COTON Flavien 3:1 YOSHIMURA Kazuhiro",
+                            "children": [
+                                {
+                                    "name": "COTON Flavien 3:0 DORR Esteban",
+                                    "children": [
+                                        {
+                                            "name": "COTON Flavien 0:0 BYE"
+                                        },
+                                        {
+                                            "name": "KHARKI Iskender 2:3 DORR Esteban"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "BHATTACHARJEE Ankur 1:3 YOSHIMURA Kazuhiro",
+                                    "children": [
+                                        {
+                                            "name": "BOURRASSAUD Florian 1:3 BHATTACHARJEE Ankur"
+                                        },
+                                        {
+                                            "name": "BYE 0:0 YOSHIMURA Kazuhiro"
+                                        }
+                                    ]
+                                }
+                            ]
                         },
                         {
-                            "name": "RANEFUR Elias 3:0 OYEBODE John"
+                            "name": "RANEFUR Elias 3:0 OYEBODE John",
+                            "children": [
+                                {
+                                    "name": "CHO Daeseong 0:3 RANEFUR Elias",
+                                    "children": [
+                                        {
+                                            "name": "CHO Daeseong 0:0 BYE"
+                                        },
+                                        {
+                                            "name": "SURESH Preyesh 0:3 RANEFUR Elias"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "OYEBODE John 3:0 KARLSSON Kristian",
+                                    "children": [
+                                        {
+                                            "name": "OYEBODE John 3:1 BISWAS Punit"
+                                        },
+                                        {
+                                            "name": "BYE 0:0 KARLSSON Kristian"
+                                        }
+                                    ]
+                                }
+                            ]
                         }
                     ]
                 }
@@ -35,10 +131,58 @@
                     "name": "GNANASEKARAN Sathiyan 0:3 JANCARIK Lubomir",
                     "children": [
                         {
-                            "name": "IONESCU Eduard 2:3 GNANASEKARAN Sathiyan"
+                            "name": "IONESCU Eduard 2:3 GNANASEKARAN Sathiyan",
+                            "children": [
+                                {
+                                    "name": "IONESCU Eduard 3:2 DESAI Harmeet",
+                                    "children": [
+                                        {
+                                            "name": "IONESCU Eduard 0:0 BYE"
+                                        },
+                                        {
+                                            "name": "CHIRITA Iulian 1:3 DESAI Harmeet"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "LIM Jonghoon 1:3 GNANASEKARAN Sathiyan",
+                                    "children": [
+                                        {
+                                            "name": "ROSSI Carlo 0:3 LIM Jonghoon"
+                                        },
+                                        {
+                                            "name": "BYE 0:0 GNANASEKARAN Sathiyan"
+                                        }
+                                    ]
+                                }
+                            ]
                         },
                         {
-                            "name": "SHAH Manush 1:3 JANCARIK Lubomir"
+                            "name": "SHAH Manush 1:3 JANCARIK Lubomir",
+                            "children": [
+                                {
+                                    "name": "SHAH Manush 3:0 PARK Gyuhyeon",
+                                    "children": [
+                                        {
+                                            "name": "SHAH Manush 0:0 BYE"
+                                        },
+                                        {
+                                            "name": "DANI Mudit 0:3 PARK Gyuhyeon"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "JANCARIK Lubomir 3:1 THAKKAR Manav",
+                                    "children": [
+                                        {
+                                            "name": "JANCARIK Lubomir 3:0 MALIK Yashansh"
+                                        },
+                                        {
+                                            "name": "BYE 0:0 THAKKAR Manav"
+                                        }
+                                    ]
+                                }
+                            ]
                         }
                     ]
                 },
@@ -46,10 +190,58 @@
                     "name": "PARK Ganghyeon 3:2 OVTCHAROV Dimitrij",
                     "children": [
                         {
-                            "name": "PARK Ganghyeon 3:2 SEYFRIED Joe"
+                            "name": "PARK Ganghyeon 3:2 SEYFRIED Joe",
+                            "children": [
+                                {
+                                    "name": "BARDET Lilian 0:3 PARK Ganghyeon",
+                                    "children": [
+                                        {
+                                            "name": "BARDET Lilian 0:0 BYE"
+                                        },
+                                        {
+                                            "name": "PARK Ganghyeon 3:1 SHETTY Sanil"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "GERALDO Joao 0:3 SEYFRIED Joe",
+                                    "children": [
+                                        {
+                                            "name": "GERALDO Joao 3:1 BETELU Remi"
+                                        },
+                                        {
+                                            "name": "BYE 0:0 SEYFRIED Joe"
+                                        }
+                                    ]
+                                }
+                            ]
                         },
                         {
-                            "name": "VERDONSCHOT Wim 0:3 OVTCHAROV Dimitrij"
+                            "name": "VERDONSCHOT Wim 0:3 OVTCHAROV Dimitrij",
+                            "children": [
+                                {
+                                    "name": "VERDONSCHOT Wim 3:0 PRADHIVADHI Abhinandh",
+                                    "children": [
+                                        {
+                                            "name": "VERDONSCHOT Wim 0:0 BYE"
+                                        },
+                                        {
+                                            "name": "KANG Dongsoo 1:3 PRADHIVADHI Abhinandh"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "ISTRATE Andrei 0:3 OVTCHAROV Dimitrij",
+                                    "children": [
+                                        {
+                                            "name": "ISTRATE Andrei 3:1 GHOSH Anirban"
+                                        },
+                                        {
+                                            "name": "BYE 0:0 OVTCHAROV Dimitrij"
+                                        }
+                                    ]
+                                }
+                            ]
                         }
                     ]
                 }
