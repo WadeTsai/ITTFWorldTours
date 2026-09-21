@@ -84,11 +84,18 @@ jobs:
         if: steps.scrape.outputs.changed == 'true'
         run: npm run build
 
-      - name: Commit the new draws
+      # Both the commit below and the gh-pages publish after it take their
+      # author from this checkout's git config, so it is set once, ahead of
+      # both, rather than passed to each.
+      - name: Configure the committer
         if: steps.scrape.outputs.changed == 'true'
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+
+      - name: Commit the new draws
+        if: steps.scrape.outputs.changed == 'true'
+        run: |
           git add JSON
           git commit -m 'Add this week'\''s draws' -m 'Scraped by .github/workflows/weekly-data.yml.'
           git push
@@ -98,11 +105,17 @@ jobs:
         # Pages serves the gh-pages branch, and `-d dist` is the same publish
         # step as the repo's own `npm run deploy`. The token goes through the
         # environment rather than the command line so it stays out of the log.
+        #
+        # No `--user`: gh-pages parses that flag as an RFC 5322 address, and the
+        # bot identity has square brackets in both halves - `github-actions[bot]`
+        # and `...+github-actions[bot]@users.noreply.github.com` - which the
+        # parser rejects outright, failing the step before it reaches the
+        # network. Omitted, gh-pages reads `user.name`/`user.email` from this
+        # checkout instead, which is the same identity by way of the step above.
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           npx gh-pages \
             --dist dist \
-            --user 'github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>' \
             --message "Deploy ${GITHUB_SHA}" \
             --repo "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
