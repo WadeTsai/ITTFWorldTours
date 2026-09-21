@@ -8,6 +8,14 @@ function flatten(node: MatchNode): MatchNode[] {
   return [node, ...node.children.flatMap(flatten)];
 }
 
+/** How many rounds each opening tie of a bracket sits from the final. */
+function leafDepths(node: MatchNode, depth: number): number[] {
+  if (node.children.length === 0) {
+    return [depth];
+  }
+  return node.children.flatMap((child) => leafDepths(child, depth + 1));
+}
+
 describe('bracket data', () => {
   it('exposes a draw for every group of every listed event', () => {
     const expected = SEASONS.flatMap((season) =>
@@ -22,6 +30,44 @@ describe('bracket data', () => {
         expect(EVENT_NAMES[id], `event ${id} has no name`).toBeDefined();
       }
     }
+  });
+
+  /**
+   * Draws are not one size — 15 ties for the 16-player Finals and World Cup, 31
+   * for a 32-player Contender or Champions, 63 for a 64-player Smash — but each
+   * one is a complete knockout: every tie is fed by two ties or by none, and
+   * every opening tie sits the same number of rounds from the final.
+   *
+   * This is what a scrape that caught an event mid-round fails. `genJSON.py`
+   * checks it at the source too; the files are checked in, so it is checked
+   * here as well.
+   */
+  it('holds a complete knockout bracket for every draw', () => {
+    const malformed: string[] = [];
+
+    for (const draw of availableDraws()) {
+      const tree = getTree(draw.slice(0, -2), draw.slice(-2) as Group)!;
+      const nodes = flatten(tree);
+
+      const branching = new Set(nodes.map((node) => node.children.length));
+      if ([...branching].some((count) => count !== 0 && count !== 2)) {
+        malformed.push(`${draw}: ties fed by ${[...branching].sort().join('/')}`);
+        continue;
+      }
+
+      const rounds = new Set(leafDepths(tree, 1));
+      if (rounds.size !== 1) {
+        malformed.push(`${draw}: opening ties ${[...rounds].sort().join('/')} rounds deep`);
+        continue;
+      }
+
+      const [depth] = rounds;
+      if (nodes.length !== 2 ** depth! - 1) {
+        malformed.push(`${draw}: ${nodes.length} ties across ${depth} rounds`);
+      }
+    }
+
+    expect(malformed).toEqual([]);
   });
 
   it('has a video entry for every match in every bracket', () => {

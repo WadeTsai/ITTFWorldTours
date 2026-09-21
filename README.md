@@ -1,5 +1,5 @@
 This is a little personal side project to practice ReactJS and Material-UI.
-This project builds a web site to show R16 main draws of ITTF(International Table Tennis Foundation) world tours, and will show Youtube videos of each match inside a dialog after user click the node from SVG, and there is a Python crawler to get data of draws and video url.
+This project builds a web site to show the main draws of ITTF(International Table Tennis Foundation) world tours, from the round of 64 down, and will show Youtube videos of each match inside a dialog after user click the node from SVG, and there is a Python crawler to get data of draws and video url.
 Demo: https://wadetsai.github.io/ITTFWorldTours/
 
 ## Stack
@@ -74,8 +74,13 @@ python JSON/genJSON.py --list 2025 --filter smash
 python JSON/genJSON.py 3085 3086                 # both draws of two events
 python JSON/genJSON.py 3085 --groups MS          # men's singles only
 python JSON/genJSON.py 3085 --dry-run            # fetch, write nothing
-python JSON/genJSON.py 3085 --skip-videos        # brackets only, no YouTube
+python JSON/genJSON.py 3085 --skip-videos        # no YouTube search
 ```
+
+Re-running an event the folder already has rewrites its bracket and keeps every
+video id it had resolved, so extending an old draw down to the round of 64 only
+searches for the ties that were not there before. Ties recorded as `null` are
+searched again, because `null` is also what a rate-limited search leaves behind.
 
 `--sync` is the one to reach for, and the one the weekly job runs. It reads the
 season's calendar, keeps the series this site covers, skips what `registry.json`
@@ -111,10 +116,20 @@ them directly and never launches a browser:
 The sub-event code is `TTEMSINGLES`/`TTEWSINGLES` dash-padded to 42 characters,
 and the endpoints return HTTP 422 without a `worldtabletennis.com` `Origin`.
 
-Only the `MAIN` bracket is read, and only its last four rounds — `FNL-`, `SFNL`,
-`QFNL` and `8FNL` (WTT's name for the round of 16), which is exactly the 15
-matches the app draws. Qualifying (`PREL`) and the earlier `R32-`/`R64-` rounds
-are ignored. The bracket is nested by following each competitor's
+Only the `MAIN` bracket is read, and it is followed from the final down as far
+as the draw actually runs: `FNL-`, `SFNL`, `QFNL`, `8FNL` (WTT's name for the
+round of 16), then `R32-` and `R64-`. Draws are not one size, so neither are the
+brackets — 15 ties for the 16-player Finals and World Cup, 31 for a 32-player
+Contender or Champions, 63 for a 64-player Smash or Star Contender.
+
+The round of 64 is the floor. The three 128-player World Championships draws do
+carry an `R128` round, but taking it would double a bracket that is already 63
+ties, for one round only those three events play. Qualifying (`PREL`) is ignored
+throughout.
+
+A round that is present but short ends the walk, because the rounds of a live
+event complete deepest first: keeping the rounds above it beats building a
+bracket with holes in it. The bracket is nested by following each competitor's
 `PreviousUnit` link rather than assuming one round's positions feed the next, so
 byes cannot silently mis-pair it.
 

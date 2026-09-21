@@ -13,7 +13,7 @@ those directly with Playwright's request API instead of driving a browser:
 For every requested event this writes two files per singles draw, in the same
 format as the files already in this folder:
 
-    <eventId><group>_tree.json     the bracket, nested final -> round of 16
+    <eventId><group>_tree.json     the bracket, nested final -> round of 64
     <eventId><group>_videos.json   match name -> YouTube id (null when unfilmed)
 
 and records the event in registry.json, which is what the app reads to decide
@@ -28,6 +28,10 @@ Usage:
     python genJSON.py 3085 3086            # both singles draws of two events
     python genJSON.py 3085 --groups MS     # men's singles only
     python genJSON.py 3085 --dry-run       # fetch, write nothing
+
+Re-running an event the folder already has rewrites its bracket and keeps every
+video id it had resolved, so extending an old draw down to the round of 64 only
+searches YouTube for the ties that were not there before.
 """
 
 import argparse
@@ -99,12 +103,23 @@ TYPOGRAPHIC = {"’": "'", "‘": "'", "“": '"', "”": '"'}
 #: "TTEMSINGLES-------------------------------".
 SUB_EVENT_CODE_WIDTH = 42
 
-#: Main-draw round codes, final first. WTT calls the round of 16 "8FNL"
-#: (the round of the last 8 ties). Together these are the 15 matches the app
-#: renders; earlier rounds (R32-, R64-) and qualifying (the PREL bracket) are
-#: deliberately ignored.
-KNOCKOUT_ROUNDS = ("FNL-", "SFNL", "QFNL", "8FNL")
-MATCHES_PER_DRAW = 15
+#: Main-draw round codes, final first. WTT calls the round of 16 "8FNL" (the
+#: round of the last 8 ties) and switches to "R32-"/"R64-" below that.
+#:
+#: A draw is followed as deep as it actually runs: the 16-player Finals and
+#: World Cup draws stop at "8FNL", the 32-player Contender and Champions events
+#: at "R32-", the 64-player Smash and Star Contender ones at "R64-". Qualifying
+#: (the PREL bracket) is still ignored.
+#:
+#: The round of 64 is the floor. The three World Championships draws are 128
+#: players and do carry an "R128" round, but taking it would double a bracket
+#: that is already 63 ties to 127, for one round only those three events play.
+KNOCKOUT_ROUNDS = ("FNL-", "SFNL", "QFNL", "8FNL", "R32-", "R64-")
+
+#: The rounds a draw has to have before it is worth building. An event still
+#: being played has no complete round of 16, which is what --sync waits for.
+#: Anything deeper is optional, because it depends on the size of the draw.
+REQUIRED_ROUNDS = KNOCKOUT_ROUNDS[:4]
 
 #: How long after an event starts a missing draw stops being "in progress".
 #:
@@ -291,6 +306,34 @@ def rounds_by_code(bracket: dict[str, Any]) -> dict[str, list[dict[str, Any]]]:
     }
 
 
+def rounds_played(rounds: dict[str, list[dict[str, Any]]]) -> int:
+    """How many of ``KNOCKOUT_ROUNDS`` this draw has, counting from the final.
+
+    The walk stops at the first round the bracket does not carry in full, so a
+    32-player draw measures 5 and a 64- or 128-player one measures 6.
+
+    "In full" matters because the rounds of a live event complete in the order
+    they are played, deepest first: a round that is present but short means WTT
+    has published something this scrape cannot trust, and keeping the rounds
+    above it beats building a bracket with holes in it.
+    """
+    levels = 0
+    for depth, code in enumerate(KNOCKOUT_ROUNDS):
+        matches = rounds.get(code) or []
+        if not matches:
+            break
+        if len(matches) != 2**depth:
+            LOGGER.warning(
+                "  round %s has %d tie(s), expected %d - stopping there",
+                code,
+                len(matches),
+                2**depth,
+            )
+            break
+        levels += 1
+    return levels
+
+
 def index_matches(bracket: dict[str, Any]) -> dict[str, dict[str, Any]]:
     """Every match in the draw, keyed by its unit code."""
     index: dict[str, dict[str, Any]] = {}
@@ -313,7 +356,7 @@ class Node:
 def build_nodes(
     by_code: dict[str, dict[str, Any]], code: str, levels_remaining: int
 ) -> Node:
-    """Nest the draw from the final down to the round of 16.
+    """Nest the draw from the final down to its first covered round.
 
     Children are resolved through each competitor's ``PreviousUnit`` link
     rather than by assuming a position in one round feeds a position in the
@@ -347,7 +390,7 @@ def to_tree(node: Node) -> dict[str, Any]:
 
 
 def in_round_order(root: Node) -> list[dict[str, Any]]:
-    """Raw matches, round of 16 first, matching the previous file ordering."""
+    """Raw matches, earliest round first, matching the previous file ordering."""
     levels: list[list[Node]] = []
     current = [root]
     while current:
@@ -454,11 +497,18 @@ def fetch_draw(request: APIRequestContext, draw: Draw) -> tuple[str, Node]:
     bracket = main_bracket(payload)
     rounds = rounds_by_code(bracket)
 
-    missing = [code for code in KNOCKOUT_ROUNDS if not rounds.get(code)]
+    missing = [code for code in REQUIRED_ROUNDS if not rounds.get(code)]
     if missing:
         raise ValueError(
             f"draw is missing round(s) {missing} "
             f"(has {sorted(rounds)}; draw size {bracket.get('DrawSize')})"
+        )
+
+    levels = rounds_played(rounds)
+    if levels < len(REQUIRED_ROUNDS):
+        raise ValueError(
+            f"only {levels} complete round(s) down from the final "
+            f"(draw size {bracket.get('DrawSize')}); the draw may be incomplete"
         )
 
     final = rounds[KNOCKOUT_ROUNDS[0]][0]
@@ -466,12 +516,13 @@ def fetch_draw(request: APIRequestContext, draw: Draw) -> tuple[str, Node]:
     if not final_code:
         raise ValueError("the final has no unit code")
 
-    root = build_nodes(index_matches(bracket), final_code, len(KNOCKOUT_ROUNDS))
+    root = build_nodes(index_matches(bracket), final_code, levels)
 
+    expected = 2**levels - 1
     found = len(in_round_order(root))
-    if found != MATCHES_PER_DRAW:
+    if found != expected:
         raise ValueError(
-            f"built {found} matches, expected {MATCHES_PER_DRAW} "
+            f"built {found} matches, expected {expected} across {levels} round(s) "
             "(the draw may be incomplete)"
         )
 
@@ -497,6 +548,34 @@ def find_video(request: APIRequestContext, query: str) -> str | None:
     return video_id
 
 
+def known_videos(path: Path) -> dict[str, str]:
+    """The ids a previous scrape of this draw already resolved.
+
+    Re-scraping an event to add the rounds below the round of 16 leaves the
+    fifteen ties that were there before unchanged, and searching for them again
+    would be both slow and lossy: YouTube's first result for a match is not
+    stable, so a second run can overwrite an id that is known to be right with
+    one that merely ranks well today.
+
+    Ties recorded as null are not carried over, because null is also what a
+    search that was rate limited leaves behind, and a long re-scrape is exactly
+    where that happens. Searching those again costs little - six of the 3,540
+    ties on record are null - and a second run can put right what a throttled
+    first one got wrong.
+    """
+    if not path.exists():
+        return {}
+    try:
+        with path.open(encoding="utf-8") as handle:
+            stored = json.load(handle)
+    except (OSError, json.JSONDecodeError) as exc:
+        LOGGER.warning("  ignoring %s: %s", path.name, exc)
+        return {}
+    if not isinstance(stored, dict):
+        return {}
+    return {name: value for name, value in stored.items() if isinstance(value, str) and value}
+
+
 def scrape_draw(
     request: APIRequestContext,
     draw: Draw,
@@ -504,14 +583,22 @@ def scrape_draw(
     *,
     delay: float,
     skip_videos: bool,
+    known: dict[str, str] | None = None,
 ) -> tuple[dict[str, Any], dict[str, str | None]]:
     label, root = fetch_draw(request, draw)
-    LOGGER.info("Crawling %s %s %s", draw.event_id, title, label)
+    matches = in_round_order(root)
+    LOGGER.info("Crawling %s %s %s (%d ties)", draw.event_id, title, label, len(matches))
 
+    on_record = known or {}
     videos: dict[str, str | None] = {"Event": f"{title} {label}"}
+    reused = 0
 
-    for match in in_round_order(root):
+    for match in matches:
         name = match_name(match)
+        if name in on_record:
+            videos[name] = on_record[name]
+            reused += 1
+            continue
         if skip_videos:
             videos[name] = None
             continue
@@ -521,6 +608,9 @@ def scrape_draw(
         videos[name] = find_video(request, query)
         if delay:
             time.sleep(delay)
+
+    if reused:
+        LOGGER.info("  kept %d video(s) already on record", reused)
 
     return to_tree(root), videos
 
@@ -676,7 +766,14 @@ def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
         help="where the JSON files are written (default: this script's folder)",
     )
     parser.add_argument("--dry-run", action="store_true", help="fetch but write nothing")
-    parser.add_argument("--skip-videos", action="store_true", help="build brackets only")
+    parser.add_argument(
+        "--skip-videos",
+        action="store_true",
+        help=(
+            "do not search YouTube; ties already on record keep their ids and "
+            "new ones are written as null"
+        ),
+    )
     parser.add_argument(
         "--delay",
         type=float,
@@ -709,9 +806,15 @@ def scrape_event(
 
     for group in groups:
         draw = Draw(event_id, group)
+        videos_path = args.output_dir / f"{draw.stem}_videos.json"
         try:
             tree, videos = scrape_draw(
-                request, draw, title, delay=args.delay, skip_videos=args.skip_videos
+                request,
+                draw,
+                title,
+                delay=args.delay,
+                skip_videos=args.skip_videos,
+                known=known_videos(videos_path),
             )
         except (PlaywrightError, ValueError, KeyError) as exc:
             LOGGER.warning("Skipping %s: %s", draw.stem, exc)
@@ -719,7 +822,7 @@ def scrape_event(
 
         args.output_dir.mkdir(parents=True, exist_ok=True)
         write_json(args.output_dir / f"{draw.stem}_tree.json", tree, dry_run=args.dry_run)
-        write_json(args.output_dir / f"{draw.stem}_videos.json", videos, dry_run=args.dry_run)
+        write_json(videos_path, videos, dry_run=args.dry_run)
         scraped.add(group)
 
     return scraped

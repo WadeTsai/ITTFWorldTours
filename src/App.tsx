@@ -32,7 +32,7 @@ import {
   groupsOf,
   seasonOf,
 } from './events';
-import type { ActiveMatch, Group } from './types';
+import type { ActiveMatch, Group, MatchNode } from './types';
 
 /** Sidebar labels, shorter than the `GROUP_NAMES` used in the heading. */
 const DRAW_LABELS: Record<Group, string> = { MS: '男單', WS: '女單' };
@@ -54,6 +54,48 @@ type TreeGraphProps = ComponentProps<typeof Tree>;
 const NODE_PROPS = { r: 15 } as TreeGraphProps['nodeProps'];
 const TEXT_PROPS = { x: -25, y: 25 } as TreeGraphProps['textProps'];
 const TREE_MARGINS = { top: 30, bottom: 10, left: 20, right: 250 };
+
+/**
+ * Bracket geometry.
+ *
+ * react-tree-graph lays out into a fixed size SVG and spreads whatever it is
+ * given across it, so the size has to come from the draw rather than the other
+ * way round. Draws are no longer one shape: a Finals or World Cup is four
+ * rounds off eight opening ties, a Contender or Champions five off sixteen, a
+ * Smash or Star Contender six off thirty-two.
+ *
+ * `ROUND_WIDTH` and `LEAF_PITCH` are the room one round and one opening tie get.
+ * Both are set to what the four-round draws already rendered at, so those look
+ * exactly as they did and the larger ones simply extend past the card, which
+ * scrolls. `MIN_HEIGHT` stops a small draw from collapsing into a strip.
+ */
+const ROUND_WIDTH = 245;
+const LEAF_PITCH = 46;
+const MIN_HEIGHT = 640;
+
+/** The SVG a bracket needs: one column per round, one row per opening tie. */
+function bracketSize(root: MatchNode): { width: number; height: number } {
+  let rounds = 0;
+  let leaves = 0;
+
+  const measure = (node: MatchNode, depth: number) => {
+    rounds = Math.max(rounds, depth);
+    if (node.children.length === 0) {
+      leaves += 1;
+      return;
+    }
+    node.children.forEach((child) => measure(child, depth + 1));
+  };
+  measure(root, 1);
+
+  return {
+    width: TREE_MARGINS.left + TREE_MARGINS.right + (rounds - 1) * ROUND_WIDTH,
+    height: Math.max(
+      MIN_HEIGHT,
+      leaves * LEAF_PITCH + TREE_MARGINS.top + TREE_MARGINS.bottom,
+    ),
+  };
+}
 
 /** Sidebar item ids. A draw id doubles as the payload for the click handler. */
 const drawItemId = (eventId: string, group: Group) => `draw-${eventId}-${group}`;
@@ -77,6 +119,7 @@ export default function ITTFWorldTours() {
 
   const bracket = useMemo(() => getTree(eventId, group), [eventId, group]);
   const videos = useMemo(() => getVideos(eventId, group), [eventId, group]);
+  const size = useMemo(() => bracket && bracketSize(bracket), [bracket]);
 
   const handleItemClick = (_event: React.MouseEvent, itemId: string) => {
     const match = DRAW_ITEM_ID.exec(itemId);
@@ -163,22 +206,32 @@ export default function ITTFWorldTours() {
         </SimpleTreeView>
       </Drawer>
 
-      <Box component="main" sx={{ flexGrow: 1, bgcolor: 'background.default', p: 3 }}>
+      {/* `minWidth: 0` so a bracket wider than the space left over scrolls
+          inside its card instead of stretching this column past the viewport
+          and dragging the fixed AppBar out of line with it. */}
+      <Box
+        component="main"
+        sx={{ flexGrow: 1, minWidth: 0, bgcolor: 'background.default', p: 3 }}
+      >
         <Toolbar />
         <Typography variant="h6" noWrap>
           {season} / {eventName(eventId)} / {GROUP_NAMES[group]}
         </Typography>
 
-        <Card sx={{ maxWidth: 1050 }}>
-          {bracket ? (
+        {/* A six-round draw is wider and four times taller than the card can
+            be on most screens, so the bracket scrolls inside it rather than
+            being squeezed to fit; `body` is `overflow: hidden`, so the page
+            itself cannot do the scrolling. */}
+        <Card sx={{ maxWidth: '100%', maxHeight: 'calc(100vh - 190px)', overflow: 'auto' }}>
+          {bracket && size ? (
             <Tree
               data={bracket}
               nodeProps={NODE_PROPS}
               margins={TREE_MARGINS}
               gProps={{ onClick: handleNodeClick }}
               textProps={TEXT_PROPS}
-              height={640}
-              width={1000}
+              height={size.height}
+              width={size.width}
             />
           ) : (
             <Typography sx={{ p: 3 }}>ITTF 並未錄製這場比賽</Typography>
