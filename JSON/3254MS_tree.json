@@ -1,0 +1,59 @@
+{
+    "name": "LEBRUN Alexis 2:4 QIU Dang",
+    "children": [
+        {
+            "name": "LEBRUN Alexis 3:1 ZHOU Qihao",
+            "children": [
+                {
+                    "name": "LEBRUN Alexis 3:0 YOSHIYAMA Ryoichi",
+                    "children": [
+                        {
+                            "name": "LEBRUN Alexis 3:1 STUMPER Kay"
+                        },
+                        {
+                            "name": "PUCAR Tomislav 2:3 YOSHIYAMA Ryoichi"
+                        }
+                    ]
+                },
+                {
+                    "name": "ZHOU Qihao 3:2 OVTCHAROV Dimitrij",
+                    "children": [
+                        {
+                            "name": "ZHOU Qihao 3:1 DUDA Benedikt"
+                        },
+                        {
+                            "name": "KAWAKAMI Ryuusei 1:3 OVTCHAROV Dimitrij"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "LI Tianyang 1:3 QIU Dang",
+            "children": [
+                {
+                    "name": "COTON Flavien 0:3 LI Tianyang",
+                    "children": [
+                        {
+                            "name": "COTON Flavien 3:0 ASSAR Omar"
+                        },
+                        {
+                            "name": "LI Tianyang 3:0 JORGIC Darko"
+                        }
+                    ]
+                },
+                {
+                    "name": "JHA Kanak 2:3 QIU Dang",
+                    "children": [
+                        {
+                            "name": "MOVILEANU Darius 0:3 JHA Kanak"
+                        },
+                        {
+                            "name": "OIKAWA Mizuki 1:3 QIU Dang"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
